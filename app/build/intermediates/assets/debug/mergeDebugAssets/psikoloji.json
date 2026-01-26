@@ -1,0 +1,2997 @@
+[
+    {
+        "text": "Fobi nedir?",
+        "options": [
+            "Mantıksız ve aşırı korku",
+            "Sevgi",
+            "Nefret",
+            "Merak"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Algı nedir?",
+        "options": [
+            "Duyuların yorumlanması",
+            "Gözlük",
+            "Işık",
+            "Ses"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Nöron nedir?",
+        "options": [
+            "Sinir hücresi",
+            "Kan hücresi",
+            "Deri hücresi",
+            "Kas hücresi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Stres nedir?",
+        "options": [
+            "Vücudun zorlanmalara karşı tepkisi",
+            "Mutluluk",
+            "Rahatlama",
+            "Eğlence"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hipnoz nedir?",
+        "options": [
+            "Uyku hali",
+            "Telkine açık yapay uyku benzeri hal",
+            "Büyü",
+            "Bayılma"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Empati nedir?",
+        "options": [
+            "Kendini başkasının yerine koyma",
+            "Sempati duyma",
+            "Acıma",
+            "Yardım etme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Amnezi nedir?",
+        "options": [
+            "Hafıza kaybı",
+            "Uyku hastalığı",
+            "Yeme bozukluğu",
+            "Konuşma bozukluğu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Mobbing nedir?",
+        "options": [
+            "İş yerinde psikolojik taciz/yıldırma",
+            "Parti",
+            "Toplantı",
+            "Ödül"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Disleksi nedir?",
+        "options": [
+            "Öğrenme güçlüğü (Okuma bozukluğu)",
+            "Zeka geriliği",
+            "Delilik",
+            "Tembellik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Paranoya nedir?",
+        "options": [
+            "Aşırı şüphecilik ve takip edilme sanrısı",
+            "Güven",
+            "Sevgi",
+            "Mutluluk"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kleptomani nedir?",
+        "options": [
+            "Çalma hastalığı",
+            "Yalan söyleme hastalığı",
+            "Temizlik hastalığı",
+            "Kumar hastalığı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Motivasyon nedir?",
+        "options": [
+            "Harekete geçiren güç",
+            "Durgunluk",
+            "Tembellik",
+            "Uyku"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Klostrofobi nedir?",
+        "options": [
+            "Yükseklik korkusu",
+            "Kapalı alan korkusu",
+            "Örümcek korkusu",
+            "Karanlık korkusu"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Sosyal fobi nedir?",
+        "options": [
+            "Topluluk önünde konuşma korkusu",
+            "Yalnızlık korkusu",
+            "Karanlık korkusu",
+            "Hayvan korkusu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Dejavu ne demektir?",
+        "options": [
+            "Anı yaşamak",
+            "Bir olayı daha önce yaşamışlık hissi",
+            "Geleceği görmek",
+            "Geçmişi unutmak"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bilinç ne demektir?",
+        "options": [
+            "Farkındalık",
+            "Uyku",
+            "Rüya",
+            "Unutma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir fobidir?",
+        "options": [
+            "Agorafobi",
+            "Anemi",
+            "Astım",
+            "Artrit"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Mobbing ne demektir?",
+        "options": [
+            "İş yerinde psikolojik taciz",
+            "terfi etme",
+            "İşten çıkarma",
+            "Maaş zammı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Plasebo etkisi nedir?",
+        "options": [
+            "İlacın yan etkisi",
+            "Psikolojik iyileşme inancı",
+            "Ameliyat korkusu",
+            "Uyku bozukluğu"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir duygudur?",
+        "options": [
+            "Öfke",
+            "Açlık",
+            "Susuzluk",
+            "Yorgunluk"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Anksiyete ne demektir?",
+        "options": [
+            "Kaygı / Endişe",
+            "Mutluluk",
+            "Öfke",
+            "Üzüntü"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hipokondriyazis nedir?",
+        "options": [
+            "Hastalık hastalığı",
+            "Yükseklik korkusu",
+            "Uyku hastalığı",
+            "Unutkanlık"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Narsisizm ne demektir?",
+        "options": [
+            "Kendine aşık olma",
+            "Başkalarını sevme",
+            "Doğa sevgisi",
+            "Hayvan sevgisi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Rorschach testi nedir?",
+        "options": [
+            "Mürekkep lekesi testi",
+            "Zeka testi",
+            "Kan testi",
+            "İdrar testi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "IQ neyin kısaltmasıdır?",
+        "options": [
+            "Intelligence Quality",
+            "Intelligence Quotient",
+            "Intellectual Question",
+            "Important Quotient"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "IQ testleri neyi ölçer?",
+        "options": [
+            "Zekayı",
+            "Kişiliği",
+            "Duyguları",
+            "Hafızayı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bilişsel çelişki nedir?",
+        "options": [
+            "İnanç ve davranış uyuşmazlığı",
+            "Hafıza kaybı",
+            "Dikkat dağınıklığı",
+            "Uyku sorunu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Psikoloji ne bilimidir?",
+        "options": [
+            "Davranış ve zihin süreçleri",
+            "Ruh çağırma",
+            "Sadece beyin",
+            "Sadece hayvanlar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bipolar bozukluk nedir?",
+        "options": [
+            "İki uçlu duygudurum bozukluğu (Mani-Depresyon)",
+            "Şizofreni",
+            "Panik atak",
+            "Fobi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Sürü psikolojisi nedir?",
+        "options": [
+            "Çoğunluğa uyma davranışı",
+            "Liderlik",
+            "Yalnızlık",
+            "İsyankarlık"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Narsizm ne anlama gelir?",
+        "options": [
+            "Kendini aşırı beğenme",
+            "Başkalarını sevme",
+            "Hayvan sevgisi",
+            "Doğa sevgisi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Déjà vu ne anlama gelir?",
+        "options": [
+            "Daha önce görmüş/yaşamış olma hissi",
+            "Unutkanlık",
+            "Rüya görme",
+            "Hayal kurma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Gelişim ne zaman başlar?",
+        "options": [
+            "Döllenme ile (Anne karnında)",
+            "Doğumla",
+            "Okulda",
+            "Ergenlikte"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 559,
+        "text": "\"Zeigarnik Etkisi\" nedir?",
+        "options": [
+            "Yarım kalan işlerin daha iyi hatırlanması",
+            "Tamamlanan işlerin daha iyi hatırlanması",
+            "Tekrarın öğrenmeyi artırması",
+            "Uykunun belleği güçlendirmesi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Stockholm Sendromu nedir?",
+        "options": [
+            "Rehinenin eylemcisine sempati duyması",
+            "Yükseklik korkusu",
+            "Kapalı alan korkusu",
+            "Unutkanlık hastalığı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir fobi türüdür?",
+        "options": [
+            "Agorafobi",
+            "Anemi",
+            "Astım",
+            "Migren"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Empati kurmak ne demektir?",
+        "options": [
+            "Kendini başkasının yerine koymak",
+            "Başkasına acımak",
+            "Başkasına kızmak",
+            "Bencil olmak"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi uyku bozukluğudur?",
+        "options": [
+            "İnsomnia (Uykusuzluk)",
+            "Anemi",
+            "Astım",
+            "Gastrit"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Klinik psikoloji ne yapar?",
+        "options": [
+            "Ruhsal bozuklukları teşhis ve tedavi",
+            "Okulda rehberlik",
+            "Deney yapar",
+            "Reklam yapar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hipnoz herkes yapabilir mi?",
+        "options": [
+            "Hayır, uzmanlık gerekir",
+            "Evet",
+            "Çocuklar yapar",
+            "Sadece doktorlar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "İllüzyon (Yanılsama) nedir?",
+        "options": [
+            "Var olan uyarıcıyı yanlış algılama",
+            "Hiç görmeme",
+            "Sağırlık",
+            "Körlük"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi sosyal bir güdüdür?",
+        "options": [
+            "Başarılı olma",
+            "Açlık",
+            "Susuzluk",
+            "Cinsellik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Rorschach Testi ne kullanır?",
+        "options": [
+            "Sorular",
+            "Mürekkep Lekeleri",
+            "Resimler",
+            "Müzik"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Öğrenilmiş çaresizlik nedir?",
+        "options": [
+            "Sonucu değiştiremeyeceğine inanma",
+            "Çok çalışma",
+            "Başarılı olma",
+            "Mutlu olma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Depresyon belirtisi olmayan?",
+        "options": [
+            "Aşırı iyimserlik",
+            "Umutsuzluk",
+            "Enerji kaybı",
+            "Uyku bozukluğu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Psikanalizin kurucusu kimdir?",
+        "options": [
+            "Carl Jung",
+            "Sigmund Freud",
+            "Ivan Pavlov",
+            "B.F. Skinner"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir kişilik testidir?",
+        "options": [
+            "MMPI",
+            "EKG",
+            "MR",
+            "Röntgen"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bipolar bozukluk ne demektir?",
+        "options": [
+            "İki uçlu duygu durum bozukluğu",
+            "Çoklu kişilik",
+            "Unutkanlık",
+            "Uyku hastalığı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Davranışçı ekol neyi savunur?",
+        "options": [
+            "Gözlemlenebilen davranışları",
+            "Bilinçaltını",
+            "Rüyaları",
+            "Düşünceleri"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Halüsinasyon (Varsanı) nedir?",
+        "options": [
+            "Olmayan uyarıcıyı var gibi algılama",
+            "Rüya",
+            "Hayal",
+            "Düşünce"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Borderline kişilik bozukluğu?",
+        "options": [
+            "Duygusal dengesizlik ve ani öfke",
+            "Çok sakinlik",
+            "Sürekli uyku",
+            "Aşırı zeka"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "REM uykusunun özelliği nedir?",
+        "options": [
+            "Rüya görülür",
+            "Derin uykudur",
+            "Hareket yoktur",
+            "Bilinç açıktır"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Süblimleşme (Yüceltme) nedir?",
+        "options": [
+            "İlkel dürtüleri onaylanan davranışa çevirme (Sanat, spor)",
+            "Bastırma",
+            "Yansıtma",
+            "Kaçma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir algı yanılmasıdır?",
+        "options": [
+            "Halüsinasyon",
+            "Rüya",
+            "Hayal",
+            "Düşünce"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Sosyal psikoloji neyi inceler?",
+        "options": [
+            "Bireyin toplum içindeki davranışlarını",
+            "Beyin yapısını",
+            "Hastalıkları",
+            "Hayvan davranışlarını"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bilinçaltı (Bilinçdışı) nedir?",
+        "options": [
+            "Farkında olmadığımız zihinsel süreçler",
+            "Uyanıklık",
+            "Dikkat",
+            "Zeka"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Uzun süreli bellek kapasitesi?",
+        "options": [
+            "Sınırsızdır",
+            "Sınırlıdır",
+            "Azdır",
+            "Yoktur"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Empati kurmak neden önemlidir?",
+        "options": [
+            "İlişkileri güçlendirir",
+            "Kavga çıkarır",
+            "Yalnızlaştırır",
+            "Stres yapar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Narsisisist kişilik bozukluğu?",
+        "options": [
+            "Kendini aşırı büyük görme ve empati yoksunluğu",
+            "Çok yardımsever olma",
+            "Utangaçlık",
+            "Korkaklık"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir zeka türü değildir?",
+        "options": [
+            "astrolojik zeka",
+            "Müziksel zeka",
+            "Sözel zeka",
+            "Matematiksel zeka"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Duygusal zeka kısaltması nedir?",
+        "options": [
+            "EQ",
+            "IQ",
+            "AQ",
+            "BQ"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Psikiyatri ile Psikoloji farkı?",
+        "options": [
+            "Psikiyatrist doktordur ilaç yazar, Psikolog terapisttir",
+            "Aynıdır",
+            "Fark yoktur",
+            "Psikolog ilaç yazar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Ayna nöronlar ne ile ilgilidir?",
+        "options": [
+            "Taklit ve empati",
+            "Görme",
+            "Duyma",
+            "Tat alma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 459,
+        "text": "Halo Etkisi (Hale Etkisi) nedir?",
+        "options": [
+            "İlk izlenimin yargıları etkilemesi",
+            "Bir özelliğin tüm özellikleri etkilemesi",
+            "Otorite figürüne itaat",
+            "Grup baskısı"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bilişsel psikoloji neyi inceler?",
+        "options": [
+            "Rüyaları",
+            "Hormonları",
+            "Zihinsel süreçleri (hafıza, algı)",
+            "Bilinçaltını"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Disleksi ne tür bir bozukluktur?",
+        "options": [
+            "Öğrenme güçlüğü (Okuma)",
+            "Görme bozukluğu",
+            "İşitme bozukluğu",
+            "Konuşma bozukluğu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi sağ beyin fonksiyonudur?",
+        "options": [
+            "Sanat ve hayal gücü",
+            "Mantık",
+            "Matematik",
+            "Dil"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Panik atak belirtisi hangisidir?",
+        "options": [
+            "Kalp çarpıntısı / Nefes darlığı",
+            "Aşırı neşe",
+            "Uykusuzluk",
+            "İştah artışı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "İçe dönük kişiliğin tersi nedir?",
+        "options": [
+            "Dışa dönük",
+            "Nevrotik",
+            "Psikotik",
+            "Dengesiz"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Psikolojide 'Transferans' nedir?",
+        "options": [
+            "Duyguların terapiste aktarılması",
+            "Öğrenmenin aktarılması",
+            "Hafıza kaybı",
+            "İlaç etkisi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Şizofreni ne tür bir hastalıktır?",
+        "options": [
+            "Fiziksel",
+            "Ruhsal/Zihinsel",
+            "Bulaşıcı",
+            "Genetik olmayan"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Pozitif psikoloji neye odaklanır?",
+        "options": [
+            "Mutluluk ve iyi oluşa",
+            "Hastalıklara",
+            "Sorunlara",
+            "Geçmiş travmalara"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Şizofreni ne tür bir bozukluktur?",
+        "options": [
+            "Psikotik",
+            "Nevrotik",
+            "Duygudurum",
+            "Kaygı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Gelişim psikolojisi neyi inceler?",
+        "options": [
+            "Yaşa bağlı değişimleri",
+            "Hastalıkları",
+            "Toplumu",
+            "İş yerini"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Beynin sağ lobu ne ile ilgilidir?",
+        "options": [
+            "Yaratıcılık, sanat, görsel",
+            "Mantık, matematik",
+            "Dil",
+            "Analiz"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Beynin sol lobu ne ile ilgilidir?",
+        "options": [
+            "Mantık, dil, matematik",
+            "Sanat",
+            "Müzik",
+            "Hayal gücü"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Duygusal zeka (EQ) neleri kapsar?",
+        "options": [
+            "Duyguları anlama ve yönetme",
+            "Matematik çözme",
+            "Hızlı koşma",
+            "Ezber yapma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 453,
+        "text": "Oidipus Kompleksi neyi ifade eder?",
+        "options": [
+            "Kız çocuğun babaya yönelmesi",
+            "Erkek çocuğun anneye yönelmesi ve babayı rakip görmesi",
+            "Kardeş kıskançlığı",
+            "Ego savunması"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 462,
+        "text": "Bilişsel Yük Teorisi neyi açıklar?",
+        "options": [
+            "Belleğin sınırlı kapasitesi",
+            "Duygu düzenleme",
+            "Sosyal öğrenme",
+            "Ahlak gelişimi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 574,
+        "text": "Yerkes-Dodson Yasası neyi açıklar?",
+        "options": [
+            "Optimum uyarılma ve performans ilişkisi",
+            "Bellek kapasitesi",
+            "Öğrenme eğrisi",
+            "Uyku döngüleri"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi temel duygulardan biridir?",
+        "options": [
+            "Korku",
+            "Kıskançlık",
+            "Gurur",
+            "Utanç"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Zeka testi (IQ) ortalaması kaçtır?",
+        "options": [
+            "100",
+            "50",
+            "150",
+            "200"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir savunma mekanizmasıdır?",
+        "options": [
+            "Bastırma",
+            "Düşünme",
+            "Algılama",
+            "Öğrenme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Psikolojide 'Ego' neyi temsil eder?",
+        "options": [
+            "Benlik / Gerçeklik İlkesi",
+            "Vicdan",
+            "Dürtüler",
+            "Bilinçdışı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir psikoterapi yöntemidir?",
+        "options": [
+            "Bilişsel Davranışçı Terapi",
+            "Ameliyat",
+            "Aşı",
+            "Diyet"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Otizm spektrum bozukluğu belirtisi?",
+        "options": [
+            "Sosyal iletişimde zorluk / Tekrarlayıcı davranışlar",
+            "Çok konuşma",
+            "Yalan söyleme",
+            "Hırsızlık"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 544,
+        "text": "Lawrence Kohlberg neyi incelemiştir?",
+        "options": [
+            "Bilişsel Gelişim",
+            "Ahlak Gelişimi",
+            "Psikoseksüel Gelişim",
+            "Dil Gelişimi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 560,
+        "text": "\"Flashbulb Memory\" (Flaş Anı) nedir?",
+        "options": [
+            "Duygusal yoğunluğu yüksek olayların net hatırlanması",
+            "Bellek kaybı",
+            "Kısa süreli bellek",
+            "Yanlış anı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Zeka Katsayısı'nın kısaltması nedir?",
+        "options": [
+            "IQ",
+            "EQ",
+            "SQ",
+            "CQ"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Gestalt psikolojisinin temel ilkesi?",
+        "options": [
+            "Bütün, parçaların toplamından fazladır",
+            "Parça bütünden önemlidir",
+            "Sadece davranışlara bakılır",
+            "Bilinçaltı esastır"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir duygu durum bozukluğudur?",
+        "options": [
+            "Depresyon",
+            "Grip",
+            "Migren",
+            "Diyabet"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Savunma mekanizması 'Bastırma' nedir?",
+        "options": [
+            "Rahatsız edici düşünceleri bilinçdışına itme",
+            "Yansıtma",
+            "İnkar",
+            "Yüceltme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Savunma mekanizması 'Yansıtma' nedir?",
+        "options": [
+            "Kendi suçunu başkasına atma",
+            "Unutma",
+            "Ağlama",
+            "Gülme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 469,
+        "text": "Schachter-Singer Teorisi neyi açıklar?",
+        "options": [
+            "Bellek süreçleri",
+            "İki faktörlü duygu teorisi",
+            "Öğrenme",
+            "Uyku döngüleri"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi stresin fiziksel belirtisidir?",
+        "options": [
+            "Baş ağrısı",
+            "Mutluluk",
+            "Rahatlama",
+            "Odaklanma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Psikolojide 'Persona' ne anlama gelir?",
+        "options": [
+            "Maske (Toplumsal yüz)",
+            "Kişilik",
+            "Ruh",
+            "Bilinç"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 438,
+        "text": "Obsesif Kompulsif Bozukluk (OKB) nedir?",
+        "options": [
+            "Dikkat eksikliği",
+            "Takıntılı düşünceler ve zorlantılı davranışlar",
+            "Aşırı hareketlilik",
+            "Sosyal kaygı"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Depresyonun en belirgin özelliği nedir?",
+        "options": [
+            "Aşırı neşe",
+            "Çökkünlük ve isteksizlik",
+            "Halüsinasyon",
+            "Hafıza kaybı"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Mantığa bürüme (Rasyonalizasyon) nedir?",
+        "options": [
+            "Bahane bulma",
+            "Unutma",
+            "İnkar etme",
+            "Yansıtma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kimlik kargaşası hangi dönemde görülür?",
+        "options": [
+            "Ergenlik",
+            "Bebeklik",
+            "Yaşlılık",
+            "Yetişkinlik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 853,
+        "text": "\"Ayna Nöronlar\" beynimizde ne işe yarar?",
+        "options": [
+            "Sadece kendi hareketimizi kontrol eder.",
+            "Karşımızdaki kişinin hareketini veya duygusunu izlerken, aynısını yapıyormuşuz gibi aktifleşerek empati kurmamızı sağlar.",
+            "Görme yetimizi sağlar.",
+            "Dengeyi sağlar."
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 464,
+        "text": "Epizodik Bellek ne tür bilgileri saklar?",
+        "options": [
+            "Beceriler",
+            "Kişisel deneyimler ve olaylar",
+            "Genel bilgiler",
+            "Kas hareketleri"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 465,
+        "text": "Semantik Bellek ne tür bilgileri saklar?",
+        "options": [
+            "Kişisel anılar",
+            "Genel bilgiler ve kavramlar",
+            "Beceriler",
+            "Duygular"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 557,
+        "text": "\"Dunning-Kruger Etkisi\" neyi ifade eder?",
+        "options": [
+            "Yetersiz kişilerin yetkinliklerini abartması",
+            "Uzmanların kendini küçümsemesi",
+            "Her ikisi de doğru",
+            "Hiçbiri"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 563,
+        "text": "Elizabeth Loftus hangi alanın uzmanıdır?",
+        "options": [
+            "Çocuk gelişimi",
+            "Yanlış anılar ve görgü tanığı belleği",
+            "Duygu araştırmaları",
+            "Sosyal psikoloji deneyleri"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Freud'a göre rüyalar neyin yansımasıdır?",
+        "options": [
+            "Bilinçaltı arzuların",
+            "Gelecekteki olayların",
+            "Fiziksel yorgunluğun",
+            "Gündelik olayların"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi davranışçı ekolün temsilcisidir?",
+        "options": [
+            "Skinner",
+            "Freud",
+            "Rogers",
+            "Maslow"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Psikolojinin babası olarak bilinen isim?",
+        "options": [
+            "Wilhelm Wundt",
+            "Freud",
+            "Pavlov",
+            "Watson"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Rorschach testi ne kullanılarak yapılır?",
+        "options": [
+            "Mürekkep lekeleri",
+            "Resimler",
+            "Sorular",
+            "Hikayeler"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Sigmund Freud hangi ülkenin vatandaşıydı?",
+        "options": [
+            "Avusturya",
+            "Almanya",
+            "ABD",
+            "Fransa"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Panik atak belirtilerinden biri değildir?",
+        "options": [
+            "Aşırı sakinlik",
+            "Kalp çarpıntısı",
+            "Terleme",
+            "Nefes darlığı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İd, Ego, Süperego kavramları kime aittir?",
+        "options": [
+            "Freud",
+            "Jung",
+            "Adler",
+            "Piaget"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Beden dili iletişimde ne kadar etkilidir?",
+        "options": [
+            "Çok etkilidir (%60-90)",
+            "Hiç etkili değildir",
+            "Az etkilidir",
+            "Sadece %10"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 401,
+        "text": "\"Psikoloji\" biliminin kelime anlamı nedir?",
+        "options": [
+            "Yıldızların hareketi",
+            "Ruh ve davranış bilimi",
+            "Kazı bilimi",
+            "Hücre yapısı"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 543,
+        "text": "Karen Horney hangi kavramı geliştirmiştir?",
+        "options": [
+            "Kolektif Bilinçdışı",
+            "Temel Kaygı",
+            "Operant Koşullanma",
+            "Kendini Gerçekleştirme"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 457,
+        "text": "\"Seyirci Etkisi\" (Bystander Effect) nedir?",
+        "options": [
+            "Kalabalıkta yardım davranışının azalması",
+            "Otorite figürlerine itaat",
+            "Grup baskısı",
+            "Sosyal tembellik"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 461,
+        "text": "Rosenthal Etkisi (Pygmalion Etkisi) nedir?",
+        "options": [
+            "Öğretmen beklentilerinin öğrenci performansını etkilemesi",
+            "Seyirci etkisi",
+            "Konformite",
+            "Otoriteye itaat"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Gestalt psikolojisinin temel ilkesi nedir?",
+        "options": [
+            "Bütün, parçaların toplamından fazladır",
+            "Davranışlar ödülle öğrenilir",
+            "Bilinçaltı her şeyi yönetir",
+            "İnsanlar doğuştan iyidir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi öğrenme yollarından biri değildir?",
+        "options": [
+            "İçgüdüsel davranış",
+            "Model alma",
+            "Deneme-yanılma",
+            "Koşullanma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Edimsel koşullanma (Skinner) neye dayanır?",
+        "options": [
+            "Ödül ve ceza",
+            "Düşünce",
+            "Genetik",
+            "Tesadüf"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 467,
+        "text": "\"Onay Yanlılığı\" (Confirmation Bias) nedir?",
+        "options": [
+            "Mevcut inançları destekleyen bilgileri arama eğilimi",
+            "Bellek yanılması",
+            "Otorite etkisi",
+            "İlk izlenim etkisi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 567,
+        "text": "Geştalt Psikolojisi hangi ülkede doğmuştur?",
+        "options": [
+            "ABD",
+            "İngiltere",
+            "Almanya",
+            "Fransa"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 570,
+        "text": "\"Pozitif Psikoloji\" akımının öncüsü kimdir?",
+        "options": [
+            "Carl Rogers",
+            "Abraham Maslow",
+            "Martin Seligman",
+            "Aaron Beck"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Pavlov'un Köpeği deneyi neyi kanıtlamıştır?",
+        "options": [
+            "Edimsel Koşullanma",
+            "Klasik Koşullanma",
+            "Sosyal Öğrenme",
+            "Bilişsel Gelişim"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Demans (Bunama) en çok hangi yaşta görülür?",
+        "options": [
+            "Yaşlılık",
+            "Çocukluk",
+            "Gençlik",
+            "Bebeklik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İd, Ego ve Süperego kavramları kime aittir?",
+        "options": [
+            "Sigmund Freud",
+            "Carl Jung",
+            "Alfred Adler",
+            "Erickson"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 537,
+        "text": "Erikson'un yaşlılık dönemi krizi hangisidir?",
+        "options": [
+            "Kimlik - Kimlik Karmaşası",
+            "Yakınlık - Yalıtılma",
+            "Üretkenlik - Durgunluk",
+            "Benlik Bütünlüğü - Umutsuzluk"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 466,
+        "text": "\"Çerçeveleme Etkisi\" (Framing Effect) nedir?",
+        "options": [
+            "Bilginin sunuluş şeklinin kararı etkilemesi",
+            "Bellek yanılması",
+            "Otorite etkisi",
+            "Sosyal uyma"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 552,
+        "text": "Ebbinghaus'un \"Unutma Eğrisi\" neyi gösterir?",
+        "options": [
+            "Öğrenme hızı",
+            "Öğrenilen bilginin zamanla unutulma oranı",
+            "Zeka gelişimi",
+            "Bellek kapasitesi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 553,
+        "text": "\"Merak Efekti\" (Mere Exposure Effect) nedir?",
+        "options": [
+            "Tekrar maruz kalmanın hoşlanmayı artırması",
+            "İlk izlenim etkisi",
+            "Otorite etkisi",
+            "Sosyal uyma"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İhtiyaçlar hiyerarşisi piramidi kime aittir?",
+        "options": [
+            "Maslow",
+            "Freud",
+            "Piaget",
+            "Erikson"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Korku anında vücudu harekete geçiren sistem?",
+        "options": [
+            "Sempatik sinir sistemi",
+            "Parasempatik",
+            "Sindirim sistemi",
+            "Boşaltım sistemi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 436,
+        "text": "\"Sosyal Öğrenme Kuramı\"nın temsilcisi kimdir?",
+        "options": [
+            "Bandura",
+            "Skinner",
+            "Pavlov",
+            "Watson"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Tükenmişlik sendromu en çok kimlerde görülür?",
+        "options": [
+            "Yoğun çalışanlarda",
+            "Çocuklarda",
+            "Emeklilerde",
+            "Tatilcilerde"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi hormon mutluluk hormonu olarak bilinir?",
+        "options": [
+            "Serotonin",
+            "İnsülin",
+            "Adrenalin",
+            "Kortizol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Ergenlik dönemi hangi yaş aralığıdır (Genel)?",
+        "options": [
+            "12-20",
+            "2-6",
+            "40-50",
+            "60+"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 422,
+        "text": "\"Süper Ego, İd ve Ego\" kavramları kime aittir?",
+        "options": [
+            "Pavlov",
+            "Skinner",
+            "Freud",
+            "Watson"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 575,
+        "text": "\"Tip A Kişilik\" hangi özelliklerle tanımlanır?",
+        "options": [
+            "Rekabetçi, aceleci, strese yatkın",
+            "Rahat, uyumlu, sabırlı",
+            "İçe dönük, utangaç",
+            "Dışa dönük, sosyal"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kısa süreli belleğin kapasitesi sınırlı mıdır?",
+        "options": [
+            "Evet (7 artı/eksi 2 birim)",
+            "Hayır",
+            "Bazen",
+            "Bilinmez"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 471,
+        "text": "Cannon-Bard Teorisi'ne göre duygu nasıl oluşur?",
+        "options": [
+            "Önce fizyolojik tepki",
+            "Önce duygu",
+            "Fizyolojik tepki ve duygu aynı anda",
+            "Bilişsel değerlendirme"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hipokrat mizaçları neye göre sınıflandırmıştır?",
+        "options": [
+            "Vücut sıvılarına",
+            "Yıldızlara",
+            "Hayvanlara",
+            "Bitkilere"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Tükenmişlik sendromunu ilk tanımlayan psikolog?",
+        "options": [
+            "Herbert Freudenberger",
+            "Freud",
+            "Jung",
+            "Skinner"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Klasik koşullanma deneyinde Pavlov ne kullandı?",
+        "options": [
+            "Köpek, zil, et",
+            "Kedi, kutu",
+            "Fare, labirent",
+            "Maymun, muz"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 445,
+        "text": "Duyusal bellek ne kadar süre bilgi saklayabilir?",
+        "options": [
+            "Bir saniyeden az",
+            "15-20 saniye",
+            "1-2 dakika",
+            "5-10 dakika"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 454,
+        "text": "Milgram'ın \"İtaat Deneyi\" neyi ortaya koymuştur?",
+        "options": [
+            "Grup baskısı",
+            "Otorite figürlerine itaat eğilimi",
+            "Öğrenme süreçleri",
+            "Bellek kapasitesi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 473,
+        "text": "Ekman'a göre evrensel yüz ifadeleri kaç tanedir?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Gelişim psikoloğu Jean Piaget neyi incelemiştir?",
+        "options": [
+            "Bilişsel gelişimi",
+            "Ahlaki gelişimi",
+            "Psikoseksüel gelişimi",
+            "Sosyal gelişimi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bilinçaltı kavramını en çok vurgulayan yaklaşım?",
+        "options": [
+            "Psikanaliz",
+            "Davranışçılık",
+            "Hümanizm",
+            "Bilişselcilik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 442,
+        "text": "Freud'un kişilik kuramında \"İd\" neyi temsil eder?",
+        "options": [
+            "Vicdan",
+            "Mantık",
+            "İlkel dürtüler",
+            "Toplumsal kurallar"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 547,
+        "text": "Vygotsky'ye göre öğrenme önce nerede gerçekleşir?",
+        "options": [
+            "Bireysel düzeyde",
+            "Sosyal düzeyde",
+            "Bilinçdışında",
+            "Rüyalarda"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 474,
+        "text": "\"Duygu Bulaşıcılığı\" (Emotional Contagion) nedir?",
+        "options": [
+            "Duyguların kişiden kişiye geçmesi",
+            "Duygu bastırma",
+            "Bilişsel çelişki",
+            "Sosyal tembellik"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 558,
+        "text": "\"Imposter Sendromu\" (Sahtekarlık Sendromu) nedir?",
+        "options": [
+            "Başarılarını şansa bağlama ve yetersiz hissetme",
+            "Aşırı özgüven",
+            "Narsisizm",
+            "Sosyal kaygı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 565,
+        "text": "William James psikolojide hangi akımın öncüsüdür?",
+        "options": [
+            "Yapısalcılık",
+            "İşlevselcilik",
+            "Davranışçılık",
+            "Psikanaliz"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Davranışçılık ekolünün kurucusu kim kabul edilir?",
+        "options": [
+            "John Watson",
+            "Freud",
+            "Jung",
+            "Adler"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Maslow'un ihtiyaçlar piramidinin en alt basamağı?",
+        "options": [
+            "Fizyolojik (Yeme, içme, uyku)",
+            "Güvenlik",
+            "Sevgi",
+            "Saygı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Plasebo etkisi ilacın kendisinden mi kaynaklanır?",
+        "options": [
+            "Hayır, inançtan kaynaklanır",
+            "Evet",
+            "Kimyasal bir etkidir",
+            "Zehirlidir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Piaget'ye göre bilişsel gelişim evrelerinden biri?",
+        "options": [
+            "Duyu-motor",
+            "Öğrenme",
+            "Unutma",
+            "Uyuma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Pavlov'un deneyinde zil sesi başlangıçta nasıldır?",
+        "options": [
+            "Nötr uyarıcı",
+            "Koşullu uyarıcı",
+            "Koşulsuz uyarıcı",
+            "Tepki"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Aşağıdakilerden hangisi bir savunma mekanizmasıdır?",
+        "options": [
+            "Bastırma",
+            "Öksürme",
+            "Hapşırma",
+            "Esneme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dikkat eksikliği ve hiperaktivite bozukluğu (DEHB)?",
+        "options": [
+            "Odaklanma sorunu ve aşırı hareketlilik",
+            "Uyku hastalığı",
+            "Kemik hastalığı",
+            "Deri hastalığı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 439,
+        "text": "Travma Sonrası Stres Bozukluğu'nun kısaltması nedir?",
+        "options": [
+            "OKB",
+            "DEHB",
+            "TSSB",
+            "BPD"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 549,
+        "text": "Mary Ainsworth'un \"Yabancı Durum\" deneyi neyi ölçer?",
+        "options": [
+            "Zeka düzeyi",
+            "Bağlanma stilleri",
+            "Ahlak gelişimi",
+            "Bilişsel gelişim"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 556,
+        "text": "\"Kendine Yontan Yanlılık\" (Self-Serving Bias) nedir?",
+        "options": [
+            "Başarıyı kendine, başarısızlığı dışa bağlama",
+            "Başarısızlığı kendine bağlama",
+            "Tarafsız değerlendirme",
+            "Sosyal uyma"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Stanford Hapishane Deneyi'ni kim gerçekleştirmiştir?",
+        "options": [
+            "Milgram",
+            "Zimbardo",
+            "Asch",
+            "Bandura"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 470,
+        "text": "James-Lange Duygu Teorisi'ne göre duygu nasıl oluşur?",
+        "options": [
+            "Önce fizyolojik tepki, sonra duygu",
+            "Önce duygu, sonra fizyolojik tepki",
+            "İkisi aynı anda",
+            "Bilişsel değerlendirme"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bilinçaltı kavramını en çok kullanan psikolog kimdir?",
+        "options": [
+            "Watson",
+            "Freud",
+            "Wundt",
+            "James"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İnsan davranışlarını inceleyen bilim dalı hangisidir?",
+        "options": [
+            "Sosyoloji",
+            "Psikoloji",
+            "Antropoloji",
+            "Felsefe"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 446,
+        "text": "Uzun süreli bellekte bilgi ne kadar süre saklanabilir?",
+        "options": [
+            "1-2 dakika",
+            "5-10 dakika",
+            "1 yıla kadar",
+            "Ömür boyu"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "PSIKOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Pavlov'un köpeği deneyi hangi öğrenme türünü kanıtlar?",
+        "options": [
+            "Klasik Koşullanma",
+            "Edimsel Koşullanma",
+            "Model Alma",
+            "Bilişsel Öğrenme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 443,
+        "text": "Freud'un kişilik kuramında \"Süperego\" neyi temsil eder?",
+        "options": [
+            "İlkel dürtüler",
+            "Gerçeklik ilkesi",
+            "Vicdan ve ahlaki değerler",
+            "Bilinçaltı"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 455,
+        "text": "Stanford Hapishane Deneyi kimin tarafından yapılmıştır?",
+        "options": [
+            "Stanley Milgram",
+            "Philip Zimbardo",
+            "Solomon Asch",
+            "Leon Festinger"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 562,
+        "text": "\"Kaynak İzleme Hatası\" (Source Monitoring Error) nedir?",
+        "options": [
+            "Bilginin kaynağını karıştırma",
+            "Bellek kaybı",
+            "Dikkat dağınıklığı",
+            "Öğrenme güçlüğü"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Ergenlik dönemi psikolojisi hangi yaş aralığını kapsar?",
+        "options": [
+            "12-18",
+            "0-6",
+            "6-12",
+            "18-25"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Obsesif Kompulsif Bozukluk (OKB) ne ile karakterizedir?",
+        "options": [
+            "Takıntılı düşünce ve davranışlar",
+            "Unutkanlık",
+            "Çok uyuma",
+            "Aşırı yeme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 420,
+        "text": "Hafıza kaybına (bellek yitimi) verilen tıbbi isim nedir?",
+        "options": [
+            "Amnezi",
+            "Anestezi",
+            "Analiz",
+            "Anemi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 444,
+        "text": "Kısa süreli bellek kaç saniye/dakika bilgi saklayabilir?",
+        "options": [
+            "1-2 saniye",
+            "15-20 saniye",
+            "1-2 dakika",
+            "5-10 dakika"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 472,
+        "text": "Lazarus'un duygu teorisinde en önemli faktör hangisidir?",
+        "options": [
+            "Fizyolojik uyarılma",
+            "Bilişsel değerlendirme",
+            "Davranışsal tepki",
+            "Sosyal ortam"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 561,
+        "text": "\"Çocukluk Amnezisi\" (Childhood Amnesia) neyi ifade eder?",
+        "options": [
+            "3 yaş öncesi anıların hatırlanamaması",
+            "Çocukluk travması",
+            "Öğrenme güçlüğü",
+            "Dikkat eksikliği"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 564,
+        "text": "\"Dezenformationin Etkisi\" (Misinformation Effect) nedir?",
+        "options": [
+            "Sonradan verilen bilginin anıyı değiştirmesi",
+            "Bellek güçlenmesi",
+            "Duygusal bellek",
+            "Uyku ve bellek"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 569,
+        "text": "\"Üçüncü Güç Psikolojisi\" olarak bilinen akım hangisidir?",
+        "options": [
+            "Davranışçılık",
+            "Psikanaliz",
+            "Hümanistik Psikoloji",
+            "Bilişsel Psikoloji"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi stresle başa çıkma yöntemlerinden biri değildir?",
+        "options": [
+            "Spor yapmak",
+            "Nefes egzersizi",
+            "İçine kapanmak",
+            "Sosyal destek almak"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bağımlılık yapan maddeler beyinde hangi sistemi etkiler?",
+        "options": [
+            "Ödül sistemi",
+            "Sindirim sistemi",
+            "Boşaltım sistemi",
+            "Solunum sistemi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Pavlov'un köpeği deneyi hangi öğrenme türüyle ilgilidir?",
+        "options": [
+            "Klasik Koşullanma",
+            "Edimsel Koşullanma",
+            "Bilişsel Öğrenme",
+            "Sosyal Öğrenme"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 571,
+        "text": "Selye'nin \"Genel Adaptasyon Sendromu\" kaç aşamadan oluşur?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnsanın çevresiyle uyum sürecini inceleyen psikoloji dalı?",
+        "options": [
+            "Sosyal Psikoloji",
+            "Klinik Psikoloji",
+            "Gelişim Psikolojisi",
+            "Endüstri Psikolojisi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Psikolojide 'Tabula Rasa' (Boş Levha) kavramı kime aittir?",
+        "options": [
+            "John Locke",
+            "Descartes",
+            "Platon",
+            "Aristoteles"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnsan zihnini bir bilgisayara benzeten yaklaşım hangisidir?",
+        "options": [
+            "Bilişsel Yaklaşım",
+            "Davranışçı Yaklaşım",
+            "Psikanalitik Yaklaşım",
+            "Hümanistik Yaklaşım"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Maslow'un ihtiyaçlar hiyerarşisinin en tepesinde ne vardır?",
+        "options": [
+            "Kendini Gerçekleştirme",
+            "Güvenlik",
+            "Sevgi",
+            "Fizyolojik İhtiyaçlar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 463,
+        "text": "\"İşlem Belleği\" (Prosedural Memory) ne tür bilgileri saklar?",
+        "options": [
+            "Olayları ve tarihleri",
+            "Becerileri ve alışkanlıkları",
+            "Duyguları",
+            "Yüzleri"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Travma sonrası stres bozukluğu (TSSB) ne zaman ortaya çıkar?",
+        "options": [
+            "Örselenmeyici bir olaydan sonra",
+            "Sınavdan önce",
+            "Yemekten sonra",
+            "Uykudan önce"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 423,
+        "text": "Ergenlik döneminin temel özelliği aşağıdakilerden hangisidir?",
+        "options": [
+            "Fiziksel büyümenin durması",
+            "Kimlik arayışı ve duygusal dalgalanmalar",
+            "Emekliliğe hazırlık",
+            "Okuma yazmayı öğrenme"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 434,
+        "text": "Olumsuz bir davranışı azaltmak için verilen uyarana ne denir?",
+        "options": [
+            "Pozitif Pekiştireç",
+            "Negatif Pekiştireç",
+            "Ceza",
+            "Söndürme"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 555,
+        "text": "\"Aktör-Gözlemci Farkı\" (Actor-Observer Bias) neyi ifade eder?",
+        "options": [
+            "Başkalarını kişilikle, kendimizi durumla açıklama",
+            "İlk izlenim etkisi",
+            "Halo etkisi",
+            "Çerçeveleme etkisi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Klasik koşullanma deneyini hangi hayvan üzerinde yapılmıştır?",
+        "options": [
+            "Kedi",
+            "Fare",
+            "Köpek",
+            "Maymun"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 405,
+        "text": "\"İhtiyaçlar Hiyerarşisi\" teorisini geliştiren psikolog kimdir?",
+        "options": [
+            "Freud",
+            "Maslow",
+            "Adler",
+            "Erikson"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 426,
+        "text": "\"Erteleme\" davranışını ifade eden psikoloji terimi hangisidir?",
+        "options": [
+            "Prokrastinasyon",
+            "Regresyon",
+            "Sublimizasyon",
+            "Projeksiyon"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 428,
+        "text": "\"Öğrenilmiş Çaresizlik\" kavramını ortaya atan psikolog kimdir?",
+        "options": [
+            "Martin Seligman",
+            "Carl Rogers",
+            "Abraham Maslow",
+            "B.F. Skinner"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 441,
+        "text": "Maslow'un ihtiyaçlar hiyerarşisinde en üst basamak hangisidir?",
+        "options": [
+            "Güvenlik",
+            "Aidiyet",
+            "Saygınlık",
+            "Kendini Gerçekleştirme"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Renklerin insan psikolojisi üzerindeki etkisini inceleyen dal?",
+        "options": [
+            "Renk Psikolojisi",
+            "Sanat Psikolojisi",
+            "Endüstri Psikolojisi",
+            "Klinik Psikoloji"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 433,
+        "text": "\"Davranışçılık\" akımının kurucusu kabul edilen psikolog kimdir?",
+        "options": [
+            "Sigmund Freud",
+            "John Watson",
+            "Carl Jung",
+            "William James"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 554,
+        "text": "\"Fundamental Atıf Hatası\" (Fundamental Attribution Error) nedir?",
+        "options": [
+            "Başkalarının davranışını kişilik özelliklerine bağlama eğilimi",
+            "Kendininkini duruma bağlama",
+            "Her ikisi de doğru",
+            "Hiçbiri"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Otizm spektrum bozukluğu genellikle hangi dönemde belirti verir?",
+        "options": [
+            "Erken çocukluk",
+            "Ergenlik",
+            "Yetişkinlik",
+            "Yaşlılık"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Yaratıcılık en çok hangi beyin yarım küresiyle ilişkilendirilir?",
+        "options": [
+            "Sağ",
+            "Sol",
+            "Arka",
+            "Ön"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 540,
+        "text": "Jung'a göre kişiliğin karanlık ve kabul edilmemiş yönüne ne denir?",
+        "options": [
+            "Anima",
+            "Animus",
+            "Persona",
+            "Gölge"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 460,
+        "text": "\"Kendini Gerçekleştiren Kehanet\" (Self-Fulfilling Prophecy) nedir?",
+        "options": [
+            "Beklentilerin sonucu etkilemesi",
+            "İlk izlenim etkisi",
+            "Otorite figürüne itaat",
+            "Sosyal uyma"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi Maslow'un ihtiyaçlar hiyerarşisinin en tepesinde yer alır?",
+        "options": [
+            "Kendini Gerçekleştirme",
+            "Güvenlik",
+            "Sevgi",
+            "Fizyolojik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Elektra kompleksi kime duyulan ilgiyi ifade eder (Kız çocuk için)?",
+        "options": [
+            "Babaya",
+            "Anneye",
+            "Kardeşe",
+            "Öğretmene"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 458,
+        "text": "\"Kitty Genovese Vakası\" hangi psikolojik kavramla ilişkilendirilir?",
+        "options": [
+            "Milgram İtaat Deneyi",
+            "Seyirci Etkisi",
+            "Stanford Deneyi",
+            "Asch Konformite Deneyi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 568,
+        "text": "\"Bütün, parçaların toplamından fazladır\" görüşü hangi akıma aittir?",
+        "options": [
+            "Davranışçılık",
+            "Psikanaliz",
+            "Geştalt Psikolojisi",
+            "Hümanistik Psikoloji"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Freud'a göre kişiliğin ahlaki yönünü temsil eden katman hangisidir?",
+        "options": [
+            "İd",
+            "Ego",
+            "Süperego",
+            "Bilinç"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 421,
+        "text": "İnsan beyninin, rüyaların en yoğun görüldüğü uyku evresi hangisidir?",
+        "options": [
+            "REM Uykusu",
+            "Derin Uyku",
+            "Şekerleme",
+            "Hafif Uyku"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilinç dışı süreçlerin rüyalarda ortaya çıktığını söyleyen yaklaşım?",
+        "options": [
+            "Psikanaliz",
+            "Davranışçılık",
+            "Hümanizm",
+            "Yapısalcılık"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 440,
+        "text": "\"Yaşlıların psikolojisi\" ile ilgilenen psikoloji alt dalı hangisidir?",
+        "options": [
+            "Geriatrik Psikoloji",
+            "Adli Psikoloji",
+            "Eğitim Psikolojisi",
+            "Endüstri Psikolojisi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 539,
+        "text": "Kişinin topluma gösterdiği \"maske\" ya da dış yüzüne Jung ne ad verir?",
+        "options": [
+            "Anima",
+            "Animus",
+            "Persona",
+            "Gölge"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 449,
+        "text": "Çocuğun cinsel kimlik gelişimi Freud'a göre hangi dönemde gerçekleşir?",
+        "options": [
+            "Oral Dönem",
+            "Anal Dönem",
+            "Fallik Dönem",
+            "Latent Dönem"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bireyin kendi davranışlarını ve düşüncelerini gözlemlemesine ne denir?",
+        "options": [
+            "Empati",
+            "İçebakış",
+            "Sempati",
+            "Yansıtma"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 411,
+        "text": "Uykuya dalmakta zorluk çekme veya uykusuzluk hastalığına ne ad verilir?",
+        "options": [
+            "Narkolepsi",
+            "İnsomnia",
+            "Uyurgezerlik",
+            "Kabus"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnsanın doğumundan ölümüne kadar geçirdiği değişimleri inceleyen bilim?",
+        "options": [
+            "Gelişim Psikolojisi",
+            "Sosyal Psikoloji",
+            "Klinik Psikoloji",
+            "Deneysel Psikoloji"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 448,
+        "text": "\"Dil ve düşünce birbirini belirler\" görüşünü savunan hipotez hangisidir?",
+        "options": [
+            "Geştalt Hipotezi",
+            "Sapir-Whorf Hipotezi",
+            "James-Lange Teorisi",
+            "Cannon-Bard Teorisi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 546,
+        "text": "Lev Vygotsky'nin \"Yakınsal Gelişim Alanı\" (ZPD) kavramı neyi ifade eder?",
+        "options": [
+            "Çocuğun tek başına yapabildiği",
+            "Çocuğun asla yapamayacağı",
+            "Çocuğun yardımla yapabildiği alan",
+            "Zeka seviyesi"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 409,
+        "text": "Tıp eğitimi almış, ilaç yazma yetkisi olan ruh sağlığı uzmanına ne denir?",
+        "options": [
+            "Psikolog",
+            "Sosyolog",
+            "Psikiyatrist",
+            "Rehber Öğretmen"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 452,
+        "text": "Elektra Kompleksi hangi psikanalitik teoride yer alır ve neyi ifade eder?",
+        "options": [
+            "Jung - Kız çocuğun babaya yönelmesi",
+            "Freud - Erkek çocuğun anneye yönelmesi",
+            "Adler - Aşağılık duygusu",
+            "Erikson - Kimlik karmaşası"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 536,
+        "text": "Erikson'un psikososyal gelişim kuramında ergenlik dönemi krizi hangisidir?",
+        "options": [
+            "Temel Güven - Güvensizlik",
+            "Özerklik - Utanç",
+            "Kimlik - Kimlik Karmaşası",
+            "Üretkenlik - Durgunluk"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 451,
+        "text": "Freud'un psikoseksüel gelişim kuramında 1-3 yaş arası hangi döneme denk gelir?",
+        "options": [
+            "Oral Dönem",
+            "Anal Dönem",
+            "Fallik Dönem",
+            "Latent Dönem"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 573,
+        "text": "Stres tepkisinde \"Dinlen ve Sindir\" işlevini yöneten sinir sistemi hangisidir?",
+        "options": [
+            "Sempatik Sinir Sistemi",
+            "Parasempatik Sinir Sistemi",
+            "Somatik Sinir Sistemi",
+            "Merkezi Sinir Sistemi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 450,
+        "text": "Piaget'in bilişsel gelişim kuramında soyut işlemler dönemi kaç yaş ve üzeridir?",
+        "options": [
+            "0-2 yaş",
+            "2-7 yaş",
+            "7-11 yaş",
+            "11 yaş ve üzeri"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 418,
+        "text": "Kendi içine kapanık, sosyal ortamlardan çok hoşlanmayan kişilik tipine ne denir?",
+        "options": [
+            "Dışadönük",
+            "İçedönük",
+            "Narsist",
+            "Agresif"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 429,
+        "text": "Kişinin stres veya kaygı anlarında çocuksu davranışlara geri dönmesine ne denir?",
+        "options": [
+            "Yansıtma",
+            "İnkar",
+            "Regresyon",
+            "Yüceltme"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 407,
+        "text": "Zeka seviyesini ölçmek için yapılan testlere verilen genel isim (kısaltma) nedir?",
+        "options": [
+            "IQ",
+            "EQ",
+            "MR",
+            "DNA"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 572,
+        "text": "Stres tepkisinde \"Savaş ya da Kaç\" tepkisini tetikleyen sinir sistemi hangisidir?",
+        "options": [
+            "Parasempatik Sinir Sistemi",
+            "Sempatik Sinir Sistemi",
+            "Somatik Sinir Sistemi",
+            "Merkezi Sinir Sistemi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 419,
+        "text": "Bir canlının doğuştan getirdiği, öğrenilmemiş, ani ve istemsiz tepkilere ne denir?",
+        "options": [
+            "İçgüdü",
+            "Refleks",
+            "Alışkanlık",
+            "Yetenek"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 538,
+        "text": "Carl Jung'un \"Kolektif Bilinçdışı\" kavramındaki evrensel sembollere ne ad verilir?",
+        "options": [
+            "Kompleks",
+            "Arketip",
+            "Persona",
+            "Gölge"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 548,
+        "text": "Bowlby'nin bağlanma kuramında \"güvenli bağlanma\" gösteren çocuklar nasıl davranır?",
+        "options": [
+            "Anneden ayrılamaz",
+            "Anneyi umursamaz",
+            "Anneyi güvenli üs olarak kullanır",
+            "Yabancılardan korkmaz"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 427,
+        "text": "Çocuğun zihinsel gelişim süreçlerini inceleyen \"Bilişsel Gelişim Kuramı\" kime aittir?",
+        "options": [
+            "Sigmund Freud",
+            "Jean Piaget",
+            "Erik Erikson",
+            "Albert Bandura"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 435,
+        "text": "Bir davranışın sıklığını artırmak için verilen ödül veya hoşa giden durum hangisidir?",
+        "options": [
+            "Ceza",
+            "Söndürme",
+            "Pekiştireç",
+            "Koşullanma"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 408,
+        "text": "Kişinin kendi görüntüsüne ve benliğine aşırı hayranlık duyması durumuna ne ad verilir?",
+        "options": [
+            "Sadizm",
+            "Mazoşizm",
+            "Narsisizm",
+            "Otizm"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 541,
+        "text": "Alfred Adler'in kuramında bireyin sosyal ilgi ve toplumsal aidiyet duygusuna ne denir?",
+        "options": [
+            "Üstünlük Kompleksi",
+            "Aşağılık Kompleksi",
+            "Gemeinschaftsgefühl",
+            "Kompansasyon"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 424,
+        "text": "Bireyin bir maddeye veya davranışa karşı koyulamaz bir istek duyması durumuna ne denir?",
+        "options": [
+            "Bağımlılık",
+            "Hobi",
+            "Alışkanlık",
+            "İlgi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 542,
+        "text": "Adler'e göre, bir eksikliği telafi etmek için aşırı çaba gösterme mekanizması hangisidir?",
+        "options": [
+            "Yansıtma",
+            "Kompansasyon",
+            "Bastırma",
+            "Regresyon"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 432,
+        "text": "Biliş, tutum ve davranış arasındaki tutarsızlığın yarattığı rahatsızlık durumuna ne denir?",
+        "options": [
+            "Bilişsel Çelişki",
+            "Duygusal Zeka",
+            "Koşullanma",
+            "Şartlanma"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 410,
+        "text": "\"Şu an daha önce yaşadığım bir anı tekrar yaşıyormuşum gibi hissediyorum\" hissine ne ad verilir?",
+        "options": [
+            "Deja Vu",
+            "Jamais Vu",
+            "Nirvana",
+            "Nostalji"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 412,
+        "text": "İletişimde sözcükler olmadan; el, kol, yüz ifadeleri ve duruşla verilen mesajlara ne ad verilir?",
+        "options": [
+            "Sözlü İletişim",
+            "Yazılı İletişim",
+            "Beden Dili",
+            "Empati"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 402,
+        "text": "Psikolojide \"Bilinçaltı\" kavramını ortaya atan ve \"Psikanaliz\"in kurucusu olan ünlü nörolog kimdir?",
+        "options": [
+            "Sigmund Freud",
+            "Ivan Pavlov",
+            "Abraham Maslow",
+            "Jean Piaget"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 406,
+        "text": "Belirli bir nesneye veya duruma karşı duyulan, mantıklı olmayan aşırı ve güçlü korkuya ne ad verilir?",
+        "options": [
+            "Mani",
+            "Depresyon",
+            "Fobi",
+            "Halüsinasyon"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 415,
+        "text": "Kişinin enerjisinin tükendiği, hayattan zevk alamadığı, sürekli mutsuzluk ve çöküntü haline ne ad verilir?",
+        "options": [
+            "Öfori",
+            "Depresyon",
+            "Hiperaktivite",
+            "Paranoya"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 417,
+        "text": "Ani ve beklenmedik bir anda ortaya çıkan, yoğun korku ve \"ölüyorum\" hissiyle gelen nöbetlere ne ad verilir?",
+        "options": [
+            "Panik Atak",
+            "Şizofreni",
+            "Unutkanlık",
+            "Dikkat Dağınıklığı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 437,
+        "text": "Çocuklarda en sık görülen ve dikkat eksikliği ile hiperaktivite ile karakterize bozukluğun kısaltması nedir?",
+        "options": [
+            "OKB",
+            "DEHB",
+            "TSSB",
+            "BPD"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 413,
+        "text": "Çevresinde olup biten gerçek dışı sesleri duyduğunu veya hayali görüntüler gördüğünü sanma durumuna ne denir?",
+        "options": [
+            "İllüzyon",
+            "Halüsinasyon",
+            "Rüya",
+            "Odaklanma"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 414,
+        "text": "İlaç olmadığı halde, hastanın ilacı aldığına inandığı için iyileşme belirtileri göstermesi etkisine ne denir?",
+        "options": [
+            "Domino Etkisi",
+            "Kelebek Etkisi",
+            "Placebo Etkisi",
+            "Halo Etkisi"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 404,
+        "text": "Bir kişinin kendisini başkasının yerine koyarak, onun duygu ve düşüncelerini anlamaya çalışmasına ne ad verilir?",
+        "options": [
+            "Sempati",
+            "Antipati",
+            "Empati",
+            "Telepati"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 416,
+        "text": "İnsanın bebeklikten yaşlılığa kadar geçirdiği bedensel ve ruhsal değişimleri inceleyen psikoloji alt dalı hangisidir?",
+        "options": [
+            "Sosyal Psikoloji",
+            "Gelişim Psikolojisi",
+            "Klinik Psikoloji",
+            "Endüstri Psikolojisi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 873,
+        "text": "Muzafer Sherif'in yaptığı \"Hırsızlar Mağarası\" (Robbers Cave) deneyi, sosyal psikolojide hangi konuyu aydınlatmıştır?",
+        "options": [
+            "Otoriteye itaat",
+            "Gruplar arası çatışma, önyargı ve barışın sağlanması",
+            "Görgü tanıklığı belleği",
+            "Hapishane koşulları"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 403,
+        "text": "Köpeklerle yaptığı deneyde, zil sesi ile salya salgılama arasındaki ilişkiyi kurarak \"Klasik Koşullanma\"yı bulan bilim insanı kimdir?",
+        "options": [
+            "B.F. Skinner",
+            "Ivan Pavlov",
+            "Albert Bandura",
+            "Carl Jung"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "PSIKOLOJI",
+        "difficulty": "ZOR"
+    }
+]

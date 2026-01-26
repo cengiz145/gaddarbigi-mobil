@@ -1,0 +1,3085 @@
+[
+    {
+        "id": 7020,
+        "text": "2 + 2 kaç eder?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7049,
+        "text": "Arılar ne yapar?",
+        "options": [
+            "Süt",
+            "Bal",
+            "Yumurta",
+            "Peynir"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7030,
+        "text": "Muz hangi renktir?",
+        "options": [
+            "Kırmızı",
+            "Sarı",
+            "Mavi",
+            "Mor"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7004,
+        "text": "Bir yıl kaç gündür?",
+        "options": [
+            "360",
+            "364",
+            "365",
+            "370"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "En küçük asal sayı?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7047,
+        "text": "Ekmek neden yapılır?",
+        "options": [
+            "Pirinç",
+            "Buğday",
+            "Şeker",
+            "Tuz"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kanada'nın başkenti?",
+        "options": [
+            "Ottawa",
+            "Toronto",
+            "Montreal",
+            "Vancouver"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Altın simgesi nedir?",
+        "options": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Cu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Demir simgesi nedir?",
+        "options": [
+            "Fe",
+            "De",
+            "Dr",
+            "Dm"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Suyun formülü nedir?",
+        "options": [
+            "H2O",
+            "CO2",
+            "O2",
+            "H2SO4"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Tuzun formülü nedir?",
+        "options": [
+            "NaCl",
+            "KCl",
+            "HCl",
+            "NaOH"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Japonya'nın başkenti?",
+        "options": [
+            "Tokyo",
+            "Kyoto",
+            "Osaka",
+            "Seul"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Amerika'nın başkenti?",
+        "options": [
+            "Washington D.C.",
+            "New York",
+            "Los Angeles",
+            "Chicago"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Atatürk'ün ölüm yılı?",
+        "options": [
+            "1938",
+            "1881",
+            "1923",
+            "1930"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "TBMM ne zaman açıldı?",
+        "options": [
+            "1920",
+            "1923",
+            "1919",
+            "1921"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7023,
+        "text": "Limonun tadı nasıldır?",
+        "options": [
+            "Acı",
+            "Tatlı",
+            "Ekşi",
+            "Tuzlu"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7024,
+        "text": "Hangi hayvan miyavlar?",
+        "options": [
+            "Köpek",
+            "Kedi",
+            "Kuş",
+            "At"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7025,
+        "text": "Okula ne için gideriz?",
+        "options": [
+            "Uyku için",
+            "Oyun için",
+            "Eğitim için",
+            "Yemek için"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7034,
+        "text": "Çay hangi ilden gelir?",
+        "options": [
+            "Rize",
+            "Konya",
+            "İzmir",
+            "Antalya"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7039,
+        "text": "Balıklar nerede yaşar?",
+        "options": [
+            "Havada",
+            "Karada",
+            "Suda",
+            "Ağaçta"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7079,
+        "text": "Matbaayı bulan kimdir?",
+        "options": [
+            "Edison",
+            "Gutenberg",
+            "Bell",
+            "Tesla"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7093,
+        "text": "Bir deste kaç tanedir?",
+        "options": [
+            "10",
+            "12",
+            "20",
+            "50"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Brezilya'nın başkenti?",
+        "options": [
+            "Brasilia",
+            "Rio de Janeiro",
+            "Sao Paulo",
+            "Buenos Aires"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir gün kaç dakikadır?",
+        "options": [
+            "1440",
+            "1200",
+            "3600",
+            "2400"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Okeyde kaç taş vardır?",
+        "options": [
+            "106",
+            "101",
+            "100",
+            "110"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Etli Ekmek nerenindir?",
+        "options": [
+            "Konya",
+            "Sivas",
+            "Kayseri",
+            "Nevşehir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Atatürk'ün doğum yılı?",
+        "options": [
+            "1881",
+            "1938",
+            "1923",
+            "1919"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7008,
+        "text": "Su kaç derecede kaynar?",
+        "options": [
+            "50",
+            "90",
+            "100",
+            "120"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7041,
+        "text": "Hangisi yaz meyvesidir?",
+        "options": [
+            "Portakal",
+            "Mandalina",
+            "Karpuz",
+            "Nar"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7042,
+        "text": "Buzdolabı ne işe yarar?",
+        "options": [
+            "Isıtır",
+            "Soğutur",
+            "Pişirir",
+            "Kurutur"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7050,
+        "text": "Kütüphanede ne bulunur?",
+        "options": [
+            "Yemek",
+            "Giysi",
+            "Kitap",
+            "Oyuncak"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7062,
+        "text": "Hangi hayvan memelidir?",
+        "options": [
+            "Timsah",
+            "Yunus",
+            "Kartal",
+            "Yılan"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7026,
+        "text": "Hangi taşıt havada uçar?",
+        "options": [
+            "Otomobil",
+            "Bisiklet",
+            "Gemi",
+            "Uçak"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7099,
+        "text": "Hangi kıtada çöl yoktur?",
+        "options": [
+            "Asya",
+            "Afrika",
+            "Avrupa",
+            "Avustralya"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Avustralya'nın başkenti?",
+        "options": [
+            "Canberra",
+            "Sidney",
+            "Melbourne",
+            "Perth"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Dünyanın en büyük adası?",
+        "options": [
+            "Grönland",
+            "Avustralya",
+            "İngiltere",
+            "Kıbrıs"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kayısı diyarı neresidir?",
+        "options": [
+            "Malatya",
+            "Elazığ",
+            "Kars",
+            "Iğdır"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Fındık diyarı neresidir?",
+        "options": [
+            "Giresun / Ordu",
+            "Trabzon",
+            "Rize",
+            "Artvin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Malazgirt Savaşı tarihi?",
+        "options": [
+            "1071",
+            "1453",
+            "1040",
+            "1176"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7013,
+        "text": "Hangi mevsimde kar yağar?",
+        "options": [
+            "Yaz",
+            "Sonbahar",
+            "Kış",
+            "İlkbahar"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7019,
+        "text": "Hangi araç denizde gider?",
+        "options": [
+            "Araba",
+            "Uçak",
+            "Tren",
+            "Gemi"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7022,
+        "text": "Güneş hangi yönden doğar?",
+        "options": [
+            "Batı",
+            "Doğu",
+            "Kuzey",
+            "Güney"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7032,
+        "text": "Hangi sporda pota vardır?",
+        "options": [
+            "Futbol",
+            "Voleybol",
+            "Basketbol",
+            "Tennis"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7096,
+        "text": "Hangi ülke Ada ülkesidir?",
+        "options": [
+            "Almanya",
+            "İngiltere",
+            "Fransa",
+            "Çin"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7097,
+        "text": "Dünyanın en derin çukuru?",
+        "options": [
+            "Mariana",
+            "Everest",
+            "Lut",
+            "Kola"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7143,
+        "text": "Dünyanın en tuzlu denizi?",
+        "options": [
+            "Kızıldeniz",
+            "Akdeniz",
+            "Lut Gölü (Ölüdeniz)",
+            "Hazar"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir kilogram kaç gramdır?",
+        "options": [
+            "1000",
+            "100",
+            "500",
+            "10"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Güneş'e en yakın gezegen?",
+        "options": [
+            "Merkür",
+            "Venüs",
+            "Dünya",
+            "Mars"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "İstanbul'un fetih tarihi?",
+        "options": [
+            "1453",
+            "1071",
+            "1299",
+            "1923"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7028,
+        "text": "Hangi organımızla görürüz?",
+        "options": [
+            "Kulak",
+            "Burun",
+            "Göz",
+            "Ağız"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7035,
+        "text": "Kırmızı ışıkta ne yapılır?",
+        "options": [
+            "Geçilir",
+            "Durulur",
+            "Koşulur",
+            "Zıplanır"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7037,
+        "text": "Bir günde kaç saat vardır?",
+        "options": [
+            "12",
+            "20",
+            "24",
+            "48"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7063,
+        "text": "Satrançta kaç kare vardır?",
+        "options": [
+            "32",
+            "64",
+            "50",
+            "100"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7084,
+        "text": "Bir inç kaç santimetredir?",
+        "options": [
+            "2.00",
+            "2.54",
+            "3.14",
+            "1.50"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Pi sayısı yaklaşık kaçtır?",
+        "options": [
+            "3,14",
+            "3,15",
+            "3,12",
+            "3,10"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Horon hangi yöreye aittir?",
+        "options": [
+            "Karadeniz",
+            "Ege",
+            "İç Anadolu",
+            "Doğu Anadolu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "İskender Kebap nerenindir?",
+        "options": [
+            "Bursa",
+            "İzmir",
+            "İstanbul",
+            "Ankara"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Çay denince akla gelen il?",
+        "options": [
+            "Rize",
+            "Artvin",
+            "Trabzon",
+            "Giresun"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türkiye'nin en büyük gölü?",
+        "options": [
+            "Van Gölü",
+            "Tuz Gölü",
+            "Beyşehir",
+            "Eğirdir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7001,
+        "text": "Dünyanın Uydusu hangisidir?",
+        "options": [
+            "Güneş",
+            "Ay",
+            "Mars",
+            "Jüpiter"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7012,
+        "text": "Tavşan ne yemeyi çok sever?",
+        "options": [
+            "Makarna",
+            "Havuç",
+            "Et",
+            "Balık"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7038,
+        "text": "Hangisi bir müzik aletidir?",
+        "options": [
+            "Kaşık",
+            "Gitar",
+            "Mouse",
+            "Defter"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7044,
+        "text": "Gece gökyüzünde ne görürüz?",
+        "options": [
+            "Güneş",
+            "Gökkuşağı",
+            "Yıldızlar",
+            "Bulutlar"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7045,
+        "text": "Çocuk bayramı hangi gündür?",
+        "options": [
+            "19 Mayıs",
+            "23 Nisan",
+            "30 Ağustos",
+            "29 Ekim"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7046,
+        "text": "Anıtkabir hangi şehirdedir?",
+        "options": [
+            "İstanbul",
+            "Ankara",
+            "Samsun",
+            "İzmir"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7048,
+        "text": "Sıcak havalarda ne giyilir?",
+        "options": [
+            "Palto",
+            "Bot",
+            "Tişört",
+            "Kazak"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7102,
+        "text": "Hangi yıl SSCB dağılmıştır?",
+        "options": [
+            "1989",
+            "1990",
+            "1991",
+            "1993"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7117,
+        "text": "Google kaç yılında kuruldu?",
+        "options": [
+            "1995",
+            "1998",
+            "2000",
+            "2004"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi renk barışı simgeler?",
+        "options": [
+            "Beyaz",
+            "Kırmızı",
+            "Mavi",
+            "Yeşil"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türkiye'nin plakası kaçtır?",
+        "options": [
+            "Bilinmez (Plaka kodu yoktur, TR kullanılır)",
+            "90",
+            "34",
+            "06"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir yılda kaç hafta vardır?",
+        "options": [
+            "52",
+            "48",
+            "50",
+            "40"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi organ insülin üretir?",
+        "options": [
+            "Pankreas",
+            "Karaciğer",
+            "Böbrek",
+            "Mide"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Aspendos hangi ilimizdedir?",
+        "options": [
+            "Antalya",
+            "Mersin",
+            "Burdur",
+            "Isparta"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Satranç karesi kaç tanedir?",
+        "options": [
+            "64",
+            "32",
+            "100",
+            "50"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "İstiklal Marşı kaç kıtadır?",
+        "options": [
+            "10",
+            "8",
+            "2",
+            "4"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türkiye'nin kaç ili vardır?",
+        "options": [
+            "81",
+            "80",
+            "82",
+            "67"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Divriği Ulu Cami nerededir?",
+        "options": [
+            "Sivas",
+            "Malatya",
+            "Erzincan",
+            "Tokat"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Zeybek hangi yöreye aittir?",
+        "options": [
+            "Ege",
+            "Karadeniz",
+            "Trakya",
+            "Güneydoğu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Lüle taşı hangi ilde çıkar?",
+        "options": [
+            "Eskişehir",
+            "Kütahya",
+            "Afyon",
+            "Bilecik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Oltu taşı hangi ilde çıkar?",
+        "options": [
+            "Erzurum",
+            "Kars",
+            "Ardahan",
+            "Ağrı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "NATO'nun merkezi nerededir?",
+        "options": [
+            "Brüksel",
+            "Paris",
+            "Washington",
+            "Londra"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7006,
+        "text": "Hangi hayvanın sütü içilmez?",
+        "options": [
+            "İnek",
+            "Keçi",
+            "Koyun",
+            "Aslan"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7068,
+        "text": "En hızlı koşan kara hayvanı?",
+        "options": [
+            "Aslan",
+            "Çita",
+            "Kaplan",
+            "At"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 7109,
+        "text": "Hangi element radyoaktiftir?",
+        "options": [
+            "Kurşun",
+            "Uranyum",
+            "Altın",
+            "Bakır"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Aspirinin ham maddesi nedir?",
+        "options": [
+            "Söğüt ağacı",
+            "Çam ağacı",
+            "Papatya",
+            "Nane"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Zürafaların dili ne renktir?",
+        "options": [
+            "Mavi-Siyah",
+            "Kırmızı",
+            "Pembe",
+            "Beyaz"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Tavla zarında en büyük sayı?",
+        "options": [
+            "6",
+            "5",
+            "12",
+            "4"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Karatay Medresesi nerededir?",
+        "options": [
+            "Konya",
+            "Sivas",
+            "Erzurum",
+            "Kayseri"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Pamukkale hangi ilimizdedir?",
+        "options": [
+            "Denizli",
+            "Muğla",
+            "Antalya",
+            "İzmir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kapadokya hangi ilimizdedir?",
+        "options": [
+            "Nevşehir",
+            "Kayseri",
+            "Aksaray",
+            "Niğde"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Mantı denince akla gelen il?",
+        "options": [
+            "Kayseri",
+            "Sinop",
+            "Bolu",
+            "Eskişehir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7007,
+        "text": "Türkiye'nin plaka kodu nedir?",
+        "options": [
+            "TR",
+            "TU",
+            "TK",
+            "TC"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7009,
+        "text": "Hangi renk ana renk değildir?",
+        "options": [
+            "Kırmızı",
+            "Mavi",
+            "Sarı",
+            "Yeşil"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7010,
+        "text": "Gökkuşağında kaç renk vardır?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7017,
+        "text": "Haftanın son günü hangisidir?",
+        "options": [
+            "Pazartesi",
+            "Cuma",
+            "Pazar",
+            "Cumartesi"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7021,
+        "text": "Dişlerimizi neyle fırçalarız?",
+        "options": [
+            "Tarak",
+            "Fırça",
+            "Kaşık",
+            "Diş Fırçası"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7031,
+        "text": "Dünyamızın şekli neye benzer?",
+        "options": [
+            "Kare",
+            "Üçgen",
+            "Küre",
+            "Dikdörtgen"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Mevlana Müzesi hangi ildedir?",
+        "options": [
+            "Konya",
+            "Kayseri",
+            "Nevşehir",
+            "Karaman"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Asal sayı olan tek çift sayı?",
+        "options": [
+            "2",
+            "4",
+            "0",
+            "6"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7015,
+        "text": "Telefonu açarken ilk ne deriz?",
+        "options": [
+            "Güle güle",
+            "Alo",
+            "Merhaba",
+            "Nasılsın"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7036,
+        "text": "Hangi hayvanın hörgücü vardır?",
+        "options": [
+            "At",
+            "Deve",
+            "Eşek",
+            "Keçi"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7040,
+        "text": "Türkiye'nin para birimi nedir?",
+        "options": [
+            "Dolar",
+            "Euro",
+            "Türk Lirası",
+            "Sterlin"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7069,
+        "text": "Titanik hangi okyanusta battı?",
+        "options": [
+            "Pasifik",
+            "Hint",
+            "Atlas",
+            "Arktik"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7076,
+        "text": "Eyfel Kulesi hangi şehirdedir?",
+        "options": [
+            "Londra",
+            "Paris",
+            "Berlin",
+            "Roma"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7118,
+        "text": "Hangi hayvanın 3 kalbi vardır?",
+        "options": [
+            "Ahtapot",
+            "Köpekbalığı",
+            "Fil",
+            "Zürafa"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7126,
+        "text": "DNA'nın yapısını kim keşfetti?",
+        "options": [
+            "Watson ve Crick",
+            "Darwin",
+            "Pasteur",
+            "Fleming"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7136,
+        "text": "Hangi gezegenin uydusu yoktur?",
+        "options": [
+            "Mars",
+            "Venüs",
+            "Dünya",
+            "Neptün"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7144,
+        "text": "İstanbul'un en eski adı nedir?",
+        "options": [
+            "Konstantinopolis",
+            "Byzantion",
+            "Dersaadet",
+            "Asitane"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Japonya'nın para birimi nedir?",
+        "options": [
+            "Yen",
+            "Won",
+            "Yuan",
+            "Dolar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Pizza denince akla gelen ülke?",
+        "options": [
+            "İtalya",
+            "Fransa",
+            "ABD",
+            "İspanya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Göbeklitepe hangi ilimizdedir?",
+        "options": [
+            "Şanlıurfa",
+            "Gaziantep",
+            "Mardin",
+            "Diyarbakır"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7002,
+        "text": "Türkiye'nin başkenti neresidir?",
+        "options": [
+            "İstanbul",
+            "Ankara",
+            "İzmir",
+            "Bursa"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7055,
+        "text": "Hangi elementin simgesi 'O'dur?",
+        "options": [
+            "Altın",
+            "Oksijen",
+            "Osmiyum",
+            "Su"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Zeugma Mozaik Müzesi nerededir?",
+        "options": [
+            "Gaziantep",
+            "Hatay",
+            "Urfa",
+            "Adana"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Van Gölü canavarına verilen ad?",
+        "options": [
+            "Canovar",
+            "Nessie",
+            "Ejder",
+            "Hıdır"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Gökkuşağının en üstündeki renk?",
+        "options": [
+            "Kırmızı",
+            "Mor",
+            "Sarı",
+            "Yeşil"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7003,
+        "text": "İstiklal Marşı'nın şairi kimdir?",
+        "options": [
+            "Mehmet Akif Ersoy",
+            "Namık Kemal",
+            "Ziya Gökalp",
+            "Orhan Veli"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7085,
+        "text": "Hangi elementin simgesi 'Au'dur?",
+        "options": [
+            "Gümüş",
+            "Altın",
+            "Bakır",
+            "Alüminyum"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7088,
+        "text": "Hangi hayvan kış uykusuna yatar?",
+        "options": [
+            "Ayı",
+            "Kedi",
+            "Köpek",
+            "Kuş"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7094,
+        "text": "Hangisi bir programlama dilidir?",
+        "options": [
+            "HTML",
+            "Python",
+            "JPG",
+            "MP3"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7113,
+        "text": "Hangi ressam kulağını kesmiştir?",
+        "options": [
+            "Dali",
+            "Van Gogh",
+            "Picasso",
+            "Monet"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7121,
+        "text": "Hangi elementin simgesi 'Ag'dir?",
+        "options": [
+            "Altın",
+            "Gümüş",
+            "Argon",
+            "Alüminyum"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi notanın sesi daha incedir?",
+        "options": [
+            "Si",
+            "Do",
+            "Re",
+            "Mi"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Efeler diyarı hangi bölgemizdir?",
+        "options": [
+            "Ege",
+            "Akdeniz",
+            "Karadeniz",
+            "Doğu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Çiğ köfte denince akla gelen il?",
+        "options": [
+            "Şanlıurfa / Adıyaman",
+            "Gaziantep",
+            "Mardin",
+            "Diyarbakır"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Cumhuriyet ne zaman ilan edildi?",
+        "options": [
+            "1923",
+            "1920",
+            "1919",
+            "1922"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir doğal afet değildir?",
+        "options": [
+            "Trafik Kazası",
+            "Deprem",
+            "Sel",
+            "Çığ"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İnternetin mucidi sayılan kurum?",
+        "options": [
+            "CERN",
+            "NASA",
+            "MIT",
+            "Pentagon"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7018,
+        "text": "Türkiye hangi kıtalarda yer alır?",
+        "options": [
+            "Sadece Asya",
+            "Sadece Avrupa",
+            "Asya ve Avrupa",
+            "Asya ve Afrika"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7053,
+        "text": "Hangi ülkenin başkenti Paris'tir?",
+        "options": [
+            "İtalya",
+            "Almanya",
+            "İspanya",
+            "Fransa"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7075,
+        "text": "Hangi ülkenin nüfusu en fazladır?",
+        "options": [
+            "ABD",
+            "Çin",
+            "Hindistan",
+            "Rusya"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7077,
+        "text": "Hangi gezegenin halkaları vardır?",
+        "options": [
+            "Mars",
+            "Satürn",
+            "Venüs",
+            "Merkür"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7083,
+        "text": "Hangi meyve C vitamini deposudur?",
+        "options": [
+            "Muz",
+            "Portakal",
+            "Elma",
+            "Armut"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Ankara ne zaman başkent olmuştur?",
+        "options": [
+            "13 Ekim 1923",
+            "29 Ekim 1923",
+            "23 Nisan 1920",
+            "19 Mayıs 1919"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Çifte Minareli Medrese nerededir?",
+        "options": [
+            "Erzurum",
+            "Sivas",
+            "Konya",
+            "Bursa"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7061,
+        "text": "Amerika kıtasını kim keşfetmiştir?",
+        "options": [
+            "Macellan",
+            "Vasco da Gama",
+            "Kristof Kolomb",
+            "Marco Polo"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7066,
+        "text": "Avustralya'nın başkenti neresidir?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7080,
+        "text": "Hangi kan grubu \"genel verici\"dir?",
+        "options": [
+            "A Rh+",
+            "0 Rh-",
+            "AB Rh+",
+            "B Rh-"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7091,
+        "text": "Hangi gezegen Güneş'e en yakındır?",
+        "options": [
+            "Merkür",
+            "Venüs",
+            "Dünya",
+            "Mars"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7133,
+        "text": "Hangi bilim dalı paraları inceler?",
+        "options": [
+            "Filateli",
+            "Nümismatik",
+            "Arkeoloji",
+            "Heraldik"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Mona Lisa tablosu hangi müzededir?",
+        "options": [
+            "Louvre (Paris)",
+            "British Museum (Londra)",
+            "Prado (Madrid)",
+            "Uffizi (Floransa)"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kutup ayıları hangi kutupta yaşar?",
+        "options": [
+            "Kuzey Kutbu",
+            "Güney Kutbu",
+            "Her ikisi",
+            "Hiçbiri"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7065,
+        "text": "Piyanoda kaç tuş vardır (standart)?",
+        "options": [
+            "66",
+            "72",
+            "88",
+            "90"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7116,
+        "text": "İlk yerli tiyatro eseri hangisidir?",
+        "options": [
+            "Şair Evlenmesi",
+            "Vatan Yahut Silistre",
+            "İntibah",
+            "Cezmi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7132,
+        "text": "Türkiye'nin en doğu ucu hangisidir?",
+        "options": [
+            "Hakkari",
+            "Kars",
+            "Iğdır (Dilucu)",
+            "Van"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7140,
+        "text": "Fransız İhtilali kaç yıl sürmüştür?",
+        "options": [
+            "1",
+            "5",
+            "10",
+            "20"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bukalemunlar neden renk değiştirir?",
+        "options": [
+            "Duygu durumuna ve ısıya göre",
+            "Kamufle olmak için",
+            "Avlanmak için",
+            "Yüzmek için"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Sümela Manastırı hangi ilimizdedir?",
+        "options": [
+            "Trabzon",
+            "Rize",
+            "Giresun",
+            "Artvin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Efes Antik Kenti hangi ilimizdedir?",
+        "options": [
+            "İzmir",
+            "Aydın",
+            "Antalya",
+            "Balıkesir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7051,
+        "text": "\"Mona Lisa\" tablosunu kim yapmıştır?",
+        "options": [
+            "Picasso",
+            "Van Gogh",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7054,
+        "text": "Nobel ödülleri hangi ülkede verilir?",
+        "options": [
+            "İsviçre",
+            "İsveç",
+            "Norveç",
+            "Almanya"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7059,
+        "text": "Hangi para birimi Japonya'ya aittir?",
+        "options": [
+            "Yuan",
+            "Won",
+            "Yen",
+            "Dolar"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7086,
+        "text": "Oscar ödülleri hangi alanda verilir?",
+        "options": [
+            "Müzik",
+            "Edebiyat",
+            "Sinema",
+            "Spor"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7087,
+        "text": "UEFA Kupası'nı alan ilk Türk takımı?",
+        "options": [
+            "Beşiktaş",
+            "Fenerbahçe",
+            "Galatasaray",
+            "Trabzonspor"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7089,
+        "text": "Hangi ilimizde Peri Bacaları vardır?",
+        "options": [
+            "Nevşehir",
+            "Konya",
+            "Antalya",
+            "İzmir"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7092,
+        "text": "Hangi elementin atom numarası 1'dir?",
+        "options": [
+            "Helyum",
+            "Hidrojen",
+            "Lityum",
+            "Oksijen"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7101,
+        "text": "Dünyanın en küçük ülkesi hangisidir?",
+        "options": [
+            "Monako",
+            "Vatikan",
+            "San Marino",
+            "Lihtenştayn"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7105,
+        "text": "Magna Carta hangi yıl imzalanmıştır?",
+        "options": [
+            "1215",
+            "1453",
+            "1789",
+            "1923"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7147,
+        "text": "Hangi gaz atmosferde en çok bulunur?",
+        "options": [
+            "Oksijen",
+            "Karbondioksit",
+            "Azot",
+            "Hidrojen"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7148,
+        "text": "Einstein hangi dalda Nobel almıştır?",
+        "options": [
+            "Matematik",
+            "Fizik",
+            "Kimya",
+            "Barış"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Güneş sistemindeki en büyük gezegen?",
+        "options": [
+            "Jüpiter",
+            "Satürn",
+            "Neptün",
+            "Uranüs"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Yetişkin bir insanda kaç diş vardır?",
+        "options": [
+            "32",
+            "30",
+            "28",
+            "34"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dolmabahçe Sarayı hangi ilimizdedir?",
+        "options": [
+            "İstanbul",
+            "Ankara",
+            "Bursa",
+            "Edirne"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İshak Paşa Sarayı hangi ilimizdedir?",
+        "options": [
+            "Ağrı",
+            "Kars",
+            "Van",
+            "Erzurum"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Truva Antik Kenti hangi ilimizdedir?",
+        "options": [
+            "Çanakkale",
+            "İzmir",
+            "Aydın",
+            "Muğla"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İskambil destesinde kaç kart vardır?",
+        "options": [
+            "52",
+            "54",
+            "50",
+            "48"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Tantuni hangi ilin meşhur yemeğidir?",
+        "options": [
+            "Mersin",
+            "Adana",
+            "Hatay",
+            "Antalya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Nobel Ödülleri hangi ülkede verilir?",
+        "options": [
+            "İsveç (Barış hariç)",
+            "İsviçre",
+            "Almanya",
+            "ABD"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7014,
+        "text": "Dünyanın en büyük hayvanı hangisidir?",
+        "options": [
+            "Fil",
+            "Zürafa",
+            "Mavi Balina",
+            "Aslan"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7016,
+        "text": "Aşağıdakilerden hangisi bir meyvedir?",
+        "options": [
+            "Domates",
+            "Patates",
+            "Soğan",
+            "Elma"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7033,
+        "text": "Aşağıdakilerden hangisi bir sebzedir?",
+        "options": [
+            "Muz",
+            "Çilek",
+            "Pırasa",
+            "Karpuz"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7071,
+        "text": "Hangi vitamin güneş ışığından alınır?",
+        "options": [
+            "A Vitamini",
+            "B Vitamini",
+            "C Vitamini",
+            "D Vitamini"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7072,
+        "text": "İlk adım atılan gök cismi hangisidir?",
+        "options": [
+            "Mars",
+            "Ay",
+            "Venüs",
+            "Jüpiter"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7073,
+        "text": "Türkiye NATO'ya kaç yılında üye oldu?",
+        "options": [
+            "1945",
+            "1952",
+            "1960",
+            "1974"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Piyanonun kaç tuşu vardır (Standart)?",
+        "options": [
+            "88",
+            "50",
+            "100",
+            "76"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7056,
+        "text": "Türkiye'nin en yüksek dağı hangisidir?",
+        "options": [
+            "Erciyes",
+            "Uludağ",
+            "Ağrı Dağı",
+            "Palandöken"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7060,
+        "text": "\"Suç ve Ceza\" kitabının yazarı kimdir?",
+        "options": [
+            "Tolstoy",
+            "Dostoyevski",
+            "Çehov",
+            "Pushkin"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7115,
+        "text": "Türkiye'nin en büyük adası hangisidir?",
+        "options": [
+            "Bozcaada",
+            "Gökçeada",
+            "Büyükada",
+            "Marmara Adası"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7124,
+        "text": "Tarihteki ilk imparatorluk hangisidir?",
+        "options": [
+            "Roma",
+            "Akad",
+            "Pers",
+            "Moğol"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7125,
+        "text": "Hangi gezegen \"Günü Yılından Uzun\"dur?",
+        "options": [
+            "Merkür",
+            "Venüs",
+            "Mars",
+            "Jüpiter"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7128,
+        "text": "Hangi ülke kahvenin anavatanı sayılır?",
+        "options": [
+            "Brezilya",
+            "Etiyopya",
+            "Kolombiya",
+            "Yemen"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7137,
+        "text": "Türkiye'de kaç tane büyükşehir vardır?",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "81"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Olimpiyat bayrağında kaç halka vardır?",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "7"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangi satranç taşı 'L' şeklinde gider?",
+        "options": [
+            "At",
+            "Fil",
+            "Kale",
+            "Vezir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Domino taşları kaç tanedir (Standart)?",
+        "options": [
+            "28",
+            "24",
+            "32",
+            "30"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7027,
+        "text": "Mustafa Kemal Atatürk'ün doğduğu şehir?",
+        "options": [
+            "Ankara",
+            "İstanbul",
+            "Selanik",
+            "İzmir"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7067,
+        "text": "Hangi element oda sıcaklığında sıvıdır?",
+        "options": [
+            "Demir",
+            "Bakır",
+            "Cıva",
+            "Altın"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7078,
+        "text": "İnternetin atası sayılan ağ hangisidir?",
+        "options": [
+            "ARPANET",
+            "WIFI",
+            "ETHERNET",
+            "LAN"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7100,
+        "text": "Türkiye'nin kaç coğrafi bölgesi vardır?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7107,
+        "text": "Bilinen en sert doğal madde hangisidir?",
+        "options": [
+            "Çelik",
+            "Elmas",
+            "Granit",
+            "Titanyum"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7108,
+        "text": "Osmanlı'da ilk kağıt paranın adı nedir?",
+        "options": [
+            "Akçe",
+            "Kaime",
+            "Sikke",
+            "Mecidiye"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7122,
+        "text": "Dünyanın en yüksek şelalesi hangisidir?",
+        "options": [
+            "Niagara",
+            "Victoria",
+            "Angel",
+            "Iguazu"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7149,
+        "text": "Kandilli Rasathanesi hangi ilimizdedir?",
+        "options": [
+            "Ankara",
+            "İzmir",
+            "İstanbul",
+            "Kocaeli"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7011,
+        "text": "Türkiye'nin en kalabalık ili hangisidir?",
+        "options": [
+            "Ankara",
+            "İstanbul",
+            "İzmir",
+            "Adana"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7029,
+        "text": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "options": [
+            "İsmet İnönü",
+            "Fatih Sultan Mehmet",
+            "Mustafa Kemal Atatürk",
+            "Kanuni Sultan Süleyman"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7082,
+        "text": "Hangi şehir iki kıtada toprağa sahiptir?",
+        "options": [
+            "Londra",
+            "İstanbul",
+            "New York",
+            "Moskova"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7103,
+        "text": "Periyodik tabloda \"Fe\" hangi elementtir?",
+        "options": [
+            "Flor",
+            "Demir",
+            "Fosfor",
+            "Fransiyum"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7135,
+        "text": "İlk Nobel Edebiyat Ödülü'nü kim almıştır?",
+        "options": [
+            "Sully Prudhomme",
+            "Tolstoy",
+            "Twain",
+            "Zola"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünya Sağlık Örgütü'nün kısaltması nedir?",
+        "options": [
+            "WHO",
+            "UN",
+            "NATO",
+            "IMF"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Titanic gemisi hangi okyanusta batmıştır?",
+        "options": [
+            "Atlas Okyanusu",
+            "Büyük Okyanus",
+            "Hint Okyanusu",
+            "Arktik Okyanusu"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangi gezegenin halkaları en belirgindir?",
+        "options": [
+            "Satürn",
+            "Jüpiter",
+            "Uranüs",
+            "Neptün"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Nasrettin Hoca hangi ilimizde yaşamıştır?",
+        "options": [
+            "Konya (Akşehir)",
+            "Kayseri",
+            "Ankara",
+            "Eskişehir"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Birleşmiş Milletler'in merkezi nerededir?",
+        "options": [
+            "New York",
+            "Cenevre",
+            "Paris",
+            "Londra"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7104,
+        "text": "Hangi gezegen Güneş sisteminde ters döner?",
+        "options": [
+            "Jüpiter",
+            "Venüs",
+            "Mars",
+            "Satürn"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7111,
+        "text": "Hangi ülkenin bayrağı dikdörtgen değildir?",
+        "options": [
+            "İsviçre",
+            "Nepal",
+            "Vatikan",
+            "Belçika"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnternette güvenli bağlantı sembolü nedir?",
+        "options": [
+            "Kilit",
+            "Anahtar",
+            "Kalkan",
+            "Tik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Ayasofya ne zaman camiye dönüştürülmüştür?",
+        "options": [
+            "1453 (ve tekrar 2020)",
+            "1071",
+            "1923",
+            "1800"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7043,
+        "text": "Ağaçların yaprakları genellikle ne renktir?",
+        "options": [
+            "Mavi",
+            "Sarı",
+            "Yeşil",
+            "Kırmızı"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7119,
+        "text": "Hangi ülke Eurovision'a en çok katılmıştır?",
+        "options": [
+            "İngiltere",
+            "Almanya",
+            "Fransa",
+            "İsveç"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7139,
+        "text": "Periyodik tablodaki ilk element hangisidir?",
+        "options": [
+            "Helyum",
+            "Hidrojen",
+            "Lityum",
+            "Berilyum"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7052,
+        "text": "Dünyanın en uzun yapısı hangisidir (tarihi)?",
+        "options": [
+            "Çin Seddi",
+            "Eyfel Kulesi",
+            "Piramitler",
+            "Özgürlük Anıtı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7112,
+        "text": "İnsan vücudundaki en küçük kemik hangisidir?",
+        "options": [
+            "Çekiç",
+            "Örs",
+            "Üzengi",
+            "Burun"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7120,
+        "text": "Bir satranç tahtasında kaç taş ile başlanır?",
+        "options": [
+            "16",
+            "32",
+            "64",
+            "20"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7129,
+        "text": "İnsan vücudundaki en büyük organ hangisidir?",
+        "options": [
+            "Karaciğer",
+            "Beyin",
+            "Deri",
+            "Kalp"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7141,
+        "text": "Hangi ülkenin sahili yoktur (denize kıyısı)?",
+        "options": [
+            "İtalya",
+            "Moğolistan",
+            "Japonya",
+            "Şili"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye'nin uluslararası telefon kodu nedir?",
+        "options": [
+            "+90",
+            "+1",
+            "+49",
+            "+33"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Mimar Sinan'ın 'Ustalık Eserim' dediği cami?",
+        "options": [
+            "Selimiye",
+            "Süleymaniye",
+            "Şehzadebaşı",
+            "Ayasofya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7057,
+        "text": "Bilgisayarın beyni olarak adlandırılan parça?",
+        "options": [
+            "RAM",
+            "CPU (İşlemci)",
+            "Mouse",
+            "Ekran"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7058,
+        "text": "Hangi gezegen \"Kızıl Gezegen\" olarak bilinir?",
+        "options": [
+            "Venüs",
+            "Jüpiter",
+            "Mars",
+            "Satürn"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7064,
+        "text": "Hangi ülkenin bayrağında ay ve yıldız vardır?",
+        "options": [
+            "Japonya",
+            "Türkiye",
+            "Almanya",
+            "İtalya"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7145,
+        "text": "Hangi enstrüman \"Yaylılar\" grubunda değildir?",
+        "options": [
+            "Keman",
+            "Viyola",
+            "Çello",
+            "Gitar"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7150,
+        "text": "Mimar Sinan'ın \"Kalfalık Eserim\" dediği eser?",
+        "options": [
+            "Selimiye",
+            "Süleymaniye",
+            "Şehzadebaşı",
+            "Mihrimah Sultan"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türk Bayrağındaki hilal ve yıldız ne renktir?",
+        "options": [
+            "Beyaz",
+            "Kırmızı",
+            "Sarı",
+            "Siyah"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7070,
+        "text": "\"Düşünüyorum, öyleyse varım\" sözü kime aittir?",
+        "options": [
+            "Sokrates",
+            "Platon",
+            "Descartes",
+            "Aristo"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7074,
+        "text": "Osmanlı'da Lale Devri hangi padişah dönemidir?",
+        "options": [
+            "III. Ahmet",
+            "I. Mahmut",
+            "II. Osman",
+            "IV. Murat"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7081,
+        "text": "Voleybolda bir takım sahada kaç kişiyle oynar?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "11"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7098,
+        "text": "Basketbol potasının yerden yüksekliği (metre)?",
+        "options": [
+            "2.50",
+            "3.05",
+            "3.50",
+            "4.00"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7106,
+        "text": "\"Yüzüklerin Efendisi\" serisinin yazarı kimdir?",
+        "options": [
+            "J.K. Rowling",
+            "J.R.R. Tolkien",
+            "George R.R. Martin",
+            "C.S. Lewis"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7127,
+        "text": "Hangi sanatçı \"Sürrealizm\" akımının öncüsüdür?",
+        "options": [
+            "Picasso",
+            "Dali",
+            "Monet",
+            "Rembrandt"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye'nin en uzun nehri (Tamamı Türkiye'de)?",
+        "options": [
+            "Kızılırmak",
+            "Yeşilırmak",
+            "Sakarya",
+            "Gediz"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Eurovision şarkı yarışmasını ilk kazanan Türk?",
+        "options": [
+            "Sertab Erener",
+            "Athena",
+            "Şebnem Paker",
+            "Hadise"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Guinness Rekorlar Kitabı ne rekorlarını tutar?",
+        "options": [
+            "Her türlü 'en'leri",
+            "Sadece spor",
+            "Sadece bilim",
+            "Sadece sanat"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7138,
+        "text": "Hangi hayvanın parmak izi insana en çok benzer?",
+        "options": [
+            "Şempanze",
+            "Koala",
+            "Goril",
+            "Orangutan"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Suda yaşayan en büyük memeli hayvan hangisidir?",
+        "options": [
+            "Mavi Balina",
+            "Köpek Balığı",
+            "Fil",
+            "Yunus"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7130,
+        "text": "Aspirin'in hammaddesi hangi ağaçtan elde edilir?",
+        "options": [
+            "Söğüt",
+            "Çam",
+            "Meşe",
+            "Kavak"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Avrupa Birliği'nin başkenti neresi kabul edilir?",
+        "options": [
+            "Brüksel",
+            "Strazburg",
+            "Berlin",
+            "Paris"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın en uzun nehrini hangi kıtada ararsınız?",
+        "options": [
+            "Afrika (Nil)",
+            "Güney Amerika (Amazon)",
+            "Asya (Yangtze)",
+            "Kuzey Amerika (Mississippi)"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7142,
+        "text": "Hangi savaş 100 yıl sürmüştür (Yüzyıl Savaşları)?",
+        "options": [
+            "99",
+            "100",
+            "116",
+            "120"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın 7 harikasından günümüze ulaşan tek yapı?",
+        "options": [
+            "Keops Piramidi",
+            "Babil'in Asma Bahçeleri",
+            "Zeus Heykeli",
+            "Artemis Tapınağı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7146,
+        "text": "Türkiye'de ilk demiryolu hattı nereye yapılmıştır?",
+        "options": [
+            "İzmir-Aydın",
+            "İstanbul-Edirne",
+            "Ankara-Eskişehir",
+            "Adana-Mersin"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye'nin en yüksek dağı Ağrı Dağı'nın diğer adı?",
+        "options": [
+            "Ararat",
+            "Erciyes",
+            "Süphan",
+            "Kaçkar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7095,
+        "text": "Fatih Sultan Mehmet İstanbul'u kaç yaşında fethetti?",
+        "options": [
+            "19",
+            "21",
+            "25",
+            "30"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7110,
+        "text": "Satranç şampiyonu Garry Kasparov'u yenen bilgisayar?",
+        "options": [
+            "Deep Blue",
+            "AlphaGo",
+            "Watson",
+            "Hal 9000"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7005,
+        "text": "Futbol maçları kaçar kişilik iki takım arasında oynanır?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7123,
+        "text": "Hangi ülke hem Asya hem Okyanusya kıtasında sayılabilir?",
+        "options": [
+            "Endonezya",
+            "Japonya",
+            "Filipinler",
+            "Yeni Zelanda"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın en kalabalık ülkesi hangisidir (2024 itibariyle)?",
+        "options": [
+            "Hindistan",
+            "Çin",
+            "ABD",
+            "Endonezya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "UNESCO Dünya Mirası listesindeki Safranbolu hangi ildedir?",
+        "options": [
+            "Karabük",
+            "Kastamonu",
+            "Bolu",
+            "Bartın"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın en kalabalık ülkesi hangisidir (2023 itibariyle)?",
+        "options": [
+            "Hindistan",
+            "Çin",
+            "ABD",
+            "Endonezya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7131,
+        "text": "Dünyanın en çok konuşulan dili (ana dil olarak) hangisidir?",
+        "options": [
+            "İngilizce",
+            "İspanyolca",
+            "Mandarin Çincesi",
+            "Hintçe"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7134,
+        "text": "Olimpiyat halkalarındaki mavi renk hangi kıtayı temsil eder?",
+        "options": [
+            "Avrupa",
+            "Asya",
+            "Amerika",
+            "Afrika"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın 7 harikasından biri olan Artemis Tapınağı nerededir?",
+        "options": [
+            "İzmir (Efes)",
+            "Aydın",
+            "Muğla",
+            "Antalya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7090,
+        "text": "Türkiye'nin ilk yerli otomobili (Devrim) kaç yılında üretildi?",
+        "options": [
+            "1950",
+            "1961",
+            "1970",
+            "1985"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 7114,
+        "text": "Dünyanın en uzun nehri hangisidir (tartışmalı da olsa genel kabul)?",
+        "options": [
+            "Nil",
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "GENEL_KULTUR",
+        "difficulty": "ZOR"
+    }
+]

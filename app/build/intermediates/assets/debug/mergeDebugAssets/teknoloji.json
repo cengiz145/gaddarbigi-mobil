@@ -1,0 +1,3107 @@
+[
+    {
+        "id": 8080,
+        "text": "NFC nedir?",
+        "options": [
+            "Yakın Alan İletişimi",
+            "Uzak Mesafe Erişimi",
+            "Yeni Dosya Sistemi",
+            "Ağ Bağlantı Hatası"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8098,
+        "text": "URL nedir?",
+        "options": [
+            "Web adresi",
+            "Kullanıcı adı",
+            "Şifre",
+            "Dosya boyutu"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8088,
+        "text": "Drone nedir?",
+        "options": [
+            "İnsansız hava aracı",
+            "Robot köpek",
+            "Akıllı saat",
+            "Elektrikli bisiklet"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8073,
+        "text": "GPU ne demektir?",
+        "options": [
+            "Grafik İşlemci",
+            "Genel İşlemci",
+            "Güç Ünitesi",
+            "Geçici Bellek"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8083,
+        "text": "Wikipedia nedir?",
+        "options": [
+            "İnternet ansiklopedisi",
+            "Oyun sitesi",
+            "Müzik grubu",
+            "Haber kanalı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8097,
+        "text": "Spam ne demektir?",
+        "options": [
+            "İstenmeyen posta",
+            "Hızlı internet",
+            "Güvenli bağlantı",
+            "Yeni güncelleme"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "USB ne işe yarar?",
+        "options": [
+            "İnternete girmeye",
+            "Veri aktarımına",
+            "Soğutmaya",
+            "Elektrik üretmeye"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "GPS ne işe yarar?",
+        "options": [
+            "Konum belirlemeye",
+            "İnternete girmeye",
+            "Fotoğraf çekmeye",
+            "Müzik dinlemeye"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Drone ne demektir?",
+        "options": [
+            "İnsansız Hava Aracı",
+            "Robot",
+            "Uydu",
+            "Kamera"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8032,
+        "text": "Tablet neye benzer?",
+        "options": [
+            "Büyük Telefona",
+            "Televizyona",
+            "Radyoya",
+            "Saate"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8050,
+        "text": "Modem ne işe yarar?",
+        "options": [
+            "İnternet bağlantısı sağlar",
+            "Müzik çalar",
+            "Resim çeker",
+            "Yemek pişirir"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8051,
+        "text": "HTTP açılımı nedir?",
+        "options": [
+            "HyperText Transfer Protocol",
+            "High Transfer Text Protocol",
+            "Hyper Transfer Text Program",
+            "Home Text Transfer Page"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8123,
+        "text": "Raspberry Pi nedir?",
+        "options": [
+            "Tek kartlı bilgisayar",
+            "Meyveli turta",
+            "Yazılım dili",
+            "Oyun konsolu"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8126,
+        "text": "OLED açılımı nedir?",
+        "options": [
+            "Organic Light Emitting Diode",
+            "Optical Light Energy Device",
+            "Organic Liquid Energy Display",
+            "Operational Light Emitting Diode"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8056,
+        "text": "1 Byte kaç bit eder?",
+        "options": [
+            "8",
+            "16",
+            "32",
+            "64"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8060,
+        "text": "BIOS nerede saklanır?",
+        "options": [
+            "ROM / Flash Bellek",
+            "RAM",
+            "Harddisk",
+            "Ekran Kartı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8077,
+        "text": "SMS'in açılımı nedir?",
+        "options": [
+            "Short Message Service",
+            "Super Message System",
+            "Smart Mobile Service",
+            "System Message Service"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8087,
+        "text": "4.5G neyi ifade eder?",
+        "options": [
+            "İnternet hızı neslini",
+            "Telefon modelini",
+            "Ekran boyutunu",
+            "Pil ömrünü"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "WhatsApp kime aittir?",
+        "options": [
+            "Meta (Facebook)",
+            "Google",
+            "Apple",
+            "Amazon"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "PDF'in açılımı nedir?",
+        "options": [
+            "Portable Document Format",
+            "Public Data File",
+            "Personal Design File",
+            "Photo Display Format"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Youtuber ne iş yapar?",
+        "options": [
+            "Video içerik üretir",
+            "Şarkı söyler",
+            "Dans eder",
+            "Yemek yapar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Spotify ne işe yarar?",
+        "options": [
+            "Müzik dinleme",
+            "Video izleme",
+            "Oyun oynama",
+            "Mesajlaşma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8029,
+        "text": "YouTube'da ne izlenir?",
+        "options": [
+            "Video",
+            "Radyo",
+            "Kitap",
+            "Resim"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8069,
+        "text": "RAM'in özelliği nedir?",
+        "options": [
+            "Geçici hafıza olması",
+            "Kalıcı hafıza olması",
+            "Sadece okunabilir olması",
+            "Yavaş olması"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8079,
+        "text": "SIM Kart ne işe yarar?",
+        "options": [
+            "Abone kimliğini tanımlar",
+            "Ekranı korur",
+            "Pili şarj eder",
+            "Sesi yükseltir"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Wi-Fi ne anlama gelir?",
+        "options": [
+            "Kablolu Bağlantı",
+            "Kablosuz Bağlantı",
+            "Uydu Bağlantısı",
+            "Radyo Bağlantısı"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "CPU'nun açılımı nedir?",
+        "options": [
+            "Central Processing Unit",
+            "Central Power Unit",
+            "Control Processing Unit",
+            "Computer Personal Unit"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "QR kodun anlamı nedir?",
+        "options": [
+            "Karekod",
+            "Barkod",
+            "Çizgi kod",
+            "Şifre"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8045,
+        "text": "QR kod ne ile okutulur?",
+        "options": [
+            "Kamera",
+            "Mikrofon",
+            "Hoparlör",
+            "Klavye"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8057,
+        "text": "IP adresi ne işe yarar?",
+        "options": [
+            "Cihazı tanımlar",
+            "Hızı artırır",
+            "Virüs siler",
+            "Ekranı temizler"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "QR kodun açılımı nedir?",
+        "options": [
+            "Quick Response",
+            "Quality Read",
+            "Question Right",
+            "Quick Read"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Twitch ne platformudur?",
+        "options": [
+            "Canlı yayın",
+            "Müzik",
+            "Alışveriş",
+            "Eğitim"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8016,
+        "text": "USB bellek ne işe yarar?",
+        "options": [
+            "Veri depolamak",
+            "Müzik çalmak",
+            "Resim çizmek",
+            "Oyun oynamak"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8042,
+        "text": "MP3 ne tür bir dosyadır?",
+        "options": [
+            "Ses",
+            "Video",
+            "Resim",
+            "Metin"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8047,
+        "text": "SpaceX'in sahibi kimdir?",
+        "options": [
+            "Elon Musk",
+            "Jeff Bezos",
+            "Bill Gates",
+            "Tim Cook"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8062,
+        "text": "HTML ne için kullanılır?",
+        "options": [
+            "Web sayfası oluşturmak",
+            "Resim düzenlemek",
+            "Müzik yapmak",
+            "Oyun oynamak"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8065,
+        "text": "Amazon'un sahibi kimdir?",
+        "options": [
+            "Jeff Bezos",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Tim Cook"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8117,
+        "text": "Google'ın ilk adı neydi?",
+        "options": [
+            "BackRub",
+            "Searcher",
+            "Finder",
+            "WebMaster"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "NFT neyin kısaltmasıdır?",
+        "options": [
+            "Non-Fungible Token",
+            "New File Type",
+            "No Fake Token",
+            "Network File Transfer"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8135,
+        "text": "İlk web tarayıcısı neydi?",
+        "options": [
+            "WorldWideWeb",
+            "Mosaic",
+            "Netscape",
+            "Explorer"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Apple'ın kurucusu kimdir?",
+        "options": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Jeff Bezos"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8149,
+        "text": ".gov uzantısı kime aittir?",
+        "options": [
+            "Devlet Kurumlarına",
+            "Şirketlere",
+            "Okullara",
+            "Derneklere"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8030,
+        "text": "Akıllı saat nereye takılır?",
+        "options": [
+            "Bileğe",
+            "Boyna",
+            "Cebe",
+            "Kulağa"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8037,
+        "text": "Windows'un kurucusu kimdir?",
+        "options": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Elon Musk",
+            "Mark Zuckerberg"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8043,
+        "text": "Hangisi Microsoft ürünüdür?",
+        "options": [
+            "Xbox",
+            "PlayStation",
+            "Nintendo",
+            "Wii"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8093,
+        "text": "Fiber internet ne kullanır?",
+        "options": [
+            "Işık sinyalleri",
+            "Radyo dalgaları",
+            "Ses dalgaları",
+            "Elektrik akımı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8122,
+        "text": "CAPTCHA ne için kullanılır?",
+        "options": [
+            "İnsan ve bot ayrımı",
+            "Şifre kırma",
+            "Hız testi",
+            "Virüs tarama"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8127,
+        "text": "404 hatası ne anlama gelir?",
+        "options": [
+            "Not Found (Bulunamadı)",
+            "Forbidden (Yasak)",
+            "Server Error (Sunucu Hatası)",
+            "Bad Request (Hatalı İstek)"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8139,
+        "text": "Facebook'un eski adı neydi?",
+        "options": [
+            "TheFacebook",
+            "FaceSmash",
+            "ConnectU",
+            "SocialNet"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir Byte kaç bitten oluşur?",
+        "options": [
+            "8",
+            "16",
+            "4",
+            "32"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir oyun motorudur?",
+        "options": [
+            "Unity",
+            "Photoshop",
+            "Premiere",
+            "Audition"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8009,
+        "text": "Hangisi bir arama motorudur?",
+        "options": [
+            "Google",
+            "Word",
+            "Excel",
+            "Paint"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8019,
+        "text": "WhatsApp ne için kullanılır?",
+        "options": [
+            "Mesajlaşmak",
+            "Yemek yapmak",
+            "Araba sürmek",
+            "Resim boyamak"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8040,
+        "text": "Facebook'un kurucusu kimdir?",
+        "options": [
+            "Mark Zuckerberg",
+            "Bill Gates",
+            "Steve Jobs",
+            "Jeff Bezos"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8053,
+        "text": "Yapay zeka kısaltması nedir?",
+        "options": [
+            "AI",
+            "VR",
+            "AR",
+            "PC"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8095,
+        "text": "Hangisi e-ticaret sitesidir?",
+        "options": [
+            "Amazon",
+            "Wikipedia",
+            "IMDb",
+            "CNN"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Akıllı saatler ne işe yarar?",
+        "options": [
+            "Adım sayar, nabız ölçer",
+            "Uçurur",
+            "Işınlar",
+            "Yemek yapar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "SSD'nin HDD'den farkı nedir?",
+        "options": [
+            "Daha hızlı olması",
+            "Daha yavaş olması",
+            "Daha büyük olması",
+            "Daha sesli olması"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Sıkıştırılmış dosya formatı?",
+        "options": [
+            ".rar / .zip",
+            ".doc",
+            ".txt",
+            ".mp3"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir kodlama dilidir?",
+        "options": [
+            "Java",
+            "Chrome",
+            "Firefox",
+            "Skype"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8049,
+        "text": "Android hangi şirkete aittir?",
+        "options": [
+            "Google",
+            "Apple",
+            "Microsoft",
+            "Amazon"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8140,
+        "text": "Hangisi Adobe ürünü değildir?",
+        "options": [
+            "AutoCAD",
+            "Photoshop",
+            "Illustrator",
+            "Premiere"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "USB belleğin diğer adı nedir?",
+        "options": [
+            "Flash Bellek",
+            "Ram",
+            "Rom",
+            "Harddisk"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Photoshop ne için kullanılır?",
+        "options": [
+            "Resim düzenleme",
+            "Müzik dinleme",
+            "Video izleme",
+            "Yazı yazma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8017,
+        "text": "Hangisi bir web tarayıcısıdır?",
+        "options": [
+            "Chrome",
+            "Outlook",
+            "Skype",
+            "Zoom"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8018,
+        "text": "Pili biten telefon ne yapılır?",
+        "options": [
+            "Şarj edilir",
+            "Atılır",
+            "Yıkanır",
+            "Isıtılır"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8044,
+        "text": "TikTok ne tür bir uygulamadır?",
+        "options": [
+            "Video paylaşım",
+            "Müzik dinleme",
+            "Kitap okuma",
+            "Harita"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8066,
+        "text": "Hangisi bir sunum programıdır?",
+        "options": [
+            "PowerPoint",
+            "Excel",
+            "Word",
+            "Access"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8071,
+        "text": "Kripto para birimi hangisidir?",
+        "options": [
+            "Bitcoin",
+            "Dolar",
+            "Euro",
+            "Altın"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8085,
+        "text": ".jpg uzantısı neyi ifade eder?",
+        "options": [
+            "Resim dosyası",
+            "Müzik dosyası",
+            "Video dosyası",
+            "Yazı dosyası"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8115,
+        "text": "Moore Yasası ne ile ilgilidir?",
+        "options": [
+            "Transistör sayısı",
+            "İnternet hızı",
+            "Pil ömrü",
+            "Ekran çözünürlüğü"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Tesla firması ne üretmektedir?",
+        "options": [
+            "Telefon",
+            "Elektrikli Otomobil",
+            "Uçak",
+            "Gemi"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "YouTube hangi yıl kurulmuştur?",
+        "options": [
+            "2005",
+            "2000",
+            "2010",
+            "1999"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8007,
+        "text": "Hangisi bir teknolojik alettir?",
+        "options": [
+            "Laptop",
+            "Masa",
+            "Sandalye",
+            "Perde"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8011,
+        "text": "Bilgisayarın ekranına ne denir?",
+        "options": [
+            "Monitör",
+            "Kasa",
+            "Fare",
+            "Klavye"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8024,
+        "text": "Hangisi bir işletim sistemidir?",
+        "options": [
+            "Windows",
+            "Office",
+            "Chrome",
+            "Firefox"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8035,
+        "text": "Hangisi bir e-posta servisidir?",
+        "options": [
+            "Gmail",
+            "Google Maps",
+            "YouTube",
+            "Netflix"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8048,
+        "text": "Hangisi internet hız birimidir?",
+        "options": [
+            "Mbps",
+            "Kg",
+            "Litre",
+            "Metre"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8119,
+        "text": "İlk SMS mesajında ne yazıyordu?",
+        "options": [
+            "Merry Christmas",
+            "Hello World",
+            "Test",
+            "Watson come here"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "5G teknolojisi neyi ifade eder?",
+        "options": [
+            "5. Nesil Mobil İletişim",
+            "5 GB internet",
+            "5 Günde devri alem",
+            "5. Gezegen"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir sosyal ağ değildir?",
+        "options": [
+            "Wikipedia",
+            "Facebook",
+            "LinkedIn",
+            "Pinterest"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir Microsoft ürünüdür?",
+        "options": [
+            "Windows",
+            "MacOS",
+            "Linux",
+            "Android"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "E-postada 'CC' ne anlama gelir?",
+        "options": [
+            "Bilgi (Carbon Copy)",
+            "Gizli",
+            "Konu",
+            "Gönderen"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir depolama birimidir?",
+        "options": [
+            "Harddisk",
+            "İşlemci",
+            "Ekran Kartı",
+            "Anakart"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8036,
+        "text": "Siri hangi markanın asistanıdır?",
+        "options": [
+            "Apple",
+            "Samsung",
+            "Huawei",
+            "Xiaomi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 8076,
+        "text": "İlk e-posta ne zaman gönderildi?",
+        "options": [
+            "1971",
+            "1980",
+            "1990",
+            "2000"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8090,
+        "text": "Bilgisayarda 'Geri Al' kısayolu?",
+        "options": [
+            "Ctrl+Z",
+            "Ctrl+Y",
+            "Ctrl+S",
+            "Ctrl+P"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8104,
+        "text": "Wi-Fi kelimesinin açılımı nedir?",
+        "options": [
+            "Wireless Fidelity",
+            "Wide Field",
+            "Wire Free",
+            "Hiçbiri (Pazarlama terimi)"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8108,
+        "text": "Linux çekirdeğini kim yazmıştır?",
+        "options": [
+            "Linus Torvalds",
+            "Richard Stallman",
+            "Ken Thompson",
+            "Dennis Ritchie"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8112,
+        "text": "Hangisi bir NoSQL veritabanıdır?",
+        "options": [
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL",
+            "Oracle"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8116,
+        "text": "Java dilinin maskotu hangisidir?",
+        "options": [
+            "Duke",
+            "Tux",
+            "Octocat",
+            "Gopher"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bilişim suçlarına ne ad verilir?",
+        "options": [
+            "Siber Suçlar",
+            "Adli Suçlar",
+            "Trafik Suçları",
+            "Mali Suçlar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "E-devlet şifresi nereden alınır?",
+        "options": [
+            "PTT",
+            "Nüfus Müdürlüğü",
+            "Bankalar",
+            "Belediye"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir programlama dilidir?",
+        "options": [
+            "Python",
+            "HTML",
+            "CSS",
+            "Excel"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "E-postada 'BCC' ne anlama gelir?",
+        "options": [
+            "Gizli Kopya",
+            "Bilgi",
+            "Konu",
+            "Alıcı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "JPEG ne tür bir dosya formatıdır?",
+        "options": [
+            "Resim",
+            "Video",
+            "Müzik",
+            "Metin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8001,
+        "text": "Hangisi bir bilgisayar parçasıdır?",
+        "options": [
+            "Fare",
+            "Kaşık",
+            "Kalem",
+            "Bardak"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8015,
+        "text": "Hangisi akıllı telefon markasıdır?",
+        "options": [
+            "Samsung",
+            "Nike",
+            "Adidas",
+            "Ülker"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8020,
+        "text": "Hangisi Apple markasının ürünüdür?",
+        "options": [
+            "iPhone",
+            "Galaxy",
+            "Xperia",
+            "Lumia"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8021,
+        "text": "Oyun oynamak için kullanılan araç?",
+        "options": [
+            "Oyun Konsolu",
+            "Hesap Makinesi",
+            "Yazıcı",
+            "Tarayıcı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8028,
+        "text": "Hangisi kablosuz bağlantı türüdür?",
+        "options": [
+            "Bluetooth",
+            "HDMI",
+            "USB",
+            "VGA"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8070,
+        "text": "Hangisi bir siber saldırı türüdür?",
+        "options": [
+            "Phishing (Oltalama)",
+            "Fishing (Balık tutma)",
+            "Running (Koşma)",
+            "Camping (Kamp yapma)"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8072,
+        "text": "NASA hangi ülkenin uzay ajansıdır?",
+        "options": [
+            "ABD",
+            "Rusya",
+            "Çin",
+            "Japonya"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8100,
+        "text": "Emoji kelimesi hangi dilden gelir?",
+        "options": [
+            "Japonca",
+            "İngilizce",
+            "Çince",
+            "Almanca"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "HTTP protokolü ne için kullanılır?",
+        "options": [
+            "Web sayfalarını görüntülemek için",
+            "Dosya indirmek için",
+            "Mail atmak için",
+            "Oyun oynamak için"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bilgisayar ekranına ne ad verilir?",
+        "options": [
+            "Monitör",
+            "Kasa",
+            "Klavye",
+            "Fare"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir antivirüs programıdır?",
+        "options": [
+            "Kaspersky",
+            "Photoshop",
+            "Word",
+            "Chrome"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8026,
+        "text": "Hangisi dijital müzik platformudur?",
+        "options": [
+            "Spotify",
+            "Photoshop",
+            "Excel",
+            "PowerPoint"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8041,
+        "text": "Hangisi bir anti-virüs programıdır?",
+        "options": [
+            "Avast",
+            "Chrome",
+            "VLC",
+            "WinRAR"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8046,
+        "text": "Hangisi sanal gerçeklik gözlüğüdür?",
+        "options": [
+            "VR",
+            "Gözlük",
+            "Dürbün",
+            "Mercek"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8102,
+        "text": "HTTP protokolünü kim icat etmiştir?",
+        "options": [
+            "Tim Berners-Lee",
+            "Bill Gates",
+            "Vint Cerf",
+            "Linus Torvalds"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8131,
+        "text": "QR Kod kaç yılında icat edilmiştir?",
+        "options": [
+            "1994",
+            "2000",
+            "2005",
+            "2010"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi tuş büyük harf kilidini açar?",
+        "options": [
+            "Caps Lock",
+            "Shift",
+            "Tab",
+            "Alt"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8061,
+        "text": "Hangisi en popüler video formatıdır?",
+        "options": [
+            "MP4",
+            "MP3",
+            "JPG",
+            "TXT"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8089,
+        "text": "Hangisi kod yazılan bir platformdur?",
+        "options": [
+            "GitHub",
+            "Instagram",
+            "Pinterest",
+            "Snapchat"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8094,
+        "text": "Steve Jobs hangi şirketin CEO'suydu?",
+        "options": [
+            "Apple",
+            "Microsoft",
+            "Intel",
+            "IBM"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8137,
+        "text": "Amazon'un sesli asistanı hangisidir?",
+        "options": [
+            "Alexa",
+            "Siri",
+            "Cortana",
+            "Bixby"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Android işletim sistemi kime aittir?",
+        "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "Samsung"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Elektriği ileten maddelere ne denir?",
+        "options": [
+            "İletken",
+            "Yalıtkan",
+            "Yarı İletken",
+            "Süper İletken"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Biyometrik sistemler neyi kullanmaz?",
+        "options": [
+            "Düşünce gücü",
+            "Parmak izi",
+            "Yüz tanıma",
+            "İris tarama"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8004,
+        "text": "Cep telefonunda fotoğraf çeken parça?",
+        "options": [
+            "Kamera",
+            "Mikrofon",
+            "Ekran",
+            "Pil"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8012,
+        "text": "Hangisi ses dinlemek için kullanılır?",
+        "options": [
+            "Kulaklık",
+            "Mikrofon",
+            "Kamera",
+            "Klavye"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8031,
+        "text": "Hangisi bir robot süpürge markasıdır?",
+        "options": [
+            "Xiaomi",
+            "Adidas",
+            "Puma",
+            "Nike"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8052,
+        "text": "Hangisi bir depolama birimi değildir?",
+        "options": [
+            "SSD",
+            "HDD",
+            "USB",
+            "CPU"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8082,
+        "text": "Hangisi Google'ın video platformudur?",
+        "options": [
+            "YouTube",
+            "Vimeo",
+            "Dailymotion",
+            "Twitch"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8138,
+        "text": "Hangisi Microsoft'un arama motorudur?",
+        "options": [
+            "Bing",
+            "Yahoo",
+            "DuckDuckGo",
+            "Yandex"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi Microsoft'un oyun konsoludur?",
+        "options": [
+            "Xbox",
+            "PlayStation",
+            "Switch",
+            "Wii"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi Google'ın e-posta servisidir?",
+        "options": [
+            "Gmail",
+            "Outlook",
+            "Yahoo",
+            "Yandex"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Zoom uygulaması ne amaçla kullanılır?",
+        "options": [
+            "Video konferans",
+            "Müzik dinleme",
+            "Film izleme",
+            "Oyun oynama"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir işletim sistemi değildir?",
+        "options": [
+            "Adobe",
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir mobil işletim sistemidir?",
+        "options": [
+            "Android",
+            "Windows 10",
+            "Ubuntu",
+            "MacOS"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Apple telefonlarının işletim sistemi?",
+        "options": [
+            "iOS",
+            "Android",
+            "Symbian",
+            "Windows Phone"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Pdf dosyalarını açan popüler program?",
+        "options": [
+            "Adobe Reader",
+            "Winamp",
+            "VLC",
+            "Paint"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8022,
+        "text": "Hangisi videolu görüşme uygulamasıdır?",
+        "options": [
+            "Zoom",
+            "Spotify",
+            "Netflix",
+            "Twitter"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8058,
+        "text": "Hangisi bir bulut depolama hizmetidir?",
+        "options": [
+            "Google Drive",
+            "Paint",
+            "Notepad",
+            "WinRAR"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8078,
+        "text": "Hangisi bir programlama dili değildir?",
+        "options": [
+            "Photoshop",
+            "Java",
+            "C++",
+            "Python"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8128,
+        "text": "İlk YouTube videosunu kim yüklemiştir?",
+        "options": [
+            "Jawed Karim",
+            "Chad Hurley",
+            "Steve Chen",
+            "Susan Wojcicki"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Siri hangi firmanın sesli asistanıdır?",
+        "options": [
+            "Apple",
+            "Google",
+            "Amazon",
+            "Microsoft"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi çevre dostu enerji kaynağıdır?",
+        "options": [
+            "Güneş",
+            "Kömür",
+            "Petrol",
+            "Doğalgaz"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir video dosyası uzantısıdır?",
+        "options": [
+            ".mp4",
+            ".mp3",
+            ".jpg",
+            ".txt"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "'Windows' işletim sistemi kime aittir?",
+        "options": [
+            "Microsoft",
+            "Apple",
+            "Google",
+            "IBM"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "1 Gigabyte (GB) kaç Megabyte (MB) tır?",
+        "options": [
+            "1024",
+            "1000",
+            "500",
+            "100"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bilgisayarda 'Kes' komutunun kısayolu?",
+        "options": [
+            "Ctrl + X",
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + Z"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8005,
+        "text": "Hangisi bir sosyal medya uygulamasıdır?",
+        "options": [
+            "Instagram",
+            "Hesap Makinesi",
+            "Takvim",
+            "Saat"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8008,
+        "text": "Televizyonu uzaktan kontrol eden cihaz?",
+        "options": [
+            "Kumanda",
+            "Müzik Seti",
+            "Telefon",
+            "Tablet"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8038,
+        "text": "Hangisi fotoğraf düzenleme programıdır?",
+        "options": [
+            "Photoshop",
+            "Word",
+            "Excel",
+            "Not Defteri"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8039,
+        "text": "Hangisi elektrikli otomobil markasıdır?",
+        "options": [
+            "Tesla",
+            "Ferrari",
+            "Lamborghini",
+            "Bugatti"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8084,
+        "text": "Hangisi bir Apple bilgisayar modelidir?",
+        "options": [
+            "MacBook",
+            "ThinkPad",
+            "Inspiron",
+            "Pavilion"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8111,
+        "text": "Transistör kaç yılında icat edilmiştir?",
+        "options": [
+            "1947",
+            "1955",
+            "1960",
+            "1930"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8124,
+        "text": "Hangisi bir kriptografi algoritmasıdır?",
+        "options": [
+            "RSA",
+            "HTML",
+            "SQL",
+            "CSS"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8141,
+        "text": "BIOS yerine gelen yeni teknoloji nedir?",
+        "options": [
+            "UEFI",
+            "CMOS",
+            "GPT",
+            "MBR"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8143,
+        "text": "SSD hangi özelliği ile HDD'den ayrılır?",
+        "options": [
+            "Hareketli parça içermez",
+            "Daha yavaştır",
+            "Daha ucuzdur",
+            "Daha seslidir"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İnternet dünyasında 'Link' ne demektir?",
+        "options": [
+            "Bağlantı",
+            "Resim",
+            "Video",
+            "Yazı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Sanal gerçeklik gözlüğü ile ne yapılır?",
+        "options": [
+            "3D sanal ortama girilir",
+            "Röntgen çekilir",
+            "Uzağı net görülür",
+            "Güneşten korunulur"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kripto paraların arkasındaki teknoloji?",
+        "options": [
+            "Blockchain",
+            "Cloud",
+            "Big Data",
+            "IoT"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dokunmatik ekranlarda kullanılan kalem?",
+        "options": [
+            "Stylus",
+            "Mouse",
+            "Touchpad",
+            "Joystick"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8033,
+        "text": "Hangisi internetten alışveriş sitesidir?",
+        "options": [
+            "Trendyol",
+            "Google",
+            "Facebook",
+            "Twitter"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8034,
+        "text": "Bilgisayarın beyni olarak bilinen parça?",
+        "options": [
+            "İşlemci (CPU)",
+            "Kasa",
+            "Fare",
+            "Klavye"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8064,
+        "text": "Hangisi Apple'ın kurucularından biridir?",
+        "options": [
+            "Steve Wozniak",
+            "Elon Musk",
+            "Jeff Bezos",
+            "Larry Page"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "'Bulut Bilişim' (Cloud Computing) nedir?",
+        "options": [
+            "Hava tahmini",
+            "İnternet üzerinden veri depolama/işleme",
+            "Uçak teknolojisi",
+            "Uydu haberleşmesi"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi bir web tarayıcısıdır (Browser)?",
+        "options": [
+            "Opera",
+            "Excel",
+            "Skype",
+            "VLC"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dünyanın en çok kullanılan arama motoru?",
+        "options": [
+            "Google",
+            "Bing",
+            "Yahoo",
+            "Yandex"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8010,
+        "text": "Elektrik olmadan çalışan alet hangisidir?",
+        "options": [
+            "Çekiç",
+            "Televizyon",
+            "Buzdolabı",
+            "Lamba"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8023,
+        "text": "Bilgisayardaki oku hareket ettiren nedir?",
+        "options": [
+            "Mouse",
+            "Ekran",
+            "Klavye",
+            "Hoparlör"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8025,
+        "text": "PDF dosyalarını açmak için ne kullanılır?",
+        "options": [
+            "Adobe Reader",
+            "Not Defteri",
+            "Paint",
+            "Hesap Makinesi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8113,
+        "text": "Ethernet teknolojisini kim icat etmiştir?",
+        "options": [
+            "Robert Metcalfe",
+            "Vint Cerf",
+            "Tim Berners-Lee",
+            "Steve Jobs"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "PDF formatının yaratıcısı hangi firmadır?",
+        "options": [
+            "Microsoft",
+            "Adobe",
+            "Google",
+            "Oracle"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Klavye üzerindeki en uzun tuş hangisidir?",
+        "options": [
+            "Space (Boşluk)",
+            "Enter",
+            "Shift",
+            "Backspace"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "'Fiber Optik' kablolar ne ile veri taşır?",
+        "options": [
+            "Işık",
+            "Elektrik",
+            "Ses",
+            "Radyo dalgaları"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8006,
+        "text": "Bilgisayarı açıp kapatan düğme hangisidir?",
+        "options": [
+            "Ses Tuşu",
+            "Güç Tuşu (Power)",
+            "Klavye",
+            "Fare"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "TEKNOLOJI",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8068,
+        "text": "Bluetooth teknolojisi ismini nereden alır?",
+        "options": [
+            "Bir Viking Kralından",
+            "Mavi bir diş fırçasından",
+            "Gökyüzü renginden",
+            "Bir çiçekten"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8132,
+        "text": "Hangisi bir 'Markup' (İşaretleme) dilidir?",
+        "options": [
+            "HTML",
+            "Python",
+            "C#",
+            "Java"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8133,
+        "text": "Y2K problemi hangi yıla geçişle ilgilidir?",
+        "options": [
+            "2000",
+            "1990",
+            "2010",
+            "1999"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi bir antivirüs programı markasıdır?",
+        "options": [
+            "Kaspersky",
+            "Photoshop",
+            "Word",
+            "Chrome"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Elektrikli araçlarda motor ne ile çalışır?",
+        "options": [
+            "Elektrik ve Batarya",
+            "Benzin",
+            "Dizel",
+            "Kömür"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8003,
+        "text": "İnternete girmek için hangisine bağlanırız?",
+        "options": [
+            "Musluk",
+            "Wi-Fi",
+            "Priz",
+            "Radyo"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8013,
+        "text": "E-posta göndermek için neye ihtiyaç vardır?",
+        "options": [
+            "İnternet",
+            "Televizyon",
+            "Radyo",
+            "Fırın"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8081,
+        "text": "Tesla otomobillerinin en belirgin özelliği?",
+        "options": [
+            "Elektrikli olması",
+            "Uçabilmesi",
+            "Benzinle çalışması",
+            "Suda gitmesi"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8092,
+        "text": "Hangisi bir veri tabanı yönetim sistemidir?",
+        "options": [
+            "MySQL",
+            "Excel",
+            "Notepad",
+            "Paint"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8101,
+        "text": "İlk programlanabilir bilgisayar hangisidir?",
+        "options": [
+            "ENIAC",
+            "UNIVAC",
+            "Z3",
+            "Colossus"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8114,
+        "text": "Dünyadaki ilk domain (alan adı) hangisidir?",
+        "options": [
+            "symbolics.com",
+            "google.com",
+            "ibm.com",
+            "apple.com"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İlk cep telefonunu üreten firma hangisidir?",
+        "options": [
+            "Nokia",
+            "Motorola",
+            "Samsung",
+            "Apple"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangi programlama dili 'yılan' adını taşır?",
+        "options": [
+            "Java",
+            "C++",
+            "Python",
+            "Ruby"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Uzaya gönderilen ilk yapay uydu hangisidir?",
+        "options": [
+            "Apollo 11",
+            "Sputnik 1",
+            "Voyager",
+            "Hubble"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi Microsoft Office programı değildir?",
+        "options": [
+            "Photoshop",
+            "Word",
+            "Excel",
+            "PowerPoint"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8002,
+        "text": "Bilgisayarda yazı yazmak için ne kullanılır?",
+        "options": [
+            "Klavye",
+            "Hoparlör",
+            "Kamera",
+            "Yazıcı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8014,
+        "text": "Arabaların yolunu bulmasını sağlayan sistem?",
+        "options": [
+            "GPS",
+            "ABS",
+            "ESP",
+            "MP3"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8075,
+        "text": "İnternet adreslerinde 'com' ne anlama gelir?",
+        "options": [
+            "Commercial (Ticari)",
+            "Computer (Bilgisayar)",
+            "Common (Ortak)",
+            "Communication (İletişim)"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8103,
+        "text": "Python programlama dili ismini nereden alır?",
+        "options": [
+            "Bir yılandan",
+            "Monty Python grubundan",
+            "Bir mitolojik tanrıdan",
+            "Kurucusunun soyadından"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8110,
+        "text": "Bitcoin'in mucidi olarak bilinen takma isim?",
+        "options": [
+            "Satoshi Nakamoto",
+            "Vitalik Buterin",
+            "Hal Finney",
+            "Nick Szabo"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Apple firmasının kurucularından biri kimdir?",
+        "options": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Elon Musk",
+            "Jeff Bezos"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilgisayarda 'Kes' işleminin kısayolu nedir?",
+        "options": [
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + X",
+            "Ctrl + Z"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi bir sosyal medya platformu değildir?",
+        "options": [
+            "Excel",
+            "Instagram",
+            "X (Twitter)",
+            "TikTok"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi bir akıllı telefon markası değildir?",
+        "options": [
+            "Canon",
+            "Xiaomi",
+            "Huawei",
+            "Oppo"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8091,
+        "text": "İlk cep telefonu görüşmesi hangi yıl yapıldı?",
+        "options": [
+            "1973",
+            "1985",
+            "1990",
+            "2000"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8099,
+        "text": "Hangisi Linux tabanlı bir işletim sistemidir?",
+        "options": [
+            "Ubuntu",
+            "Windows 10",
+            "iOS",
+            "macOS Big Sur"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8105,
+        "text": "Android işletim sisteminin yaratıcısı kimdir?",
+        "options": [
+            "Andy Rubin",
+            "Steve Jobs",
+            "Larry Page",
+            "Sergey Brin"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bluetooth teknolojisi adını nereden almıştır?",
+        "options": [
+            "Bir Viking Kralından",
+            "Mavi bir dişten",
+            "Bir mühendisten",
+            "Bir şehirden"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilgisayarın beyni olarak adlandırılan parça?",
+        "options": [
+            "İşlemci (CPU)",
+            "Ram",
+            "Ekran Kartı",
+            "Anakart"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnternet sitelerinin uzantısı hangisi olamaz?",
+        "options": [
+            ".exe",
+            ".com",
+            ".net",
+            ".org"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8059,
+        "text": "Hangi tuş kombinasyonu 'Kopyala' işlemi yapar?",
+        "options": [
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + X",
+            "Ctrl + Z"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8074,
+        "text": "Hangisi bir Microsoft işletim sürümü değildir?",
+        "options": [
+            "Windows 9",
+            "Windows 7",
+            "Windows 10",
+            "Windows XP"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8106,
+        "text": "QWERTY klavye düzeni neye göre tasarlanmıştır?",
+        "options": [
+            "Hızlı yazmak için",
+            "Daktilo tuşlarının sıkışmaması için",
+            "Alfabetik sırayla",
+            "Rastgele"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8125,
+        "text": "Deep Blue hangi satranç şampiyonunu yenmiştir?",
+        "options": [
+            "Garry Kasparov",
+            "Magnus Carlsen",
+            "Bobby Fischer",
+            "Anatoly Karpov"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi Apple tarafından üretilen bir üründür?",
+        "options": [
+            "iPhone",
+            "Galaxy",
+            "PlayStation",
+            "Xbox"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8107,
+        "text": "İlk bilgisayar faresi (mouse) neden yapılmıştı?",
+        "options": [
+            "Plastik",
+            "Metal",
+            "Ahşap",
+            "Cam"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnternet bağlantısı sağlayan cihazın adı nedir?",
+        "options": [
+            "Modem",
+            "Klavye",
+            "Mouse",
+            "Yazıcı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İnternet alan adlarında '.com' neyi ifade eder?",
+        "options": [
+            "Ticari (Commercial)",
+            "İletişim (Communication)",
+            "Bilgisayar (Computer)",
+            "Topluluk (Community)"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "PDF dosya formatını hangi firma geliştirmiştir?",
+        "options": [
+            "Adobe",
+            "Microsoft",
+            "Google",
+            "Apple"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi Apple'ın sesli asistanı Siri'ye benzer?",
+        "options": [
+            "Google Asistan",
+            "Cortana",
+            "Alexa",
+            "Hepsi"
+        ],
+        "correctAnswerIndex": 3,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Kripto paraların ilki ve en bilineni hangisidir?",
+        "options": [
+            "Ethereum",
+            "Ripple",
+            "Bitcoin",
+            "Litecoin"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "ChatGPT hangi firma tarafından geliştirilmiştir?",
+        "options": [
+            "OpenAI",
+            "Google",
+            "Microsoft",
+            "Meta"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilgisayarda 'Kopyala' komutunun kısayolu nedir?",
+        "options": [
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + X",
+            "Ctrl + Z"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8054,
+        "text": "Hangisi açık kaynak kodlu bir işletim sistemidir?",
+        "options": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "iOS"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8118,
+        "text": "Hangi programlama dili 'C' dilinden türememiştir?",
+        "options": [
+            "Pascal",
+            "C++",
+            "C#",
+            "Objective-C"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8130,
+        "text": "DVD kapasitesi (tek katman) yaklaşık ne kadardır?",
+        "options": [
+            "4.7 GB",
+            "700 MB",
+            "25 GB",
+            "1 TB"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hangisi bir kodlama platformudur (Çocuklar için)?",
+        "options": [
+            "Scratch",
+            "Paint",
+            "Word",
+            "Excel"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8136,
+        "text": "Silikon Vadisi (Silicon Valley) hangi eyalettedir?",
+        "options": [
+            "California",
+            "New York",
+            "Texas",
+            "Florida"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8146,
+        "text": "Hangisi bir 'Wearable' (Giyilebilir) teknolojidir?",
+        "options": [
+            "Akıllı Saat",
+            "Masaüstü PC",
+            "Yazıcı",
+            "Sunucu"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Windows işletim sisteminin sahibi hangi şirkettir?",
+        "options": [
+            "Apple",
+            "IBM",
+            "Microsoft",
+            "Google"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bitcoin'in mucidi olarak bilinen takma isim nedir?",
+        "options": [
+            "Satoshi Nakamoto",
+            "Vitalik Buterin",
+            "Elon Musk",
+            "Craig Wright"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Instagram'da paylaşılan anlık hikayelere ne denir?",
+        "options": [
+            "Story",
+            "Post",
+            "Reels",
+            "DM"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8027,
+        "text": "Klavyede boşluk bırakmak için hangi tuş kullanılır?",
+        "options": [
+            "Space",
+            "Enter",
+            "Shift",
+            "Ctrl"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8150,
+        "text": "En çok kullanılan mobil işletim sistemi hangisidir?",
+        "options": [
+            "Android",
+            "iOS",
+            "Windows Mobile",
+            "Symbian"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8055,
+        "text": "Hangi şirket Java dilini geliştirmiştir (ilk başta)?",
+        "options": [
+            "Sun Microsystems",
+            "Microsoft",
+            "Apple",
+            "IBM"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8109,
+        "text": "Hangi şirket ilk akıllı telefonu (Simon) üretmiştir?",
+        "options": [
+            "IBM",
+            "Apple",
+            "Nokia",
+            "Motorola"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "World Wide Web (WWW) kim tarafından icat edilmiştir?",
+        "options": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Tim Berners-Lee",
+            "Mark Zuckerberg"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8063,
+        "text": "Dünyanın ilk bilgisayar programcısı kim kabul edilir?",
+        "options": [
+            "Ada Lovelace",
+            "Alan Turing",
+            "Bill Gates",
+            "Steve Jobs"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8121,
+        "text": "Hangi gezegene gönderilen araçta 'Altın Plak' vardır?",
+        "options": [
+            "Voyager (Uzay Sondası)",
+            "Mars Rover",
+            "Apollo 11",
+            "Hubble"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Elon Musk hangi şirketi satın alıp adını X yapmıştır?",
+        "options": [
+            "Twitter",
+            "Facebook",
+            "Instagram",
+            "Snapchat"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Mavi ekran hatası hangi işletim sisteminde meşhurdur?",
+        "options": [
+            "Windows",
+            "MacOS",
+            "Linux",
+            "Android"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İlk elektronik posta (e-mail) ne zaman gönderilmiştir?",
+        "options": [
+            "1971",
+            "1980",
+            "1990",
+            "1960"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8086,
+        "text": "Modem ile bilgisayar arasındaki kablo genellikle nedir?",
+        "options": [
+            "Ethernet",
+            "HDMI",
+            "VGA",
+            "Power"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8142,
+        "text": "Hangi tuş 'Tam Ekran' yapar (genellikle tarayıcılarda)?",
+        "options": [
+            "F11",
+            "F5",
+            "F12",
+            "Esc"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8067,
+        "text": "Görüntü kalitesi en yüksek olan hangisidir (genellikle)?",
+        "options": [
+            "4K",
+            "HD",
+            "SD",
+            "VGA"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8148,
+        "text": "Hangisi siber güvenlikte 'Beyaz Şapkalı' anlamına gelir?",
+        "options": [
+            "İyi niyetli hacker",
+            "Kötü niyetli hacker",
+            "Devlet ajanı",
+            "Acemi hacker"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilgisayarın beyni olarak adlandırılan parça hangisidir?",
+        "options": [
+            "RAM",
+            "Harddisk",
+            "İşlemci (CPU)",
+            "Ekran Kartı"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "3D yazıcılar ana hammadde olarak genellikle ne kullanır?",
+        "options": [
+            "Kağıt",
+            "Mürekkep",
+            "Filament (Plastik)",
+            "Metal"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Linux işletim sisteminin sembolü olan hayvan hangisidir?",
+        "options": [
+            "Penguen",
+            "Kedi",
+            "Köpek",
+            "Aslan"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8147,
+        "text": "Tesla'nın CEO'su Elon Musk hangi şirketin de kurucusudur?",
+        "options": [
+            "SpaceX",
+            "Amazon",
+            "Blue Origin",
+            "Virgin"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8129,
+        "text": "Hangisi Apple tarafından geliştirilen programlama dilidir?",
+        "options": [
+            "Swift",
+            "Kotlin",
+            "Go",
+            "Rust"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8144,
+        "text": "İlk atari oyunlarından biri olan 'Pong' kaç yılında çıktı?",
+        "options": [
+            "1972",
+            "1980",
+            "1985",
+            "1990"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Google'ın sahibi olduğu video izleme platformu hangisidir?",
+        "options": [
+            "Vimeo",
+            "Netflix",
+            "YouTube",
+            "Twitch"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8134,
+        "text": "Hangi şirket Motorola'yı satın almıştır (daha sonra sattı)?",
+        "options": [
+            "Google",
+            "Microsoft",
+            "Samsung",
+            "Apple"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8096,
+        "text": "Mavi ekran hatası (BSOD) hangi işletim sisteminde meşhurdur?",
+        "options": [
+            "Windows",
+            "Linux",
+            "macOS",
+            "Android"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın en zengin insanlarından biri olan Amazon'un kurucusu?",
+        "options": [
+            "Jeff Bezos",
+            "Elon Musk",
+            "Bill Gates",
+            "Warren Buffett"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8145,
+        "text": "CERN (World Wide Web'in doğduğu yer) hangi ülkededir (sınırında)?",
+        "options": [
+            "İsviçre",
+            "Almanya",
+            "İtalya",
+            "İngiltere"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilgisayarda verilerin kalıcı olarak saklandığı parça hangisidir?",
+        "options": [
+            "Harddisk (Sabit Disk)",
+            "RAM",
+            "Ekran Kartı",
+            "Anakart"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Mars'a insan göndermeyi hedefleyen SpaceX şirketinin CEO'su kimdir?",
+        "options": [
+            "Jeff Bezos",
+            "Elon Musk",
+            "Richard Branson",
+            "Bill Gates"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bilgisayarı yeniden başlatmak için kullanılan kısayol (Genellikle)?",
+        "options": [
+            "Alt + F4 (Kapatma menüsü)",
+            "Ctrl + Alt + Del",
+            "F5",
+            "Esc"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İlk programlanabilir bilgisayar olarak kabul edilen makine hangisidir?",
+        "options": [
+            "ENIAC",
+            "Macintosh",
+            "Commodore 64",
+            "Altair"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 8120,
+        "text": "Bluetooth teknolojisi hangi şirket tarafından geliştirilmiştir (öncülük)?",
+        "options": [
+            "Ericsson",
+            "Nokia",
+            "Sony",
+            "Samsung"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "TEKNOLOJI",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Yapay zekanın satranç şampiyonu Kasparov'u yendiği bilgisayar hangisidir?",
+        "options": [
+            "Deep Blue",
+            "AlphaGo",
+            "Watson",
+            "Siri"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Dünyanın en zengin insanlarından biri olan Bill Gates hangi şirketin kurucusudur?",
+        "options": [
+            "Microsoft",
+            "Apple",
+            "Amazon",
+            "Tesla"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Yapay zeka alanında testi geçen makinenin düşünebildiğini öne süren testin adı nedir?",
+        "options": [
+            "IQ Testi",
+            "Turing Testi",
+            "Rorschach Testi",
+            "Voight-Kampff Testi"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    }
+]

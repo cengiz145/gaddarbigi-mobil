@@ -1,0 +1,3037 @@
+[
+    {
+        "id": 6115,
+        "text": "Hangisi kış sporudur?",
+        "options": [
+            "Yüzme",
+            "Kayak",
+            "Futbol",
+            "Basketbol"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Masa tenisi diğer adı?",
+        "options": [
+            "Ping Pong",
+            "Badminton",
+            "Squash",
+            "Tenis"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6110,
+        "text": "Formula 1 ne yarışıdır?",
+        "options": [
+            "Araba",
+            "Motosiklet",
+            "Bisiklet",
+            "Koşu"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir su sporudur?",
+        "options": [
+            "Sutopu",
+            "Hentbol",
+            "Basketbol",
+            "Voleybol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6124,
+        "text": "Teniste 0 puana ne denir?",
+        "options": [
+            "Zero",
+            "Null",
+            "Love",
+            "Out"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kite Surfing ne demektir?",
+        "options": [
+            "Uçurtma Sörfü",
+            "Rüzgar Sörfü",
+            "Dalga Sörfü",
+            "Kum Sörfü"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Badminton ne ile oynanır?",
+        "options": [
+            "Tüylü top",
+            "Tenis topu",
+            "Plastik top",
+            "Demir top"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Sarı kart ne anlama gelir?",
+        "options": [
+            "Uyarı",
+            "İhraç",
+            "Gol",
+            "Ofsayt"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Buz hokeyi nerede oynanır?",
+        "options": [
+            "Buz pistinde",
+            "Çimde",
+            "Salonda",
+            "Kumda"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Beyzbol sopasına ne denir?",
+        "options": [
+            "Bat",
+            "Raket",
+            "Stick",
+            "Club"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6,
+        "text": "Tenis sporu ne ile oynanır?",
+        "options": [
+            "Sopa",
+            "Raket",
+            "Eldiven",
+            "Kask"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6103,
+        "text": "Hangi sporda 'File' yoktur?",
+        "options": [
+            "Voleybol",
+            "Tenis",
+            "Futbol",
+            "Badminton"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6112,
+        "text": "Kaleci hangi sporda vardır?",
+        "options": [
+            "Basketbol",
+            "Voleybol",
+            "Futbol",
+            "Tenis"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir takım sporudur?",
+        "options": [
+            "Ragbi",
+            "Eskrim",
+            "Halter",
+            "Okçuluk"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir motor sporudur?",
+        "options": [
+            "MotoGP",
+            "Bisiklet",
+            "Maraton",
+            "Triatlon"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6114,
+        "text": "Masa tenisine ne ad verilir?",
+        "options": [
+            "Ping Pong",
+            "Badminton",
+            "Squash",
+            "Kriket"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Boks maçları nerede yapılır?",
+        "options": [
+            "Ring",
+            "Kort",
+            "Saha",
+            "Tatami"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hentbol kaç kişiyle oynanır?",
+        "options": [
+            "7",
+            "11",
+            "6",
+            "5"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6108,
+        "text": "Tenis maçları nerede oynanır?",
+        "options": [
+            "Kort",
+            "Saha",
+            "Pist",
+            "Parkur"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6109,
+        "text": "Hangisi takım sporu değildir?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Voleybol",
+            "Bireysel Yüzme"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi spor 'Ring'de yapılmaz?",
+        "options": [
+            "Judo",
+            "Boks",
+            "Kick Boks",
+            "Muay Thai"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kırmızı kart ne anlama gelir?",
+        "options": [
+            "Oyun dışı (İhraç)",
+            "Uyarı",
+            "Gol iptali",
+            "Penaltı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Teniste 0 puana ne ad verilir?",
+        "options": [
+            "Null",
+            "Zero",
+            "Love",
+            "Ace"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Basketbolda steps ne demektir?",
+        "options": [
+            "Hatalı yürüme",
+            "Hatalı pas",
+            "Hatalı şut",
+            "Faul"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Teniste puanlar nasıl ilerler?",
+        "options": [
+            "15, 30, 40, Oyun",
+            "1, 2, 3, 4",
+            "10, 20, 30, 40",
+            "5, 10, 15, 20"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir futbol maçı kaç dakikadır?",
+        "options": [
+            "90",
+            "45",
+            "100",
+            "60"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6152,
+        "text": "Badminton topuna ne ad verilir?",
+        "options": [
+            "Tüy top",
+            "Plastik top",
+            "Mantar",
+            "Kuş"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6107,
+        "text": "Olimpiyat halkaları kaç tanedir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6132,
+        "text": "Hangi takım NBA takımı değildir?",
+        "options": [
+            "Lakers",
+            "Bulls",
+            "Celtics",
+            "Barcelona"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6136,
+        "text": "Roger Federer hangi sporu yapar?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Tenis",
+            "Golf"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Maraton koşusu kaç kilometredir?",
+        "options": [
+            "40 km",
+            "42.195 km",
+            "50 km",
+            "100 km"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Teniste 'Deuce' ne anlama gelir?",
+        "options": [
+            "40-40 Beraberlik",
+            "Maç sayısı",
+            "Oyun sayısı",
+            "Hata"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Satrançta 'Şah-Mat' ne demektir?",
+        "options": [
+            "Oyunun bitmesi",
+            "Şahın kaçması",
+            "Vezirin alınması",
+            "Beraberlik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi spor takım sporu değildir?",
+        "options": [
+            "Tenis (Tekler)",
+            "Futbol",
+            "Basketbol",
+            "Voleybol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6106,
+        "text": "Hangisi bir dövüş sporu değildir?",
+        "options": [
+            "Boks",
+            "Judo",
+            "Güreş",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6134,
+        "text": "Sumo güreşi hangi ülkeye özgüdür?",
+        "options": [
+            "Çin",
+            "Japonya",
+            "Kore",
+            "Moğolistan"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6150,
+        "text": "FIFA'nın merkezi hangi ülkededir?",
+        "options": [
+            "Fransa",
+            "İsviçre",
+            "Almanya",
+            "İngiltere"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "NBA'de bir periyot kaç dakikadır?",
+        "options": [
+            "12",
+            "10",
+            "15",
+            "8"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Futbolda 'hat-trick' ne demektir?",
+        "options": [
+            "Bir maçta 3 gol atmak",
+            "Kırmızı kart görmek",
+            "Penaltı kurtarmak",
+            "Kendi kalesine gol atmak"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Euroleague hangi spor dalındadır?",
+        "options": [
+            "Basketbol",
+            "Futbol",
+            "Voleybol",
+            "Hentbol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6104,
+        "text": "Penaltı atışı hangi sporda vardır?",
+        "options": [
+            "Basketbol",
+            "Futbol",
+            "Voleybol",
+            "Tenis"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6138,
+        "text": "Yüzmede 'kelebek' neyi ifade eder?",
+        "options": [
+            "Bir stil",
+            "Mayonun markası",
+            "Havuzun şekli",
+            "Hakem işareti"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Buz hokeyi maçları nerede oynanır?",
+        "options": [
+            "Buz Pisti",
+            "Çim Saha",
+            "Parke Zemin",
+            "Kum Saha"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Triatlon hangi branşlardan oluşur?",
+        "options": [
+            "Yüzme, Bisiklet, Koşu",
+            "Koşu, Atma, Atlama",
+            "Yüzme, Kürek, Yelken",
+            "Futbol, Basketbol, Voleybol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi takım NBA'de mücadele etmez?",
+        "options": [
+            "Real Madrid",
+            "Lakers",
+            "Bulls",
+            "Celtics"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Olimpiyat meşalesi nerede yakılır?",
+        "options": [
+            "Olimpos Dağı (Yunanistan)",
+            "Paris",
+            "Londra",
+            "Roma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6129,
+        "text": "Naim Süleymanoğlu'nun lakabı neydi?",
+        "options": [
+            "Cep Herkülü",
+            "Demir Yumruk",
+            "Rüzgarın Oğlu",
+            "Türk Aslanı"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6147,
+        "text": "NBA logosundaki silüet kime aittir?",
+        "options": [
+            "Michael Jordan",
+            "Jerry West",
+            "Kobe Bryant",
+            "LeBron James"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi bir savunma sporu değildir?",
+        "options": [
+            "Golf",
+            "Judo",
+            "Tekvando",
+            "Karate"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangisi kış olimpiyatları sporudur?",
+        "options": [
+            "Kayakla Atlama",
+            "Yüzme",
+            "Atletizm",
+            "Okçuluk"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Naim Süleymanoğlu'nun lakabı nedir?",
+        "options": [
+            "Cep Herkülü",
+            "Demir Adam",
+            "Rüzgarın Oğlu",
+            "Türk Kasırgası"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6105,
+        "text": "NBA hangi ülkenin basketbol ligidir?",
+        "options": [
+            "İspanya",
+            "ABD",
+            "Çin",
+            "Almanya"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6116,
+        "text": "Usain Bolt hangi dalda rekortmendir?",
+        "options": [
+            "Yüzme",
+            "Koşu (Sprint)",
+            "Güreş",
+            "Boks"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Masa tenisinde set kaç sayıda biter?",
+        "options": [
+            "11",
+            "21",
+            "15",
+            "25"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi sporda 'ofsayt' kuralı vardır?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Voleybol",
+            "Tenis"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Amerikan futbolunda gol ne demektir?",
+        "options": [
+            "Touchdown",
+            "Goal",
+            "Basket",
+            "Point"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6122,
+        "text": "Michael Jordan hangi sporu yapmıştır?",
+        "options": [
+            "Golf",
+            "Basketbol",
+            "Futbol",
+            "Beyzbol (Kısa süre)"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Teniste 0 puan ne olarak adlandırılır?",
+        "options": [
+            "Love",
+            "Zero",
+            "Nil",
+            "Null"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Voleybolda libero oyuncusu ne yapamaz?",
+        "options": [
+            "Servis atamaz / Smaç vuramaz",
+            "Manşet alamaz",
+            "Pas veremez",
+            "Sahaya giremez"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 28,
+        "text": "Hangi spor dalı suda (havuzda) yapılır?",
+        "options": [
+            "Jimnastik",
+            "Yüzme",
+            "Eskrim",
+            "Judo"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 38,
+        "text": "Futbolda \"VAR\" sistemi ne anlama gelir?",
+        "options": [
+            "Video Yardımcı Hakem",
+            "Veri Analiz Raporu",
+            "Vuruş Açısı Rekoru",
+            "Vakit Ayarlama Resitali"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6131,
+        "text": "Futbolda ofsayt kuralı neyle ilgilidir?",
+        "options": [
+            "Elle oynamakla",
+            "Oyuncunun pozisyonuyla",
+            "Faul yapmakla",
+            "Gol sevinciyle"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Olimpiyat halkaları kaç renkten oluşur?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6144,
+        "text": "Hangi ülke kriket sporunun anavatanıdır?",
+        "options": [
+            "Hindistan",
+            "İngiltere",
+            "Avustralya",
+            "Güney Afrika"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6149,
+        "text": "Atletizmde 'Dekatlon' kaç daldan oluşur?",
+        "options": [
+            "5",
+            "7",
+            "10",
+            "12"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6160,
+        "text": "Buz hokeyinde kullanılan diske ne denir?",
+        "options": [
+            "Puck",
+            "Disk",
+            "Top",
+            "Taş"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Muhammed Ali hangi spor dalında ünlüdür?",
+        "options": [
+            "Boks",
+            "Güreş",
+            "Karate",
+            "Judo"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 42,
+        "text": "Futbolda \"Ofsayt\" kuralı neyle ilgilidir?",
+        "options": [
+            "Kalecinin topu elle tutmasıyla",
+            "Oyuncunun rakip kaleden, toptan ve rakip savunmadan daha ileride olmasıyla",
+            "Topun taca çıkmasıyla",
+            "Faul yapılmasıyla"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6111,
+        "text": "Maraton koşusu yaklaşık kaç kilometredir?",
+        "options": [
+            "10",
+            "21",
+            "42",
+            "100"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir basketbol maçı kaç periyottan oluşur?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kriket en çok hangi ülkelerde popülerdir?",
+        "options": [
+            "İngiltere, Hindistan, Avustralya",
+            "ABD",
+            "Brezilya",
+            "Rusya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 84,
+        "text": "Satranç tahtasında toplam kaç kare vardır?",
+        "options": [
+            "32",
+            "64",
+            "100",
+            "144"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6102,
+        "text": "Basketbol takımı sahada kaç kişiyle oynar?",
+        "options": [
+            "5",
+            "6",
+            "11",
+            "7"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6113,
+        "text": "Sarı ve kırmızı kart hangi sporda cezadır?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Golf",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Futbolda ofsayt kuralı ne zaman uygulanır?",
+        "options": [
+            "Rakip defansın arkasına sarkıldığında",
+            "Ceza sahası dışında",
+            "Korner atışında",
+            "Penaltı atışında"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bir bowling oyununda maksimum skor kaçtır?",
+        "options": [
+            "300",
+            "100",
+            "200",
+            "150"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Cristiano Ronaldo hangi ülke vatandaşıdır?",
+        "options": [
+            "Portekiz",
+            "Brezilya",
+            "İspanya",
+            "Arjantin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Formula 1'de 'Pole Pozisyonu' ne demektir?",
+        "options": [
+            "Yarışa en önde başlamak",
+            "Yarışı kazanmak",
+            "En hızlı turu atmak",
+            "Yarış dışı kalmak"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6121,
+        "text": "FIFA Dünya Kupası kaç yılda bir düzenlenir?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "id": 6137,
+        "text": "Amerikan Futbolu'nda sayı yapmaya ne denir?",
+        "options": [
+            "Gol",
+            "Sayı",
+            "Touchdown",
+            "Basket"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Usain Bolt hangi alanda rekorlara sahiptir?",
+        "options": [
+            "Yüzme",
+            "Atletizm (Koşu)",
+            "Uzun Atlama",
+            "Yüksek Atlama"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Tiger Woods hangi spor dalının efsanesidir?",
+        "options": [
+            "Golf",
+            "Tenis",
+            "Basketbol",
+            "Beyzbol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Hangi spor dalında 'Ace' terimi kullanılır?",
+        "options": [
+            "Tenis",
+            "Futbol",
+            "Basketbol",
+            "Güreş"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Formula 1'de damalı bayrak ne anlama gelir?",
+        "options": [
+            "Yarışın bittiği",
+            "Yarışın durdurulduğu",
+            "Tehlike olduğu",
+            "Diskalifiye"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Bowlingde tüm labutları devirmeye ne denir?",
+        "options": [
+            "Strike",
+            "Spare",
+            "Split",
+            "Gutter"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6126,
+        "text": "Muhammed Ali hangi spor dalının efsanesidir?",
+        "options": [
+            "Güreş",
+            "Boks",
+            "Judo",
+            "Karate"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6145,
+        "text": "Futbol topunun çevresi yaklaşık ne kadardır?",
+        "options": [
+            "50-60 cm",
+            "68-70 cm",
+            "80-90 cm",
+            "100 cm"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6151,
+        "text": "Hangi futbolcu 'El Diego' lakabıyla bilinir?",
+        "options": [
+            "Pele",
+            "Maradona",
+            "Messi",
+            "Ronaldo"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6158,
+        "text": "Hangi sporda 'Grand Slam' terimi kullanılır?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Tenis",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi spor dalında 'smaç' terimi kullanılır?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Yüzme",
+            "Güreş"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi spor dalında 'Rövaşata' terimi vardır?",
+        "options": [
+            "Basketbol",
+            "Futbol",
+            "Tenis",
+            "Voleybol"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bir futbol maçı normal süresi kaç dakikadır?",
+        "options": [
+            "45",
+            "90",
+            "100",
+            "60"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi spor 'kralların sporu' olarak bilinir?",
+        "options": [
+            "Tenis",
+            "Futbol",
+            "Golf",
+            "At Yarışı"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangisi atletizmde bir atma branşı değildir?",
+        "options": [
+            "Uzun Atlama",
+            "Gülle Atma",
+            "Cirit Atma",
+            "Çekiç Atma"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Türkiye'de 'Dört Büyükler'den biri değildir?",
+        "options": [
+            "Bursaspor",
+            "Galatasaray",
+            "Fenerbahçe",
+            "Beşiktaş"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi futbolcu 'El Diego' lakabıyla tanınır?",
+        "options": [
+            "Maradona",
+            "Pele",
+            "Messi",
+            "Ronaldinho"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 20,
+        "text": "Futbol Dünya Kupası kaç yılda bir düzenlenir?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dünyanın en hızlı adamı olarak bilinen atlet?",
+        "options": [
+            "Usain Bolt",
+            "Tyson Gay",
+            "Asafa Powell",
+            "Justin Gatlin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 2,
+        "text": "Futbol maçlarının normal süresi kaç dakikadır?",
+        "options": [
+            "45",
+            "60",
+            "90",
+            "100"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6119,
+        "text": "Basketbolda en yüksek puanlı atış kaç puandır?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Formula 1'de 'Pole Pozisyonu' ne anlama gelir?",
+        "options": [
+            "Yarışa birinci sırada başlamak",
+            "Yarışı birinci bitirmek",
+            "En hızlı turu atmak",
+            "Yarışı terk etmek"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Snooker masasında kaç tane kırmızı top vardır?",
+        "options": [
+            "15",
+            "10",
+            "20",
+            "12"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Maraton koşusunun kökeni hangi ülkeye dayanır?",
+        "options": [
+            "Yunanistan",
+            "Roma",
+            "Mısır",
+            "İngiltere"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "'El Clasico' hangi iki takım arasındaki maçtır?",
+        "options": [
+            "Real Madrid - Barcelona",
+            "Milan - Inter",
+            "Boca Juniors - River Plate",
+            "Fenerbahçe - Galatasaray"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Futbolda ceza sahası içinde yapılan faul nedir?",
+        "options": [
+            "Penaltı",
+            "Serbest vuruş",
+            "Korner",
+            "Taç"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Basketbolda bir takım sahada kaç kişiyle oynar?",
+        "options": [
+            "5",
+            "6",
+            "11",
+            "7"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6139,
+        "text": "Formula 1'de yarışın başladığı işarete ne denir?",
+        "options": [
+            "Start",
+            "Pole Pozisyonu (Sıralama)",
+            "Dama",
+            "Işıklar sönünce"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6148,
+        "text": "Wimbledon Tenis Turnuvası hangi zeminde oynanır?",
+        "options": [
+            "Toprak",
+            "Sert",
+            "Çim",
+            "Halı"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi ülke futbolda 'Sambacılar' olarak bilinir?",
+        "options": [
+            "Arjantin",
+            "Brezilya",
+            "İspanya",
+            "Portekiz"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bir golf sahasında genellikle kaç delik bulunur?",
+        "options": [
+            "18",
+            "9",
+            "12",
+            "20"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Milli güreşçimiz 'Koca Yusuf' lakabıyla tanınır?",
+        "options": [
+            "Evet",
+            "Hayır",
+            "Bilinmiyor",
+            "Belki"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Şampiyonlar Ligi müziği hangi dillerde söylenir?",
+        "options": [
+            "İngilizce, Almanca, Fransızca",
+            "Sadece İngilizce",
+            "İspanyolca",
+            "İtalyanca"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 77,
+        "text": "NBA'de forma giyen \"ilk Türk basketbolcu\" kimdir?",
+        "options": [
+            "Hidayet Türkoğlu",
+            "Mehmet Okur",
+            "İbrahim Kutluay",
+            "Mirsad Türkcan"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6117,
+        "text": "Hangi renk olimpiyat halkası Asya'yı temsil eder?",
+        "options": [
+            "Sarı",
+            "Mavi",
+            "Siyah",
+            "Yeşil"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6127,
+        "text": "Hangi spor 'buz üzerinde satranç' olarak bilinir?",
+        "options": [
+            "Curling",
+            "Buz Hokeyi",
+            "Artistik Patinaj",
+            "Sürat Pateni"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6141,
+        "text": "Modern Olimpiyatlar ilk kez hangi yıl düzenlendi?",
+        "options": [
+            "1896",
+            "1900",
+            "1923",
+            "1936"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "'Kırkpınar' denilince akla gelen spor hangisidir?",
+        "options": [
+            "Yağlı Güreş",
+            "Cirit",
+            "Okçuluk",
+            "Binicilik"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Futbolda kale direkleri arası mesafe ne kadardır?",
+        "options": [
+            "7.32 metre",
+            "6.50 metre",
+            "8 metre",
+            "7 metre"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Bir voleybol maçı kaç sette biter (kazanan için)?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi spor 'tatami' adı verilen minderde yapılır?",
+        "options": [
+            "Judo",
+            "Boks",
+            "Eskrim",
+            "Halter"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6101,
+        "text": "Futbol maçları kaç dakika sürer (uzatmalar hariç)?",
+        "options": [
+            "45",
+            "90",
+            "100",
+            "60"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6130,
+        "text": "Basketbol potasının yerden yüksekliği ne kadardır?",
+        "options": [
+            "2.50m",
+            "3.05m",
+            "3.50m",
+            "4.00m"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6142,
+        "text": "Boks maçlarında rauntlar genellikle kaç dakikadır?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Wimbledon Tenis Turnuvası hangi ülkede düzenlenir?",
+        "options": [
+            "ABD",
+            "Fransa",
+            "İngiltere",
+            "Avustralya"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Maraton koşusunun mesafesi tam olarak ne kadardır?",
+        "options": [
+            "42.195 metre",
+            "40.000 metre",
+            "50.000 metre",
+            "41.500 metre"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Futbolda bir takım sahada kaç oyuncu ile yer alır?",
+        "options": [
+            "11",
+            "10",
+            "12",
+            "7"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Michael Jordan hangi spor dalıyla efsaneleşmiştir?",
+        "options": [
+            "Basketbol",
+            "Futbol",
+            "Beyzbol",
+            "Golf"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 7,
+        "text": "\"Formula 1\" (F1) yarışları hangi araçlarla yapılır?",
+        "options": [
+            "Motosiklet",
+            "Kamyon",
+            "Otomobil",
+            "Bisiklet"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6128,
+        "text": "Tour de France (Fransa Turu) hangi spor dalındadır?",
+        "options": [
+            "Araba Yarışı",
+            "Bisiklet",
+            "Koşu",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6146,
+        "text": "Snooker masası bilardo masasından daha mı büyüktür?",
+        "options": [
+            "Evet",
+            "Hayır",
+            "Aynıdır",
+            "Değişir"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Muhammed Ali hangi spor dalında dünya şampiyonudur?",
+        "options": [
+            "Güreş",
+            "Boks",
+            "Judo",
+            "Karate"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi spor dalında 'Grand Slam' turnuvaları vardır?",
+        "options": [
+            "Tenis",
+            "Futbol",
+            "Basketbol",
+            "Voleybol"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi tenisçi 'Toprak Kortun Kralı' olarak bilinir?",
+        "options": [
+            "Rafael Nadal",
+            "Roger Federer",
+            "Novak Djokovic",
+            "Andy Murray"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Formula 1'de en çok şampiyon olan pilotlardan biri?",
+        "options": [
+            "Michael Schumacher",
+            "Ayrton Senna",
+            "Sebastian Vettel",
+            "Fernando Alonso"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 11,
+        "text": "Bir basketbol takımı sahada kaç oyuncu ile yer alır?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "11"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 60,
+        "text": "Kırkpınar Yağlı Güreşleri hangi ilimizde düzenlenir?",
+        "options": [
+            "Kırklareli",
+            "Tekirdağ",
+            "Edirne",
+            "İstanbul"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6125,
+        "text": "Hangi ülke futbolda en çok Dünya Kupası kazanmıştır?",
+        "options": [
+            "Almanya",
+            "İtalya",
+            "Arjantin",
+            "Brezilya"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6143,
+        "text": "Bir bowling oyununda tam puan (perfect game) kaçtır?",
+        "options": [
+            "100",
+            "200",
+            "300",
+            "500"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6153,
+        "text": "Rugby takımı sahada kaç kişiyle oynar (Rugby Union)?",
+        "options": [
+            "11",
+            "13",
+            "15",
+            "7"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Sarı ve kırmızı kart uygulaması hangi sporda vardır?",
+        "options": [
+            "Futbol",
+            "Basketbol",
+            "Satranç",
+            "Bowling"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6118,
+        "text": "Futbolda elle oynamak serbest midir (oyuncular için)?",
+        "options": [
+            "Evet",
+            "Hayır",
+            "Bazen",
+            "Sadece kendi sahasında"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Naim Süleymanoğlu hangi spor dalında efsaneleşmiştir?",
+        "options": [
+            "Güreş",
+            "Halter",
+            "Boks",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Michael Phelps hangi spor dalında rekorlar kırmıştır?",
+        "options": [
+            "Yüzme",
+            "Atletizm",
+            "Jimnastik",
+            "Bisiklet"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Euroleague şampiyonu olan ilk Türk takımı hangisidir?",
+        "options": [
+            "Fenerbahçe Beko",
+            "Anadolu Efes",
+            "Galatasaray",
+            "Beşiktaş"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 1,
+        "text": "Bir futbol takımı sahada kaç oyuncu ile mücadele eder?",
+        "options": [
+            "7",
+            "10",
+            "11",
+            "12"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6135,
+        "text": "Bir futbol takımında sahada kaç yedek oyuncu olabilir?",
+        "options": [
+            "0",
+            "11",
+            "Sahada olmaz, kulübede olur",
+            "3"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Voleybolda bir set kaç sayıda biter (Tie-break hariç)?",
+        "options": [
+            "15",
+            "20",
+            "21",
+            "25"
+        ],
+        "correctAnswerIndex": 3,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Voleybolda bir set (tie-break hariç) kaç sayıda biter?",
+        "options": [
+            "25",
+            "21",
+            "15",
+            "30"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 81,
+        "text": "Tarihteki tek \"3 Dünya Kupası\" kazanan futbolcu kimdir?",
+        "options": [
+            "Maradona",
+            "Pele",
+            "Cafu",
+            "Beckenbauer"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi ülke futbolda Dünya Kupası'nı en çok kazanmıştır?",
+        "options": [
+            "Brezilya",
+            "Almanya",
+            "İtalya",
+            "Arjantin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6123,
+        "text": "Voleybolda bir set kaç sayıda biter (netice seti hariç)?",
+        "options": [
+            "15",
+            "21",
+            "25",
+            "30"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6154,
+        "text": "Su topunda takımlar havuzda kaçar kişiyle mücadele eder?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6159,
+        "text": "Hangi ülkede 'Sepak Takraw' (Ayak Voleybolu) popülerdir?",
+        "options": [
+            "Brezilya",
+            "Tayland / Güneydoğu Asya",
+            "İspanya",
+            "ABD"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Futbol maçları kaçar kişilik iki takım arasında oynanır?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6157,
+        "text": "Bir maraton koşusunun tam mesafesi neden 42.195 metredir?",
+        "options": [
+            "Roma-Atina arası mesafe",
+            "Londra Olimpiyatları'nda kraliyet ailesi izlesin diye uzatıldı",
+            "İlk koşucunun adım sayısı",
+            "Tamamen rastgele"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Messi hangi yıl Arjantin ile Dünya Kupası'nı kazanmıştır?",
+        "options": [
+            "2022",
+            "2018",
+            "2014",
+            "2010"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Hangi ülke olimpiyatlarda en çok madalya kazanan ülkedir?",
+        "options": [
+            "ABD",
+            "Çin",
+            "Rusya",
+            "Almanya"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Okçulukta hedefin tam ortasındaki sarı daire kaç puandır?",
+        "options": [
+            "10",
+            "12",
+            "9",
+            "5"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Olimpiyatlar kaç yılda bir kış olimpiyatı olarak yapılır?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 8,
+        "text": "Olimpiyat bayrağında kaç adet iç içe geçmiş halka bulunur?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Basketbol maçında bir takım sahada kaç oyuncuyla yer alır?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "4"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Olimpiyat halkalarında sarı renk hangi kıtayı temsil eder?",
+        "options": [
+            "Asya",
+            "Avrupa",
+            "Afrika",
+            "Amerika"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Halterde barı omuzlamadan tek seferde kaldırmaya ne denir?",
+        "options": [
+            "Koparma",
+            "Silkme",
+            "Pres",
+            "Squat"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 13,
+        "text": "Olimpiyatlarda birinci olan sporcuya hangi madalya verilir?",
+        "options": [
+            "Gümüş",
+            "Bronz",
+            "Altın",
+            "Platin"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 54,
+        "text": "Formula 1'de 7 kez dünya şampiyonu olan Alman pilot kimdir?",
+        "options": [
+            "Lewis Hamilton",
+            "Ayrton Senna",
+            "Michael Schumacher",
+            "Sebastian Vettel"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 57,
+        "text": "Aşağıdakilerden hangisi bir \"Olimpik Yüzme Stili\" değildir?",
+        "options": [
+            "Kelebek",
+            "Sırtüstü",
+            "Kurbağalama",
+            "Köpekleme"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6133,
+        "text": "Golf sporunda topu deliğe sokmaya çalışılan alana ne denir?",
+        "options": [
+            "Kale",
+            "Green",
+            "Pist",
+            "Kort"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ORTA"
+    },
+    {
+        "id": 6140,
+        "text": "Türkiye A Milli Futbol Takımı Dünya üçüncüsü ne zaman oldu?",
+        "options": [
+            "1954",
+            "2002",
+            "2008",
+            "2016"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 6155,
+        "text": "Formula 1 araçlarında kullanılan KERS sistemi ne işe yarar?",
+        "options": [
+            "Hız sabitleme",
+            "Fren enerjisi geri kazanımı",
+            "Otomatik pilot",
+            "Lastik soğutma"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Mete Gazoz hangi spor dalında olimpiyat şampiyonu olmuştur?",
+        "options": [
+            "Okçuluk",
+            "Atıcılık",
+            "Eskrim",
+            "Halter"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Hentbol takımında kaç oyuncu sahada bulunur (kaleci dahil)?",
+        "options": [
+            "7",
+            "6",
+            "5",
+            "11"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Olimpiyat halkalarındaki mavi renk hangi kıtayı temsil eder?",
+        "options": [
+            "Avrupa",
+            "Asya",
+            "Afrika",
+            "Amerika"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye'nin kazandığı ilk ve tek Dünya Kupası derecesi nedir?",
+        "options": [
+            "Şampiyonluk",
+            "İkincilik",
+            "Üçüncülük",
+            "Dördüncülük"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Formula 1'de yarışın başladığı ışıklar kaç tanedir (kırmızı)?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye Süper Lig'inde en çok şampiyon olan takım hangisidir?",
+        "options": [
+            "Galatasaray",
+            "Fenerbahçe",
+            "Beşiktaş",
+            "Trabzonspor"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye Süper Ligi'nde en çok şampiyon olan takım hangisidir?",
+        "options": [
+            "Galatasaray",
+            "Fenerbahçe",
+            "Beşiktaş",
+            "Trabzonspor"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 15,
+        "text": "Dünyanın en popüler basketbol ligi olan \"NBA\" hangi ülkededir?",
+        "options": [
+            "İspanya",
+            "Çin",
+            "ABD",
+            "İngiltere"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 19,
+        "text": "Mete Gazoz'un olimpiyat şampiyonu olduğu spor dalı hangisidir?",
+        "options": [
+            "Yüzme",
+            "Okçuluk",
+            "Atıcılık",
+            "Halter"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "NBA tarihinin en çok sayı atan oyuncusu (rekoru kıran) kimdir?",
+        "options": [
+            "Michael Jordan",
+            "Kobe Bryant",
+            "LeBron James",
+            "Kareem Abdul-Jabbar"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 51,
+        "text": "Voleybol maçlarında bir set (tie-break hariç) kaç sayıda biter?",
+        "options": [
+            "15",
+            "20",
+            "21",
+            "25"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Bir futbol maçında bir oyuncu en fazla kaç sarı kart görebilir?",
+        "options": [
+            "2 (Kırmızıya dönüşür)",
+            "1",
+            "3",
+            "Sınırsız"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 21,
+        "text": "\"Smaç\", \"Manşet\" ve \"Servis\" terimleri hangi spor dalına aittir?",
+        "options": [
+            "Futbol",
+            "Voleybol",
+            "Güreş",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 23,
+        "text": "Türkiye Milli Takımlarının forma renkleri genellikle hangisidir?",
+        "options": [
+            "Sarı - Lacivert",
+            "Siyah - Beyaz",
+            "Kırmızı - Beyaz",
+            "Bordo - Mavi"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 33,
+        "text": "Futbolda, bir oyuncunun aynı maçta 3 gol atmasına ne ad verilir?",
+        "options": [
+            "Duble",
+            "Asist",
+            "Hat-trick",
+            "Rövaşata"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 55,
+        "text": "Basketbolda pota çemberinin yerden yüksekliği kaç santimetredir?",
+        "options": [
+            "250 cm",
+            "295 cm",
+            "305 cm",
+            "320 cm"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Basketbolda oyuncu kaç faul yaparsa oyun dışı kalır (NBA hariç)?",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Futbolda ceza sahası içinde yapılan kural dışı harekete ne denir?",
+        "options": [
+            "Korner",
+            "Penaltı",
+            "Taç",
+            "Aut"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Golf sporunda topu deliğe sokmak için kullanılan sopaya ne denir?",
+        "options": [
+            "Mail",
+            "Raket",
+            "Baton",
+            "Kılıç"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 4,
+        "text": "\"Filenin Sultanları\" lakabı hangi milli takımımız için kullanılır?",
+        "options": [
+            "Kadın Basketbol",
+            "Kadın Voleybol",
+            "Kadın Futbol",
+            "Kadın Hentbol"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Olimpiyatlarda altın madalya kazanan ilk Türk kadın boksör kimdir?",
+        "options": [
+            "Busenaz Sürmeneli",
+            "Buse Naz Çakıroğlu",
+            "Yasemin Adar",
+            "Nur Tatar"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 17,
+        "text": "\"Maraton\" koşusu yaklaşık kaç kilometredir? (Uzun mesafe koşusudur)",
+        "options": [
+            "10 km",
+            "21 km",
+            "42 km",
+            "100 km"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 25,
+        "text": "Lionel Messi ve Cristiano Ronaldo hangi spor dalının efsaneleridir?",
+        "options": [
+            "Basketbol",
+            "Tenis",
+            "Futbol",
+            "Formula 1"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Pele kariyeri boyunca kaç gol atmıştır (resmi olmayan maçlar dahil)?",
+        "options": [
+            "1000'den fazla",
+            "500",
+            "800",
+            "2000"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 18,
+        "text": "Boks sporu yapan sporcuların ellerine taktıkları koruyucuya ne denir?",
+        "options": [
+            "Raket",
+            "Eldiven",
+            "Kask",
+            "Dizlik"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 79,
+        "text": "Voleybolda file üzerindeki antenlerin rengi hangi iki renkten oluşur?",
+        "options": [
+            "Siyah - Beyaz",
+            "Kırmızı - Beyaz",
+            "Mavi - Sarı",
+            "Yeşil - Beyaz"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Voleybolda bir takımın bir sette kaç oyuncu değişikliği hakkı vardır?",
+        "options": [
+            "6",
+            "3",
+            "5",
+            "4"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türkiye Milli Futbol Takımı Dünya Kupası'nda kaçıncı olmuştur (2002)?",
+        "options": [
+            "3.",
+            "2.",
+            "4.",
+            "Çeyrek Final"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 52,
+        "text": "\"Grand Slam\" terimi hangi spor dalındaki 4 büyük turnuvayı ifade eder?",
+        "options": [
+            "Golf",
+            "Tenis",
+            "Bilardo",
+            "Yüzme"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Basketbolda 3 sayılık atış çizgisi dışından atılan basket kaç sayıdır?",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 16,
+        "text": "Futbolda topun yan çizgilerden oyun alanının dışına çıkmasına ne denir?",
+        "options": [
+            "Gol",
+            "Korner",
+            "Taç",
+            "Ofsayt"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 89,
+        "text": "Türkiye Kupası'nı tarihinde en fazla müzesine götüren takım hangisidir?",
+        "options": [
+            "Beşiktaş",
+            "Fenerbahçe",
+            "Trabzonspor",
+            "Galatasaray"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 6156,
+        "text": "Olimpiyatlarda altın madalya aslında neyden yapılmıştır (büyük oranda)?",
+        "options": [
+            "Altın",
+            "Gümüş",
+            "Bronz",
+            "Bakır"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 49,
+        "text": "EuroLeague şampiyonu olan (2017) \"ilk\" Türk basketbol takımı hangisidir?",
+        "options": [
+            "Anadolu Efes",
+            "Galatasaray",
+            "Beşiktaş",
+            "Fenerbahçe"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 10,
+        "text": "\"Cep Herkülü\" lakaplı, dünya rekorları kırmış efsanevi haltercimiz kimdir?",
+        "options": [
+            "Rıza Kayaalp",
+            "Naim Süleymanoğlu",
+            "Hamza Yerlikaya",
+            "Mete Gazoz"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Formula 1 yarışlarında en çok şampiyonluk kazanan pilotlardan biri kimdir?",
+        "options": [
+            "Michael Schumacher",
+            "Ayrton Senna",
+            "Niki Lauda",
+            "Fernando Alonso"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 78,
+        "text": "1930 yılında düzenlenen \"ilk\" FIFA Dünya Kupası'nı kazanan ülke hangisidir?",
+        "options": [
+            "Brezilya",
+            "Arjantin",
+            "İtalya",
+            "Uruguay"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Basketbolda 3 sayı çizgisinin dışından atılan basket kaç puan değerindedir?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 82,
+        "text": "Atletizmde 100 metreyi 10 saniyenin altında koşan \"ilk\" insan kimdir? (1968)",
+        "options": [
+            "Jim Hines",
+            "Jesse Owens",
+            "Carl Lewis",
+            "Usain Bolt"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 6120,
+        "text": "Türkiye'nin en köklü spor kulüplerinden biri 'Üç Büyükler' arasında değildir?",
+        "options": [
+            "Beşiktaş",
+            "Galatasaray",
+            "Fenerbahçe",
+            "Bursaspor"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 12,
+        "text": "Türklerin ata sporu olarak bilinen, Kırkpınar'da yapılan spor dalı hangisidir?",
+        "options": [
+            "Okçuluk",
+            "Cirit",
+            "Yağlı Güreş",
+            "Binicilik"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 30,
+        "text": "Bir futbol maçında, takımların başında duran ve taktiği veren kişiye ne denir?",
+        "options": [
+            "Hakem",
+            "Kaptan",
+            "Teknik Direktör",
+            "Kaleci"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 3,
+        "text": "Basketbolda, üç sayı çizgisinin dışından atılan basketler kaç puan değerindedir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 5,
+        "text": "Futbolda kalecinin topu elle tutabildiği, kalenin önündeki bölgeye ne ad verilir?",
+        "options": [
+            "Orta Saha",
+            "Ceza Sahası",
+            "Taç Çizgisi",
+            "Santra"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 41,
+        "text": "Yüzme, bisiklet ve koşu etaplarının peş peşe yapıldığı zorlu spor dalına ne denir?",
+        "options": [
+            "Dekatlon",
+            "Maraton",
+            "Triatlon",
+            "Pentatlon"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 63,
+        "text": "NBA logosundaki silueti oluşturan, \"The Logo\" lakaplı efsanevi basketbolcu kimdir?",
+        "options": [
+            "Michael Jordan",
+            "Kareem Abdul-Jabbar",
+            "Jerry West",
+            "Larry Bird"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 73,
+        "text": "Snooker (Bilardo) oyununda yapılabilecek maksimum seri sayı (Maximum Break) kaçtır?",
+        "options": [
+            "100",
+            "147",
+            "155",
+            "180"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 48,
+        "text": "Basketbolda hücum süresi (bir takımın topu potaya atması gereken süre) kaç saniyedir?",
+        "options": [
+            "14",
+            "20",
+            "24",
+            "30"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 9,
+        "text": "Futbolda hakemin oyuncuyu oyundan atmak (ihraç etmek) için gösterdiği kart hangisidir?",
+        "options": [
+            "Sarı Kart",
+            "Yeşil Kart",
+            "Mavi Kart",
+            "Kırmızı Kart"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 43,
+        "text": "Basketbolda (Avrupa/FIBA kurallarına göre) bir oyuncu kaç faul yaparsa oyun dışı kalır?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 44,
+        "text": "Dünyanın en prestijli bisiklet yarışı kabul edilen, Fransa'da düzenlenen turun adı nedir?",
+        "options": [
+            "Giro d'Italia",
+            "La Vuelta",
+            "Tour de France",
+            "Cumhurbaşkanlığı Bisiklet Turu"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 83,
+        "text": "Türkiye Süper Lig tarihinde, \"bir sezonda en fazla gol atma rekoru\" (39 gol) kime aittir?",
+        "options": [
+            "Metin Oktay",
+            "Hakan Şükür",
+            "Tanju Çolak",
+            "Mario Jardel"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 22,
+        "text": "Yeşil bir masa üzerinde, \"ıstaka\" denilen sopayla ve toplarla oynanan oyun/spor hangisidir?",
+        "options": [
+            "Golf",
+            "Bilardo",
+            "Bowling",
+            "Hokey"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 26,
+        "text": "Geniş bir çim alanda, küçük bir topu sopayla vurarak deliğe sokmaya dayalı spor hangisidir?",
+        "options": [
+            "Golf",
+            "Polo",
+            "Beyzbol",
+            "Kriket"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 36,
+        "text": "\"Efsane\" lakaplı Muhammed Ali, hangi spor dalının gelmiş geçmiş en büyük isimlerinden biridir?",
+        "options": [
+            "Basketbol",
+            "Yüzme",
+            "Boks",
+            "Atletizm"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 50,
+        "text": "\"Tanrının Eli\" golüyle tanınan ve 2020 yılında kaybettiğimiz Arjantinli futbol efsanesi kimdir?",
+        "options": [
+            "Pele",
+            "Maradona",
+            "Messi",
+            "Di Stefano"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 71,
+        "text": "NBA'de bir maçta tek başına \"100 sayı\" atarak kırılması imkansız görülen rekorun sahibi kimdir?",
+        "options": [
+            "Kobe Bryant",
+            "Wilt Chamberlain",
+            "Michael Jordan",
+            "LeBron James"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 88,
+        "text": "Hangi yıl düzenlenmesi gereken Olimpiyat Oyunları, II. Dünya Savaşı nedeniyle iptal edilmiştir?",
+        "options": [
+            "1936",
+            "1940 ve 1944",
+            "1948",
+            "1952"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 74,
+        "text": "Türkiye'nin Dünya Kupası tarihinde attığı \"ilk golü\" kaydeden futbolcumuz kimdir? (1954 İsviçre)",
+        "options": [
+            "Lefter Küçükandonyadis",
+            "Metin Oktay",
+            "Suat Mamat",
+            "Burhan Sargın"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 46,
+        "text": "Karate ve Judo gibi dövüş sporlarında en üst seviyeyi (ustalığı) temsil eden kuşak rengi hangisidir?",
+        "options": [
+            "Beyaz",
+            "Sarı",
+            "Kahverengi",
+            "Siyah"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 69,
+        "text": "Boksta \"Tüm zamanların en genç ağır sıklet dünya şampiyonu\" unvanını 20 yaşında kazanan boksör kimdir?",
+        "options": [
+            "Muhammed Ali",
+            "Mike Tyson",
+            "George Foreman",
+            "Lennox Lewis"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 56,
+        "text": "Futbol maçlarında kullanılan sarı ve kırmızı kart uygulaması ilk kez hangi organizasyonda uygulanmıştır?",
+        "options": [
+            "1970 Dünya Kupası",
+            "1990 Dünya Kupası",
+            "1954 Dünya Kupası",
+            "2000 Avrupa Şampiyonası"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 64,
+        "text": "Futbolda, \"penaltı vuruşu\" kuralı ilk kez hangi yıl uygulanmaya başlanmıştır? (Oldukça eski bir tarihtir)",
+        "options": [
+            "1891",
+            "1923",
+            "1950",
+            "1970"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 45,
+        "text": "100 metre ve 200 metre dünya rekorlarını elinde bulunduran, \"Rüzgarın Oğlu\" lakaplı Jamaikalı atlet kimdir?",
+        "options": [
+            "Usain Bolt",
+            "Carl Lewis",
+            "Asafa Powell",
+            "Tyson Gay"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 70,
+        "text": "Futbol sahasının tam ortasında bulunan \"orta yuvarlak\"ın yarıçapı kaç metredir? (Baraj mesafesiyle aynıdır)",
+        "options": [
+            "9 metre",
+            "9.15 metre",
+            "10 metre",
+            "11 metre"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 35,
+        "text": "Voleybolda, takımın diğer oyuncularından farklı renkte forma giyen ve savunma görevi yapan oyuncuya ne denir?",
+        "options": [
+            "Pasör",
+            "Smaçör",
+            "Libero",
+            "Pivot"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 40,
+        "text": "Türkiye A Milli Futbol Takımı, 2002 Dünya Kupası'nda dünya üçüncüsü olduğunda takımın teknik direktörü kimdi?",
+        "options": [
+            "Fatih Terim",
+            "Mustafa Denizli",
+            "Şenol Güneş",
+            "Ersun Yanal"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 27,
+        "text": "Futbolda ceza sahası içinde yapılan kusurlu harekete (faul veya elle oynama) verilen en ağır ceza atışı nedir?",
+        "options": [
+            "Frikik",
+            "Penaltı",
+            "Taç",
+            "Ofsayt"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 59,
+        "text": "Bir futbol maçında, aynı takımdan kaç oyuncu kırmızı kart görürse maç tatil edilir (hükmen mağlup sayılırlar)?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 90,
+        "text": "Dünyanın en hızlı raket sporu olarak bilinen ve topun hızının saatte 400 km'yi aşabildiği spor dalı hangisidir?",
+        "options": [
+            "Tenis",
+            "Masa Tenisi",
+            "Squash",
+            "Badminton"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 37,
+        "text": "Formula 1 yarışlarında, araçların lastik değişimi ve yakıt ikmali (eskiden) için girdikleri alana ne ad verilir?",
+        "options": [
+            "Garaj",
+            "Paddock",
+            "Pit Stop",
+            "Kokpit"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 72,
+        "text": "Modern Olimpiyat Oyunları'nın kurucusu kabul edilen ve \"Olimpizm\" felsefesini oluşturan Fransız eğitimci kimdir?",
+        "options": [
+            "Pierre de Coubertin",
+            "Juan Antonio Samaranch",
+            "Thomas Bach",
+            "Jules Rimet"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 53,
+        "text": "Türkiye Süper Ligi'nde \"En çok gol atan oyuncu\" (Gol Kralı) unvanına sahip efsane futbolcu kimdir? (Toplam gol sayısında)",
+        "options": [
+            "Hakan Şükür",
+            "Tanju Çolak",
+            "Metin Oktay",
+            "Sergen Yalçın"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 39,
+        "text": "NBA tarihinin en büyük oyuncusu kabul edilen, 23 numaralı formasıyla efsaneleşen \"Majesteleri\" lakaplı basketbolcu kimdir?",
+        "options": [
+            "Kobe Bryant",
+            "LeBron James",
+            "Shaquille O'Neal",
+            "Michael Jordan"
+        ],
+        "correctAnswerIndex": 3,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 85,
+        "text": "Michael Phelps, 2008 Pekin Olimpiyatları'nda tek bir oyunlarda kaç altın madalya kazanarak Mark Spitz'in rekorunu kırmıştır?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 31,
+        "text": "2000 yılında UEFA Kupası'nı ve UEFA Süper Kupa'yı kazanarak Türk futbol tarihinin en büyük başarısına imza atan takım hangisidir?",
+        "options": [
+            "Fenerbahçe",
+            "Beşiktaş",
+            "Galatasaray",
+            "Trabzonspor"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 68,
+        "text": "Türk futbol tarihinde, ligi \"namağlup\" (hiç yenilmeden) tamamlamasına rağmen şampiyon olamayan tek takım hangisidir? (1985-86 Sezonu)",
+        "options": [
+            "Beşiktaş",
+            "Trabzonspor",
+            "Galatasaray",
+            "Eskişehirspor"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 65,
+        "text": "Tenis tarihinin \"en uzun maçı\" olarak kayıtlara geçen, 2010 Wimbledon'da 11 saat 5 dakika süren ve 3 güne yayılan maçın galiibi kimdir?",
+        "options": [
+            "Nicolas Mahut",
+            "John Isner",
+            "Roger Federer",
+            "Rafael Nadal"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 61,
+        "text": "1958 Dünya Kupası'nda bir turnuvada tam 13 gol atarak, \"Bir kupada en çok gol atan oyuncu\" rekorunu hala elinde bulunduran Fransız futbolcu kimdir?",
+        "options": [
+            "Michel Platini",
+            "Just Fontaine",
+            "Zinedine Zidane",
+            "Thierry Henry"
+        ],
+        "correctAnswerIndex": 1,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 67,
+        "text": "Atletizmde yüksek atlamada devrim yaratan, çıtayı sırtüstü geçme tekniğini (Flop stili) bulan ve 1968'de bu stille altın madalya kazanan atlet kimdir?",
+        "options": [
+            "Javier Sotomayor",
+            "Sergey Bubka",
+            "Dick Fosbury",
+            "Carl Lewis"
+        ],
+        "correctAnswerIndex": 2,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    },
+    {
+        "id": 66,
+        "text": "Formula 1 tarihinde, bir sezonda toplanabilecek maksimum puanı toplayarak değil, hiç yarış kazanmadan dünya şampiyonu olan (1958) pilot kimdir? (İstikrar abidesi)",
+        "options": [
+            "Mike Hawthorn",
+            "Stirling Moss",
+            "Niki Lauda",
+            "James Hunt"
+        ],
+        "correctAnswerIndex": 0,
+        "category": "SPOR",
+        "difficulty": "ZOR"
+    }
+]
