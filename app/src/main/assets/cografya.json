@@ -1,2918 +1,1788 @@
 [
-    {
-        "text": "İzohips nedir?",
-        "options": [
-            "Eş yükselti eğrisi",
-            "Eş sıcaklık eğrisi",
-            "Eş basınç eğrisi",
-            "Yağış eğrisi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dünyanın uydusu nedir?",
-        "options": [
-            "Güneş",
-            "Ay",
-            "Titan",
-            "Mars"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dünyanın şekli nasıldır?",
-        "options": [
-            "Geoid (Kutuplardan basık)",
-            "Düz",
-            "Kare",
-            "Silindir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kükürt nerede çıkarılır?",
-        "options": [
-            "Keçiborlu (Isparta)",
-            "Sivas",
-            "Elazığ",
-            "Mardin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Fosfat nerede çıkarılır?",
-        "options": [
-            "Mazıdağı (Mardin)",
-            "Bingöl",
-            "Bitlis",
-            "Şırnak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Anıtkabir hangi ilçededir?",
-        "options": [
-            "Çankaya",
-            "Keçiören",
-            "Yenimahalle",
-            "Mamak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi kıtada çöl bulunmaz?",
-        "options": [
-            "Avrupa",
-            "Asya",
-            "Afrika",
-            "Avustralya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Meridyenlerin özellikleri?",
-        "options": [
-            "Boyları eşittir",
-            "Araları her yerde eşittir",
-            "Sayısı 180'dir",
-            "Paraleldir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Atmosferin en alt katmanı?",
-        "options": [
-            "Troposfer",
-            "Stratosfer",
-            "Mezosfer",
-            "Termosfer"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Gül denince akla gelen il?",
-        "options": [
-            "Isparta",
-            "Burdur",
-            "Antalya",
-            "Konya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 219,
-        "text": "Dünyanın uydusu hangisidir?",
-        "options": [
-            "Güneş",
-            "Ay",
-            "Mars",
-            "Titan"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Rüzgarın hızını ölçen alet?",
-        "options": [
-            "Anemometre",
-            "Barometre",
-            "Termometre",
-            "Higrometre"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin en yağışlı ili?",
-        "options": [
-            "Rize",
-            "Konya",
-            "Antalya",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Anıtkabir hangi ilimizdedir?",
-        "options": [
-            "Ankara",
-            "İstanbul",
-            "Samsun",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İklimi inceleyen bilim dalı?",
-        "options": [
-            "Klimatoloji",
-            "Meteoroloji",
-            "Jeoloji",
-            "Biyoloji"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Taş kömürü nerede çıkarılır?",
-        "options": [
-            "Zonguldak",
-            "Manisa",
-            "Kütahya",
-            "Muğla"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Ekvator hangi kıtadan geçmez?",
-        "options": [
-            "Avrupa",
-            "Asya",
-            "Afrika",
-            "Güney Amerika"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Toplu yerleşme neden görülür?",
-        "options": [
-            "Su kaynaklarının azlığı",
-            "Arazinin engebeli olması",
-            "Yağışın bol olması",
-            "Ormanların çok olması"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Nemrut Dağı hangi ilimizdedir?",
-        "options": [
-            "Adıyaman",
-            "Bitlis",
-            "Van",
-            "Ağrı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Süveyş Kanalı hangi ülkededir?",
-        "options": [
-            "Panama",
-            "Mısır",
-            "Türkiye",
-            "Suudi Arabistan"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin başkenti neresidir?",
-        "options": [
-            "İstanbul",
-            "Ankara",
-            "İzmir",
-            "Bursa"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Erciyes Dağı hangi ilimizdedir?",
-        "options": [
-            "Konya",
-            "Niğde",
-            "Kayseri",
-            "Nevşehir"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Keban Barajı hangi ilimizdedir?",
-        "options": [
-            "Elazığ",
-            "Malatya",
-            "Diyarbakır",
-            "Erzincan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Antalya'da hangi iklim görülür?",
-        "options": [
-            "Akdeniz İklimi",
-            "Karasal İklim",
-            "Karadeniz İklimi",
-            "Çöl İklimi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "GAP projesi ile sulanan ovalar?",
-        "options": [
-            "Harran, Suruç",
-            "Konya",
-            "Bafra",
-            "Çarşamba"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Gap projesi hangi bölgemizdedir?",
-        "options": [
-            "Doğu Anadolu",
-            "Güneydoğu Anadolu",
-            "Akdeniz",
-            "İç Anadolu"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Peri bacaları hangi ilimizdedir?",
-        "options": [
-            "Nevşehir",
-            "Kayseri",
-            "Aksaray",
-            "Niğde"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Ihlara Vadisi hangi ilimizdedir?",
-        "options": [
-            "Aksaray",
-            "Nevşehir",
-            "Kayseri",
-            "Niğde"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Peri Bacaları hangi ilimizdedir?",
-        "options": [
-            "Nevşehir",
-            "Kayseri",
-            "Aksaray",
-            "Niğde"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Doğalgaz santrallerimizden biri?",
-        "options": [
-            "Ovaakça (Bursa)",
-            "Soma",
-            "Afşin-Elbistan",
-            "Yatağan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi gölümüz bir krater gölüdür?",
-        "options": [
-            "Nemrut Gölü",
-            "Sapanca Gölü",
-            "Beyşehir Gölü",
-            "Uzungöl"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Mağan ormanları hangi iklimdedir?",
-        "options": [
-            "Muson",
-            "Ekvatoral",
-            "Akdeniz",
-            "Kutup"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Delta oluşumu için ne gereklidir?",
-        "options": [
-            "Kıta sahanlığının geniş olması",
-            "Akıntının güçlü olması",
-            "Derinliğin fazla olması",
-            "Gel-git'in güçlü olması"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Bakır madeni nerelerde çıkarılır?",
-        "options": [
-            "Kastamonu (Küre), Artvin (Murgul)",
-            "Konya",
-            "Ankara",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 235,
-        "text": "Dünyanın en büyük çölü hangisidir?",
-        "options": [
-            "Gobi Çölü",
-            "Kalahari Çölü",
-            "Sahra Çölü",
-            "Atacama Çölü"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 247,
-        "text": "Dünyanın en derin gölü hangisidir?",
-        "options": [
-            "Victoria Gölü",
-            "Baykal Gölü",
-            "Hazar Denizi",
-            "Van Gölü"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 261,
-        "text": "Hangi ülke Orta Asya'da yer almaz?",
-        "options": [
-            "Kazakistan",
-            "Özbekistan",
-            "Moğolistan",
-            "Türkmenistan"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Tortum Şelalesi hangi ilimizdedir?",
-        "options": [
-            "Erzurum",
-            "Artvin",
-            "Erzincan",
-            "Kars"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi ilimizde çay tarımı yapılır?",
-        "options": [
-            "Rize",
-            "Ordu",
-            "Giresun",
-            "Samsun"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Yer kabuğunu inceleyen bilim dalı?",
-        "options": [
-            "Jeoloji",
-            "Biyoloji",
-            "Astronomi",
-            "Zooloji"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin en genç oluşumlu dağı?",
-        "options": [
-            "Kula Volkanları",
-            "Ağrı Dağı",
-            "Erciyes",
-            "Süphan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Muz üretimi en çok nerede yapılır?",
-        "options": [
-            "Anamur / Alanya",
-            "Rize",
-            "İzmir",
-            "Adana"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 254,
-        "text": "Dünya'nın en kurak çölü hangisidir?",
-        "options": [
-            "Sahra Çölü",
-            "Gobi Çölü",
-            "Atacama Çölü",
-            "Kalahari Çölü"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dünyanın en yüksek dağı hangisidir?",
-        "options": [
-            "Everest",
-            "K2",
-            "Alpler",
-            "Ağrı Dağı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin en batı ucu hangisidir?",
-        "options": [
-            "Gökçeada (İncirburnu)",
-            "Bozcaada",
-            "Ayvalık",
-            "Datça"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kenevir üretimi neden kontrollüdür?",
-        "options": [
-            "Uyuşturucu yapımında kullanıldığı için",
-            "Çok su istediği için",
-            "Pahalı olduğu için",
-            "Zor olduğu için"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Arıcılık en çok hangi ilde yapılır?",
-        "options": [
-            "Ordu / Muğla",
-            "Konya",
-            "Ankara",
-            "İstanbul"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Bor madeninde dünya birincisi ülke?",
-        "options": [
-            "Türkiye",
-            "ABD",
-            "Rusya",
-            "Çin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İpek Yolu'nun başlangıcı neresidir?",
-        "options": [
-            "Çin",
-            "Hindistan",
-            "Mısır",
-            "Anadolu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 243,
-        "text": "Amazon Nehri hangi okyanusa dökülür?",
-        "options": [
-            "Pasifik",
-            "Hint",
-            "Atlas",
-            "Kuzey Buz Denizi"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dünyanın en derin noktası neresidir?",
-        "options": [
-            "Mariana Çukuru",
-            "Porto Riko Çukuru",
-            "Java Çukuru",
-            "Tonga Çukuru"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Manavgat Şelalesi hangi ilimizdedir?",
-        "options": [
-            "Muğla",
-            "Antalya",
-            "Mersin",
-            "Adana"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Avrupa'nın en uzun nehri hangisidir?",
-        "options": [
-            "Tuna",
-            "Ren",
-            "Volga",
-            "Sen"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi ilimizin denize kıyısı yoktur?",
-        "options": [
-            "Manisa",
-            "Tekirdağ",
-            "Hatay",
-            "Sakarya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'de aktif yanardağ var mıdır?",
-        "options": [
-            "Hayır (Sönmüş olarak kabul edilir)",
-            "Evet, her yıl patlar",
-            "Sadece Erciyes",
-            "Bilinmiyor"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kivi en çok hangi ilimizde üretilir?",
-        "options": [
-            "Yalova",
-            "Rize",
-            "Antalya",
-            "Mersin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Boksit (Alüminyum) nerede çıkarılır?",
-        "options": [
-            "Seydişehir (Konya)",
-            "Akseki (Antalya)",
-            "Milas (Muğla)",
-            "Hepsi"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Panama Kanalı hangi kıtaları ayırır?",
-        "options": [
-            "Kuzey ve Güney Amerika",
-            "Asya ve Avrupa",
-            "Afrika ve Asya",
-            "Avrupa ve Afrika"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 231,
-        "text": "Ekvator çizgisi hangi kıtadan geçmez?",
-        "options": [
-            "Afrika",
-            "Güney Amerika",
-            "Asya",
-            "Avrupa"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 241,
-        "text": "Türkiye'nin en uzun nehri hangisidir?",
-        "options": [
-            "Fırat",
-            "Kızılırmak",
-            "Dicle",
-            "Sakarya"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin en büyük gölü hangisidir?",
-        "options": [
-            "Tuz Gölü",
-            "Beyşehir Gölü",
-            "Van Gölü",
-            "Eğirdir Gölü"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Küresel ısınmanın temel nedeni nedir?",
-        "options": [
-            "Sera gazları",
-            "Güneş patlamaları",
-            "Volkanik patlamalar",
-            "Deniz akıntıları"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Atmosferin en alt katmanı hangisidir?",
-        "options": [
-            "Troposfer",
-            "Stratosfer",
-            "Mezosfer",
-            "Termosfer"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi ilimizde krom madeni çıkarılır?",
-        "options": [
-            "Elazığ (Guleman)",
-            "Zonguldak",
-            "Batman",
-            "Mardin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi şehrimiz 'Seramik' ile ünlüdür?",
-        "options": [
-            "Kütahya",
-            "Eskişehir",
-            "Bilecik",
-            "Balıkesir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi ilimizde 'Yedi Göller' bulunur?",
-        "options": [
-            "Bolu",
-            "Düzce",
-            "Sakarya",
-            "Kocaeli"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye hangi saat dilimini kullanır?",
-        "options": [
-            "GMT+3 (Iğdır)",
-            "GMT+2",
-            "GMT+1",
-            "GMT+0"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'de en çok görülen iklim tipi?",
-        "options": [
-            "Karasal İklim",
-            "Akdeniz İklimi",
-            "Karadeniz İklimi",
-            "Muson İklimi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'de en çok yetiştirilen meyve?",
-        "options": [
-            "Üzüm / Elma",
-            "Muz",
-            "Ananas",
-            "Kivi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'de en zengin demir yatakları?",
-        "options": [
-            "Divriği (Sivas)",
-            "Hekimhan (Malatya)",
-            "Eymir (Balıkesir)",
-            "Hepsi"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Nükleer santral nerede yapılmaktadır?",
-        "options": [
-            "Akkuyu (Mersin)",
-            "Sinop",
-            "İğneada",
-            "Hepsi"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 203,
-        "text": "Türkiye'nin en yüksek dağı hangisidir?",
-        "options": [
-            "Erciyes Dağı",
-            "Uludağ",
-            "Ağrı Dağı",
-            "Süphan Dağı"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 226,
-        "text": "Dünyadaki en büyük okyanus hangisidir?",
-        "options": [
-            "Atlas Okyanusu",
-            "Hint Okyanusu",
-            "Pasifik Okyanusu",
-            "Kuzey Buz Denizi"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 238,
-        "text": "Muson iklimi hangi bölgelerde görülür?",
-        "options": [
-            "Avrupa",
-            "Güney ve Güneydoğu Asya",
-            "Kuzey Amerika",
-            "Avustralya"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi kıta 'Kara Kıta' olarak bilinir?",
-        "options": [
-            "Asya",
-            "Avrupa",
-            "Afrika",
-            "Amerika"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "En çok yağış alan bölgemiz hangisidir?",
-        "options": [
-            "Karadeniz",
-            "Akdeniz",
-            "Ege",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin en büyük adası hangisidir?",
-        "options": [
-            "Bozcaada",
-            "Gökçeada",
-            "Büyükada",
-            "Cunda"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dünyanın en büyük okyanusu hangisidir?",
-        "options": [
-            "Büyük Okyanus (Pasifik)",
-            "Atlas Okyanusu",
-            "Hint Okyanusu",
-            "Arktik Okyanusu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Anzer balı ile ünlü ilimiz hangisidir?",
-        "options": [
-            "Rize",
-            "Artvin",
-            "Trabzon",
-            "Ordu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Erozyonu önlemek için ne yapılmalıdır?",
-        "options": [
-            "Ağaçlandırma",
-            "Tarlayı nadasa bırakma",
-            "Eğim yönünde sürme",
-            "Meraları aşırı otlatma"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dünyanın en yüksek şelalesi hangisidir?",
-        "options": [
-            "Angel",
-            "Niagara",
-            "Victoria",
-            "Iguazu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Bafra Ovası hangi nehrin deltasındadır?",
-        "options": [
-            "Kızılırmak",
-            "Yeşilırmak",
-            "Sakarya",
-            "Asi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Mevsimlik işçi göçü en çok nereye olur?",
-        "options": [
-            "Çukurova (Pamuk)",
-            "Rize",
-            "Ankara",
-            "Erzurum"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İpek böcekçiliği denince akla gelen il?",
-        "options": [
-            "Diyarbakır (Eskiden Bursa)",
-            "Bursa",
-            "Antalya",
-            "Edirne"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Akdeniz'i İç Anadolu'ya bağlayan geçit?",
-        "options": [
-            "Gülek",
-            "Zigana",
-            "Kop",
-            "Soğanlı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 232,
-        "text": "Dünyanın en kalabalık ülkesi hangisidir?",
-        "options": [
-            "Hindistan",
-            "ABD",
-            "Çin",
-            "Endonezya"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 244,
-        "text": "Türkiye'nin en kalabalık ili hangisidir?",
-        "options": [
-            "Ankara",
-            "İzmir",
-            "İstanbul",
-            "Bursa"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 259,
-        "text": "Dünya'nın en yüksek şelalesi hangisidir?",
-        "options": [
-            "Niagara Şelalesi",
-            "Angel Şelalesi",
-            "Victoria Şelalesi",
-            "Iguazu Şelalesi"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 262,
-        "text": "Dünyanın en büyük yarımadası hangisidir?",
-        "options": [
-            "Balkan Yarımadası",
-            "İberya Yarımadası",
-            "Arap Yarımadası",
-            "Kore Yarımadası"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi ilimizde demiryolu ulaşımı yoktur?",
-        "options": [
-            "Karaman",
-            "Antalya",
-            "Balıkesir",
-            "Eskişehir"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi bir iç denizdir?",
-        "options": [
-            "Hazar Denizi",
-            "Kızıldeniz",
-            "Umman Denizi",
-            "Karayip Denizi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Haşhaş üretimi devlet kontrolünde midir?",
-        "options": [
-            "Evet",
-            "Hayır",
-            "Bazen",
-            "Bilinmiyor"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 274,
-        "text": "Türkiye'nin en doğusundaki il hangisidir?",
-        "options": [
-            "Ağrı",
-            "Kars",
-            "Iğdır",
-            "Hakkari"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Lületaşı en çok hangi ilimizde çıkarılır?",
-        "options": [
-            "Eskişehir",
-            "Erzurum",
-            "Bursa",
-            "Kütahya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Muson iklimi en çok hangi kıtada görülür?",
-        "options": [
-            "Asya",
-            "Afrika",
-            "Avrupa",
-            "Amerika"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi ilimizde yaz turizmi gelişmemiştir?",
-        "options": [
-            "Erzurum",
-            "Antalya",
-            "Muğla",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin en yüksek platosu hangisidir?",
-        "options": [
-            "Erzurum-Kars Platosu",
-            "Obruk Platosu",
-            "Cihanbeyli Platosu",
-            "Haymana Platosu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Nemrut Dağı heykelleri hangi ilimizdedir?",
-        "options": [
-            "Adıyaman",
-            "Malatya",
-            "Şanlıurfa",
-            "Diyarbakır"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Karadeniz'i İç Anadolu'ya bağlayan geçit?",
-        "options": [
-            "Zigana",
-            "Belen",
-            "Sertavul",
-            "Gülek"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 230,
-        "text": "Aşağıdakilerden hangisi bir ada ülkesidir?",
-        "options": [
-            "Avusturya",
-            "İsviçre",
-            "Japonya",
-            "Macaristan"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 265,
-        "text": "Türkiye'nin en aktif fay hattı hangisidir?",
-        "options": [
-            "Doğu Anadolu Fay Hattı",
-            "Kuzey Anadolu Fay Hattı",
-            "Ege Graben Sistemi",
-            "Batı Anadolu Fay Hattı"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 273,
-        "text": "Hangi ülke Himalaya Dağları'nda yer almaz?",
-        "options": [
-            "Nepal",
-            "Bhutan",
-            "Pakistan",
-            "Moğolistan"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Yedi Tepe üzerine kurulu şehir hangisidir?",
-        "options": [
-            "Roma",
-            "İstanbul",
-            "Her ikisi de",
-            "Atina"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin en kalabalık şehri hangisidir?",
-        "options": [
-            "Ankara",
-            "İzmir",
-            "İstanbul",
-            "Bursa"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin en batı ucu hangi ilimizdedir?",
-        "options": [
-            "İzmir",
-            "Çanakkale (Gökçeada)",
-            "Edirne",
-            "Muğla"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İpek Yolu'nun başlangıç noktası neresidir?",
-        "options": [
-            "Çin",
-            "Hindistan",
-            "İran",
-            "Türkiye"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi bir buzul gölüdür?",
-        "options": [
-            "Kilimli Gölü (Uludağ)",
-            "Sapanca Gölü",
-            "Van Gölü",
-            "Tuz Gölü"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Pamukkale travertenleri hangi ilimizdedir?",
-        "options": [
-            "Denizli",
-            "Muğla",
-            "Antalya",
-            "Isparta"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de 'Kayısı' denince akla gelen il?",
-        "options": [
-            "Malatya",
-            "Elazığ",
-            "Kayseri",
-            "Nevşehir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi bir doğal afettir?",
-        "options": [
-            "Deprem",
-            "Trafik Kazası",
-            "Savaş",
-            "Yangın (İnsan kaynaklı)"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de deprem riski en az olan yerler?",
-        "options": [
-            "Konya - Karaman çevresi",
-            "İstanbul",
-            "İzmir",
-            "Erzincan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Çarşamba Ovası hangi nehrin deltasındadır?",
-        "options": [
-            "Yeşilırmak",
-            "Kızılırmak",
-            "Seyhan",
-            "Ceyhan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 221,
-        "text": "Karadeniz Bölgesi'nin iklim özelliği nedir?",
-        "options": [
-            "Yazlar çok sıcak ve kurak",
-            "Kışlar çok sert ve kar yağışlı",
-            "Her mevsim yağışlı ve ılıman",
-            "Yazlar yağışlı, kışlar kurak"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 267,
-        "text": "Dünyanın en kuzeyindeki başkent hangisidir?",
-        "options": [
-            "Oslo",
-            "Helsinki",
-            "Reykjavik",
-            "Stockholm"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi bölgemizde maki bitki örtüsü görülür?",
-        "options": [
-            "Akdeniz",
-            "İç Anadolu",
-            "Doğu Anadolu",
-            "Karadeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Ege Bölgesi'nin en büyük limanı hangisidir?",
-        "options": [
-            "İzmir",
-            "Aydın",
-            "Manisa",
-            "Denizli"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi ilimiz 'Serhat Şehri' olarak bilinir?",
-        "options": [
-            "Edirne",
-            "Kars",
-            "Hakkari",
-            "Van"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin en kalabalık ilçesi hangisidir?",
-        "options": [
-            "Esenyurt (İstanbul)",
-            "Çankaya (Ankara)",
-            "Şahinbey (Gaziantep)",
-            "Keçiören (Ankara)"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Dünyanın ciğerleri olarak bilinen ormanlar?",
-        "options": [
-            "Amazon",
-            "Tayga",
-            "Muson",
-            "Karadeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 237,
-        "text": "Yer kabuğunun kırık hatlarına ne ad verilir?",
-        "options": [
-            "Fay",
-            "Kıvrım",
-            "Volkan",
-            "Platop"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 250,
-        "text": "Aşağıdakilerden hangisi bir kıyı oluşumudur?",
-        "options": [
-            "Delta",
-            "Vadi",
-            "Traverten",
-            "Polyeler"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en çok orman hangi bölgemizdedir?",
-        "options": [
-            "Akdeniz",
-            "Ege",
-            "Karadeniz",
-            "Doğu Anadolu"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi nehir üzerinde Atatürk Barajı bulunur?",
-        "options": [
-            "Fırat",
-            "Dicle",
-            "Seyhan",
-            "Ceyhan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de nüfus yoğunluğu en az olan bölge?",
-        "options": [
-            "Doğu Anadolu",
-            "İç Anadolu",
-            "Karadeniz",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de çay üretiminin merkezi neresidir?",
-        "options": [
-            "Rize",
-            "Trabzon",
-            "Ordu",
-            "Giresun"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin petrol çıkarılan ili hangisidir?",
-        "options": [
-            "Batman",
-            "Diyarbakır",
-            "Siirt",
-            "Hakkari"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Linyit kömürü yatakları Türkiye'de nasıldır?",
-        "options": [
-            "Çok yaygındır",
-            "Çok azdır",
-            "Yoktur",
-            "Sadece Ege'dedir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Rüzgar enerjisi potansiyeli en yüksek bölge?",
-        "options": [
-            "Ege (Çeşme-Alaçatı)",
-            "Doğu Anadolu",
-            "Karadeniz",
-            "Güneydoğu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
-        "options": [
-            "Venüs",
-            "Mars",
-            "Jüpiter",
-            "Merkür"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin en işlek sınır kapısı hangisidir?",
-        "options": [
-            "Kapıkule",
-            "İpsala",
-            "Habur",
-            "Sarp"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Antep fıstığı en çok hangi ilimizde üretilir?",
-        "options": [
-            "Şanlıurfa",
-            "Gaziantep",
-            "Siirt",
-            "Adıyaman"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi bölgemiz 'Tahıl Ambarı' olarak bilinir?",
-        "options": [
-            "İç Anadolu",
-            "Marmara",
-            "Ege",
-            "Güneydoğu Anadolu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Mermer ihracatımızda önemli bir yeri olan il?",
-        "options": [
-            "Afyonkarahisar",
-            "Konya",
-            "Ankara",
-            "Sivas"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İstanbul Boğazı hangi iki denizi birleştirir?",
-        "options": [
-            "Karadeniz - Marmara",
-            "Ege - Akdeniz",
-            "Marmara - Ege",
-            "Karadeniz - Akdeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de nüfus sayımı ilk ne zaman yapıldı?",
-        "options": [
-            "1927",
-            "1935",
-            "1960",
-            "1980"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Peri Bacaları Türkiye'nin hangi bölgesindedir?",
-        "options": [
-            "Ege",
-            "Akdeniz",
-            "İç Anadolu",
-            "Karadeniz"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi denizimizin tuzluluk oranı en yüksektir?",
-        "options": [
-            "Karadeniz",
-            "Marmara",
-            "Ege",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi maden en çok Artvin-Murgul'da çıkarılır?",
-        "options": [
-            "Bakır",
-            "Demir",
-            "Bor",
-            "Krom"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İncir üretiminde dünyada birinci olduğumuz il?",
-        "options": [
-            "Aydın",
-            "İzmir",
-            "Muğla",
-            "Bursa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin yüzölçümü en büyük ili hangisidir?",
-        "options": [
-            "Konya",
-            "Ankara",
-            "Sivas",
-            "Erzurum"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Falez (Yalıyar) oluşumunda etkili olan kuvvet?",
-        "options": [
-            "Dalga",
-            "Rüzgar",
-            "Akarsu",
-            "Buzul"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en çok heyelan hangi mevsimde olur?",
-        "options": [
-            "İlkbahar (Kar erimeleri)",
-            "Yaz",
-            "Sonbahar",
-            "Kış"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 213,
-        "text": "Pamukkale Travertenleri hangi ilimizde bulunur?",
-        "options": [
-            "İzmir",
-            "Muğla",
-            "Aydın",
-            "Denizli"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 215,
-        "text": "Güneş sistemindeki en büyük gezegen hangisidir?",
-        "options": [
-            "Dünya",
-            "Mars",
-            "Jüpiter",
-            "Satürn"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 217,
-        "text": "Depremin büyüklüğünü ölçen alete ne ad verilir?",
-        "options": [
-            "Barometre",
-            "Termometre",
-            "Sismograf",
-            "Higrometre"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 263,
-        "text": "Türkiye'de hangi bölgede kıyı turizmi yapılmaz?",
-        "options": [
-            "Ege",
-            "Akdeniz",
-            "Marmara",
-            "İç Anadolu"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 270,
-        "text": "Türkiye'nin en güneydeki noktası hangi ildedir?",
-        "options": [
-            "Antalya",
-            "Hatay",
-            "Mersin",
-            "Gaziantep"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en çok yağış alan ilimiz hangisidir?",
-        "options": [
-            "Rize",
-            "Trabzon",
-            "Muğla",
-            "Antalya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi toprak türü 'Terra Rossa' olarak bilinir?",
-        "options": [
-            "Akdeniz Toprağı",
-            "Çernozyom",
-            "Podzol",
-            "Laterit"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en az yağış alan bölgemiz neresidir?",
-        "options": [
-            "İç Anadolu",
-            "Güneydoğu Anadolu",
-            "Doğu Anadolu",
-            "Ege"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Dünyanın en uzun sıradağlar zinciri hangisidir?",
-        "options": [
-            "And Dağları",
-            "Himalayalar",
-            "Alpler",
-            "Kayalık Dağları"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de bor rezervi en çok hangi bölgededir?",
-        "options": [
-            "Güney Marmara",
-            "Ege",
-            "İç Anadolu",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi rüzgar kuzeyden eserek sıcaklığı düşürür?",
-        "options": [
-            "Poyraz",
-            "Lodos",
-            "Keşişleme",
-            "Kıble"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Ayçiçeği tarımı en yoğun hangi bölgede yapılır?",
-        "options": [
-            "Marmara (Trakya)",
-            "İç Anadolu",
-            "Ege",
-            "Karadeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Tuz Gölü hangi illerimizin sınırları içindedir?",
-        "options": [
-            "Konya, Aksaray, Ankara",
-            "Konya, Karaman",
-            "Ankara, Eskişehir",
-            "Kayseri, Nevşehir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi rüzgar güneyden eserek sıcaklığı artırır?",
-        "options": [
-            "Lodos",
-            "Poyraz",
-            "Karayel",
-            "Yıldız"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Çukurova hangi nehirlerin oluşturduğu deltadır?",
-        "options": [
-            "Seyhan ve Ceyhan",
-            "Kızılırmak",
-            "Yeşilırmak",
-            "Gediz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Tiftik keçisi (Ankara Keçisi) nerede meşhurdur?",
-        "options": [
-            "Ankara",
-            "Konya",
-            "Sivas",
-            "Van"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Marmara Denizi'ni Ege Denizi'ne bağlayan boğaz?",
-        "options": [
-            "Çanakkale Boğazı",
-            "İstanbul Boğazı",
-            "Cebelitarık",
-            "Bering"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de muz tarımı en çok hangi ilde yapılır?",
-        "options": [
-            "Mersin (Anamur)",
-            "Antalya",
-            "Adana",
-            "Hatay"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi akarsuyumuz ülke sınırları dışına dökülür?",
-        "options": [
-            "Fırat",
-            "Kızılırmak",
-            "Yeşilırmak",
-            "Gediz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin en doğusunda yer alan sınır kapımız?",
-        "options": [
-            "Kapıköy (İran)",
-            "Kapıkule",
-            "Habur",
-            "Cilvegözü"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en çok ormana sahip bölge hangisidir?",
-        "options": [
-            "Karadeniz",
-            "Akdeniz",
-            "Ege",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de buzulların en az etkili olduğu bölge?",
-        "options": [
-            "Ege",
-            "Doğu Anadolu",
-            "Karadeniz",
-            "İç Anadolu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 210,
-        "text": "Türkiye'de en fazla yağış alan ilimiz hangisidir?",
-        "options": [
-            "Konya",
-            "Şanlıurfa",
-            "Rize",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi bir 'Bölge' adı değildir?",
-        "options": [
-            "Trakya",
-            "Ege",
-            "Kapadokya",
-            "Çukurova"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de fındık üretiminde birinci olan ilimiz?",
-        "options": [
-            "Ordu",
-            "Giresun",
-            "Trabzon",
-            "Samsun"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en çok petrol çıkarılan il hangisidir?",
-        "options": [
-            "Batman",
-            "Diyarbakır",
-            "Adıyaman",
-            "Siirt"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'de en çok yetiştirilen tarım ürünü nedir?",
-        "options": [
-            "Buğday",
-            "Mısır",
-            "Arpa",
-            "Yulaf"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi Ege Bölgesi'nde değildir?",
-        "options": [
-            "Antalya",
-            "İzmir",
-            "Aydın",
-            "Manisa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Dağınık yerleşme en çok hangi bölgemizde görülür?",
-        "options": [
-            "Karadeniz",
-            "İç Anadolu",
-            "Güneydoğu",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi bir iç püskürük kayaçtır?",
-        "options": [
-            "Granit",
-            "Bazalt",
-            "Andezit",
-            "Tüf"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 249,
-        "text": "Hangi ülke dünyanın en geniş yüzölçümüne sahiptir?",
-        "options": [
-            "Kanada",
-            "ABD",
-            "Çin",
-            "Rusya"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 253,
-        "text": "Aşağıdaki şehirlerden hangisi iki kıtada yer alır?",
-        "options": [
-            "Kahire",
-            "Londra",
-            "İstanbul",
-            "Moskova"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de taş kömürü en çok hangi ilde çıkarılır?",
-        "options": [
-            "Manisa",
-            "Zonguldak",
-            "Kütahya",
-            "Sivas"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de güneşin en erken doğduğu il hangisidir?",
-        "options": [
-            "Iğdır",
-            "Van",
-            "Hakkari",
-            "Ağrı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Peribacalarının oluşumunda etkili olan dış kuvvet?",
-        "options": [
-            "Akarsu ve Sel suları",
-            "Rüzgar",
-            "Buzul",
-            "Dalga"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Büyükbaş hayvancılık en çok hangi bölgede yapılır?",
-        "options": [
-            "Doğu Anadolu (Erzurum-Kars)",
-            "Ege",
-            "Akdeniz",
-            "Güneydoğu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 220,
-        "text": "Peri Bacaları ile ünlü turistik bölgemiz neresidir?",
-        "options": [
-            "Kapadokya",
-            "Efes",
-            "Ölüdeniz",
-            "Safranbolu"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Karstik araziler en çok hangi bölgemizde yaygındır?",
-        "options": [
-            "Akdeniz",
-            "Karadeniz",
-            "Ege",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de en çok koyun yetiştirilen il hangisidir?",
-        "options": [
-            "Van",
-            "Konya",
-            "Şanlıurfa",
-            "Ankara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de nüfus artış hızının en düşük olduğu yıl?",
-        "options": [
-            "2020-2023 arası (Pandemi ve sonrası)",
-            "1945",
-            "1960",
-            "1980"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 252,
-        "text": "Dünyada en fazla ada sayısına sahip ülke hangisidir?",
-        "options": [
-            "Endonezya",
-            "Filipinler",
-            "İsveç",
-            "Japonya"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 275,
-        "text": "Aşağıdakilerden hangisi bir tektonik plaka değildir?",
-        "options": [
-            "Pasifik Plakası",
-            "Anadolu Plakası",
-            "Avrasya Plakası",
-            "Amazon Plakası"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Ekvator çizgisinin geçtiği kıtalardan biri değildir?",
-        "options": [
-            "Afrika",
-            "Güney Amerika",
-            "Asya",
-            "Avrupa"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 234,
-        "text": "Hangi ülke hem Asya hem de Avrupa kıtasında yer alır?",
-        "options": [
-            "Mısır",
-            "Rusya",
-            "Suudi Arabistan",
-            "Kazakistan"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 246,
-        "text": "Aşağıdakilerden hangisi Türkiye'nin komşusu değildir?",
-        "options": [
-            "Gürcistan",
-            "Ermenistan",
-            "Lübnan",
-            "Irak"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 264,
-        "text": "Dünya'nın en geniş yüzölçümlü gölü (deniz) hangisidir?",
-        "options": [
-            "Victoria Gölü",
-            "Superior Gölü",
-            "Hazar Denizi",
-            "Baykal Gölü"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en çok sınır komşusu olan yönü hangisidir?",
-        "options": [
-            "Doğu ve Güneydoğu",
-            "Batı",
-            "Kuzey",
-            "Güney"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en büyük yüzölçümüne sahip ili hangisidir?",
-        "options": [
-            "Konya",
-            "Ankara",
-            "Sivas",
-            "Van"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de pamuk üretimi en çok hangi bölgede yapılır?",
-        "options": [
-            "Güneydoğu Anadolu",
-            "Ege",
-            "Akdeniz",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Hangi gölümüz 'Van Gölü Canavarı' efsanesiyle bilinir?",
-        "options": [
-            "Van Gölü",
-            "Tuz Gölü",
-            "Beyşehir Gölü",
-            "Eğirdir Gölü"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 233,
-        "text": "Türkiye'de buğday üretiminde bir olan bölge hangisidir?",
-        "options": [
-            "Marmara",
-            "İç Anadolu",
-            "Ege",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 251,
-        "text": "Türkiye'nin en uzun kara sınırı hangi ülkeyle ortaktır?",
-        "options": [
-            "Suriye",
-            "Irak",
-            "İran",
-            "Gürcistan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de çayın başkenti olarak bilinen il hangisidir?",
-        "options": [
-            "Trabzon",
-            "Rize",
-            "Artvin",
-            "Ordu"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 205,
-        "text": "Türkiye'de çay tarımının yapıldığı tek bölge hangisidir?",
-        "options": [
-            "Ege Bölgesi",
-            "Akdeniz Bölgesi",
-            "Marmara Bölgesi",
-            "Karadeniz Bölgesi"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 257,
-        "text": "Türkiye'nin en uzun sınır kapısı hangi ülkeyle ortaktır?",
-        "options": [
-            "Bulgaristan",
-            "Yunanistan",
-            "Suriye",
-            "İran"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 266,
-        "text": "Aşağıdaki ülkelerden hangisi Avrupa kıtasında yer almaz?",
-        "options": [
-            "Romanya",
-            "Ukrayna",
-            "Kazakistan",
-            "Macaristan"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Dünyanın akciğerleri olarak bilinen ormanlar hangisidir?",
-        "options": [
-            "Amazon",
-            "Tayga",
-            "Muson",
-            "Kongo"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de 'Güller Diyarı' olarak bilinen il hangisidir?",
-        "options": [
-            "Burdur",
-            "Isparta",
-            "Antalya",
-            "Afyon"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de jeotermal enerji potansiyeli en yüksek bölge?",
-        "options": [
-            "Ege",
-            "Marmara",
-            "İç Anadolu",
-            "Doğu Anadolu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Dünyanın yüzölçümü bakımından en büyük ülkesi hangisidir?",
-        "options": [
-            "Çin",
-            "ABD",
-            "Rusya",
-            "Kanada"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 227,
-        "text": "Türkiye'nin en uzun kıyı şeridine sahip denizi hangisidir?",
-        "options": [
-            "Karadeniz",
-            "Akdeniz",
-            "Ege Denizi",
-            "Marmara Denizi"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 229,
-        "text": "Dünya üzerinde en fazla ülkeye komşu olan ülke hangisidir?",
-        "options": [
-            "ABD",
-            "Çin",
-            "Rusya",
-            "Brezilya"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 248,
-        "text": "Türkiye'de pamuk üretiminde birinci olan bölge hangisidir?",
-        "options": [
-            "Ege",
-            "Akdeniz",
-            "Güneydoğu Anadolu",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 272,
-        "text": "Türkiye'de en fazla deprem riski taşıyan bölge hangisidir?",
-        "options": [
-            "Marmara",
-            "Ege",
-            "Doğu Anadolu",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Dünyanın en kalabalık ülkesi hangisidir (2023 itibarıyla)?",
-        "options": [
-            "Çin",
-            "Hindistan",
-            "ABD",
-            "Endonezya"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Çoruh Nehri üzerinde yapılan Türkiye'nin en yüksek barajı?",
-        "options": [
-            "Yusufeli Barajı",
-            "Deriner Barajı",
-            "Keban Barajı",
-            "Atatürk Barajı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 207,
-        "text": "Türkiye'nin yüz ölçümü bakımından en büyük gölü hangisidir?",
-        "options": [
-            "Tuz Gölü",
-            "Beyşehir Gölü",
-            "Van Gölü",
-            "Eğirdir Gölü"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 228,
-        "text": "Afrika kıtasında bulunan dünyanın en uzun nehri hangisidir?",
-        "options": [
-            "Amazon",
-            "Ganj",
-            "Nil",
-            "Mississippi"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 236,
-        "text": "Türkiye'de fındık üretiminin en yoğun olduğu il hangisidir?",
-        "options": [
-            "Trabzon",
-            "Ordu",
-            "Giresun",
-            "Samsun"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 268,
-        "text": "Aşağıdakilerden hangisi Türkiye'nin en eski milli parkıdır?",
-        "options": [
-            "Yedigöller",
-            "Köprülü Kanyon",
-            "Munzur Vadisi",
-            "Gelibolu Yarımadası Tarihi Milli Parkı"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de pamuk üretiminde birinci olan ilimiz hangisidir?",
-        "options": [
-            "Adana",
-            "Şanlıurfa",
-            "İzmir",
-            "Aydın"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en uzun kıyı şeridine sahip bölgesi hangisidir?",
-        "options": [
-            "Ege",
-            "Akdeniz",
-            "Karadeniz",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en büyük alüminyum tesisleri hangi ilimizdedir?",
-        "options": [
-            "Konya (Seydişehir)",
-            "Antalya",
-            "Bursa",
-            "Zonguldak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": " GAP projesi hangi bölgemizi kalkındırmak için yapılmıştır?",
-        "options": [
-            "Güneydoğu Anadolu",
-            "Doğu Anadolu",
-            "Karadeniz",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 255,
-        "text": "Türkiye'de en fazla doğalgaz ithal ettiğimiz ülke hangisidir?",
-        "options": [
-            "İran",
-            "Azerbaycan",
-            "Rusya",
-            "Cezayir"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "İngiltere ile Fransa'yı birbirine bağlayan tünelin adı nedir?",
-        "options": [
-            "Manş Tüneli",
-            "Avrasya Tüneli",
-            "Gotthard Tüneli",
-            "Marmaray"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de heyelan olaylarına en çok hangi bölgede rastlanır?",
-        "options": [
-            "Karadeniz",
-            "Doğu Anadolu",
-            "Akdeniz",
-            "Marmara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Harita üzerindeki uzunluğun gerçek uzunluğa oranına ne denir?",
-        "options": [
-            "Ölçek",
-            "Lejant",
-            "Kroki",
-            "Plan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en uzun nehri hangisidir (Tamamı Türkiye'de olan)?",
-        "options": [
-            "Kızılırmak",
-            "Fırat",
-            "Yeşilırmak",
-            "Sakarya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Aşağıdaki ülkelerden hangisinin Türkiye ile kara sınırı yoktur?",
-        "options": [
-            "Rusya",
-            "Gürcistan",
-            "Bulgaristan",
-            "Yunanistan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de 'beyaz altın' olarak bilinen tarım ürünü hangisidir?",
-        "options": [
-            "Pamuk",
-            "Şeker Pancarı",
-            "Buğday",
-            "Pirinç"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Batı Karadeniz'de demir-çelik sanayisinin gelişme sebebi nedir?",
-        "options": [
-            "Taş kömürü yatakları (Enerji)",
-            "Hammadde bolluğu",
-            "Ulaşım kolaylığı",
-            "Pazar imkanı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 214,
-        "text": "Erozyonu önlemek için yapılması gereken en etkili çalışma nedir?",
-        "options": [
-            "Ağaçlandırma yapmak",
-            "Tarlaları nadasa bırakmak",
-            "Meraları aşırı otlatmak",
-            "Tarlaları eğime paralel sürmek"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "GAP projesi kapsamında hangi nehir üzerine barajlar kurulmuştur?",
-        "options": [
-            "Fırat ve Dicle",
-            "Kızılırmak",
-            "Yeşilırmak",
-            "Seyhan ve Ceyhan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en uzun nehri hangisidir (Türkiye sınırları içinde)?",
-        "options": [
-            "Kızılırmak",
-            "Fırat",
-            "Yeşilırmak",
-            "Sakarya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en uzun nehri hangisidir (Türkiye sınırları içindeki)?",
-        "options": [
-            "Fırat",
-            "Dicle",
-            "Kızılırmak",
-            "Yeşilırmak"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 222,
-        "text": "Türkiye'nin komşularından yüz ölçümü en büyük olan ülke hangisidir?",
-        "options": [
-            "Yunanistan",
-            "Bulgaristan",
-            "Suriye",
-            "İran"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Hangi ilimizde yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçer?",
-        "options": [
-            "Antalya",
-            "Erzurum",
-            "Rize",
-            "Kars"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de rüzgar enerjisi potansiyeli en yüksek bölgemiz hangisidir?",
-        "options": [
-            "Ege",
-            "Marmara",
-            "İç Anadolu",
-            "Akdeniz"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 201,
-        "text": "Türkiye'nin başkent ve \"tahıl ambarı\" olarak bilinen bölgesi neresidir?",
-        "options": [
-            "İstanbul - Marmara",
-            "İzmir - Ege",
-            "Ankara - İç Anadolu",
-            "Antalya - Akdeniz"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 216,
-        "text": "Türkiye'de sanayi, ticaret ve nüfusun en yoğun olduğu bölge hangisidir?",
-        "options": [
-            "Ege Bölgesi",
-            "Marmara Bölgesi",
-            "İç Anadolu Bölgesi",
-            "Akdeniz Bölgesi"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 218,
-        "text": "Türkiye'de zeytin ve incir üretiminde birinci olan bölgemiz hangisidir?",
-        "options": [
-            "Marmara",
-            "Akdeniz",
-            "Ege",
-            "Güneydoğu Anadolu"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 239,
-        "text": "Aşağıdakilerden hangisi Türkiye'nin en büyük ovalarından biri değildir?",
-        "options": [
-            "Çukurova",
-            "Bafra Ovası",
-            "Konya Ovası",
-            "Gediz Ovası"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 240,
-        "text": "Dünyanın en yüksek dağı olan Everest hangi iki ülke sınırında yer alır?",
-        "options": [
-            "Hindistan - Çin",
-            "Nepal - Çin",
-            "Pakistan - Çin",
-            "Bhutan - Hindistan"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Atlas Okyanusu ile Büyük Okyanus'u birbirine bağlayan kanal hangisidir?",
-        "options": [
-            "Süveyş",
-            "Panama",
-            "Korint",
-            "Kiel"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 260,
-        "text": "Türkiye'de hangi il jeotermal enerji potansiyeli açısından en zengindir?",
-        "options": [
-            "Afyonkarahisar",
-            "Denizli",
-            "Manisa",
-            "Aydın"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 223,
-        "text": "Yön bulmak için kullanılan pusulanın renkli ucu daima hangi yönü gösterir?",
-        "options": [
-            "Güney",
-            "Doğu",
-            "Batı",
-            "Kuzey"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 206,
-        "text": "Yeraltındaki magmanın yeryüzüne püskürmesiyle oluşan dağlara ne ad verilir?",
-        "options": [
-            "Kıvrım Dağları",
-            "Kırık Dağları",
-            "Volkanik Dağlar",
-            "Buzul Dağları"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 269,
-        "text": "Dünya'da en fazla petrol ihraç eden ülke hangisidir? (2023 verilerine göre)",
-        "options": [
-            "Suudi Arabistan",
-            "Rusya",
-            "ABD",
-            "Irak"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 204,
-        "text": "Yazları sıcak ve kurak, kışları ılık ve yağışlı geçen iklim tipi hangisidir?",
-        "options": [
-            "Karasal İklim",
-            "Muson İklimi",
-            "Çöl İklimi",
-            "Akdeniz İklimi"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 242,
-        "text": "Aşağıdakilerden hangisi İç Anadolu Bölgesi'nin özelliklerinden biri değildir?",
-        "options": [
-            "Step bitki örtüsü",
-            "Karasal iklim",
-            "Her mevsim yağışlı",
-            "Tuz Gölü"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin en uzun nehri hangisidir (Türkiye sınırları içinde doğup dökülen)?",
-        "options": [
-            "Kızılırmak",
-            "Fırat",
-            "Yeşilırmak",
-            "Sakarya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 258,
-        "text": "Aşağıdaki ülkelerden hangisi kara ile çevrili (denize kıyısı olmayan) bir ülkedir?",
-        "options": [
-            "Portekiz",
-            "İspanya",
-            "Avusturya",
-            "Yunanistan"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 211,
-        "text": "Dünyanın kendine has şekline (kutuplardan basık, Ekvator'dan şişkin) ne ad verilir?",
-        "options": [
-            "Elips",
-            "Daire",
-            "Küre",
-            "Geoid"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 225,
-        "text": "\"GAP\" (Güneydoğu Anadolu Projesi) öncelikle hangi nehirler üzerine kurulan barajları kapsar?",
-        "options": [
-            "Kızılırmak - Yeşilırmak",
-            "Fırat - Dicle",
-            "Seyhan - Ceyhan",
-            "Sakarya - Porsuk"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 209,
-        "text": "Atmosferdeki hava olaylarının (yağmur, kar, rüzgar) görüldüğü, yere en yakın katman hangisidir?",
-        "options": [
-            "Stratosfer",
-            "Troposfer",
-            "Mezosfer",
-            "Termosfer"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 208,
-        "text": "Akdeniz ve Kızıldeniz'i birbirine bağlayan, ticaret yollarını kısaltan önemli su yolu hangisidir?",
-        "options": [
-            "Panama Kanalı",
-            "Süveyş Kanalı",
-            "Hürmüz Boğazı",
-            "Cebelitarık Boğazı"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 245,
-        "text": "Akarsuyun taşıdığı malzemeleri denize döküldüğü yerde biriktirmesiyle oluşan yer şekline ne ad verilir?",
-        "options": [
-            "Vadi",
-            "Delta",
-            "Kanyon",
-            "Ova"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 202,
-        "text": "Dünyayı Kuzey ve Güney Yarım Küre olarak iki eşit parçaya böldüğü varsayılan hayali çizgiye ne ad verilir?",
-        "options": [
-            "Yengeç Dönencesi",
-            "Ekvator",
-            "Greenwich",
-            "Oğlak Dönencesi"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 212,
-        "text": "Türkiye'nin sınırları içinde doğup, sınırları dışından (Basra Körfezi'nden) denize dökülen nehirlerimiz hangileridir?",
-        "options": [
-            "Fırat ve Dicle",
-            "Seyhan ve Ceyhan",
-            "Yeşilırmak ve Kızılırmak",
-            "Sakarya ve Gediz"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "COGRAFYA",
-        "difficulty": "ZOR"
-    }
+  {
+    "text": "Dünya'yı kuzey ve güney olmak üzere iki eşit yarım küreye ayırdığı varsayılan en büyük paralel dairesine ne ad verilir?",
+    "options":["Ekvator", "Yengeç Dönencesi", "Oğlak Dönencesi", "Kutup Dairesi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Dünya'yı iki eşit parçaya bölen, 0 derece olarak kabul edilen en büyük ve başlangıç paraleli Ekvator'dur."
+  },
+  {
+    "text": "Dünya üzerindeki saat farklarının temelini oluşturan ve Londra'daki bir gözlemevinden geçtiği varsayılan başlangıç meridyeni aşağıdakilerden hangisidir?",
+    "options":["Ekvator", "Tarih Değiştirme Çizgisi", "Greenwich", "Yengeç Dönencesi"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "İngiltere'nin başkenti Londra'daki Greenwich gözlemevinden geçen meridyen, 0 derece başlangıç meridyeni kabul edilir."
+  },
+  {
+    "text": "Türkiye'nin en büyük yüzölçümüne sahip adası aşağıdakilerden hangisidir?",
+    "options":["Bozcaada", "Gökçeada", "Büyükada", "Cunda Adası"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Çanakkale ilimize bağlı olan Gökçeada (İmroz), Türkiye'nin en büyük adasıdır."
+  },
+  {
+    "text": "Türkiye'nin kara sınır komşuları arasında yüzölçümü en büyük olan ülke aşağıdakilerden hangisidir?",
+    "options":["Suriye", "Bulgaristan", "Irak", "İran"],
+    "correctAnswerIndex": 3,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Yaklaşık 1.6 milyon kilometrekarelik yüzölçümü ile İran, Türkiye'nin en büyük yüzölçümüne sahip komşusudur."
+  },
+  {
+    "text": "Kuzey Amerika kıtasına bağlı olan ve dünyanın en büyük adası kabul edilen yer neresidir?",
+    "options":["Madagaskar", "Grönland", "Yeni Gine", "Borneo"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Danimarka'ya bağlı özerk bir bölge olan Grönland, dünya üzerindeki en büyük adadır."
+  },
+  {
+    "text": "Ekvator'dan kutuplara doğru gidildikçe sıcaklıkların genel olarak düşmesinin temel nedeni aşağıdakilerden hangisidir?",
+    "options":["Dünya'nın şekli", "Okyanus akıntıları", "Dünya'nın kendi ekseni etrafındaki dönüşü", "Rüzgar yönleri"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Dünya'nın küresel (geoid) şekli nedeniyle Güneş ışınlarının geliş açısı Ekvator'dan kutuplara doğru daralır ve bu da sıcaklığın düşmesine yol açar."
+  },
+  {
+    "text": "Türkiye'de etrafının dağlarla çevrili olması ve deniz etkisine kapalı olması nedeniyle en geniş alanda görülen iklim tipi hangisidir?",
+    "options":["Akdeniz İklimi", "Karadeniz İklimi", "Karasal İklim", "Muson İklimi"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Türkiye'nin iç, doğu ve güneydoğu kesimlerinin deniz etkisine kapalı olması, karasal iklimin en yaygın iklim tipi olmasını sağlamıştır."
+  },
+  {
+    "text": "Avrupa ve Asya kıtalarını birbirinden ayıran doğal sınır olarak kabul edilen dağ sırası aşağıdakilerden hangisidir?",
+    "options":["Alpler", "Ural Dağları", "Himalayalar", "And Dağları"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Rusya topraklarında kuzeyden güneye uzanan Ural Dağları, geleneksel olarak Asya ile Avrupa'nın sınırı kabul edilir."
+  },
+  {
+    "text": "Güney Amerika ülkesi Venezuela'da bulunan ve dünyanın en yüksek şelalesi olan doğa harikası hangisidir?",
+    "options":["Niagara", "Victoria", "Angel (Melek)", "Iguazu"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Angel Şelalesi, 979 metrelik yüksekliği ile dünyadaki en yüksek kesintisiz şelaledir."
+  },
+  {
+    "text": "Türkiye'de yıllık ortalama yağış miktarının en yüksek olduğu ilimiz hangisidir?",
+    "options":["Antalya", "Muğla", "Rize", "Trabzon"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Dağların kıyıya paralel ve çok yakın uzanması sebebiyle yamaç yağışlarını bolca alan Rize, Türkiye'nin en çok yağış alan ilidir."
+  },
+  {
+    "text": "Yağış azlığı ve yanlış arazi kullanımı sebebiyle Türkiye'de rüzgar erozyonu ve çölleşme riskinin en yüksek olduğu yer aşağıdakilerden hangisidir?",
+    "options":["Konya - Karapınar", "Antalya - Alanya", "Rize - Çamlıhemşin", "Kırklareli - Demirköy"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "İç Anadolu'da yer alan Konya havzası, özellikle Karapınar çevresi yağış azlığından dolayı rüzgar erozyonu ve çölleşme riskini en çok taşıyan bölgemizdir."
+  },
+  {
+    "text": "Üzerinde hiçbir ülkenin bulunmadığı, kalıcı insan yerleşiminin olmadığı ve tamamen buzullarla kaplı kıta hangisidir?",
+    "options":["Kuzey Amerika", "Avustralya", "Antarktika", "Avrupa"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Güney Kutbunu oluşturan Antarktika kıtası sadece bilimsel araştırma istasyonlarına ev sahipliği yapar, yerli ve kalıcı bir nüfusu yoktur."
+  },
+  {
+    "text": "Ege Bölgesi'nin en uzun akarsuyu olan ve kıvrımlar çizerek denize dökülen nehir hangisidir?",
+    "options":["Gediz", "Büyük Menderes", "Bakırçay", "Küçük Menderes"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Büyük Menderes nehri, Ege Bölgesi'nin en uzun akarsuyudur ve geniş bir delta ovası oluşturarak denize dökülür."
+  },
+  {
+    "text": "Türkiye'nin en doğusunda yer aldığı için yerel saati en ileri olan ve Güneş'in ilk doğduğu ilimiz hangisidir?",
+    "options": ["Van", "Kars", "Hakkari", "Iğdır"],
+    "correctAnswerIndex": 3,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "45 derece Doğu boylamına en yakın ilimiz olan Iğdır, Türkiye'nin en doğu ucudur ve Güneş en erken burada doğar."
+  },
+  {
+    "text": "Tarihte İpek Yolu'nun Avrupa'ya geçiş noktalarından olan ve günümüzde iki kıtayı birbirine bağlayan Türkiye'deki boğazlar hangileridir?",
+    "options":["Süveyş ve Panama", "İstanbul ve Çanakkale", "Cebelitarık ve Dover", "Hürmüz ve Babülmendep"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "İstanbul ve Çanakkale Boğazları, Asya ile Avrupa'yı birbirine bağlayan ve tarih boyunca büyük stratejik öneme sahip doğal su yollarıdır."
+  },
+  {
+    "text": "Kendi enerjisini kendi üreten ve doğaya karbon salınımını sıfıra indirmeyi hedefleyen modern yerleşim alanlarına ne ad verilir?",
+    "options":["Gecekondu", "Metropol", "Ekokent (Ekolojik Şehir)", "Uydu Kent"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "LGS",
+    "explanation": "Ekokentler (Ekolojik şehirler), yenilenebilir enerji kaynakları kullanan, atıksız ve çevre dostu planlanmış sürdürülebilir şehirlerdir."
+  },
+  {
+    "text": "İzohips (eş yükselti) haritalarında, iç içe kapalı eğrilerin ortasında içeriye doğru ok işaretlerinin ( >>> ) bulunması hangi yeryüzü şeklini ifade eder?",
+    "options":["Tepe (Zirve)", "Kapalı Çukur (Krater/Çanak)", "Sırt", "Vadi"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Ok işaretleri, yükseltinin o yönde azaldığını gösterir ve volkanik kraterler veya obruklar gibi kapalı çukurları ifade etmek için kullanılır."
+  },
+  {
+    "text": "Rüzgarların kayaların alt kısımlarını oyarak oluşturduğu ve daha çok çöl ile kurak bölgelerde görülen aşınım şekline ne ad verilir?",
+    "options": ["Barkan", "Kumul", "Mantar Kaya", "Falez"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Rüzgarların taşıdığı kumların kayaların alt kısımlarına çarparak aşındırmasıyla oluşan mantar görünümlü şekillere mantar kaya (şeytan masası) denir."
+  },
+  {
+    "text": "Mağara tavanlarından sızan kireçli suların buharlaşmasıyla tavandan aşağıya doğru biriken karstik şekillere ne ad verilir?",
+    "options": ["Sütun", "Sarkıt", "Dikit", "Traverten"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Karstik mağaralarda tavandan sarkan kalsiyum karbonat birikimlerine sarkıt, tabandan yükselenlere dikit denir."
+  },
+  {
+    "text": "Buzulların kayaları çizerek ve törpüleyerek oluşturduğu, deve hörgücüne benzeyen asimetrik tepelere ne ad verilir?",
+    "options":["Hörgüç Kaya", "Moren", "Sirk", "Fiyort"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Buzul aşındırması sonucu oluşan, yüzeyi cilalanmış ve pürüzsüzleşmiş kayalık tepelere hörgüç kaya denir."
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir akarsuyun denize döküldüğü yerde delta ovası oluşturabilmesi için gerekli olan şartlardan biri değildir?",
+    "options":["Akarsuyun bol alüvyon taşıması", "Kıta sahanlığının (şelf alanının) geniş olması", "Kıyıda güçlü gelgit ve akıntıların olması", "Kıyının sığ (derinliğin az) olması"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Kıyıda güçlü gelgit veya akıntı olursa akarsuyun getirdiği toprak (alüvyon) denizin içine taşınır ve birikmez; bu nedenle delta oluşması için gelgitin etkisiz olması gerekir."
+  },
+  {
+    "text": "Gündüz ve gece sürelerinin yıl içinde uzayıp kısalması aşağıdakilerden hangisinin sonucudur?",
+    "options":["Dünya'nın kendi ekseni etrafında dönmesi", "Dünya'nın eksen eğikliği ve Güneş etrafında dolanması", "Ay'ın Dünya etrafında dönmesi", "Kıta kayması"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "23 derece 27 dakikalık eksen eğikliği ve yıllık hareket nedeniyle Güneş ışınlarının geliş açısı yıl boyunca değişir, bu da gece-gündüz sürelerinin farklılaşmasına neden olur."
+  },
+  {
+    "text": "Kışın durgun ve açık gecelerde yeryüzünün hızla soğumasıyla, yere yakın havanın üstteki havadan daha soğuk hale gelmesine ne ad verilir?",
+    "options":["Cephe oluşumu", "Sıcaklık terselmesi (İnversiyon)", "Sera etkisi", "Konveksiyon"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Normalde yükseklere çıkıldıkça sıcaklık azalır ancak kış aylarında soğuk havanın zemine çökerek altta soğuk, üstte nispeten sıcak havanın oluşmasına sıcaklık terselmesi denir ve hava kirliliğini artırır."
+  },
+  {
+    "text": "Havadaki su buharının (bağıl nem) doymuşluk oranına ulaşması ve yağış bırakması için aşağıdakilerden hangisinin gerçekleşmesi en etkilidir?",
+    "options":["Havanın ısınarak genleşmesi", "Havanın alçalarak sıkışması", "Havanın soğuyarak hacminin daralması (taşıma kapasitesinin düşmesi)", "Rüzgarın hızının artması"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Sıcaklık ile havanın nem taşıma kapasitesi doğru orantılıdır. Havanın soğuması, kapasitesini daraltır ve içindeki su buharının yoğuşup yağışa dönüşmesini sağlar."
+  },
+  {
+    "text": "Bünyesinde su depolayabilen, dikenli ve derin köklü kaktüsler aşağıdaki iklim tiplerinden hangisinin doğal bitki örtüsüdür?",
+    "options":["Savan", "Tundra", "Çöl İklimi", "Akdeniz İklimi"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Yağışın çok az olduğu çöl ikliminde, bitkiler su kaybını önlemek için dikenli yapıya sahip olup suları gövdelerinde depolar."
+  },
+  {
+    "text": "Nüfus piramidi arı kovanı şeklini almış bir ülke için aşağıdakilerden hangisi kesin olarak söylenebilir?",
+    "options":["Gelişmemiş bir ülkedir", "Doğum oranları yüksektir", "Ortalama yaşam süresi uzundur (Gelişmiş ülkedir)", "Çocuk bağımlı nüfusu çok yüksektir"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Arı kovanı şeklindeki piramit, düşük doğum ve ölüm oranlarına sahip, yaşlı nüfus oranının yüksek olduğu gelişmiş ülkelerin (örn. İngiltere, İsveç) piramididir."
+  },
+  {
+    "text": "Bir bölgede doğal nüfus artışının (doğumlar - ölümler) gerçek nüfus artışından az olması o bölge hakkında neyi gösterir?",
+    "options":["Dışarıya göç verdiğini", "Dışarıdan göç aldığını", "Doğum oranlarının arttığını", "Ölüm oranlarının çok düşük olduğunu"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Sadece doğumlara dayanan artıştan daha fazla bir insan artışı yaşanıyorsa, o yer dışarıdan yoğun göç alıyor demektir (örn. İstanbul)."
+  },
+  {
+    "text": "Tarihte ilk kalıcı yerleşmelerin (Neolitik dönem) genellikle nerelerde kurulduğu görülür?",
+    "options":["Dağların sarp zirvelerinde", "Sık ormanlık alanlarda", "Akarsu boylarındaki verimli tarım arazilerinde", "Çöl ortasındaki kumluk alanlarda"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Tarımın başlamasıyla insanlar su kaynaklarına yakın, iklimi ılıman ve toprağı verimli vadi ve akarsu boylarına (Mezopotamya, Nil, İndus) yerleşmişlerdir."
+  },
+  {
+    "text": "Günlük sıcaklık farkının çok fazla olmasına bağlı olarak kayaların parçalanmasıyla oluşan 'fiziksel (mekanik) çözülme' en çok hangi iklimde görülür?",
+    "options":["Ekvatoral İklim", "Çöl İklimi", "Okyanusal İklim", "Muson İklimi"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Çöllerde ve karasal iklimlerde nem eksikliğinden dolayı gündüz aşırı ısınan kayalar genleşir, gece aşırı soğuyarak büzülür ve çatlayıp kum haline gelir."
+  },
+  {
+    "text": "Kayaçların su ve sıcaklık etkisiyle eriyerek parçalanmasına 'kimyasal çözülme' denir. Bu çözülme türü dünyada en yoğun nerede görülür?",
+    "options":["Ekvatoral İklim bölgelerinde", "Tundra İkliminde", "Çöl İkliminde", "Kutup bölgelerinde"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Kimyasal çözülme için bol su (yağış) ve yüksek sıcaklık şarttır; bu yüzden ekvatoral ve ıslak tropikal bölgelerde toprak oluşumu çok hızlıdır."
+  },
+  {
+    "text": "Türkiye'nin matematik (mutlak) konumu aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options":["36° - 42° Kuzey paralelleri, 26° - 45° Doğu meridyenleri", "26° - 45° Kuzey paralelleri, 36° - 42° Doğu meridyenleri", "36° - 42° Güney paralelleri, 26° - 45° Batı meridyenleri", "20° - 30° Kuzey paralelleri, 40° - 50° Doğu meridyenleri"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Türkiye, Ekvator'un kuzeyinde (36-42) ve Başlangıç Meridyeninin doğusunda (26-45) yer alır."
+  },
+  {
+    "text": "Aynı meridyen yayı üzerinde bulunan bütün noktalarda yıl boyunca aşağıdakilerden hangisi her zaman aynıdır?",
+    "options":["Gündüz süreleri", "Güneş ışınlarının geliş açısı", "Yerel saat", "Sıcaklık ortalamaları"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Aynı boylam (meridyen) üzerindeki noktalar Güneş'in karşısından aynı anda geçtikleri için yerel saatleri (öğle vakitleri) her zaman aynıdır."
+  },
+  {
+    "text": "Dünya'nın orta kuşak bölgelerini (örneğin Türkiye) haritaya en az hata ile aktarmak için hangi harita projeksiyon yöntemi kullanılmalıdır?",
+    "options":["Silindirik projeksiyon", "Konik projeksiyon", "Düzlem projeksiyon", "Mercator projeksiyonu"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "TYT",
+    "explanation": "Konik projeksiyon, kağıdın orta enlemlere (30°-60°) teğet geçecek şekilde sarılmasıyla oluşturulur ve bu kuşaktaki ülkeleri gerçeğe en yakın gösterir."
+  },
+  {
+    "text": "Akdeniz Bölgesi'nde karstik çöküntü alanlarında suların birikmesiyle oluşan göllere örnektir. Türkiye'nin karstik gölleri arasında aşağıdakilerden hangisi yer alır?",
+    "options":["Salda ve Kestel Gölleri", "Tuz ve Seyfe Gölleri", "Tortum ve Sera Gölleri", "Bafa ve Eymir Gölleri"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Salda, Kestel, Avlan ve Suğla gölleri Akdeniz Bölgesi'ndeki kireçtaşlarının erimesiyle oluşan çukurluklarda (polyelerde) suların biriktiği karstik göllerdir."
+  },
+  {
+    "text": "Türkiye'de özellikle İç Anadolu ve Güneydoğu Anadolu bölgelerinde rüzgar erozyonunun şiddetli olmasının temel sebebi aşağıdakilerden hangisidir?",
+    "options":["Arazinin çok dağlık olması", "Yıllık yağış miktarının yetersizliği ve bitki örtüsünün cılızlığı", "Kar yağışının fazlalığı", "Akarsu ağının çok sık olması"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Kurak ve yarı kurak bölgelerde toprağı tutacak gür bir bitki örtüsü bulunmadığından rüzgar yüzeydeki verimli toprağı kolayca uçurur (erozyon)."
+  },
+  {
+    "text": "Geçmiş yıllarda Marmara (Bursa) ön plandayken günümüzde devlet teşvikleri ve dut ağacı dikimi projeleriyle yaş ipekböceği kozası üretiminde birinci sıraya yükselen ilimiz hangisidir?",
+    "options":["Antalya", "Edirne", "Diyarbakır", "Hatay"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Türkiye İstatistik Kurumu verilerine göre son yıllarda Diyarbakır, yaş ipekböceği kozası üretiminde Türkiye birincisi olmuştur."
+  },
+  {
+    "text": "Türkiye'nin en büyük jeotermal (sıcak su) enerji santrali olan Kızıldere ve Germencik santralleri sırasıyla hangi illerimizde bulunmaktadır?",
+    "options":["İzmir - Manisa", "Denizli - Aydın", "Afyon - Kütahya", "Çanakkale - Balıkesir"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Kızıldere jeotermal santrali Denizli (Sarayköy)'de, Türkiye'nin en büyük kapasiteli santrali olan Efeler jeotermal santrali ise Aydın (Germencik)'te bulunur."
+  },
+  {
+    "text": "Türkiye'nin linyit rezervi en fazla olan ve bu yüzden en büyük termik santrallerinden birine ev sahipliği yapan yerleşim yeri hangisidir?",
+    "options":["Kütahya - Tunçbilek", "Manisa - Soma", "Muğla - Yatağan", "Kahramanmaraş - Afşin-Elbistan"],
+    "correctAnswerIndex": 3,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Afşin-Elbistan havzası, Türkiye'deki linyit yataklarının yaklaşık yarısını barındırır ve en büyük termik santrallerden biridir."
+  },
+  {
+    "text": "Türkiye elektrik üretiminde doğalgaza bağımlılığı azaltmaya çalışsa da, Kırklareli'nde bulunan hangi santral Türkiye'nin önemli doğalgaz çevrim santrallerindendir?",
+    "options":["Hamitabat", "Çatalağzı", "Oymapınar", "Sarıyar"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Hamitabat (Kırklareli), Türkiye'de çıkarılan az miktardaki doğalgazın da kullanıldığı önemli bir doğalgaz kombine çevrim santralidir."
+  },
+  {
+    "text": "Türkiye'nin Yunanistan'a açılan ve Avrupa bağlantısını sağlayan kara sınır kapısı aşağıdakilerden hangisidir?",
+    "options":["Kapıkule", "Hamzabeyli", "İpsala", "Sarp"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Edirne'nin İpsala ilçesinde bulunan sınır kapısı, Meriç köprüsü üzerinden doğrudan Yunanistan'a bağlanır."
+  },
+  {
+    "text": "Doğu Karadeniz Kalkınma Projesi (DOKAP) kapsamına alınarak projenin sınırları Tokat'a kadar genişletilmiştir. Projenin asıl amacı nedir?",
+    "options":["Bölgedeki çölleşmeyi önlemek", "Sanayi tesislerini bölgede toplamak", "Bölgenin coğrafi zorluklarını aşarak turizm, tarım ve ulaşım altyapısını geliştirip dışa göçü durdurmak", "Sadece yeni maden yatakları bulmak"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "DOKAP, dağlık ve engebeli Karadeniz bölgesinde yaylacılık (Yeşil Yol), tarım ve turizmi entegre ederek bölge halkının gelirini artırmayı ve göçü engellemeyi hedefler."
+  },
+  {
+    "text": "Zonguldak, Bartın ve Karabük illerini kapsayan bölgesel kalkınma projesi (ZBK) temelde hangi sektöre dayanmaktadır?",
+    "options":["Tarım ve Hayvancılık", "Taş kömürü madenciliği ve demir-çelik sanayisi", "Turizm ve Hizmetler", "Ormancılık ve Kağıt sanayisi"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "ZBK projesi, taş kömürü havzasındaki madenciliği modernleştirmeyi ve Kardemir/Erdemir gibi demir-çelik işletmelerini güçlendirmeyi amaçlayan sektörel bir projedir."
+  },
+  {
+    "text": "Aşağıdaki illerin hangisinde kağıt (selüloz) sanayisi tesisleri, hammaddeye (ormana) yakınlık ilkesi doğrultusunda kurulmamıştır?",
+    "options":["Kastamonu - Taşköprü", "Muğla - Dalaman", "Giresun - Aksu", "Konya"],
+    "correctAnswerIndex": 3,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Orman varlığının çok kısıtlı olduğu İç Anadolu'daki Konya, kağıt üretim tesislerinin hammaddeye yakın kurulduğu yerlerden biri olamaz."
+  },
+  {
+    "text": "Dünya rezervlerinde Türkiye'nin ABD'den sonra ikinci sırada olduğu, kimya ve cam sanayisinde kullanılan, Ankara (Beypazarı ve Kazan)'da çıkarılan maden hangisidir?",
+    "options":["Trona (Doğal Soda)", "Bor mineralleri", "Lületaşı", "Fosfat"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Trona (tabii soda külü), cam, deterjan ve kimya sektöründe çok önemli bir madendir ve Ankara Beypazarı ile Kazan bölgelerinde büyük rezervleri vardır."
+  },
+  {
+    "text": "Kozmetik ve ilaç sanayisinde kullanılan, Türkiye'de sadece Muğla (Köyceğiz) çevresinde yetişen endemik ağaç türü hangisidir?",
+    "options":["Kasnak Meşesi", "İspir Meşesi", "Sığla (Günlük) Ağacı", "Kazdağı Göknarı"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Sığla ağacından elde edilen yağ çok değerlidir ve bu tür sadece Muğla çevresinde dar bir alanda yetişen Türkiye'ye özgü endemik bir bitkidir."
+  },
+  {
+    "text": "Makilerin filizleriyle beslendiği için Akdeniz ve Toroslar yöresinde göçebe hayvancılıkla en çok yetiştirilen hayvan türü hangisidir?",
+    "options":["Merinos Koyunu", "Tiftik Keçisi", "Kıl Keçisi", "Manda"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Engebeli araziye iyi uyum sağlayan ve çalı/maki yapraklarını yiyen kıl keçisi, Yörük kültürünün ve Torosların en yaygın küçükbaş hayvanıdır."
+  },
+  {
+    "text": "İç Anadolu'dan doğup Marmara ve Karadeniz bölgelerinden geçerek sularını Karadeniz'e boşaltan Türkiye'nin önemli nehri aşağıdakilerden hangisidir?",
+    "options":["Kızılırmak", "Sakarya", "Yeşilırmak", "Çoruh"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Sakarya Nehri, İç Batı Anadolu'dan doğar, Ankara civarından kıvrılır ve Adapazarı Ovası'ndan (Karasu) Karadeniz'e dökülür."
+  },
+  {
+    "text": "Türkiye'de kış ılıklığı isteyen ve sadece Mersin-Antalya (Anamur, Alanya) arasındaki dar kıyı şeridinde mikroklima özelliği sayesinde yetiştirilebilen tropikal meyve hangisidir?",
+    "options":["İncir", "Mandalina", "Muz", "Kayısı"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Muz tropikal bir bitkidir. Torosların soğuk kuzey rüzgarlarını kesmesiyle Anamur-Alanya çevresinde oluşan mikroklima sayesinde Türkiye'de yetiştirilebilir."
+  },
+  {
+    "text": "Eski akarsu vadilerinin deniz seviyesinin yükselmesi sonucu deniz suları altında kalmasıyla oluşan 'Ria Kıyı Tipi' Türkiye'de nerelerde görülür?",
+    "options":["Doğu Karadeniz Kıyıları", "Adana-Mersin Kıyıları", "İstanbul ve Çanakkale Boğazları ile Menteşe Yöresi", "Antalya (Kaş-Finike) Kıyıları"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "İstanbul Haliç, İstanbul ve Çanakkale Boğazları ile Muğla (Menteşe) yöresi koyları sular altında kalmış eski vadilerdir ve Ria tipi kıyılara örnektir."
+  },
+  {
+    "text": "Kuş uçuşu mesafesi kısa olmasına rağmen, dağların kıyıya dik uzanması nedeniyle çok fazla koy, körfez ve yarımadaya sahip olan, dolayısıyla 'gerçek kıyı uzunluğu' en fazla olan bölgemiz hangisidir?",
+    "options":["Karadeniz", "Akdeniz", "Marmara", "Ege"],
+    "correctAnswerIndex": 3,
+    "category": "COGRAFYA",
+    "difficulty": "KPSS",
+    "explanation": "Ege Bölgesi'nde dağlar denize dik uzandığı için kıyı çok girintili çıkıntılıdır; bu da kıyı şeridinin metre bazında çok uzun olmasına neden olur."
+  },
+  {
+    "text": "Türkiye'nin en yüksek dağı olan Ağrı Dağı (5137m) hangi dağ oluşum türüne örnektir?",
+    "options": ["Kırıklı Dağ", "Kıvrımlı Dağ", "Volkanik Dağ", "Mercan Adası"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Asya ile Amerika kıtalarını birbirinden ayıran, tarih değiştirme çizgisine en yakın boğaz hangisidir?",
+    "options": ["Bering Boğazı", "Malakka Boğazı", "Hürmüz Boğazı", "Macellan Boğazı"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de pamuk üretiminde GAP ile birlikte birinci sıraya yerleşen ilimiz hangisidir?",
+    "options": ["Şanlıurfa", "Adana", "Aydın", "Mersin"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en derin noktası olan 'Mariana Çukuru' hangi oknayustadır?",
+    "options": ["Hint Okyanusu", "Büyük Okyanus (Pasifik)", "Atlas Okyanusu", "Arktik Okyanusu"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?",
+    "options": ["Van Gölü", "Eğirdir Gölü", "Beyşehir Gölü", "Çıldır Gölü"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Güneş sisteminde 'Kızıl Gezegen' olarak bilinen gezegen hangisidir?",
+    "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünya'nın en uzun nehri aşağıdakilerden hangisidir?",
+    "options": ["Nil", "Amazon", "Misisipi", "Tuna"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de güneşli gün sayısının en fazla olduğu bölge hangisidir?",
+    "options": ["Akdeniz", "Güneydoğu Anadolu", "İç Anadolu", "Ege"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Bir bölgenin deniz seviyesine göre olan yüksekliğine ne ad verilir?",
+    "options": ["Yörünge", "Enlem", "Rakım (Yükselti)", "Boylam"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en kalabalık ülkesi günümüz itibariyle hangisidir?",
+    "options": ["Çin", "Hindistan", "ABD", "Rusya"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin çay üretiminin %100'ünü gerçekleştiren bölge hangisidir?",
+    "options": ["Doğu Karadeniz", "Batı Karadeniz", "Marmara", "Akdeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir 'İç Deniz' değildir?",
+    "options": ["Akdeniz", "Kızıldeniz", "Umman Denizi", "Karadeniz"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Amazon ormanları hangi kıtada yer alır?",
+    "options": ["Güney Amerika", "Afrika", "Asya", "Avustralya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de fındık üretiminde birinci olan ilimiz hangisidir?",
+    "options": ["Giresun", "Ordu", "Samsun", "Trabzon"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "İskandinav Yarımadası'nda hangi ülkeler bulunur?",
+    "options": ["Norveç - İsveç", "İspanya - Portekiz", "İtalya - Yunanistan", "Fransa - Almanya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en küçük yüzölçümüne sahip ülkesi hangisidir?",
+    "options": ["Monako", "Vatikan", "San Marino", "Lüksemburg"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en az yağış alan yöresi neresidir?",
+    "options": ["Konya - Karapınar", "Şanlıurfa", "Edirne", "Iğdır"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir 'Volkanik Göl'dür?",
+    "options": ["Nemrut Gölü", "Sapanca Gölü", "Beyşehir Gölü", "Bafa Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sahra Çölü hangi kıtadadır?",
+    "options": ["Asya", "Afrika", "Avustralya", "Amerika"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Ülkemizde taş kömürü sadece hangi ilimizde çıkarılır?",
+    "options": ["Zonguldak", "Soma", "Kütahya", "Kahramanmaraş"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en yüksek dağı olan Everest Tepesi hangi sıradağlar üzerindedir?",
+    "options": ["Alpler", "And Dağları", "Himalayalar", "Kayalık Dağları"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de doğalgazın en fazla çıkarıldığı yer hangisidir?",
+    "options": ["Hamitabat (Kırklareli)", "Batman", "Zonguldak", "Mardin"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir dış kuvvettir?",
+    "options": ["Volkanizma", "Depremler", "Rüzgarlar", "Dağ oluşumu"],
+    "correctAnswerIndex": 2,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atmosferin en alt katmanı hangisidir?",
+    "options": ["Troposfer", "Stratosfer", "Mezosfer", "Termosfer"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de kivi üretiminde birinci olan ilimiz hangisidir?",
+    "options": ["Rize", "Yalova", "Ordu", "Giresun"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünyada kahve üretiminde birinci olan ülke hangisidir?",
+    "options": ["Brezilya", "Kolombiya", "Etiyopya", "Vietnam"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Japonya bir ada devleti olarak hangi okyanusta yer alır?",
+    "options": ["Hint Okyanusu", "Büyük Okyanus (Pasifik)", "Atlas Okyanusu", "Arktik Okyanusu"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük gölü (yüzölçümü olarak) hangisidir?",
+    "options": ["Hazar Denizi (Gölü)", "Superior Gölü", "Victoria Gölü", "Baykal Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir okyanus akıntısıdır?",
+    "options": ["Golfstrim", "Muson", "Siroko", "Hamsin"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Gül' denilince akla gelen ilimiz hangisidir?",
+    "options": ["Isparta", "Burdur", "Antalya", "Denizli"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Mısır'daki piramitlerin en büyüğü olan Keops Piramidi hangi şehirdedir?",
+    "options": ["Kahire (Gize)", "İskenderiye", "Luksor", "Asvan"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de ipekböcekçiliğinde birinci olan ilimiz hangisidir?",
+    "options": ["Diyarbakır", "Bursa", "Bilecik", "Antalya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Panama Kanalı hangi iki okyanusu birbirine bağlar?",
+    "options": ["Büyük Okyanus - Atlas Okyanusu", "Büyük Okyanus - Hint Okyanusu", "Atlas Okyanusu - Hint Okyanusu", "Atlas Okyanusu - Arktik Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de tiftik keçisi yetiştiriciliğinde birinci olan ilimiz hangisidir?",
+    "options": ["Ankara", "Siirt", "Mardin", "Eskişehir"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en soğuk kıtası hangisidir?",
+    "options": ["Antarktika", "Avrupa", "Kuzey Amerika", "Asya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de rüzgar enerjisi ile elektrik üreten ilk santral nerededir?",
+    "options": ["İzmir (Alaçatı)", "Balıkesir", "Çanakkale", "Muğla"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünyada en fazla petrol rezervine sahip ülke hangisidir?",
+    "options": ["Suudi Arabistan", "Venezuela", "Rusya", "ABD"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin en büyük deltası hangisidir?",
+    "options": ["Çukurova", "Bafra", "Çarşamba", "Silifke"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Süveyş Kanalı hangi iki denizi birbirine bağlar?",
+    "options": ["Akdeniz - Kızıldeniz", "Akdeniz - Karadeniz", "Kızıldeniz - Hint Okyanusu", "Marmara - Karadeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de 'Lületaşı' hangi ilimizde çıkarılır?",
+    "options": ["Eskişehir", "Kütahya", "Afyon", "Bilecik"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en geniş ülkesi hangisidir?",
+    "options": ["Rusya", "Kanada", "Çin", "ABD"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük barajı hangisidir?",
+    "options": ["Atatürk Barajı", "Keban Barajı", "Karakaya Barajı", "Birecik Barajı"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi kıtanın yerli halkına 'Aborjin' denir?",
+    "options": ["Avustralya", "Afrika", "Asya", "Amerika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de en çok mısır üretilen bölge hangisidir?",
+    "options": ["Akdeniz", "Marmara", "Ege", "Karadeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya üzerindeki en büyük çöl hangisidir?",
+    "options": ["Sahra Çölü", "Gobi Çölü", "Kalahari Çölü", "Atakama Çölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de krom üretiminde birinci olan ilimiz hangisidir?",
+    "options": ["Elazığ", "Muğla", "Antalya", "Denizli"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Avrupa'nın en yüksek dağı hangisidir?",
+    "options": ["Mont Blanc", "Elbrus", "Etna", "Olimpos"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin en uzun kıyı şeridine sahip denizi hangisidir?",
+    "options": ["Ege Denizi", "Akdeniz", "Karadeniz", "Marmara Denizi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en kalabalık Müslüman ülkesi hangisidir?",
+    "options": ["Endonezya", "Pakistan", "Türkiye", "Mısır"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en uzun akarsuyu (sadece ülke sınırları içinde) hangisidir?",
+    "options": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en yüksek tepesi olan Everest hangi sıradağlar üzerindedir?",
+    "options": ["Himalayalar", "And Dağları", "Alpler", "Kayalık Dağları"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük adası hangisidir?",
+    "options": ["Gökçeada", "Bozcaada", "Cunda", "Büyükada"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi okyanus dünyanın en büyük ve en derin okyanusudur?",
+    "options": ["Büyük Okyanus (Pasifik)", "Atlas Okyanusu", "Hint Okyanusu", "Arktik Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de rüzgar erozyonunun (veya toz fırtınalarının) en fazla görüldüğü bölge hangisidir?",
+    "options": ["İç Anadolu", "Doğu Anadolu", "Güneydoğu Anadolu", "Ege"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en kalabalık ülkesi ünvanını 2023 yılında Çin'den alan ülke hangisidir?",
+    "options": ["Hindistan", "ABD", "Endonezya", "Brezilya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin 'Tahıl Ambarı' olarak bilinen ili hangisidir?",
+    "options": ["Konya", "Ankara", "Eskişehir", "Urfa"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "İskandinav Yarımadası'nda hangi ülke yer almaz?",
+    "options": ["Fransa", "Norveç", "İsveç", "Finlandiya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de güneşli gün sayısının en fazla olduğu bölge hangisidir?",
+    "options": ["Güneydoğu Anadolu", "Akdeniz", "Ege", "İç Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en küçük kıtası hangisidir?",
+    "options": ["Avustralya (Okyanusya)", "Avrupa", "Antarktika", "Güney Amerika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en yüksek dağı olan Ağrı Dağı hangi ilimizdedir?",
+    "options": ["Ağrı / Iğdır", "Erzurum", "Kars", "Van"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yerkabuğunun en üst katmanına ne ad verilir?",
+    "options": ["Litosfer (Taş küre)", "Pirosfer", "Barisfer", "Hidrosfer"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de kış ılıklığının en fazla olduğu ve turunçgil tarımının en yoğun yapıldığı bölge hangisidir?",
+    "options": ["Akdeniz", "Ege", "Marmara", "Karadeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en uzun nehri hangisidir?",
+    "options": ["Nil", "Amazon", "Mississipi", "Ganj"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en az yağış alan yöresi hangisidir?",
+    "options": ["Tuz Gölü ve çevresi", "Iğdır Ovası", "Urfa Platosu", "Ergene Havzası"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Güney Amerika kıtasında yer alan ve dünyanın en geniş yağmur ormanlarına sahip ülke hangisidir?",
+    "options": ["Brezilya", "Arjantin", "Peru", "Şili"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de linyit üretiminin en fazla olduğu ilimiz hangisidir?",
+    "options": ["Manisa (Soma)", "Zonguldak", "Kütahya", "Muğla"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeryüzünde deprem riskinin en düşük olduğu kıta hangisidir?",
+    "options": ["Antarktika", "Asya", "Amerika", "Avrupa"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin en büyük delta ovası hangisidir?",
+    "options": ["Çukurova", "Bafra", "Çarşamba", "Silifke"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Afrika kıtasının en yüksek noktası olan Klimanjaro Dağı hangi ülkededir?",
+    "options": ["Tanzanya", "Kenya", "Etiyopya", "Güney Afrika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de çay tarımının yapıldığı tek bölge hangisidir?",
+    "options": ["Doğu Karadeniz", "Batı Karadeniz", "Marmara", "Ege"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en tuzlu denizi hangisidir?",
+    "options": ["Lut Gölü (Ölü Deniz)", "Kızıldeniz", "Akdeniz", "Hazar Denizi"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin 'Mavi Maldivleri' olarak bilinen ve derinliği ile ünlü olan gölü hangisidir?",
+    "options": ["Salda Gölü", "Eğirdir Gölü", "Beyşehir Gölü", "Tuz Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Kuzey Yarımküre'de en uzun gündüz hangi tarihte yaşanır?",
+    "options": ["21 Haziran", "21 Aralık", "21 Mart", "23 Eylül"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de ipek böcekçiliğinin en yoğun yapıldığı il hangisidir?",
+    "options": ["Diyarbakır (Günümüzde) / Bursa", "İstanbul", "Ankara", "Adana"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Avrupa ile Asya'yı birbirinden ayıran doğal sınır olan sıradağlar hangisidir?",
+    "options": ["Ural Dağları", "Alpler", "Kafkaslar", "Karpatlar"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de demiryolu bağlantısı olmayan liman şehrimiz hangisidir?",
+    "options": ["Antalya", "Samsun", "Zonguldak", "İzmir"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünya üzerindeki en geniş iç deniz hangisidir?",
+    "options": ["Akdeniz", "Karadeniz", "Hazar Denizi", "Baltık Denizi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en kuzey noktası Sinop'ta bulunan ince burun iken, en güney noktası neresidir?",
+    "options": ["Yayladağı (Hatay)", "Anamur (Mersin)", "Kaş (Antalya)", "Marmaris (Muğla)"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi ülke toprakları iki kıta (Asya ve Avrupa) üzerinde yer almaktadır?",
+    "options": ["Türkiye ve Rusya", "Mısır", "İspanya", "Yunanistan"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de rüzgâr gücü santralleri (RES) ilk olarak hangi ilimizde kurulmuştur?",
+    "options": ["İzmir (Çeşme)", "Çanakkale", "Balıkesir", "Muğla"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünyanın en soğuk kıtası hangisidir?",
+    "options": ["Antarktika", "Arktika", "Asya", "Avrupa"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük kapalı havzası hangisidir?",
+    "options": ["Tuz Gölü Havzası", "Van Gölü Havzası", "Akarçay Havzası", "Göller Yöresi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Arap Yarımadası ile Afrika'yı birbirinden ayıran deniz hangisidir?",
+    "options": ["Kızıldeniz", "Umman Denizi", "Adriyatik Denizi", "Manş Denizi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de buğdayın yetişme döneminde yağış, hasat döneminde ise kuraklık istemesi nedeniyle en az yetiştirildiği bölge hangisidir?",
+    "options": ["Doğu Karadeniz", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en aktif volkanlarından biri olan 'Etna Yanardağı' hangi ülkededir?",
+    "options": ["İtalya", "Yunanistan", "İzlanda", "Japonya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de büyükbaş hayvancılığın (mera hayvancılığı) en fazla yapıldığı bölüm hangisidir?",
+    "options": ["Erzurum-Kars Bölümü", "Menteşe Yöresi", "Çukurova", "Konya Ovası"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünya üzerinde bir noktanın ekvatora olan uzaklığının açı cinsinden değerine ne ad verilir?",
+    "options": ["Enlem", "Boylam", "Yükseklik", "Eğim"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en büyük volkanik gölü hangisidir?",
+    "options": ["Nemrut Gölü", "Meke Gölü", "Acıgöl", "Salda Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Panama Kanalı hangi iki okyanusu birbirine bağlar?",
+    "options": ["Atlas Okyanusu - Büyük Okyanus", "Atlas Okyanusu - Hint Okyanusu", "Hint Okyanusu - Büyük Okyanus", "Arktik Okyanusu - Atlas Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de doğalgazdan elektrik üreten en büyük santrallerden biri olan 'Hamitabat' hangi ilimizdedir?",
+    "options": ["Kırklareli", "İstanbul", "Bursa", "İzmir"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Güney kutbuna giden ilk kâşif kimdir?",
+    "options": ["Roald Amundsen", "Robert Scott", "Christopher Columbus", "James Cook"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Güneşin doğduğu yer' olarak bilinen en doğu ilimiz hangisidir?",
+    "options": ["Iğdır", "Ağrı", "Kars", "Hakkari"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünya üzerindeki en büyük göl hangisidir?",
+    "options": ["Hazar Denizi", "Superior Gölü", "Victoria Gölü", "Baykal Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de mermer yataklarının en zengin olduğu adamız/yöremiz hangisidir?",
+    "options": ["Marmara Adası", "Afyon", "Bilecik", "Denizli"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atmosferin en alt ve en yoğun katmanı hangisidir?",
+    "options": ["Troposfer", "Stratosfer", "Mezosfer", "Termosfer"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en büyük tatlı su gölü hangisidir?",
+    "options": ["Beyşehir Gölü", "Eğirdir Gölü", "Manyas Gölü", "Uluabat Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "İngiltere ile Fransa'yı deniz altından bağlayan tünelin adı nedir?",
+    "options": ["Manş Tüneli", "Eurotunnel", "Avrasya Tüneli", "Seikan Tüneli"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de kenevir üretiminin en yoğun yapıldığı ilimiz hangisidir?",
+    "options": ["Samsun", "Kastamonu", "Rize", "Trabzon"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeryüzünde en fazla yağış alan yer olan 'Cherrapunji' hangi ülkededir?",
+    "options": ["Hindistan", "Endonezya", "Brezilya", "Kongo"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünyanın en büyük yüzölçümüne sahip ülkesi hangisidir?",
+    "options": ["Rusya", "Kanada", "Çin", "ABD"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de 'Bor' madeninin en çok çıkarıldığı bölgemiz hangisidir?",
+    "options": ["Marmara (Güney Marmara)", "Ege", "İç Anadolu", "Batı Karadeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Asya ile Amerika kıtalarını birbirinden ayıran boğaz hangisidir?",
+    "options": ["Bering Boğazı", "Cebelitarık Boğazı", "Malakka Boğazı", "Macellan Boğazı"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en yüksek platosu hangisidir?",
+    "options": ["Erzurum-Kars Platosu", "Haymana Platosu", "Obruk Platosu", "Cihanbeyli Platosu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en kurak çölü olarak bilinen Atacama Çölü hangi kıtadadır?",
+    "options": ["Güney Amerika", "Afrika", "Asya", "Avustralya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de iğne yapraklı ormanların (çam vb.) en yaygın olduğu dağ grubu hangisidir?",
+    "options": ["Toros Dağları ve Kuzey Anadolu Dağları", "Yıldız Dağları", "Menteşe Dağları", "Kaz Dağları"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi ülke 'Yükselen Güneşin Ülkesi' olarak adlandırılır?",
+    "options": ["Japonya", "Çin", "Güney Kore", "Tayland"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de 'Pamuk' üretiminde birinci sırada yer alan bölge (son yıllardaki GAP etkisiyle) hangisidir?",
+    "options": ["Güneydoğu Anadolu", "Ege", "Akdeniz", "Marmara"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Afrika kıtasının en büyük adası hangisidir?",
+    "options": ["Madagaskar", "Seyşeller", "Mauritius", "Zanzibar"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en uzun kıyı şeridine sahip bölgesi hangisidir?",
+    "options": ["Ege Bölgesi (Girinti-çıkıntı fazla olduğu için)", "Akdeniz Bölgesi", "Karadeniz Bölgesi", "Marmara Bölgesi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en küçük bağımsız devleti (yüzölçümü olarak) hangisidir?",
+    "options": ["Vatikan", "Monako", "San Marino", "Nauru"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de fındık üretiminin en yoğun yapıldığı il hangisidir?",
+    "options": ["Ordu", "Giresun", "Trabzon", "Sakarya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "İskandinav ülkeleri arasında 'Göller Ülkesi' olarak bilinen ülke hangisidir?",
+    "options": ["Finlandiya", "İsveç", "Norveç", "Danimarka"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de demir-çelik sanayisinin Karabük ve Ereğli'de kurulmasının temel nedeni nedir?",
+    "options": ["Enerji kaynağına (taş kömürü) yakınlık", "Hammaddeye yakınlık", "Pazara yakınlık", "Ulaşım kolaylığı"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Amazon Nehri hangi okyanusa dökülür?",
+    "options": ["Atlas Okyanusu", "Büyük Okyanus", "Hint Okyanusu", "Arktik Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en büyük sınır kapısı olan Gürbulak Sınır Kapısı hangi ülke ile olan sınırımızdadır?",
+    "options": ["İran", "Irak", "Suriye", "Gürcistan"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en kalabalık Müslüman nüfusuna sahip ülkesi hangisidir?",
+    "options": ["Endonezya", "Pakistan", "Hindistan", "Suudi Arabistan"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Zeytin' üretiminde birinci olan bölge hangisidir?",
+    "options": ["Ege", "Marmara", "Akdeniz", "Güneydoğu Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Avustralya kıtasının ortasındaki geniş kurak alanı kaplayan büyük çöl hangisidir?",
+    "options": ["Büyük Victoria Çölü", "Sahra Çölü", "Gobi Çölü", "Kalahari Çölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de kwell (lületaşı) madeni hangi ilimizde çıkarılır?",
+    "options": ["Eskişehir", "Erzurum", "Bursa", "Ankara"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Uzak Doğu'da yer alan ve 'Adalar Ülkesi' olarak bilinen dünyanın en geniş takımada devleti hangisidir?",
+    "options": ["Endonezya", "Filipinler", "Japonya", "Malezya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin en büyük petrol rafinerisi hangisidir?",
+    "options": ["TÜPRAŞ İzmit Raffinerisi", "İzmir (Aliağa)", "Kırıkkale (Orta Anadolu)", "Batman"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en yüksek şelalesi olan Angel Şelalesi hangi ülkededir?",
+    "options": ["Venezuela", "Brezilya", "ABD", "Zambiya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de kış turizminin (kayak) en gelişmiş olduğu merkezlerden olan Uludağ hangi ilimizdedir?",
+    "options": ["Bursa", "Erzurum", "Kayseri", "Kocaeli"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Grönland Adası hangi ülkeye bağlıdır?",
+    "options": ["Danimarka", "Kanada", "Norveç", "ABD"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en derin gölü hangisidir?",
+    "options": ["Van Gölü", "Salda Gölü", "Nemrut Gölü", "Hazar Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Büyük Okyanus ile Atlas Okyanusu'nu birbirine bağlayan doğal su yolu hangisidir?",
+    "options": ["Macellan Boğazı", "Panama Kanalı", "Cebelitarık", "Hürmüz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Antep Fıstığı' üretiminin en yoğun yapıldığı bölge hangisidir?",
+    "options": ["Güneydoğu Anadolu", "Akdeniz", "Ege", "İç Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en derin çukuru olan Mariana Çukuru hangi okyanustadır?",
+    "options": ["Büyük Okyanus (Pasifik)", "Atlas Okyanusu", "Hint Okyanusu", "Arktik Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en güneydeki ucu neresidir?",
+    "options": ["Hatay (Beysun köyü/Yayladağı)", "Anamur Burnu", "Kaş", "Köyceğiz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Avrupa'nın en uzun nehri hangisidir?",
+    "options": ["Volga", "Tuna", "Ren", "Elbe"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de rüzgar gücüyle elektrik üretiminde (RES) birinci sırada yer alan bölge hangisidir?",
+    "options": ["Ege", "Marmara", "Akdeniz", "İç Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Güney Afrika Cumhuriyeti'nin üç başkentinden biri olan yasama başkenti neresidir?",
+    "options": ["Cape Town", "Pretoria", "Bloemfontein", "Johannesburg"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Tiftik Keçisi' (Ankara Keçisi) yetiştiriciliğinde önde gelen ilimiz hangisidir?",
+    "options": ["Ankara", "Konya", "Eskişehir", "Siirt"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük şelale sistemi olarak bilinen Iguazu Şelaleleri hangi iki ülke sınırındadır?",
+    "options": ["Brezilya - Arjantin", "ABD - Kanada", "Zambiya - Zimbabve", "Venezuela - Kolombiya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de doğalgaz yataklarının en zengin olduğu ve son yıllarda Karadeniz'de keşfedilen saha hangisidir?",
+    "options": ["Sakarya Gaz Sahası", "Mardin-Çamurlu", "Hamitabat", "Akçakoca"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Asya kıtasının en büyük gölü (yüzölçümü olarak) hangisidir?",
+    "options": ["Hazar Denizi", "Baykal Gölü", "Balkaş Gölü", "Aral Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Muz' tarımının mikroklima özelliği nedeniyle yapılabildiği en önemli yer neresidir?",
+    "options": ["Anamur ve çevresi", "Antalya", "Fethiye", "Marmaris"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Atmosferin Güneş'ten gelen zararlı ultraviyole ışınlarını süzen tabakası hangisidir?",
+    "options": ["Ozon Tabakası (Stratosfer içinde)", "Troposfer", "Mezosfer", "Ekzosfer"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en büyük sınır komşusu hangisidir?",
+    "options": ["Suriye", "İran", "Irak", "Yunanistan"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "İtalya Yarımadası'nın güneyinde bulunan ve Akdeniz'in en büyük adası olan ada hangisidir?",
+    "options": ["Sicilya", "Sardinya", "Korsika", "Girit"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Büyük Kayık' (Gemi) yapımının ve tersaneciliğin en gelişmiş olduğu bölge hangisidir?",
+    "options": ["Marmara (Tuzla-Yalova)", "Ege", "Karadeniz", "Akdeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en yüksek başkenti (La Paz) hangi ülkenin başkentidir (fiilen)?",
+    "options": ["Bolivya", "Ekvador", "Peru", "Nepal"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'İncir' üretiminde dünya birincisi olan ilimiz hangisidir?",
+    "options": ["Aydın", "İzmir", "Manisa", "Muğla"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangisi bir 'İç Deniz' değildir?",
+    "options": ["Umman Denizi", "Akdeniz", "Karadeniz", "Baltık Denizi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin en kuzeyi ile en güneyi arasındaki kuş uçuşu uzaklık yaklaşık kaç kilometredir?",
+    "options": ["666 km", "400 km", "800 km", "1000 km"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hazar Denizi'ne kıyısı olmayan ülke hangisidir?",
+    "options": ["Özbekistan", "Azerbaycan", "Rusya", "İran"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Jeotermal Enerji' potansiyelinin en yüksek olduğu bölgemiz hangisidir?",
+    "options": ["Ege", "Marmara", "İç Anadolu", "Doğu Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en büyük körfezi hangisidir?",
+    "options": ["Bengal Körfezi", "Meksika Körfezi", "Gine Körfezi", "Basra Körfezi"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin en büyük adası Gökçeada hangi denizimizdedir?",
+    "options": ["Ege Denizi", "Marmara Denizi", "Akdeniz", "Karadeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük tatlı su gölü hangisidir?",
+    "options": ["Superior Gölü", "Hazar Denizi", "Victoria Gölü", "Baykal Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Linyit' yataklarının en zengin olduğu ve termik santrallerin yoğunlaştığı ilimiz hangisidir?",
+    "options": ["Manisa (Soma)", "Muğla (Yatağan)", "Kütahya (Seyitömer)", "Maraş (Afşin-Elbistan)"],
+    "correctAnswerIndex": 3,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Güney Kutbu'nda yer alan ve üzerinde hiç ülke bulunmayan tek kıta hangisidir?",
+    "options": ["Antarktika", "Avustralya", "Güney Amerika", "Arktika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük deltası ve en verimli tarım alanlarından biri olan ova hangisidir?",
+    "options": ["Çukurova", "Bafra Ovası", "Çarşamba Ovası", "Silifke Ovası"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en yüksek aktif yanardağı olan Ojos del Salado hangi dağ silsilesindedir?",
+    "options": ["And Dağları", "Himalayalar", "Alpler", "Kayalık Dağlar"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'İpek Böcekçiliği' denilince akla gelen ilk ilimiz (modern tesislerle Diyarbakır öne çıksa da geleneksel merkez) hangisidir?",
+    "options": ["Bursa", "Diyarbakır", "Bilecik", "Antalya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Avrupa ile Asya'yı birbirinden ayıran doğal sınır kabul edilen dağ sırası hangisidir?",
+    "options": ["Ural Dağları", "Alpler", "Kafkas Dağları", "Himalayalar"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en kuzey noktası olan İnceburun hangi ilimizdedir?",
+    "options": ["Sinop", "Kırklareli", "Artvin", "Kastamonu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük mercan resifi olan 'Büyük Set Resifi' hangi ülkenin kıyılarındadır?",
+    "options": ["Avustralya", "Endonezya", "Brezilya", "Meksika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Karstik' yer şekillerinin (lapyalar, dolinler vb.) en yaygın olduğu bölgemiz hangisidir?",
+    "options": ["Akdeniz", "Ege", "İç Anadolu", "Güneydoğu Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en uzun nehrinin (Nil) döküldüğü deniz hangisidir?",
+    "options": ["Akdeniz", "Kızıldeniz", "Hint Okyanusu", "Atlas Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Küçükbaş Hayvancılık' (koyun) üretiminde birinci sırada yer alan bölgemiz hangisidir?",
+    "options": ["İç Anadolu", "Doğu Anadolu", "Güneydoğu Anadolu", "Ege"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Panama Kanalı hangi iki ülkeyi veya kıtayı değil, hangi iki okyanusu birbirine bağlar?",
+    "options": ["Atlas - Büyük Okyanus", "Atlas - Hint Okyanusu", "Hint - Büyük Okyanus", "Kuzey Buz - Atlas"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük tatlı su gölü (Karma yapılı olsa da tatlı su potansiyeli yüksek) hangisidir?",
+    "options": ["Beyşehir Gölü", "Eğirdir Gölü", "Manyas Gölü", "Uluabat Gölü"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünyanın en soğuk yerleşim yeri olarak bilinen Oymyakon hangi ülkededir?",
+    "options": ["Rusya", "Kanada", "Norveç", "İzlanda"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Güneş Enerjisi' potansiyelinin en yüksek olduğu bölgemiz hangisidir?",
+    "options": ["Güneydoğu Anadolu", "Akdeniz", "İç Anadolu", "Ege"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Amazon Yağmur Ormanları'nın çoğunluğu hangi ülkenin sınırları içerisindedir?",
+    "options": ["Brezilya", "Peru", "Kolombiya", "Bolivya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en sığ (derinliği en az) dağı/yeri kabul edilen ve sularının büyük kısmını yazın kaybeden gölü hangisidir?",
+    "options": ["Tuz Gölü", "Akşehir Gölü", "Eber Gölü", "Manyas"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi okyanus akıntısı Avrupa'nın batı kıyılarının (İngiltere, Norveç vb.) beklenenden daha sıcak olmasını sağlar?",
+    "options": ["Gulf Stream", "Labrador", "Kuroşiyo", "Benguela"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de fındıktan sonra 'Çay' tarımının neredeyse tamamının yapıldığı bölgemiz hangisidir?",
+    "options": ["Doğu Karadeniz", "Batı Karadeniz", "Orta Karadeniz", "Marmara"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük adası hangisidir?",
+    "options": ["Grönland", "Yeni Gine", "Borneo", "Madagaskar"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en uzun nehri (Sadece Türkiye sınırları içinde akan) hangisidir?",
+    "options": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Kuzey Avrupa'da yer alan ve fiyortlarıyla ünlü olan ülke hangisidir?",
+    "options": ["Norveç", "İsveç", "Finlandiya", "Danimarka"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Lüle Taşı' yalıtımı ve süs eşyası yapımında kullanılan bu maden hangi ilimize hastır?",
+    "options": ["Eskişehir", "Afyon", "Kütahya", "Uşak"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en tuzlu denizi hangisidir?",
+    "options": ["Lut Gölü (Ölü Deniz)", "Kızıldeniz", "Akdeniz", "Basra Körfezi"],
+    "correctAnswerIndex": 1,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Taş Kömürü' yatakları hangi jeolojik zamanda oluşmuştur?",
+    "options": ["I. Jeolojik Zaman (Paleozoik)", "II. Zaman", "III. Zaman", "IV. Zaman"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Güneş sistemindeki gezegenlerden hangisi 'Kızıl Gezegen' olarak adlandırılır?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'nin en büyük barajı hangisidir?",
+    "options": ["Atatürk Barajı", "Keban Barajı", "Karakaya Barajı", "Hirutlu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük kıtası hangisidir?",
+    "options": ["Asya", "Afrika", "Kuzey Amerika", "Antarktika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de 'Büyükbaş Hayvancılık' (Mera hayvancılığı) en çok hangi ilimizde/yöremizde yaygındır?",
+    "options": ["Erzurum-Kars Yöresi", "Konya Ovası", "Adana Çevresi", "Bursa Çevresi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi boğaz Karadeniz'i Marmara Denizi'ne bağlar?",
+    "options": ["İstanbul Boğazı", "Çanakkale Boğazı", "Cebelitarık", "Kerç"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en yüksek dağı olan Everest hangi dağ silsilesi üzerindedir?",
+    "options": ["Himalayalar", "And Dağları", "Alpler", "Ural Dağları"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de 'Elma' üretiminde dünya çapında tanınan ve üretimde ön sıralarda yer alan ilimiz hangisidir?",
+    "options": ["Isparta", "Amasya", "Niğde", "Karaman"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeryüzünde yer çekiminin en fazla olduğu yer neresidir?",
+    "options": ["Kutuplar", "Ekvator", "Yengeç Dönencesi", "Oğlak Dönencesi"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Bakır' madeninin en çok çıkarıldığı yerlerden biri olan Murgul hangi ilimizdedir?",
+    "options": ["Artvin", "Kastamonu", "Elazığ", "Rize"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünya üzerinde yerel saati en ileri olan ülke (Güne en erken başlayan) hangisidir?",
+    "options": ["Kiribati / Yeni Zelanda", "Japonya", "Avustralya", "Çin"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Kümes Hayvancılığı'nın en çok geliştiği bölgemiz (Tüketim merkezlerine yakınlık nedeniyle) hangisidir?",
+    "options": ["Marmara", "Ege", "İç Anadolu", "Karadeniz"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en kalabalık şehri hangisidir (Metropol alanı dahil)?",
+    "options": ["Tokyo", "Delhi", "Şanghay", "New York"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en batı noktası olan Avlaka Burnu hangi adamızdadır?",
+    "options": ["Gökçeada", "Bozcaada", "Cunda", "Marmara Adası"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Güney Amerika'nın en büyük ülkesi hangisidir?",
+    "options": ["Brezilya", "Arjantin", "Şili", "Kolombiya"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye'de 'Zımpara Taşı' üretiminde dünya birincisiyiz. Bu maden en çok hangi bölgemizde çıkarılır?",
+    "options": ["Ege", "Akdeniz", "Marmara", "İç Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünyanın en büyük adası olan Avustralya aynı zamanda bir kıtadır. Peki, yüzölçümü en küçük kıta hangisidir?",
+    "options": ["Okyanusya (Avustralya)", "Avrupa", "Antarktika", "Güney Amerika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Tuz' üretiminin yarısından fazlasının karşılandığı gölümüz hangisidir?",
+    "options": ["Tuz Gölü", "Van Gölü", "Eğirdir Gölü", "Manyas"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeryüzünde volkanik faaliyetlerin en yoğun olduğu 'Ateş Çemberi' bölgesi hangi okyanusun çevresindedir?",
+    "options": ["Büyük Okyanus (Pasifik)", "Atlas Okyanusu", "Hint Okyanusu", "Kuzey Buz Okyanusu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'nin en doğusu ile en batısı arasında kaç dakikalık zaman farkı vardır?",
+    "options": ["76 dakika", "60 dakika", "45 dakika", "19 dakika"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi nehir Çin medeniyetinin doğduğu 'Sarı Nehir' olarak bilinir?",
+    "options": ["Huang He", "Yangtze", "Mekong", "Ganj"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'de 'Oltu Taşı' hangi ilimizin sembolüdür?",
+    "options": ["Erzurum", "Eskişehir", "Bayburt", "Gümüşhane"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en büyük yarımadası hangisidir?",
+    "options": ["Arap Yarımadası", "Hindistan Yarımadası", "İskandinav Yarımadası", "Anadolu"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de kışların en ılık geçtiği bölgemiz hangisidir?",
+    "options": ["Akdeniz", "Ege", "Güneydoğu Anadolu", "Marmara"],
+    "correctAnswerIndex": 0,
+    "category": "COGRAFYA",
+    "difficulty": "KOLAY"
+  }
 ]

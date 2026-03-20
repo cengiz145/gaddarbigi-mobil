@@ -1,15 +1,24 @@
+# IDE
+.idea/
 *.iml
 .gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
+gradlew
+gradlew.bat
+gradle/
+local.properties
+captures/
 .externalNativeBuild
 .cxx
-local.properties
+*.jks
+*.hprof
+
+# Build
+**/build/
+build/
+
+# OS
+.DS_Store
+
+# Assets as Data (Haftalık Sorular için tutulacaklar hariç, istersen hepsini tutabiliriz)
+# Kullanıcı "sadece sorular olsun" dediği için kod klasörlerini engelleyen kurallar ekleyeceğim.
+# Ama önce genel temizlik.

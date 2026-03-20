@@ -1,3014 +1,1749 @@
 [
-    {
-        "text": "Demir Adam'ın gerçek adı?",
-        "options": [
-            "Tony Stark",
-            "Steve Rogers",
-            "Bruce Banner",
-            "Thor"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Batman'in şehri neresidir?",
-        "options": [
-            "Gotham",
-            "Metropolis",
-            "New York",
-            "Chicago"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Superman'in zayıf noktası?",
-        "options": [
-            "Kriptonit",
-            "Gümüş",
-            "Kurşun",
-            "Ateş"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5119,
-        "text": "Batman hangi şehirde yaşar?",
-        "options": [
-            "Gotham",
-            "Metropolis",
-            "New York",
-            "Chicago"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Örümcek Adam'ın gerçek adı?",
-        "options": [
-            "Peter Parker",
-            "Bruce Wayne",
-            "Clark Kent",
-            "Tony Stark"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5115,
-        "text": "007 hangi ajanın kod adıdır?",
-        "options": [
-            "James Bond",
-            "Ethan Hunt",
-            "Jason Bourne",
-            "John Wick"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "James Bond'un kod adı nedir?",
-        "options": [
-            "007",
-            "001",
-            "005",
-            "009"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Yeşilçam'ın Sultan'ı kimdir?",
-        "options": [
-            "Türkan Şoray",
-            "Hülya Koçyiğit",
-            "Filiz Akın",
-            "Fatma Girik"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5125,
-        "text": "Yeşilçam'ın 'Sultan'ı kimdir?",
-        "options": [
-            "Türkan Şoray",
-            "Filiz Akın",
-            "Hülya Koçyiğit",
-            "Fatma Girik"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5135,
-        "text": "Vizontele nerede çekilmiştir?",
-        "options": [
-            "Van",
-            "Hakkari",
-            "Kars",
-            "Erzurum"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Jaws' filminin konusu nedir?",
-        "options": [
-            "Köpekbalığı saldırısı",
-            "Uzaylı istilası",
-            "Zombi salgını",
-            "Dinozorlar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5152,
-        "text": "Matrix serisinin yönetmenleri?",
-        "options": [
-            "Wachowski Kardeşler",
-            "Russo Kardeşler",
-            "Coen Kardeşler",
-            "Safdie Kardeşler"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5103,
-        "text": "Hangi filmde dinozorlar vardır?",
-        "options": [
-            "Jurassic Park",
-            "Matrix",
-            "Titanic",
-            "Avatar"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Cep Herkülü filmi kimi anlatır?",
-        "options": [
-            "Naim Süleymanoğlu",
-            "Halil Mutlu",
-            "Taner Sağır",
-            "Nurcan Taylan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5111,
-        "text": "Charlie Chaplin'in lakabı nedir?",
-        "options": [
-            "Şarlo",
-            "Komik",
-            "Sessiz",
-            "Dahi"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5113,
-        "text": "Süperman'in zayıf noktası nedir?",
-        "options": [
-            "Kriptonit",
-            "Gümüş",
-            "Altın",
-            "Demir"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5151,
-        "text": "Hangi film 11 Oscar kazanmıştır?",
-        "options": [
-            "Yüzüklerin Efendisi: Kralın Dönüşü",
-            "Schindler'in Listesi",
-            "Er Ryan'ı Kurtarmak",
-            "Forrest Gump"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Ayla filmi hangi savaşı anlatır?",
-        "options": [
-            "Kore Savaşı",
-            "Kıbrıs Savaşı",
-            "I. Dünya Savaşı",
-            "Kurtuluş Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5104,
-        "text": "Örümcek Adam'ın gerçek adı nedir?",
-        "options": [
-            "Peter Parker",
-            "Bruce Wayne",
-            "Clark Kent",
-            "Tony Stark"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5106,
-        "text": "Buz Devri filmindeki mamutun adı?",
-        "options": [
-            "Manny",
-            "Sid",
-            "Diego",
-            "Scrat"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5118,
-        "text": "Hangi filmde oyuncaklar canlanır?",
-        "options": [
-            "Oyuncak Hikayesi",
-            "Arabalar",
-            "Uçaklar",
-            "Ters Yüz"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5141,
-        "text": "İlk renkli Türk filmi hangisidir?",
-        "options": [
-            "Halıcı Kız",
-            "Aysel Bataklı Damın Kızı",
-            "Vurun Kahpeye",
-            "Kaçakçılar"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5156,
-        "text": "Casablanca filminin ünlü repliği?",
-        "options": [
-            "Tekrar çal Sam",
-            "Beni sev Sam",
-            "Gitme Sam",
-            "Piyano çal Sam"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangisi Tarantino filmi değildir?",
-        "options": [
-            "Taksi Şoförü",
-            "Pulp Fiction",
-            "Kill Bill",
-            "Django Unchained"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangisi bir Türk komedi filmidir?",
-        "options": [
-            "Düğün Dernek",
-            "Issız Adam",
-            "Babam ve Oğlum",
-            "Nefes"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Süt Kardeşler filmindeki canavar?",
-        "options": [
-            "Gulyabani",
-            "Frankeştayn",
-            "Drakula",
-            "Kurt Adam"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5117,
-        "text": "Aslan Kral filminin baş karakteri?",
-        "options": [
-            "Simba",
-            "Mufasa",
-            "Nala",
-            "Timon"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5129,
-        "text": "Titanic filminin yönetmeni kimdir?",
-        "options": [
-            "James Cameron",
-            "Ridley Scott",
-            "George Lucas",
-            "Peter Jackson"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İlk sesli sinema filmi hangisidir?",
-        "options": [
-            "The Jazz Singer",
-            "Modern Times",
-            "Metropolis",
-            "Citizen Kane"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Organize İşler filminin yönetmeni?",
-        "options": [
-            "Yılmaz Erdoğan",
-            "Cem Yılmaz",
-            "Şahan Gökbakar",
-            "Ata Demirer"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5109,
-        "text": "Hangi şirin her şeyden nefret eder?",
-        "options": [
-            "Öfkeli Şirin",
-            "Şirin Baba",
-            "Gözlüklü Şirin",
-            "Süslü Şirin"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5143,
-        "text": "Sinemanın mucidi sayılan kardeşler?",
-        "options": [
-            "Lumière Kardeşler",
-            "Wright Kardeşler",
-            "Coen Kardeşler",
-            "Warner Kardeşler"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5144,
-        "text": "Oscar ödülünü reddeden ünlü oyuncu?",
-        "options": [
-            "Marlon Brando",
-            "Al Pacino",
-            "Jack Nicholson",
-            "Robert De Niro"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Avatar filmi hangi gezegende geçer?",
-        "options": [
-            "Pandora",
-            "Mars",
-            "Dünya",
-            "Titan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Eşkıya' filminin yönetmeni kimdir?",
-        "options": [
-            "Yavuz Turgul",
-            "Ferzan Özpetek",
-            "Çağan Irmak",
-            "Zeki Demirkubuz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5133,
-        "text": "Yılmaz Güney'in Cannes ödüllü filmi?",
-        "options": [
-            "Yol",
-            "Sürü",
-            "Umut",
-            "Duvar"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Titanic' filminin yönetmeni kimdir?",
-        "options": [
-            "Steven Spielberg",
-            "James Cameron",
-            "Christopher Nolan",
-            "Quentin Tarantino"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Titanik' filminin yönetmeni kimdir?",
-        "options": [
-            "James Cameron",
-            "Steven Spielberg",
-            "Christopher Nolan",
-            "Quentin Tarantino"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Gora' filmindeki robotun adı nedir?",
-        "options": [
-            "216",
-            "C-3PO",
-            "R2-D2",
-            "Robo"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Gora filminde Arif'in mesleği nedir?",
-        "options": [
-            "Halıcı",
-            "Kuyumcu",
-            "Taksici",
-            "Berber"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Müslüm filmi kimin hayatını anlatır?",
-        "options": [
-            "Müslüm Gürses",
-            "Ferdi Tayfur",
-            "Orhan Gencebay",
-            "İbrahim Tatlıses"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Piyanist' filminin yönetmeni kimdir?",
-        "options": [
-            "Roman Polanski",
-            "Steven Spielberg",
-            "Quentin Tarantino",
-            "Martin Scorsese"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Avatar' filmi hangi gezegende geçer?",
-        "options": [
-            "Pandora",
-            "Mars",
-            "Tatooine",
-            "Dune"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangisi bir korku filmi karakteridir?",
-        "options": [
-            "Freddy Krueger",
-            "Indiana Jones",
-            "Rocky Balboa",
-            "Jack Sparrow"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Harry Potter'ın baykuşunun adı nedir?",
-        "options": [
-            "Hedwig",
-            "Scabbers",
-            "Crookshanks",
-            "Fawkes"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Gladyatör' filminin başrol oyuncusu?",
-        "options": [
-            "Russell Crowe",
-            "Mel Gibson",
-            "Brad Pitt",
-            "Tom Cruise"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Vizontele filminde köye ne gelmiştir?",
-        "options": [
-            "Televizyon",
-            "Radyo",
-            "Telefon",
-            "Bilgisayar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5139,
-        "text": "Hangisi bir Alfred Hitchcock filmidir?",
-        "options": [
-            "Sapık (Psycho)",
-            "Cinnet",
-            "Jaws",
-            "Yaratık"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5157,
-        "text": "Tarantino'nun ilk uzun metrajlı filmi?",
-        "options": [
-            "Rezervuar Köpekleri",
-            "Pulp Fiction",
-            "Jackie Brown",
-            "Kill Bill"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "James Bond karakterinin kod adı nedir?",
-        "options": [
-            "001",
-            "007",
-            "099",
-            "112"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Gladyatör' filminin yönetmeni kimdir?",
-        "options": [
-            "Ridley Scott",
-            "James Cameron",
-            "Peter Jackson",
-            "George Lucas"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Truman Show' filminin başrolü kimdir?",
-        "options": [
-            "Jim Carrey",
-            "Adam Sandler",
-            "Ben Stiller",
-            "Eddie Murphy"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi filmde 'Recai' karakteri vardır?",
-        "options": [
-            "Turist Ömer",
-            "Cingöz Recai",
-            "Tosun Paşa",
-            "Hababam Sınıfı"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5101,
-        "text": "Hababam Sınıfı'ndaki İnek Şaban kimdir?",
-        "options": [
-            "Kemal Sunal",
-            "Halit Akçatepe",
-            "Tarık Akan",
-            "Münir Özkul"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5124,
-        "text": "Pulp Fiction filminin yönetmeni kimdir?",
-        "options": [
-            "Quentin Tarantino",
-            "Martin Scorsese",
-            "Steven Spielberg",
-            "Christopher Nolan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5140,
-        "text": "Gladyatör filminde Maximus'u kim oynar?",
-        "options": [
-            "Russell Crowe",
-            "Mel Gibson",
-            "Brad Pitt",
-            "Gerard Butler"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5146,
-        "text": "2001: A Space Odyssey yönetmeni kimdir?",
-        "options": [
-            "Stanley Kubrick",
-            "Ridley Scott",
-            "George Lucas",
-            "Steven Spielberg"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5155,
-        "text": "Hangi oyuncu James Bond'u oynamamıştır?",
-        "options": [
-            "Clint Eastwood",
-            "Sean Connery",
-            "Roger Moore",
-            "Pierce Brosnan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5158,
-        "text": "Hababam Sınıfı serisinin yazarı kimdir?",
-        "options": [
-            "Rıfat Ilgaz",
-            "Aziz Nesin",
-            "Muzaffer İzgü",
-            "Orhan Kemal"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5102,
-        "text": "Titanik filmindeki gemi neye çarpmıştır?",
-        "options": [
-            "Buzdağına",
-            "Kayaya",
-            "Gemiye",
-            "Karaya"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangisi bir animasyon stüdyosu değildir?",
-        "options": [
-            "Bad Robot",
-            "Pixar",
-            "DreamWorks",
-            "Ghibli"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Rocky' filminin başrol oyuncusu kimdir?",
-        "options": [
-            "Sylvester Stallone",
-            "Arnold Schwarzenegger",
-            "Jean-Claude Van Damme",
-            "Dolph Lundgren"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi filmde 'Forrest Gump' koşmaktadır?",
-        "options": [
-            "Forrest Gump",
-            "Yeşil Yol",
-            "Er Ryan'ı Kurtarmak",
-            "Esaretin Bedeli"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangisi Christopher Nolan filmi değildir?",
-        "options": [
-            "Fight Club",
-            "Interstellar",
-            "Inception",
-            "Tenet"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Eşkıya' filminin başrol oyuncusu kimdir?",
-        "options": [
-            "Şener Şen",
-            "Uğur Yücel",
-            "Haluk Bilginer",
-            "Çetin Tekindor"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Karayip Korsanları' gemisinin adı nedir?",
-        "options": [
-            "Siyah İnci",
-            "Uçan Hollandalı",
-            "Kraliçe Anne",
-            "Sessiz Mary"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Matrix filminde Neo'nun gerçek adı nedir?",
-        "options": [
-            "Thomas Anderson",
-            "John Smith",
-            "Morpheus",
-            "Trinity"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5137,
-        "text": "Avatar filmi hangi gezegende (uydu) geçer?",
-        "options": [
-            "Pandora",
-            "Tatooine",
-            "Mars",
-            "Vulcan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5138,
-        "text": "Selvi Boylum Al Yazmalım'ın yazarı kimdir?",
-        "options": [
-            "Cengiz Aytmatov",
-            "Orhan Pamuk",
-            "Yaşar Kemal",
-            "Sabahattin Ali"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Vizontele' filminin geçtiği il neresidir?",
-        "options": [
-            "Hakkari",
-            "Van",
-            "Diyarbakır",
-            "Mardin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hababam Sınıfı serisinde müdür yardımcısı?",
-        "options": [
-            "Mahmut Hoca",
-            "Badi Ekrem",
-            "Kül Yutmaz",
-            "Paşa Nuri"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5105,
-        "text": "Harry Potter filmlerindeki büyücülük okulu?",
-        "options": [
-            "Hogwarts",
-            "Oxford",
-            "Cambridge",
-            "Harvard"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5142,
-        "text": "Cannes Film Festivali hangi ülkede yapılır?",
-        "options": [
-            "Fransa",
-            "İtalya",
-            "Almanya",
-            "İspanya"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Marilyn Monroe hangi sanat dalıyla tanınır?",
-        "options": [
-            "Müzik",
-            "Sinema",
-            "Resim",
-            "Heykel"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi filmde 'E.T.' adlı bir uzaylı vardır?",
-        "options": [
-            "E.T.",
-            "Alien",
-            "Star Wars",
-            "Avatar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Charlie Chaplin'in yarattığı ünlü karakter?",
-        "options": [
-            "Şarlo",
-            "Buster",
-            "Laurel",
-            "Hardy"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5112,
-        "text": "Hangi film serisinde ışın kılıcı kullanılır?",
-        "options": [
-            "Star Wars",
-            "Star Trek",
-            "Avatar",
-            "Alien"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5114,
-        "text": "Gulyabani hangi filmde geçen bir canavardır?",
-        "options": [
-            "Süt Kardeşler",
-            "Tosun Paşa",
-            "Kibar Feyzo",
-            "Davaro"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5122,
-        "text": "Matrix filmindeki Neo karakterini kim oynar?",
-        "options": [
-            "Keanu Reeves",
-            "Brad Pitt",
-            "Tom Cruise",
-            "Will Smith"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 5131,
-        "text": "Hangi film IMDb'de (uzun süre) 1. sıradadır?",
-        "options": [
-            "Esaretin Bedeli",
-            "Baba",
-            "Kara Şövalye",
-            "12 Öfkeli Adam"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Hababam Sınıfı' serisinin yönetmeni kimdir?",
-        "options": [
-            "Ertem Eğilmez",
-            "Atıf Yılmaz",
-            "Kartal Tibet",
-            "Halit Refiğ"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "'Yeşil Yol' filmindeki dev adamın adı nedir?",
-        "options": [
-            "John Coffey",
-            "Paul Edgecomb",
-            "Percy Wetmore",
-            "Wild Bill"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Yeşilçam'ın 'Sultan' lakaplı oyuncusu kimdir?",
-        "options": [
-            "Hülya Koçyiğit",
-            "Fatma Girik",
-            "Türkan Şoray",
-            "Filiz Akın"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Batman'in yaşadığı kurgusal şehrin adı nedir?",
-        "options": [
-            "Gotham",
-            "Metropolis",
-            "New York",
-            "Chicago"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kemal Sunal'ın 'Çöpçüler Kralı'ndaki mesleği?",
-        "options": [
-            "Çöpçü (Zabıta Amirinin yardımcısı)",
-            "Kapıcı",
-            "Bekçi",
-            "Polis"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5108,
-        "text": "Kara Murat filmlerinde Kara Murat'ı kim oynar?",
-        "options": [
-            "Cüneyt Arkın",
-            "Kadir İnanır",
-            "Ediz Hun",
-            "Tarık Akan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5130,
-        "text": "Dünyayı Kurtaran Adam filminin başrolü kimdir?",
-        "options": [
-            "Cüneyt Arkın",
-            "Ayhan Işık",
-            "Kartal Tibet",
-            "Serdar Gökhan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5134,
-        "text": "Hangi oyuncu en çok Oscar kazanmıştır (Kadın)?",
-        "options": [
-            "Katharine Hepburn",
-            "Meryl Streep",
-            "Ingrid Bergman",
-            "Bette Davis"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "IMDb'de en yüksek puana sahip film hangisidir?",
-        "options": [
-            "Baba (The Godfather)",
-            "Esaretin Bedeli (The Shawshank Redemption)",
-            "Kara Şövalye",
-            "Dövüş Kulübü"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi film serisinde 'Yoda' karakteri bulunur?",
-        "options": [
-            "Star Trek",
-            "Star Wars",
-            "Matrix",
-            "Avatar"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Terminatör serisinin efsanevi oyuncusu kimdir?",
-        "options": [
-            "Arnold Schwarzenegger",
-            "Sylvester Stallone",
-            "Jean-Claude Van Damme",
-            "Bruce Willis"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi film bir hapishaneden kaçış hikayesidir?",
-        "options": [
-            "Esaretin Bedeli",
-            "Yeşil Yol",
-            "Schindler'in Listesi",
-            "Er Ryan'ı Kurtarmak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Inception' (Başlangıç) filminin konusu nedir?",
-        "options": [
-            "Rüyalara girmek",
-            "Zamanda yolculuk",
-            "Uzaylı istilası",
-            "Soygun"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5145,
-        "text": "Metin Erksan'ın Berlin'de Altın Ayı alan filmi?",
-        "options": [
-            "Susuz Yaz",
-            "Yılanların Öcü",
-            "Sevmek Zamanı",
-            "Kuyu"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Oscar ödüllerini veren akademi hangi ülkededir?",
-        "options": [
-            "İngiltere",
-            "Fransa",
-            "ABD",
-            "İtalya"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Forrest Gump' filminde başrolü kim oynamıştır?",
-        "options": [
-            "Tom Hanks",
-            "Brad Pitt",
-            "Leonardo DiCaprio",
-            "Johnny Depp"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Alacakaranlık' serisinde Edward Cullen bir...?",
-        "options": [
-            "Vampir",
-            "Kurtadam",
-            "Cadı",
-            "Zombi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Pulp Fiction' filminde çanta içinde ne vardır?",
-        "options": [
-            "Görünmüyor (Bilinmiyor)",
-            "Altın",
-            "Elmas",
-            "Para"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Tosun Paşa filminde 'Hakiki Tosun Paşa' kimdir?",
-        "options": [
-            "Oktar (Filmdeki adıyla)",
-            "Şaban",
-            "Lütfü",
-            "Hamdi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5107,
-        "text": "Şrek animasyonundaki Şrek ne tür bir yaratıktır?",
-        "options": [
-            "Dev (Ogre)",
-            "Ejderha",
-            "Cüce",
-            "Elf"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5116,
-        "text": "Tom ve Jerry çizgi filminde Tom hangi hayvandır?",
-        "options": [
-            "Kedi",
-            "Fare",
-            "Köpek",
-            "Kuş"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5121,
-        "text": "Baba (The Godfather) filminde Baba'yı kim oynar?",
-        "options": [
-            "Marlon Brando",
-            "Al Pacino",
-            "Robert De Niro",
-            "Joe Pesci"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5153,
-        "text": "Goodfellas filmi gerçek bir hikayeye mi dayanır?",
-        "options": [
-            "Evet",
-            "Hayır",
-            "Kısmen",
-            "Bilinmiyor"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Dünyanın en prestijli film festivali hangisidir?",
-        "options": [
-            "Cannes",
-            "Berlin",
-            "Venedik",
-            "Sundance"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "James Cameron hangi filmle 11 Oscar kazanmıştır?",
-        "options": [
-            "Titanic",
-            "Avatar",
-            "Terminator",
-            "Aliens"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Nuri Bilge Ceylan'ın Altın Palmiye ödüllü filmi?",
-        "options": [
-            "Kış Uykusu",
-            "Uzak",
-            "Üç Maymun",
-            "Bir Zamanlar Anadolu'da"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Harry Potter serisindeki büyücülük okulunun adı?",
-        "options": [
-            "Hogwarts",
-            "Durmstrang",
-            "Beauxbatons",
-            "Ilvermorny"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Aslan Kral' (Lion King) filmindeki aslanın adı?",
-        "options": [
-            "Simba",
-            "Mufasa",
-            "Scar",
-            "Timon"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Züğürt Ağa filminde ağa ne satmak zorunda kalır?",
-        "options": [
-            "Köyünü",
-            "Evini",
-            "Çiğ köfte",
-            "Her şeyini"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Pardon filminde Ferhan Şensoy neden hapse girer?",
-        "options": [
-            "Haksız yere",
-            "Hırsızlıktan",
-            "Kavgadan",
-            "Borçtan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 51,
-        "text": "\"Yüzüklerin Efendisi\" serisinin yönetmeni kimdir?",
-        "options": [
-            "George Lucas",
-            "Peter Jackson",
-            "James Cameron",
-            "Ridley Scott"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5136,
-        "text": "Marvel Sinematik Evreni'nin ilk filmi hangisidir?",
-        "options": [
-            "Iron Man",
-            "Hulk",
-            "Thor",
-            "Captain America"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Yüzüklerin Efendisi' serisinin yönetmeni kimdir?",
-        "options": [
-            "Peter Jackson",
-            "George Lucas",
-            "J.J. Abrams",
-            "James Cameron"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Karayip Korsanları'nda Jack Sparrow'u kim oynar?",
-        "options": [
-            "Johnny Depp",
-            "Orlando Bloom",
-            "Brad Pitt",
-            "Tom Cruise"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Matrix filminde Neo'ya sunulan hapların renkleri?",
-        "options": [
-            "Mavi ve Kırmızı",
-            "Siyah ve Beyaz",
-            "Yeşil ve Sarı",
-            "Mor ve Turuncu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5148,
-        "text": "Charlie Chaplin hangi filminde Hitler'i eleştirir?",
-        "options": [
-            "Büyük Diktatör",
-            "Modern Zamanlar",
-            "Altına Hücum",
-            "Şehir Işıkları"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5150,
-        "text": "Pulp Fiction filmindeki çantanın içinde ne vardır?",
-        "options": [
-            "Gösterilmez (Bilinmiyor)",
-            "Para",
-            "Altın",
-            "Elmas"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5159,
-        "text": "Hangi film siyah-beyaz çekilmiştir (Modern dönem)?",
-        "options": [
-            "Schindler'in Listesi",
-            "Er Ryan'ı Kurtarmak",
-            "Piyanist",
-            "Yeşil Yol"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Kemal Sunal'ın 'Tosun Paşa' filmindeki rolü nedir?",
-        "options": [
-            "Lütfü",
-            "Şaban",
-            "Hamdi",
-            "Hüsamettin"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Oscar ödül töreninde 'Kırmızı Halı' neyi simgeler?",
-        "options": [
-            "Şöhret ve İhtişam",
-            "Kan ve Savaş",
-            "Aşk ve Tutku",
-            "Para ve Güç"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Recep İvedik'in arabası hangi modeldir ve renktir?",
-        "options": [
-            "Fiat 126 Bis (Sarı)",
-            "Vosvos",
-            "Murat 131",
-            "Anadol"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Geleceğe Dönüş' filmindeki arabanın markası nedir?",
-        "options": [
-            "Ferrari",
-            "DeLorean",
-            "Mustang",
-            "Chevrolet"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Oscar kazanan ilk 'Parazit' filmi hangi ülkenindir?",
-        "options": [
-            "Güney Kore",
-            "Japonya",
-            "Çin",
-            "Vietnam"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Gora' filminin senaristi ve başrol oyuncusu kimdir?",
-        "options": [
-            "Cem Yılmaz",
-            "Şahan Gökbakar",
-            "Ata Demirer",
-            "Yılmaz Erdoğan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Buz Devri'ndeki sincabın peşinde koştuğu şey nedir?",
-        "options": [
-            "Palamut",
-            "Ceviz",
-            "Fındık",
-            "Elma"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi filmde 'Seni seçtim Pikaçu' repliği hatırlanır?",
-        "options": [
-            "Pokemon",
-            "Digimon",
-            "Yu-Gi-Oh",
-            "Beyblade"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Marvel filminde 'Kaptan Amerika'nın ilk silahı nedir?",
-        "options": [
-            "Kalkan",
-            "Çekiç",
-            "Kılıç",
-            "Tabanca"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Tosun Paşa' filmindeki iki düşman aile hangileridir?",
-        "options": [
-            "Tellioğulları - Seferoğulları",
-            "Kaygusuzlar - Çılgınlar",
-            "Kartallar - Şahinler",
-            "Hacılar - Hocalar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Joker karakteri hangi süper kahramanın baş düşmanıdır?",
-        "options": [
-            "Superman",
-            "Spider-Man",
-            "Batman",
-            "Iron Man"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi oyuncu James Bond karakterini canlandırmamıştır?",
-        "options": [
-            "Tom Cruise",
-            "Daniel Craig",
-            "Pierce Brosnan",
-            "Sean Connery"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Fight Club' (Dövüş Kulübü) filminin yönetmeni kimdir?",
-        "options": [
-            "David Fincher",
-            "Christopher Nolan",
-            "Quentin Tarantino",
-            "Guy Ritchie"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Selvi Boylum Al Yazmalım' filminin başrol oyuncuları?",
-        "options": [
-            "Türkan Şoray - Kadir İnanır",
-            "Hülya Koçyiğit - Tarık Akan",
-            "Filiz Akın - Kartal Tibet",
-            "Fatma Girik - Cüneyt Arkın"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Kibar Feyzo filminde 'Faşo Ağa' repliği kime söylenir?",
-        "options": [
-            "Maho Ağa'ya",
-            "Bilo'ya",
-            "Hilo'ya",
-            "Zilo'ya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 24,
-        "text": "\"Recep İvedik\" karakterini canlandıran komedyen kimdir?",
-        "options": [
-            "Cem Yılmaz",
-            "Ata Demirer",
-            "Şahan Gökbakar",
-            "Tolga Çevik"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Esaretin Bedeli' filminde başrol oyuncuları kimlerdir?",
-        "options": [
-            "Tim Robbins, Morgan Freeman",
-            "Brad Pitt, Edward Norton",
-            "Tom Hanks, Matt Damon",
-            "Al Pacino, Robert De Niro"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5149,
-        "text": "Türk sinemasında 'Dört Yapraklı Yonca'dan biri değildir?",
-        "options": [
-            "Nebahat Çehre",
-            "Türkan Şoray",
-            "Hülya Koçyiğit",
-            "Fatma Girik"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Altın Portakal Film Festivali hangi ilimizde düzenlenir?",
-        "options": [
-            "Antalya",
-            "Adana",
-            "İstanbul",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Marvel evreninde 'Thor' karakterini kim canlandırmıştır?",
-        "options": [
-            "Chris Hemsworth",
-            "Chris Evans",
-            "Chris Pratt",
-            "Chris Pine"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "IMDb Top 250 listesinde uzun süre 1 numarada kalan film?",
-        "options": [
-            "Esaretin Bedeli",
-            "Baba",
-            "Kara Şövalye",
-            "Ucuz Roman"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Shrek' filmindeki eşeği kim seslendirmiştir (Orijinal)?",
-        "options": [
-            "Eddie Murphy",
-            "Mike Myers",
-            "Cameron Diaz",
-            "Antonio Banderas"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Titanik' filminde Leonardo DiCaprio'nun partneri kimdir?",
-        "options": [
-            "Kate Winslet",
-            "Angelina Jolie",
-            "Nicole Kidman",
-            "Julia Roberts"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5132,
-        "text": "Fight Club (Dövüş Kulübü) filminde Brad Pitt'in karakteri?",
-        "options": [
-            "Tyler Durden",
-            "Jack",
-            "Marla",
-            "Bob"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türk sinemasında 'Kuduz' filmiyle tanınan yönetmen kimdir?",
-        "options": [
-            "Yılmaz Güney",
-            "Ömer Lütfi Akad",
-            "Metin Erksan",
-            "Atıf Yılmaz"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Fight Club' (Dövüş Kulübü) filminin birinci kuralı nedir?",
-        "options": [
-            "Dövüş Kulübü hakkında konuşmamak",
-            "Asla dövüşmemek",
-            "Her zaman kazanmak",
-            "Kural yoktur"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5123,
-        "text": "Nuri Bilge Ceylan hangi filmiyle Altın Palmiye kazanmıştır?",
-        "options": [
-            "Kış Uykusu",
-            "Üç Maymun",
-            "Uzak",
-            "Bir Zamanlar Anadolu'da"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Marvel Sinematik Evreni'nde Iron Man'i kim canlandırmıştır?",
-        "options": [
-            "Chris Evans",
-            "Robert Downey Jr.",
-            "Chris Hemsworth",
-            "Mark Ruffalo"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Çiçek Abbas' filminde Şener Şen'in canlandırdığı karakter?",
-        "options": [
-            "Şakir",
-            "Abbas",
-            "Niyazi",
-            "Mülayim"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Joker' karakterini canlandırarak Oscar alan oyuncu kimdir?",
-        "options": [
-            "Joaquin Phoenix",
-            "Heath Ledger",
-            "Jared Leto",
-            "Jack Nicholson"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Nuri Bilge Ceylan'ın Altın Palmiye kazanan filmi hangisidir?",
-        "options": [
-            "Uzak",
-            "Üç Maymun",
-            "Kış Uykusu",
-            "Ahlat Ağacı"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi film serisinde 'Güç seninle olsun' repliği kullanılır?",
-        "options": [
-            "Star Wars",
-            "Star Trek",
-            "Harry Potter",
-            "Yüzüklerin Efendisi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Matrix' filminde Morpheus, Neo'ya hangi renk hapları sunar?",
-        "options": [
-            "Mavi ve Kırmızı",
-            "Sarı ve Yeşil",
-            "Siyah ve Beyaz",
-            "Turuncu ve Mor"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Joker' karakteriyle Oscar kazanan son oyuncu kimdir (2020)?",
-        "options": [
-            "Joaquin Phoenix",
-            "Heath Ledger",
-            "Jared Leto",
-            "Jack Nicholson"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Çöpçüler Kralı' filminde belediye başkanı rolünü kim oynar?",
-        "options": [
-            "Şener Şen",
-            "Kemal Sunal",
-            "İlyas Salman",
-            "Ayşen Gruda"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5126,
-        "text": "Yüzüklerin Efendisi serisi kaç filmden oluşur (Hobbit hariç)?",
-        "options": [
-            "3",
-            "4",
-            "5",
-            "6"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5127,
-        "text": "Hangi filmde 'Hayat bir kutu çikolata gibidir' repliği vardır?",
-        "options": [
-            "Forrest Gump",
-            "Yeşil Yol",
-            "Esaretin Bedeli",
-            "Dövüş Kulübü"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Yüzüklerin Efendisi' serisinde Gandalf'ı kim canlandırmıştır?",
-        "options": [
-            "Ian McKellen",
-            "Christopher Lee",
-            "Viggo Mortensen",
-            "Elijah Wood"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Yıldız Savaşları' (Star Wars) serisindeki ünlü kötü karakter?",
-        "options": [
-            "Darth Vader",
-            "Luke Skywalker",
-            "Yoda",
-            "Han Solo"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Matrix filminde 'Neo' karakterini hangi oyuncu canlandırmıştır?",
-        "options": [
-            "Brad Pitt",
-            "Keanu Reeves",
-            "Tom Cruise",
-            "Will Smith"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Netflix'in popüler dizisi 'Squid Game' hangi ülkenin yapımıdır?",
-        "options": [
-            "Güney Kore",
-            "Japonya",
-            "Çin",
-            "ABD"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi yönetmen 'korku ve gerilim' türünün ustası olarak bilinir?",
-        "options": [
-            "Spielberg",
-            "Hitchcock",
-            "Scorsese",
-            "Tarantino"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Animasyon filmi 'Toy Story' hangi stüdyo tarafından yapılmıştır?",
-        "options": [
-            "Disney",
-            "Pixar",
-            "Dreamworks",
-            "Warner Bros"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Harry Potter serisinde Harry'nin en yakın arkadaşları kimlerdir?",
-        "options": [
-            "Ron ve Hermione",
-            "Draco ve Crabbe",
-            "Fred ve George",
-            "Neville ve Luna"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 15,
-        "text": "\"Matrix\" filminde, Neo karakterine sunulan iki hap hangi renktir?",
-        "options": [
-            "Yeşil ve Sarı",
-            "Mavi ve Kırmızı",
-            "Siyah ve Beyaz",
-            "Mor ve Turuncu"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5147,
-        "text": "Oscar kazanan ilk 'İngilizce olmayan' film (En İyi Film dalında)?",
-        "options": [
-            "Parazit",
-            "Roma",
-            "Amour",
-            "Crouching Tiger"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Charlie Chaplin'in yarattığı ünlü sessiz sinema karakteri kimdir?",
-        "options": [
-            "Buster",
-            "Şarlo",
-            "Laurel",
-            "Hardy"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'Selvi Boylum Al Yazmalım' filminin başrol erkek oyuncusu kimdir?",
-        "options": [
-            "Kadir İnanır",
-            "Cüneyt Arkın",
-            "Tarık Akan",
-            "Ediz Hun"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 5128,
-        "text": "Joker karakterini canlandırıp Oscar alan oyuncu (The Dark Knight)?",
-        "options": [
-            "Heath Ledger",
-            "Joaquin Phoenix",
-            "Jack Nicholson",
-            "Jared Leto"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "'La Casa de Papel' dizisinde soygun ekibi hangi isimleri kullanır?",
-        "options": [
-            "Şehir isimleri",
-            "Renkler",
-            "Hayvanlar",
-            "Sayılar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Hababam Sınıfı filmindeki 'İnek Şaban' karakterini kim oynamıştır?",
-        "options": [
-            "Kemal Sunal",
-            "Halit Akçatepe",
-            "Tarık Akan",
-            "Adile Naşit"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Yüzüklerin Efendisi film serisi kaç filmden oluşur (Orijinal seri)?",
-        "options": [
-            "3",
-            "4",
-            "2",
-            "5"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Münir Özkul'un canlandırdığı 'Kel Mahmut' karakteri hangi seridedir?",
-        "options": [
-            "Hababam Sınıfı",
-            "Neşeli Günler",
-            "Bizim Aile",
-            "Gülen Gözler"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "'Baba' (The Godfather) filminde Don Vito Corleone'yi kim oynamıştır?",
-        "options": [
-            "Marlon Brando",
-            "Al Pacino",
-            "Robert De Niro",
-            "Jack Nicholson"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 16,
-        "text": "Bataklıkta yaşayan, Prenses Fiona'ya aşık olan yeşil devin adı nedir?",
-        "options": [
-            "Hulk",
-            "Shrek",
-            "Grinch",
-            "Yoda"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 5110,
-        "text": "Rafadan Tayfa hangi kanalda yayınlanmaktadır (film serisi de vardır)?",
-        "options": [
-            "TRT Çocuk",
-            "Kanal D",
-            "ATV",
-            "Show TV"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "En iyi film Oscar'ını kazanan ilk ve tek Güney Kore filmi hangisidir?",
-        "options": [
-            "Oldboy",
-            "Parasite",
-            "Memories of Murder",
-            "Train to Busan"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 5154,
-        "text": "Psycho filmindeki ünlü duş sahnesinde akan kan yerine ne kullanılmıştır?",
-        "options": [
-            "Çikolata şurubu",
-            "Ketçap",
-            "Boya",
-            "Domates suyu"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 19,
-        "text": "\"Karayip Korsanları\" filminde Johnny Depp'in canlandırdığı kaptan kimdir?",
-        "options": [
-            "Kaptan Hook",
-            "Kaptan Amerika",
-            "Jack Sparrow",
-            "Kaptan Barbossa"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "'Yüzüklerin Efendisi' serisinde yüzüğü yok etmekle görevli hobbit kimdir?",
-        "options": [
-            "Sam",
-            "Frodo",
-            "Bilbo",
-            "Pippin"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Hangi filmde 'I see dead people' (Ölü insanlar görüyorum) repliği vardır?",
-        "options": [
-            "Altıncı His",
-            "Diğerleri",
-            "Halka",
-            "Ruhlar Bölgesi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 3,
-        "text": "Örümcek Adam (Spider-Man) kostümünün içindeki karakterin gerçek adı nedir?",
-        "options": [
-            "Clark Kent",
-            "Bruce Wayne",
-            "Tony Stark",
-            "Peter Parker"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 10,
-        "text": "İngiliz gizli servisi MI6'ya çalışan, kod adı \"007\" olan ünlü ajan kimdir?",
-        "options": [
-            "Ethan Hunt",
-            "James Bond",
-            "Jason Bourne",
-            "John Wick"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 4,
-        "text": "Türk sinemasının \"Sultan\" lakaplı, kurallarıyla ünlü kadın oyuncusu kimdir?",
-        "options": [
-            "Filiz Akın",
-            "Hülya Koçyiğit",
-            "Türkan Şoray",
-            "Fatma Girik"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Hababam Sınıfı film serisinde 'İnek Şaban' karakterini kim canlandırmıştır?",
-        "options": [
-            "Münir Özkul",
-            "Halit Akçatepe",
-            "Kemal Sunal",
-            "Şener Şen"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "'Leon' (Sevginin Gücü) filminde Jean Reno'ya eşlik eden çocuk oyuncu kimdir?",
-        "options": [
-            "Natalie Portman",
-            "Jodie Foster",
-            "Dakota Fanning",
-            "Drew Barrymore"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 58,
-        "text": "Brad Pitt'in \"Benjamin Button\" filmindeki karakterinin ilginç özelliği nedir?",
-        "options": [
-            "Geleceği görmesi",
-            "Yaşlı doğup giderek gençleşmesi",
-            "Görünmez olması",
-            "Hiç uyumaması"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 5120,
-        "text": "Hangi Türk filmi Oscar adayı olmuştur (Son Umut vb. hariç, Ayla gibi popüler)?",
-        "options": [
-            "Ayla",
-            "Recep İvedik",
-            "Düğün Dernek",
-            "Vizontele"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 22,
-        "text": "\"Avatar\" filminde, Pandora gezegeninde yaşayan mavi renkli halka ne ad verilir?",
-        "options": [
-            "Şirinler",
-            "Na'vi",
-            "Jedi",
-            "Elf"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 14,
-        "text": "\"Tosun Paşa\" filminde, Yeşil Vadi için birbirine giren iki rakip aile hangisidir?",
-        "options": [
-            "Tellioğulları - Seferoğulları",
-            "Canolar - Kanolar",
-            "Malkoçoğulları - Karaoğlanlar",
-            "Bizimkiler - Sizinkiler"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "'Baba' (Godfather) filminde Marlon Brando'nun canlandırdığı karakterin adı nedir?",
-        "options": [
-            "Michael Corleone",
-            "Vito Corleone",
-            "Sonny Corleone",
-            "Fredo Corleone"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 49,
-        "text": "Clint Eastwood'un başrolünde olduğu, \"İyi, Kötü ve Çirkin\" filmi hangi türe örnektir?",
-        "options": [
-            "Film Noir",
-            "Spaghetti Western",
-            "Müzikal",
-            "Gotik"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 11,
-        "text": "\"Turist Ömer\" karakteriyle özdeşleşen, selamı ve neşesiyle tanınan usta oyuncumuz kimdir?",
-        "options": [
-            "Sadri Alışık",
-            "Ayhan Işık",
-            "Öztürk Serengil",
-            "Vahi Öz"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 78,
-        "text": "Türk sinemasında sansür kuruluna takılarak yasaklanan \"ilk\" film hangisidir? (1919 yapımı)",
-        "options": [
-            "Mürebbiye",
-            "Himmet Ağa'nın İzdivacı",
-            "Binnaz",
-            "Ateşten Gömlek"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 86,
-        "text": "Türk sinemasının \"Dört Yapraklı Yoncası\" olarak bilinen oyuncular arasında hangisi yoktur?",
-        "options": [
-            "Türkan Şoray",
-            "Hülya Koçyiğit",
-            "Fatma Girik",
-            "Hale Soygazi"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 20,
-        "text": "Korku filmlerinin ünlü karakteri olan, içine seri katil ruhu girmiş \"Katil Bebek\"in adı nedir?",
-        "options": [
-            "Annabelle",
-            "Chucky",
-            "Casper",
-            "Joker"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 18,
-        "text": "Sylvester Stallone'nin canlandırdığı, \"İtalyan Aygırı\" lakaplı ünlü boksör karakteri hangisidir?",
-        "options": [
-            "Rambo",
-            "Rocky",
-            "Terminator",
-            "Gladiator"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 50,
-        "text": "Kemal Sunal'ın son filmi olan ve sınırların bölünmesini, tel örgüleri konu alan film hangisidir?",
-        "options": [
-            "Propaganda",
-            "Düttürü Dünya",
-            "Gülen Adam",
-            "Koltuk Belası"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 5,
-        "text": "Büyücülük okulunda okuyan, alnında şimşek izi olan ve Lord Voldemort ile savaşan karakter kimdir?",
-        "options": [
-            "Frodo",
-            "Harry Potter",
-            "Luke Skywalker",
-            "Sherlock Holmes"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 12,
-        "text": "Geceleri suçlularla savaşan, yarasa kostümü giyen ve şehri Gotham'ı koruyan süper kahraman kimdir?",
-        "options": [
-            "Superman",
-            "Batman",
-            "Iron Man",
-            "Captain America"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 13,
-        "text": "\"Yüzüklerin Efendisi\" filminde, yok edilmesi gereken \"Tek Yüzük\"ü taşıyan Hobbit karakteri kimdir?",
-        "options": [
-            "Gandalf",
-            "Aragorn",
-            "Legolas",
-            "Frodo Baggins"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 25,
-        "text": "Marlon Brando ve Al Pacino'nun oynadığı, mafya dünyasını anlatan \"Baba\" filminin orijinal adı nedir?",
-        "options": [
-            "Scarface",
-            "The Godfather",
-            "Goodfellas",
-            "Taxi Driver"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 60,
-        "text": "Marvel Evreni'nde (MCU), evrenin nüfusunun yarısını parmak şıklatarak yok eden kötü karakter kimdir?",
-        "options": [
-            "Loki",
-            "Ultron",
-            "Thanos",
-            "Magneto"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 30,
-        "text": "İstanbul'un fethini anlatan, Türk sinemasının en yüksek bütçeli yapımlarından biri olan film hangisidir?",
-        "options": [
-            "Fetih 1453",
-            "Kurtlar Vadisi",
-            "Ayla",
-            "Osmanlı Cumhuriyeti"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 44,
-        "text": "Babam ve Oğlum filminde, \"Ona bir oda ver baba, evi olsun\" diyerek tüm Türkiye'yi ağlatan oyuncu kimdir?",
-        "options": [
-            "Fikret Kuşkan",
-            "Çetin Tekindor",
-            "Yetkin Dikinciler",
-            "Halit Ergenç"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 8,
-        "text": "\"Buz Devri\" (Ice Age) animasyon filminde, sürekli bir meşe palamudunun peşinden koşan sincabın adı nedir?",
-        "options": [
-            "Sid",
-            "Manny",
-            "Diego",
-            "Scrat"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 17,
-        "text": "\"Kuzucuklarım\" hitabıyla bilinen, Türk sinemasının o meşhur kahkahasıyla hatırlanan \"Hafize Ana\"sı kimdir?",
-        "options": [
-            "Adile Naşit",
-            "Perran Kutman",
-            "Mürüvvet Sim",
-            "Ayşen Gruda"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 52,
-        "text": "\"Issız Adam\" filmiyle popüler olan ve yıllar sonra listelere giren o meşhur şarkı (\"Anlamazdın\") kime aittir?",
-        "options": [
-            "Ajda Pekkan",
-            "Sezen Aksu",
-            "Ayla Dikmen",
-            "Semiramis Pekkan"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 56,
-        "text": "Şener Şen'in, eski bir kabadayıyı canlandırdığı ve Kenan İmirzalıoğlu ile başrolü paylaştığı film hangisidir?",
-        "options": [
-            "Kabadayı",
-            "Av Mevsimi",
-            "Gönül Yarası",
-            "Muhsin Bey"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 27,
-        "text": "\"Aslan Kral\" (The Lion King) animasyonunda, babası Mufasa öldükten sonra kral olması gereken yavru aslan kimdir?",
-        "options": [
-            "Scar",
-            "Timon",
-            "Pumbaa",
-            "Simba"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 72,
-        "text": "Ingmar Bergman'ın \"Yedinci Mühür\" (The Seventh Seal) filminde, şövalyenin Azrail (Ölüm) ile oynadığı oyun nedir?",
-        "options": [
-            "Tavla",
-            "Satranç",
-            "Dama",
-            "Kart Oyunu"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 26,
-        "text": "Sinema dünyasının en prestijli ödülü kabul edilen, \"Akademi Ödülü\" olarak da bilinen altın heykelciğin adı nedir?",
-        "options": [
-            "Oscar",
-            "Emmy",
-            "Grammy",
-            "Altın Portakal"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 34,
-        "text": "\"Kış Uykusu\" filmiyle 2014 yılında Cannes Film Festivali'nde \"Altın Palmiye\" ödülünü kazanan yönetmenimiz kimdir?",
-        "options": [
-            "Fatih Akın",
-            "Nuri Bilge Ceylan",
-            "Ferzan Özpetek",
-            "Zeki Demirkubuz"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 47,
-        "text": "\"Her Şey Çok Güzel Olacak\" filminde Cem Yılmaz'ın (Altan) abisi rolünü oynayan (Nuri), MFÖ grubunun üyesi kimdir?",
-        "options": [
-            "Fuat Güner",
-            "Özkan Uğur",
-            "Mazhar Alanson",
-            "Barış Manço"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 71,
-        "text": "Türk sinemasında \"ilk renkli film\" olarak tarihe geçen, Muhsin Ertuğrul'un yönettiği 1953 yapımı film hangisidir?",
-        "options": [
-            "Vurun Kahpeye",
-            "Halıcı Kız",
-            "Aysel Bataklı Damın Kızı",
-            "Üç Arkadaş"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 1,
-        "text": "\"İnek Şaban\", \"Süt Kardeşler\", \"Kapıcılar Kralı\" gibi filmlerle tanınan, Türk sinemasının güldürü efsanesi kimdir?",
-        "options": [
-            "Şener Şen",
-            "Kemal Sunal",
-            "İlyas Salman",
-            "Tarık Akan"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 2,
-        "text": "Batması imkansız denilen dev geminin buzdağına çarpıp batmasını ve Jack ile Rose'un aşkını anlatan film hangisidir?",
-        "options": [
-            "Titanic",
-            "Avatar",
-            "Pearl Harbor",
-            "Karayip Korsanları"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 38,
-        "text": "Anthony Hopkins'in, yamyam bir seri katil olan \"Hannibal Lecter\" karakterini canlandırdığı oscarlı film hangisidir?",
-        "options": [
-            "Kuzuların Sessizliği",
-            "Yedi",
-            "Zindan Adası",
-            "Akıl Oyunları"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 41,
-        "text": "\"Hayat bir çikolata kutusu gibidir, içinden ne çıkacağını asla bilemezsin\" sözüyle ünlü Tom Hanks filmi hangisidir?",
-        "options": [
-            "Er Ryan'ı Kurtarmak",
-            "Forrest Gump",
-            "Yeşil Yol",
-            "Yeni Hayat"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 89,
-        "text": "Sinema tarihinde \"ilk uzun metrajlı animasyon (çizgi) film\" olarak kabul edilen 1937 yapımı Disney filmi hangisidir?",
-        "options": [
-            "Pinokyo",
-            "Pamuk Prenses ve Yedi Cüceler",
-            "Fantasia",
-            "Mickey Mouse"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 21,
-        "text": "Tarihi filmlerde \"Malkoçoğlu\", \"Kara Murat\" ve \"Battal Gazi\" gibi kahramanları canlandıran aksiyon yıldızımız kimdir?",
-        "options": [
-            "Cüneyt Arkın",
-            "Kartal Tibet",
-            "Serdar Gökhan",
-            "Ediz Hun"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 6,
-        "text": "\"Hababam Sınıfı\" serisinde, elinde ziliyle koridorlarda dolaşan, disiplinli ama altın kalpli \"Kel Mahmut\" hoca kimdir?",
-        "options": [
-            "Münir Özkul",
-            "Adile Naşit",
-            "Hulusi Kentmen",
-            "Erol Taş"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 39,
-        "text": "\"Geleceğe Dönüş\" (Back to the Future) serisinde, zaman makinesi olarak kullanılan ikonik arabanın markası/modeli nedir?",
-        "options": [
-            "Ferrari",
-            "Mustang",
-            "DeLorean",
-            "Cadillac"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 28,
-        "text": "İlyas Salman ve Şener Şen'in atışmalarıyla ünlü, \"Aşıksan vur saza, şoförsen bas gaza\" repliğinin geçtiği film hangisidir?",
-        "options": [
-            "Çiçek Abbas",
-            "Züğürt Ağa",
-            "Kibar Feyzo",
-            "Şekerpare"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 31,
-        "text": "\"Pulp Fiction\" (Ucuz Roman) ve \"Kill Bill\" filmlerinin, şiddeti estetik hale getiren, ayak fetişiyle ünlü yönetmeni kimdir?",
-        "options": [
-            "Steven Spielberg",
-            "Martin Scorsese",
-            "Quentin Tarantino",
-            "Christopher Nolan"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 35,
-        "text": "\"Dövüş Kulübü\" (Fight Club) filminin başkarakteri Tyler Durden'ın, kulübün birinci kuralı olarak söylediği meşhur replik nedir?",
-        "options": [
-            "Asla pes etme.",
-            "Dövüş Kulübü'nden kimseye bahsetme.",
-            "Her zaman gardını al.",
-            "Patronuna karşı gel."
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 46,
-        "text": "Keanu Reeves'in başrolünde olduğu, insanların aslında bir bilgisayar simülasyonunda yaşadığını anlatan bilim kurgu serisi nedir?",
-        "options": [
-            "Blade Runner",
-            "Matrix",
-            "Tron",
-            "Minority Report"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 68,
-        "text": "Lütfi Akad'ın yönettiği, göç sorununun Türk sinemasındaki en güçlü anlatımlarından biri kabul edilen meşhur üçlemenin adı nedir?",
-        "options": [
-            "Gelin - Düğün - Diyet",
-            "Toprak - Ana - Yar",
-            "Yılanların Öcü Üçlemesi",
-            "Köyden İndim Şehre Üçlemesi"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 77,
-        "text": "\"The Godfather\" (Baba) filminde Marlon Brando, kazandığı En İyi Erkek Oyuncu Oscar'ını reddetmesi için törene kimi göndermiştir?",
-        "options": [
-            "Kendi oğlunu",
-            "Bir avukatı",
-            "Sacheen Littlefeather adında bir Kızılderili aktivisti",
-            "Al Pacino'yu"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 23,
-        "text": "Kripton gezegeninden gelen, uçabilen ve gözlerinden lazer çıkarabilen, ancak \"Kriptonit\" taşına karşı zayıf olan kahraman kimdir?",
-        "options": [
-            "Thor",
-            "Superman",
-            "Flash",
-            "Hulk"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 40,
-        "text": "\"Açın kapıyı, mahsur kaldık!\" repliği ve \"Seni hiç alakadar etmez\" cevabıyla bilinen, bir gemide geçen kült Türk filmi hangisidir?",
-        "options": [
-            "Gemide",
-            "Dar Alanda Kısa Paslaşmalar",
-            "Laleli'de Bir Azize",
-            "Tabutta Rövaşata"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 42,
-        "text": "Yılmaz Güney'in senaryosunu yazdığı, Şerif Gören'in yönettiği ve Cannes'da Altın Palmiye kazanan ilk Türk filmi hangisidir? (1982)",
-        "options": [
-            "Umut",
-            "Sürü",
-            "Yol",
-            "Duvar"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 37,
-        "text": "\"Zeki Müren de bizi görecek mi?\" repliğiyle hafızalara kazınan, Yılmaz Erdoğan ve Demet Akbağ'ın başrolünde olduğu film hangisidir?",
-        "options": [
-            "Organize İşler",
-            "Vizontele",
-            "Neşeli Hayat",
-            "Ekşi Elmalar"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 85,
-        "text": "\"Tek plan\" (kesintisiz çekim) tekniğiyle çekilmiş gibi görünen, I. Dünya Savaşı'nı anlatan 2019 yapımı Sam Mendes filmi hangisidir?",
-        "options": [
-            "Dunkirk",
-            "1917",
-            "Batı Cephesinde Yeni Bir Şey Yok",
-            "Er Ryan'ı Kurtarmak"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 9,
-        "text": "\"Sevgi neydi? Sevgi emekti.\" repliğiyle hafızalara kazınan, Kadir İnanır ve Türkan Şoray'ın başrolünde olduğu efsane film hangisidir?",
-        "options": [
-            "Selvi Boylum Al Yazmalım",
-            "Dila Hanım",
-            "Devlerin Aşkı",
-            "Sultan"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 55,
-        "text": "Joker karakterini canlandıran ve bu rolüyle Oscar kazandıktan kısa süre sonra hayatını kaybeden efsane oyuncu kimdir? (The Dark Knight)",
-        "options": [
-            "Joaquin Phoenix",
-            "Heath Ledger",
-            "Jack Nicholson",
-            "Jared Leto"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 57,
-        "text": "Truman Burbank adında bir adamın, tüm hayatının aslında bir televizyon şovu olduğunu fark etmesini anlatan Jim Carrey filmi hangisidir?",
-        "options": [
-            "Sil Baştan",
-            "Maske",
-            "Truman Show",
-            "Yalancı Yalancı"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 64,
-        "text": "Orson Welles'in başyapıtı \"Yurttaş Kane\" (Citizen Kane) filminde, Kane'in ölürken söylediği son söz olan \"Rosebud\" (Gonca) aslında nedir?",
-        "options": [
-            "Sevgilisinin adı",
-            "Kaybettiği serveti",
-            "Çocukluğundaki kızağı",
-            "Bahçesindeki gül"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 82,
-        "text": "Charlie Chaplin'in, sesli sinemaya geçişe direndiği ve modern sanayileşmeyi, makineleşmeyi eleştirdiği sessiz (kısmi sesli) filmi hangisidir?",
-        "options": [
-            "Büyük Diktatör",
-            "Altına Hücum",
-            "Modern Zamanlar",
-            "Yumurcak"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 59,
-        "text": "Fatih Akın'ın yönettiği, Almanya'da yaşayan Türklerin hayatını ve punk/arabesk kültürünü harmanlayan, Berlin'de Altın Ayı kazanan filmi hangisidir?",
-        "options": [
-            "Duvara Karşı",
-            "Temmuzda",
-            "Soul Kitchen",
-            "Kesik"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 74,
-        "text": "Zeki Demirkubuz'un \"Masumiyet\" filminde, Haluk Bilginer'in canlandırdığı Bekir karakterinin, o meşhur \"kırk yıllık tirat\"ını yaptığı mekan neresidir?",
-        "options": [
-            "Hapishane koğuşu",
-            "Bir otel odası",
-            "Kır kahvesi / Pastane",
-            "Otobüs terminali"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 61,
-        "text": "Türk sinema tarihinde uluslararası alanda kazanılan ilk büyük ödül olan Berlin Film Festivali \"Altın Ayı\" ödülünü 1964 yılında hangi film kazanmıştır?",
-        "options": [
-            "Umut",
-            "Susuz Yaz",
-            "Yol",
-            "Sürü"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 90,
-        "text": "Metin Erksan'ın yönettiği, Müşfik Kenter'in kendi fotoğrafına aşık olduğu bir adamı canlandırdığı, suret-asıl meselesini işleyen kült film hangisidir?",
-        "options": [
-            "Sevmek Zamanı",
-            "Acı Hayat",
-            "Kuyu",
-            "Yılanların Öcü"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 66,
-        "text": "Türk sinemasının \"ilk kadın yönetmeni\" ve aynı zamanda ilk kadın yıldızı olarak kabul edilen, \"Bataklı Damın Kızı Aysel\" filmiyle tanınan sanatçı kimdir?",
-        "options": [
-            "Afife Jale",
-            "Cahide Sonku",
-            "Bedia Muvahhit",
-            "Neyyire Neyir"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 83,
-        "text": "\"Dünyayı Kurtaran Adam\" olarak bilinen, Star Wars sahnelerini izinsiz kullanmasıyla dünyada \"Turkish Star Wars\" olarak kültleşen filmin yönetmeni kimdir?",
-        "options": [
-            "Yılmaz Atadeniz",
-            "Çetin İnanç",
-            "Osman F. Seden",
-            "Natuk Baytan"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 32,
-        "text": "Türk sinemasında \"Eşkıya\" filmiyle gişe rekorlarını altüst eden ve sinema sektörünü 90'larda yeniden ayağa kaldıran filmde Şener Şen'e kim eşlik etmiştir?",
-        "options": [
-            "Uğur Yücel",
-            "Cem Yılmaz",
-            "Haluk Bilginer",
-            "Kenan İmirzalıoğlu"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 69,
-        "text": "Stanley Kubrick'in \"Otomatik Portakal\" (A Clockwork Orange) filminde, çetenin kendi aralarında konuştuğu, Rusça ve İngilizce karışımı uydurma sokak diline ne ad verilir?",
-        "options": [
-            "Esperanto",
-            "Nadsat",
-            "Klingon",
-            "Newspeak"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 70,
-        "text": "Akira Kurosawa'nın yönettiği; bir cinayet olayının, haydut, kurban, karısı ve bir oduncu tarafından 4 farklı şekilde anlatıldığı, \"gerçeğin göreceliğini\" işleyen başyapıt hangisidir?",
-        "options": [
-            "Yedi Samuray",
-            "Ran",
-            "Rashomon",
-            "Yojimbo"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 63,
-        "text": "Sinema tarihinin ilk bilim kurgu filmi kabul edilen, 1902 yapımı \"Aya Yolculuk\" (Le Voyage dans la Lune) filminin, o meşhur \"Ay'ın gözüne saplanan roket\" sahnesini çeken yönetmen kimdir?",
-        "options": [
-            "Lumiere Kardeşler",
-            "Georges Melies",
-            "D.W. Griffith",
-            "Fritz Lang"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 88,
-        "text": "Nuri Bilge Ceylan'ın \"Bir Zamanlar Anadolu'da\" filminin senaryosu, gerçek bir olaydan esinlenilmiştir. Bu olayda savcı ile birlikte ceset aramaya çıkan doktor kimdir? (Senaryoyu da birlikte yazmıştır)",
-        "options": [
-            "Ercan Kesal",
-            "Taner Birsel",
-            "Yılmaz Erdoğan",
-            "Muhammet Uzuner"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 62,
-        "text": "Alfred Hitchcock'un filmlerinde sıkça kullandığı; hikayeyi başlatan, karakterlerin peşinden koştuğu ama aslında seyirci için hiçbir önemi olmayan nesne veya kavrama (örneğin bir çanta dolusu para) ne ad verilir?",
-        "options": [
-            "Cameo",
-            "Flashback",
-            "MacGuffin",
-            "Cliffhanger"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 65,
-        "text": "Sovyet yönetmen Lev Kuleshov'un; aynı oyuncunun ifadesiz yüzünü, bir tabak çorba, bir tabut ve bir kadın görüntüsüyle art arda kurgulayarak izleyicide farklı duygular yaratmasını kanıtladığı kurgu tekniğine ne denir?",
-        "options": [
-            "Kuleshov Etkisi",
-            "Jump Cut",
-            "Match Cut",
-            "Paralel Kurgu"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "SINEMA",
-        "difficulty": "ZOR"
-    }
+  {
+    "text": "Sinema tarihinde 'Baba' (The Godfather) filminin yönetmeni kimdir?",
+    "options": ["Francis Ford Coppola", "Martin Scorsese", "Steven Spielberg", "Quentin Tarantino"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Oscar Ödülleri olarak bilinen organizasyonun resmi adı nedir?",
+    "options": ["Akademi Ödülleri", "Altın Küre", "Cannes Film Festivali", "Grammy Ücretleri"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'Titanik' ile birlikte 11 dalda Oscar kazanma rekorunu paylaşmaktadır?",
+    "options": ["Yüzüklerin Efendisi: Kralın Dönüşü", "Esaretin Bedeli", "Yıldız Savaşları", "Avatar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Çirkin Kral' lakaplı efsane oyuncusu ve yönetmeni kimdir?",
+    "options": ["Yılmaz Güney", "Cüneyt Arkın", "Tarık Akan", "Kemal Sunal"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın ilk sesli filmi hangisidir?",
+    "options": ["The Jazz Singer", "Bir Millet Doğuyor", "Metropolis", "Modern Zamanlar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Marvel Sinematik Evreni'nde 'Iron Man' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Scarlett Johansson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemada 'Gerilim Ustası' olarak bilinen 'Sapık' (Psycho) filminin yönetmeni kimdir?",
+    "options": ["Alfred Hitchcock", "Stanley Kubrick", "Woody Allen", "Ridley Scott"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi filmde 'Anlatılan senin hikayendir' repliği değil de 'Houston, bir sorunumuz var' repliği geçer?",
+    "options": ["Apollo 13", "Yıldızlararası", "Yerçekimi", "Marslı"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk sinemasının ilk renkli filmi hangisidir?",
+    "options": ["Halıcı Kız", "Susuz Yaz", "Gurbet Kuşları", "Yılanların Öcü"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yüzüklerin Efendisi serisinin yazarı kimdir?",
+    "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi oyuncu 'Batman' karakterini en fazla sinema filminde canlandırmıştır?",
+    "options": ["Christian Bale", "Michael Keaton", "Ben Affleck", "Adam West"],
+    "correctAnswerIndex": 2,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Hafize Ana' ve 'Adile Teyze' karakterleriyle hafızalara kazınan oyuncu kimdir?",
+    "options": ["Adile Naşit", "Münir Özkul", "Ayşen Gruda", "Perran Kutman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinin en çok hasılat yapan filmi (enflasyondan arındırılmamış) hangisidir?",
+    "options": ["Avatar", "Avengers: Endgame", "Titanik", "Star Wars: Force Awakens"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi ülkede düzenlenen ödül töreninde 'Altın Ayı' ödülü verilir?",
+    "options": ["Almanya (Berlin)", "Fransa (Cannes)", "İtalya (Venedik)", "Türkiye (Antalya)"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Uluslararası Cannes Film Festivali'nde 'Altın Palmiye' kazanan ilk Türk filmi hangisidir?",
+    "options": ["Yol", "Susuz Yaz", "Kış Uykusu", "Uzak"],
+    "correctAnswerIndex": 1,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Animasyon devi 'Pixar'ın ilk uzun metrajlı filmi hangisidir?",
+    "options": ["Toy Story (Oyuncak Hikayesi)", "Bir Böceğin Yaşamı", "Kayıp Balık Nemo", "Arabalar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Harry Potter serisinde 'Hermione Granger' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Emma Watson", "Dakota Fanning", "Saoirse Ronan", "Jennifer Lawrence"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisinde 'May güç seninle olsun' repliği ikonikleşmiştir?",
+    "options": ["Star Wars", "Star Trek", "Hızlı ve Öfkeli", "Karayip Korsanları"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın unutulmaz filmi 'Hababam Sınıfı'nın yazarı kimdir?",
+    "options": ["Rıfat Ilgaz", "Ertem Eğilmez", "Münir Özkul", "Aziz Nesin"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Kamera Arkası'ndaki en yetkili kişi kimdir?",
+    "options": ["Yönetmen", "Senarist", "Yapımcı", "Kameraman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'En İyi Film' Oscar'ını kazanan ilk siyah beyaz film değildir (Modern dönem hariç)?",
+    "options": ["Wings", "The Artist", "Schindler'in Listesi", "Ben-Hur"],
+    "correctAnswerIndex": 3,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "James Bond (Ajan 007) karakterini ilk canlandıran oyuncu kimdir?",
+    "options": ["Sean Connery", "Roger Moore", "Pierce Brosnan", "Daniel Craig"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Damat Ferit' lakabıyla bilinen oyuncu kimdir?",
+    "options": ["Tarık Akan", "Cüneyt Arkın", "Kartal Tibet", "Ediz Hun"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en prestijli film festivallerinden biri olan 'Venedik Film Festivali'nde hangi ödül verilir?",
+    "options": ["Altın Aslan", "Altın Ayı", "Altın Palmiye", "Altın Portakal"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi yönetmen 'Inception', 'Interstellar' ve 'The Dark Knight' filmlerini yönetmiştir?",
+    "options": ["Christopher Nolan", "James Cameron", "David Fincher", "Bryan Singer"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Sultanı' olarak bilinen oyuncu kimdir?",
+    "options": ["Türkan Şoray", "Filiz Akın", "Hülya Koçyiğit", "Fatma Girik"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi kült filmde 'İlk kural: Kulüp hakkında konuşmamaktır' repliği geçer?",
+    "options": ["Fight Club (Dövüş Kulübü)", "Pulp Fiction", "Seven", "Leon"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinema tarihinde 'Modern Zamanlar' ve 'Büyük Diktatör' filmleriyle tanınan sessiz sinema ikonu kimdir?",
+    "options": ["Charlie Chaplin", "Buster Keaton", "Harold Lloyd", "Stan Laurel"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Gülşah Film, Arzu Film gibi yapım şirketleri hangi ülkenin sinemasına aittir?",
+    "options": ["Türkiye", "Mısır", "İran", "Yunanistan"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film bir mahkûmun 20 yıl boyunca hapishaneden kaçış hikâyesini anlatır?",
+    "options": ["Esaretin Bedeli (Shawshank Redemption)", "Yeşil Yol", "Papillon", "Alcatraz'dan Kaçış"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Mahmut Hoca'sı olarak bilinen karakteri canlandıran oyuncu kimdir?",
+    "options": ["Münir Özkul", "Hulusi Kentmen", "Şener Şen", "Kemal Sunal"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi filmde 'Benim annem her zaman hayatın bir kutu çikolata gibi olduğunu söylerdi' repliği geçer?",
+    "options": ["Forrest Gump", "Rain Man", "Ölü Ozanlar Derneği", "Can Dostum"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinema tarihinde '3D' teknolojisini popüler hale getiren ve teknoloji devrimi sayılan film hangisidir?",
+    "options": ["Avatar", "Oyuncak Hikayesi", "Matrix", "Jurassic Park"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Tonton Baba' rolleriyle sevilen, genellikle fabrikatör karakterlerini canlandıran oyuncu kimdir?",
+    "options": ["Hulusi Kentmen", "Nubar Terziyan", "Cevat Kurtuluş", "Necdet Tosun"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisi bir arkeoloğun maceralarını konu alır?",
+    "options": ["Indiana Jones", "Mumya", "Lara Croft", "Hazine Avcıları"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Oscar tarihinde 'En İyi Yönetmen' ödülünü kazanan ilk kadın yönetmen kimdir?",
+    "options": ["Kathryn Bigelow", "Greta Gerwig", "Sofia Coppola", "Jane Campion"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'İnek Şaban' karakteriyle efsaneleşen oyuncu kimdir?",
+    "options": ["Kemal Sunal", "Halit Akçatepe", "Metin Akpınar", "Zeki Alasya"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi kült film 'Kırmızı hap mı, mavi hap mı?' sorusuyla ünlüdür?",
+    "options": ["Matrix", "Se7en", "V for Vendetta", "Truman Show"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk sinemasında 'Altın Portakal' Film Festivali hangi şehirde düzenlenir?",
+    "options": ["Antalya", "Adana", "İstanbul", "Ankara"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi filmde 'Jack, uçuyorum!' repliği geçer?",
+    "options": ["Titanik", "Rüzgar Gibi Geçti", "Casablanca", "Aşk Tesadüfleri Sever"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemada 'Hitchcock sarışını' terimi hangi yönetmenin filmlerindeki tercihini ifade eder?",
+    "options": ["Alfred Hitchcock", "Stanley Kubrick", "Pedro Almodovar", "Federico Fellini"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Body Ekrem' karakterini canlandıran ve tiyatro kökenli olan oyuncu kimdir?",
+    "options": ["Şener Şen", "Kemal Sunal", "İlyas Salman", "Erdal Özyağcılar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir insanın hayatının 24 saat boyunca bir televizyon programı olarak yayınlanmasını konu alır?",
+    "options": ["Truman Show", "Ed TV", "Pleasantville", "Stranger than Fiction"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en eski film festivali hangisidir?",
+    "options": ["Venedik Film Festivali", "Cannes Film Festivali", "Berlin Film Festivali", "Locarno Film Festivali"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Güdük Necmi' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Halit Akçatepe", "Kemal Sunal", "Tarık Akan", "Münir Özkul"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi yönetmen 'Pulp Fiction', 'Kill Bill' ve 'Bir Zamanlar Hollywood'da' filmlerini yönetmiştir?",
+    "options": ["Quentin Tarantino", "Guy Ritchie", "Robert Rodriguez", "Coen Kardeşler"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinemada 'Oscar' heykelciği hangi maddeden (veya kaplamadan) yapılır?",
+    "options": ["Altın kaplama bronz/britanyum", "Saf altın", "Gümüş", "Platin"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Domdom Ali' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Feridun Şavlı", "Ahmet Arıman", "Cengiz Nezir", "Bülent İğdiroğlu"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi animasyon filminde 'Hakuna Matata' şarkısı meşhur olmuştur?",
+    "options": ["Aslan Kral", "Madagaskar", "Buz Devri", "Shrek"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'En İyi Film' Oscar'ını kazanan ilk animasyon yapımı (veya aday gösterilen ilk) hangisidir?",
+    "options": ["Güzel ve Çirkin (Aday)", "Shrek (Kazandı - En İyi Animasyon dalında)", "Oyuncak Hikayesi", "Aslan Kral"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sinema tarihinde 'Schindler'in Listesi' filminin yönetmeni kimdir?",
+    "options": ["Steven Spielberg", "Stanley Kubrick", "James Cameron", "Peter Jackson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir akıl hastanesinde geçen hikâyeyi konu alır?",
+    "options": ["Guguk Kuşu (One Flew Over the Cuckoo's Nest)", "Zindan Adası", "Akıl Oyunları", "Hepsi"],
+    "correctAnswerIndex": 3,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Hababam Sınıfı Tatilde' filminde sınıfa gelen kız öğrencilerin lideri ('Ayşe') rolünü kim canlandırmıştır?",
+    "options": ["Ayşen Gruda", "Gülşen Bubikoğlu", "Itır Esen", "Müjde Ar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisi bir boksörün 'hiç pes etmeme' hikâyesini anlatır?",
+    "options": ["Rocky", "Rambo", "Terminator", "Die Hard"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Animasyon dünyasında 'Shrek' karakteri bir nedir?",
+    "options": ["Dev (Ogre)", "Ejderha", "Şövalye", "Eşek"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemada 'En İyi Erkek Oyuncu' Oscar'ını kazanan ilk siyahi oyuncu kimdir?",
+    "options": ["Sidney Poitier", "Denzel Washington", "Morgan Freeman", "Samuel L. Jackson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın 'Güzellik Kraliçesi' olarak bilinen 'Ah Nerede' ve 'Gırgıriye' filmlerinin yıldızı kimdir?",
+    "options": ["Gülşen Bubikoğlu", "Türkan Şoray", "Filiz Akın", "Tuba Büyüküstün"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi filmde 'E.T. ev telefon...' repliği geçer?",
+    "options": ["E.T. The Extra-Terrestrial", "Star Wars", "Close Encounters", "Signs"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde '2001: Bir Uzay Destanı' (2001: A Space Odyssey) filminin yönetmeni kimdir?",
+    "options": ["Stanley Kubrick", "Ridley Scott", "George Lucas", "Alfonso Cuaron"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın 'Kibar Feyzo' filminde Feyzo'nun sevdiği kız 'Gülo'yu kim canlandırmıştır?",
+    "options": ["Müjde Ar", "Ayşen Gruda", "Hale Soygazi", "Itır Esen"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisinde 'Hobit' ve 'Elf' gibi ırklar bulunur?",
+    "options": ["Yüzüklerin Efendisi", "Harry Potter", "Narnia Günlükleri", "Game of Thrones"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemanın ilk 'Korku' filmi sahnelerinden olan ve aya bir roketin çarptığını gösteren sessiz film hangisidir?",
+    "options": ["A Trip to the Moon (Aya Yolculuk)", "Metropolis", "Nosferatu", "The Cabinet of Dr. Caligari"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Marvel evreninde 'Thor'un çekicinin adı nedir?",
+    "options": ["Mjölnir", "Stormbreaker", "Excalibur", "Gungnir"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Selvi Boylum Al Yazmalım' filminin başrol oyuncuları kimlerdir?",
+    "options": ["Türkan Şoray - Kadir İnanır", "Filiz Akın - Cüneyt Arkın", "Hülya Koçyiğit - Tarık Akan", "Müjde Ar - Yılmaz Güney"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi filmde 'Benim adım Bond, James Bond' repliği ikonikleşmiştir?",
+    "options": ["Dr. No (ve tüm Bond filmleri)", "Görevimiz Tehlike", "Bourne’un Kimliği", "Kingsman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Dövüş Kulübü' (Fight Club) kitabının yazarı kimdir?",
+    "options": ["Chuck Palahniuk", "Stephen King", "George Orwell", "Aldous Huxley"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Çöpçüler Kralı' filminde 'Abdi' karakterini kim canlandırmıştır?",
+    "options": ["Kemal Sunal", "Şener Şen", "Ayşen Gruda", "İlyas Salman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi kült filmde bir yazarın kış tatili için gittiği otelde cinnet geçirmesi anlatılır?",
+    "options": ["The Shining (Cinnet)", "Misery", "Psycho", "Hallowen"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Animasyon filmi 'Frozen'da kardan adamın adı nedir?",
+    "options": ["Olaf", "Sven", "Kristoff", "Hans"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemada 'Ciddiyetsiz bir iş' olarak görülen komedi türünün en büyük ödüllerini kazanan 'City Lights' (Şehir Işıkları) filminin başrolü kimdir?",
+    "options": ["Charlie Chaplin", "Buster Keaton", "Harold Lloyd", "Benny Hill"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın usta oyuncusu Şener Şen'in babası olan ve yine usta bir oyuncu olan isim kimdir?",
+    "options": ["Ali Şen", "Necdet Şen", "Münir Özkul", "Hulusi Kentmen"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisi bir oyuncağın ('Woody') ve arkadaşlarının maceralarını anlatır?",
+    "options": ["Toy Story (Oyuncak Hikayesi)", "Buz Devri", "Shrek", "Wall-E"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemada 'En İyi Yardımcı Erkek Oyuncu' Oscar'ını 'Joker' rolüyle (ölümünden sonra) kazanan oyuncu kimdir?",
+    "options": ["Heath Ledger", "Joaquin Phoenix", "Jack Nicholson", "Jared Leto"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Neşeli Günler' filminde turşu suyu kavgası eden efsane çifti kimler canlandırmıştır?",
+    "options": ["Münir Özkul - Adile Naşit", "Şener Şen - Ayşen Gruda", "Tarık Akan - Gülşen Bubikoğlu", "Zeki Alasya - Metin Akpınar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi filmde 'Sadece bir hayal kurmuştum' repliği (Inception) değil de, 'Rüyalar gerçektir' teması hakimdir?",
+    "options": ["Inception (Başlangıç)", "Tenet", "The Prestige", "Memento"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya sinemasında 'Bollywood' olarak adlandırılan sinema sektörü hangi ülkededir?",
+    "options": ["Hindistan", "Pakistan", "İran", "Güney Kore"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Vizontele' filminin yönetmeni ve başrol oyuncusu kimdir?",
+    "options": ["Yılmaz Erdoğan", "Cem Yılmaz", "Nuri Bilge Ceylan", "Çağan Irmak"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi kült filmde 'Gerçekten ölmek istemiyorum, bazen hiç doğmamış olmayı diliyorum' (Rhapsody şarkısı dahil) değil de, 'Ölü Ozanlar Derneği'nde 'Carpe Diem' repliği meşhurdur?",
+    "options": ["Ölü Ozanlar Derneği", "Can Dostum", "Gülümse", "Eğitim Şart"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinema tarihinde 'Matrix' üçlemesini yöneten kardeşlerin soyadı nedir?",
+    "options": ["Wachowski", "Coen", "Russo", "Dardenne"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Bizim Aile' filminde 'Yaşar Usta' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Münir Özkul", "Hulusi Kentmen", "Adile Naşit", "Şener Şen"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi animasyon filminde bir farenin şef olma hayali anlatılır?",
+    "options": ["Ratatouille", "Stuart Little", "Fare Şehri", "Tom ve Jerry"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinemada 'En Çok Oscar Kazanan Sanatçı' rekoru (22 Oscar) kime aittir?",
+    "options": ["Walt Disney", "Meryl Streep", "Jack Nicholson", "John Williams"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın 'Keloğlan' karakteriyle özdeşleşen oyuncusu kimdir?",
+    "options": ["Rüştü Asyalı", "Kemal Sunal", "Halit Akçatepe", "Zeki Alasya"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisi bir robotun ('T-800') gelecekten geçmişe gönderilmesini konu alır?",
+    "options": ["Terminator", "Robocop", "Transformers", "Yıldız Savaşları"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Yedi' (Se7en) filminin yönetmeni kimdir?",
+    "options": ["David Fincher", "Christopher Nolan", "Martin Scorsese", "James Cameron"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Mavi Boncuk' filminde Emel Sayın'ı kaçıran arkadaşlar arasında hangisi yoktur?",
+    "options": ["Cüneyt Arkın", "Tarık Akan", "Münir Özkul", "Zeki Alasya"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film 'Havacılık ve Uzay' tarihindeki en büyük başarısızlığın başarıyla sonuçlanmasını (Apollo 13) anlatır?",
+    "options": ["Apollo 13", "Doğru Adamlar", "Gravity", "Hidden Figures"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünyanın en çok ödül alan filmleri arasında bulunan 'Parazit' hangi ülkeye aittir?",
+    "options": ["Güney Kore", "Japonya", "Çin", "Vietnam"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Zühtü' karakteriyle de bilinen komedyen kimdir?",
+    "options": ["Kemal Sunal", "Şener Şen", "Zeki Alasya", "Metin Akpınar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi animasyon karakteri bir deniz süngeridir ve bir ananasın içinde yaşar?",
+    "options": ["SüngerBob KareŞort", "Patrick Yıldız", "Squidward", "Yengeç Restoran"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Ucuz Roman' (Pulp Fiction) filminde başrolleri paylaşan oyunculardan biri hangisidir?",
+    "options": ["John Travolta", "Tom Cruise", "Brad Pitt", "Leonardo DiCaprio"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Süt Kardeşler' filminde 'Gulyabani'den korkan karakterlerin olduğu evde 'Melek Hanım'ı kim canlandırmıştır?",
+    "options": ["Adile Naşit", "Şener Şen", "Ayşen Gruda", "Hale Soygazi"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir piyano dehasının İkinci Dünya Savaşı sırasındaki hayatta kalma mücadelesini anlatır?",
+    "options": ["Piyanist (The Pianist)", "Schindler'in Listesi", "Hayat Güzeldir", "Er Ryan'ı Kurtarmak"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Animasyon serisi 'Buz Devri'nde meşe palamudunun peşinden koşan sincabın adı nedir?",
+    "options": ["Scrat", "Sid", "Manny", "Diego"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Kuzuların Sessizliği' filmindeki efsanevi katil 'Hannibal Lecter'ı canlandıran oyuncu kimdir?",
+    "options": ["Anthony Hopkins", "Al Pacino", "Robert De Niro", "Dustin Hoffman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Gırgırıye' serisinde 'Bayram' karakterini kim canlandırmıştır?",
+    "options": ["Müjdat Gezen", "Tarık Akan", "Tarık Pabuçcuoğlu", "Gülşen Bubikoğlu"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisi bir grup insanın ıssız bir adada oyun oynamasını değil de, 'Açlık Oyunları'nda hayatta kalmasını konu alır?",
+    "options": ["Açlık Oyunları (Hunger Games)", "Labirent", "Uyumsuz", "Alacakaranlık"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Yurttaş Kane' (Citizen Kane) filmiyle devrim yaratan yönetmen kimdir?",
+    "options": ["Orson Welles", "John Ford", "Howard Hawks", "Frank Capra"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Milyarder' filminde piyango çıkan 'Mesut' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Şener Şen", "Münir Özkul", "Adile Naşit", "Uğur Yücel"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinema tarihinde 'Yüzüklerin Efendisi' üçlemesinin yönetmeni kimdir?",
+    "options": ["Peter Jackson", "Steven Spielberg", "George Lucas", "James Cameron"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'En İyi Film' Oscar'ını kazanan ilk İngilizce olmayan yapımdır?",
+    "options": ["Parazit (Parasite)", "Hayat Güzeldir", "Roma", "Amelie"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Mavi Boncuk' filminde Emel Sayın'ı bir halıya sarıp kaçıran ekipte hangi efsane oyuncu yoktur?",
+    "options": ["Cüneyt Arkın", "Tarık Akan", "Münir Özkul", "Metin Akpınar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Marvel evreninde 'Iron Man' karakterinin gerçek adı nedir?",
+    "options": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Peter Parker"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi animasyon filminde bir farenin şef olma hikayesi anlatılır?",
+    "options": ["Ratatouille", "Shrek", "Kayıp Balık Nemo", "Buz Devri"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Uluslararası Cannes Film Festivali'nde 'Altın Palmiye' kazanan Nuri Bilge Ceylan filmi hangisidir?",
+    "options": ["Kış Uykusu", "Bir Zamanlar Anadolu'da", "Ahlat Ağacı", "Uzak"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinemada 'Joker' karakterini canlandırarak Oscar kazanan iki oyuncu kimlerdir?",
+    "options": ["Heath Ledger - Joaquin Phoenix", "Jack Nicholson - Jared Leto", "Heath Ledger - Mark Hamill", "Joaquin Phoenix - Ben Affleck"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi kült filmde 'Gerçeklik, bir algıdan ibarettir' teması işlenir ve başrolde Keanu Reeves oynar?",
+    "options": ["Matrix", "Hızlı ve Öfkeli", "John Wick", "Constantine"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın 'Sultanı' Türk sinemasının efsane ismi Türkan Şoray'ın yönetmenliğini de yaptığı film hangisidir?",
+    "options": ["Yılanı Öldürseler", "Selvi Boylum Al Yazmalım", "Dila Hanım", "Bodrum Hakimi"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sinema tarihinde 'Batman' karakterini en fazla filmde canlandıran oyuncu (2024 itibarıyla) kimdir?",
+    "options": ["Ben Affleck", "Christian Bale", "Michael Keaton", "Robert Pattinson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisi 'Bebek Joda' (Baby Yoda) karakteriyle popülerliğini artırmıştır (Dizi/Film evreni)?",
+    "options": ["Star Wars (The Mandalorian)", "Star Trek", "Avatar", "Guardians of the Galaxy"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Animasyon dünyasının devi Disney'in ilk sesli ve renkli kısa filmi 'Mickey Mouse'un başrol olduğu yapım hangisidir?",
+    "options": ["Steamboat Willie", "Fantasia", "Bambi", "Dumbo"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Hababam Sınıfı' serisinin ilk filmlerinin yönetmeni kimdir?",
+    "options": ["Ertem Eğilmez", "Kartal Tibet", "Atıf Yılmaz", "Yavuz Turgul"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir mahkumun 20 yıl boyunca hapishaneden kaçış hikayesini anlatır?",
+    "options": ["Esaretin Bedeli (The Shawshank Redemption)", "Yeşil Yol", "Papillon", "Alcatraz'dan Kaçış"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Christopher Nolan'ın 2023 yılında vizyona giren ve Atom Bombası'nın babasını anlatan filmi hangisidir?",
+    "options": ["Oppenheimer", "Dunkirk", "Tenet", "Inception"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türk sinemasında 'En Çok İzlenen Film' rekorunu uzun süre elinde tutan komedi serisi hangisidir?",
+    "options": ["Recep İvedik", "Düğün Dernek", "Ayla", "Müslüm"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi yönetmen 'Karayip Korsanları' serisinin ilk üç filmini yönetmiştir?",
+    "options": ["Gore Verbinski", "Rob Marshall", "Joachim Rønning", "Tim Burton"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'da 'Çirkin Kral' lakabıyla bilinen, 'Umut' ve 'Yol' filmlerinin senaristi/yönetmeni kimdir?",
+    "options": ["Yılmaz Güney", "Tarık Akan", "Cüneyt Arkın", "Kadir İnanır"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinema tarihinde 'En Çok Oscar Kazanan' kadın oyuncu kimdir?",
+    "options": ["Katharine Hepburn", "Meryl Streep", "Ingrid Bergman", "Cate Blanchett"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisinde 'Wolverine' karakterini Hugh Jackman canlandırmaktadır?",
+    "options": ["X-Men", "Avengers", "Justice League", "Fantastic Four"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Animasyon filmi 'Kayıp Balık Nemo'da Nemo'nun türü nedir?",
+    "options": ["Palyaço Balığı", "Mavi Cerrah Balığı", "Sarı Kuyruk", "Köpekbalığı"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Şabanoğlu Şaban' filminde 'Kadırgalı Eşref' karakterini kim canlandırmıştır?",
+    "options": ["Şevket Altuğ", "Şener Şen", "Kemal Sunal", "Halit Akçatepe"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinemada 'Slaughterhouse-Five' (Mezbaha No 5) gibi meta kurgu eserlerin sinemaya uyarlanmasında öncü olan 'Birdman' filminin yönetmeni kimdir?",
+    "options": ["Alejandro G. Iñárritu", "Alfonso Cuarón", "Guillermo del Toro", "Wes Anderson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi kült korku filminde 'İnsanlar ölüleri görürler' repliği meşhurdur?",
+    "options": ["Altıncı His (The Sixth Sense)", "Diğerleri (The Others)", "Ruhlar Bölgesi", "Korku Seansı"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Selvi Boylum Al Yazmalım' filminin ünlü müziğinin bestecisi kimdir?",
+    "options": ["Cahit Berkay", "Melih Kibar", "Zülfü Livaneli", "Yalçın Tura"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinemada 'En İyi Animasyon Filmi' Oscarı'nı kazanan tek Japon animasyon (Anime) hangisidir?",
+    "options": ["Ruhların Kaçışı (Spirited Away)", "Prenses Mononoke", "Komşum Totoro", "Yürüyen Şato"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisinde 'Kaptan Jack Sparrow' karakteri başroldedir?",
+    "options": ["Karayip Korsanları", "Hazine Avcıları", "Mumya", "Indiana Jones"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın usta oyuncusu Kemal Sunal'ın oynadığı son sinema filmi hangisidir?",
+    "options": ["Propaganda", "Varyemez", "Talih Kuşu", "Polizei"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinema tarihinde 'Baba' (The Godfather) filminde 'Don Vito Corleone' karakterini canlandıran oyuncu kimdir?",
+    "options": ["Marlon Brando", "Al Pacino", "Robert De Niro", "Joe Pesci"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisinde 'Hobit' olan Frodo Baggins başroldedir?",
+    "options": ["Yüzüklerin Efendisi", "Hobit", "Yıldız Savaşları", "Harry Potter"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Animasyon dünyasında 'Aslan Kral' filmindeki kötü aslanın adı nedir?",
+    "options": ["Scar", "Mufasa", "Simba", "Pumbaa"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Tosun Paşa' filmindeki meşhur 'Tellioğlu ve Seferoğlu' ailelerinin rekabeti hangi şehirde geçer (Film kurgusuna göre Yeşil Vadi için)?",
+    "options": ["İskenderiye", "İstanbul", "Kahire", "Şam"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sinemada 'En İyi Erkek Oyuncu' Oscarı'nı üst üste iki kez kazanan nadir oyunculardan biri kimdir?",
+    "options": ["Tom Hanks", "Leonardo DiCaprio", "Brad Pitt", "Denzel Washington"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi kült bilim kurgu filminde 'Ben bir replikantım' (Blade Runner) repliği değil de, Ridley Scott'ın yönettiği benzer bir atmosfer hakimdir?",
+    "options": ["Blade Runner (Bıçak Sırtı)", "Alien", "Prometheus", "Gladyatör"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Sultanım' lakabıyla bilinen Türkan Şoray ile 'Devlerin Aşkı' filminde başrolü paylaşan oyuncu kimdir?",
+    "options": ["Kadir İnanır", "Tarık Akan", "Cüneyt Arkın", "Ediz Hun"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinemada 'Sherlock Holmes' karakterini modern bir yorumla 'Sherlock' dizisinden önce sinemada (2009) canlandıran oyuncu kimdir?",
+    "options": ["Robert Downey Jr.", "Benedict Cumberbatch", "Henry Cavill", "Jude Law"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi kült film '12 jüri üyesinin bir odaya kapanıp karar vermesini' konu alır?",
+    "options": ["12 Öfkeli Adam (12 Angry Men)", "On Emir", "Cinayet Gecesi", "Adalet Peşinde"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Gırgıriye' serisinin efsane karakteri 'Güllü'yü kim canlandırmıştır?",
+    "options": ["Gülşen Bubikoğlu", "Ayşen Gruda", "Perran Kutman", "Adile Naşit"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sinema tarihinde 'Matrix' filminde Neo karakterine 'Kırmızı hap-Mavi hap' seçeneğini sunan kimdir?",
+    "options": ["Morpheus", "Trinity", "Ajan Smith", "Kahin"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi animasyon filminde bir robotun dünyayı temizleme görevi anlatılır?",
+    "options": ["WALL-E", "Robots", "Big Hero 6", "Iron Giant"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Şoför Nebahat' karakterini canlandıran ilk kadın oyuncu kimdir?",
+    "options": ["Sezer Sezin", "Fatma Girik", "Hülya Koçyiğit", "Filiz Akın"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sinemada 'En Çok Gişe Yapan Film' (Enflasyondan arındırılmış) rekoru hangi klasik filme aittir?",
+    "options": ["Rüzgar Gibi Geçti (Gone with the Wind)", "Avatar", "Star Wars", "Titanik"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisi 'Büyücülük Okulu Hogwarts'ta geçer?",
+    "options": ["Harry Potter", "Fantastik Canavarlar", "Percy Jackson", "Narnia Günlükleri"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın usta komedyeni Şener Şen'in 'Züğürt Ağa' filminde canlandırdığı karakterin köyünün adı nedir?",
+    "options": ["Haraptar", "Yeşil Vadi", "Susuz Köy", "Çatladık"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sinema tarihinde 'Yedi' (Se7en) filminde cinayetlerini yedi ölümcül günaha göre işleyen katilin lakabı nedir?",
+    "options": ["John Doe", "Joker", "Hannibal", "Saw"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi animasyon karakteri bir 'Ogre' (Dev) ve bataklıkta yaşar?",
+    "options": ["Shrek", "Eşek", "Fiona", "Çizmeli Kedi"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Milyarder' filminde başrol oyuncusu Şener Şen hangi mesleği icra etmektedir?",
+    "options": ["İstasyon Şefi", "Öğretmen", "Belediye Başkanı", "Polis"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sinemada 'En İyi Kadın Oyuncu' Oscarı'nı ('Black Swan') filmiyle kazanan oyuncu kimdir?",
+    "options": ["Natalie Portman", "Mila Kunis", "Anne Hathaway", "Scarlett Johansson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir insanın televizyon programında yaşadığını bilmeden hayatını sürdürmesini anlatır?",
+    "options": ["Truman Show", "Karanlık Şehir", "Pleasantville", "Matrix"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Süt Kardeşler' filminde Gulyabani olmadığını, bunun bir şaka olduğunu sonunda kim açıklar?",
+    "options": ["Münir Özkul (Kumandan)", "Şener Şen", "Kemal Sunal", "Halit Akçatepe"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünya sinema tarihinin ilk sesli filmi (The Jazz Singer) hangi yıl çekilmiştir?",
+    "options": ["1927", "1930", "1920", "1935"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türk sinemasında 'Çirkin Kral' lakabıyla tanınan efsanevi aktör ve yönetmen kimdir?",
+    "options": ["Yılmaz Güney", "Cüneyt Arkın", "Tarık Akan", "Kadir İnanır"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film 'En İyi Film' dalında Oscar kazanan ilk animasyon yapımıdır (Genellikle Shrek ile karıştırılır ama Shrek ilk En İyi Animasyon Oscar'ını almıştır)?",
+    "options": ["Güzel ve Çirkin (Aday olan ilk)", "Oyuncak Hikayesi", "Aslan Kral", "Kayıp Balık Nemo"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Christopher Nolan'ın yönettiği ve rüyalar içinde rüya kurgusunu işleyen bilim kurgu filmi hangisidir?",
+    "options": ["Inception (Başlangıç)", "Interstellar", "Tenet", "Dunkirk"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın unutulmaz 'Hababam Sınıfı' serisinde 'İnek Şaban' karakterine hayat veren oyuncu kimdir?",
+    "options": ["Kemal Sunal", "Münir Özkul", "Halit Akçatepe", "Tarık Akan"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünyanın en çok hasılat yapan filmi unvanını (enflasyon düzeltmesi hariç) uzun süre elinde tutan James Cameron filmi hangisidir?",
+    "options": ["Avatar", "Titanic", "Terminator 2", "Aliens"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi yönetmen 'Kurgu'nun Babası' olarak bilinir ve 'Potemkin Zırhlısı' filmiyle kurgu tekniklerinde devrim yapmıştır?",
+    "options": ["Sergei Eisenstein", "Orson Welles", "Alfred Hitchcock", "Charlie Chaplin"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Stephen King'in romanından uyarlanan ve IMDb'de uzun süredir 1 numarada yer alan film hangisidir?",
+    "options": ["Esaretin Bedeli (The Shawshank Redemption)", "Yeşil Yol", "Cinnet (The Shining)", "O (It)"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Quentin Tarantino'nun yönettiği ve 'Vincent Vega' karakterinin yer aldığı kült film hangisidir?",
+    "options": ["Pulp Fiction (Ucuz Roman)", "Reservoir Dogs", "Kill Bill", "Django Unchained"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk sinemasının ilk renkli uzun metrajlı filmi hangisidir?",
+    "options": ["Halıcı Kız", "Susuzyaz", "Lüküs Hayat", "Muhsin Bey"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "2024 Oscar Ödülleri'nde 'En İyi Film' ödülünü kazanan yapım hangisidir?",
+    "options": ["Oppenheimer", "Poor Things", "Barbie", "Killers of the Flower Moon"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi oyuncu 'Karayip Korsanları' serisinde Jack Sparrow karakterini canlandırmıştır?",
+    "options": ["Johnny Depp", "Brad Pitt", "Orlando Bloom", "Tom Cruise"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yüzüklerin Efendisi serisinin yönetmeni kimdir?",
+    "options": ["Peter Jackson", "Steven Spielberg", "George Lucas", "Ridley Scott"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'da 'Damat Ferit' karakteriyle hafızalara kazınan ve Türk sinemasının 'Jön'lerinden olan aktör kimdir?",
+    "options": ["Tarık Akan", "Kartal Tibet", "Cüneyt Arkın", "Ediz Hun"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi korku filmi serisi 'Ghostface' maskesiyle tanınır?",
+    "options": ["Scream (Çığlık)", "Halloween", "Friday the 13th", "Saw"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Uluslararası Cannes Film Festivali'nde 'Altın Palmiye' (Palme d'Or) kazanan ilk Türk filmi hangisidir?",
+    "options": ["Yol", "Kış Uykusu", "Uzak", "Bir Zamanlar Anadolu'da"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Marvel Sinematik Evreni'nin (MCU) ilk filmi hangisidir?",
+    "options": ["Iron Man (2008)", "The Incredible Hulk", "Captain America", "Thor"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi animasyon stüdyosu 'Oyuncak Hikayesi', 'Kayıp Balık Nemo' ve 'Yukarı Bak' gibi filmleri üretmiştir?",
+    "options": ["Pixar", "DreamWorks", "Disney", "Studio Ghibli"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Matrix filminde 'Seçilmiş Kişi' olan Neo karakterini kim canlandırmıştır?",
+    "options": ["Keanu Reeves", "Tom Cruise", "Will Smith", "Brad Pitt"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi yönetmen 'Psycho' (Sapık) ve 'The Birds' (Kuşlar) gibi gerilim klasiklerine imza atmıştır?",
+    "options": ["Alfred Hitchcock", "Stanley Kubrick", "Martin Scorsese", "Francis Ford Coppola"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türk sinemasında 'Sultan' olarak anılan efsanevi aktris kimdir?",
+    "options": ["Türkan Şoray", "Hülya Koçyiğit", "Filiz Akın", "Fatma Girik"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Baba (The Godfather) üçlemesinin yönetmeni kimdir?",
+    "options": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "Sergio Leone"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisi 'May the Force be with you' (Güç seninle olsun) repliğiyle dünyaca ünlüdür?",
+    "options": ["Star Wars (Yıldız Savaşları)", "Star Trek", "Harry Potter", "Marvel"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın usta oyuncusu Şener Şen'in 'Züğürt Ağa' filmindeki karakterine adını veren köy hangisidir?",
+    "options": ["Haraptar", "Çiçek Abbas", "Kibar Feyzo", "Gökçeada"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi efsanevi oyuncu hem 'The Godfather' hem de 'Taxi Driver' filmlerinde başrol oynamıştır?",
+    "options": ["Robert De Niro", "Al Pacino", "Jack Nicholson", "Dustin Hoffman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Titanik filminin sonunda Rose karakterini yaşlı haliyle canlandıran Gloria Stuart, çekimler sırasında kaç yaşındaydı (Gerçek hayatta gemide olan biri değildi ama yaşıyla dikkat çekmişti)?",
+    "options": ["87", "95", "100", "75"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi ünlü oyuncu 'Terminatör' serisinde başrol oynamış ve 'I'll be back' repliğini fenomen haline getirmiştir?",
+    "options": ["Arnold Schwarzenegger", "Sylvester Stallone", "Bruce Willis", "Jean-Claude Van Damme"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yönetmenliğini Nuri Bilge Ceylan'ın yaptığı ve 'En İyi Yönetmen' ödülünü kazandıran filmi hangisidir?",
+    "options": ["Üç Maymun", "Bir Zamanlar Anadolu'da", "Ahlat Ağacı", "Kış Uykusu"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Animasyon dünyasının babası Walt Disney'in yarattığı ilk karakter hangisidir (Aslında Oswald Tavşanıydı ama sonrasında yerini alan kimdi)?",
+    "options": ["Mickey Mouse", "Donald Duck", "Goofy", "Pluto"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film 'En İyi Film' Oscar'ını kazanan ilk siyah beyaz olmayan (technicolor) yapımdır?",
+    "options": ["Rüzgar Gibi Geçti (Gone with the Wind)", "Oz Büyücüsü", "Casablanca", "Ben-Hur"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın 'Gaddar' ama bir o kadar da sevilen oyuncusu Erol Taş, genellikle hangi rollerle bilinirdi?",
+    "options": ["Kötü Adam", "Jön", "Mahalle Bakkalı", "Komik Karakter"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisi James Bond karakterinin casusluk hikayelerini anlatır?",
+    "options": ["007", "Mission Impossible", "Jason Bourne", "Kingsman"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Stanley Kubrick'in yönettiği ve bir yapay zeka olan HAL 9000'in yer aldığı bilim kurgu şaheseri hangisidir?",
+    "options": ["2001: A Space Odyssey", "A Clockwork Orange", "The Shining", "Full Metal Jacket"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "2020 yılında ilk kez İngilizce olmayan bir film 'En İyi Film' Oscar'ını kazanmıştır. Bu Güney Kore yapımı film hangisidir?",
+    "options": ["Parasite (Parazit)", "Oldboy", "Minari", "Decision to Leave"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Heath Ledger'ın efsanevi 'Joker' performansı sergilediği Batman filmi hangisidir?",
+    "options": ["The Dark Knight (Kara Şövalye)", "Batman Begins", "The Dark Knight Rises", "Batman Forever"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi yönetmen 'E.T.', 'Jaws' ve 'Schindler'in Listesi' gibi filmlere imza atmıştır?",
+    "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Tim Burton"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Küçük Hanımefendi' olarak bilinen ve zarafetiyle tanınan aktris kimdir?",
+    "options": ["Filiz Akın", "Belgin Doruk", "Itır Esen", "Gülşen Bubikoğlu"],
+    "correctAnswerIndex": 1,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir askerin Vietnam Savaşı'ndaki psikolojik yolculuğunu anlatan ve 'Marlon Brando'nun yer aldığı bir başyapıttır?",
+    "options": ["Apocalypse Now (Kıyamet)", "Platoon", "Full Metal Jacket", "The Deer Hunter"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "J.K. Rowling'in kitaplarından uyarlanan 'Harry Potter' sinema serisi kaç filmden oluşur?",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın efsanevi ismi Adile Naşit'in 'Hababam Sınıfı'ndaki karakterinin adı nedir?",
+    "options": ["Hafize Ana", "Melahat Hanım", "Kız Lisesi Müdürü", "Mürebbiye"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film bir piyanistin II. Dünya Savaşı sırasında Varşova'daki hayatta kalma mücadelesini anlatır (Roman Polanski yönetmenliğinde)?",
+    "options": ["Piyanist (The Pianist)", "Schindler'in Listesi", "Hayat Güzeldir", "Enigma"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Wes Anderson'ın simetrik çekimleri ve pastel renkleriyle ünlü, bir otelde geçen filmi hangisidir?",
+    "options": ["Büyük Budapeşte Oteli", "Moonrise Kingdom", "The French Dispatch", "Isle of Dogs"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk sinema tarihinde en çok izlenen yerli film serilerinden biri olan 'Recep İvedik'in ana karakterini canlandıran oyuncu kimdir?",
+    "options": ["Şahan Gökbakar", "Ata Demirer", "Cem Yılmaz", "Tolga Çevik"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi ünlü yönetmen 'Kill Bill' ve 'Inglourious Basterds' gibi filmlerle şiddeti stilize etmesiyle bilinir?",
+    "options": ["Quentin Tarantino", "David Fincher", "Ridley Scott", "Guy Ritchie"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın 'Kibar Feyzo' filminde geçen 'Kovimirsen mi ağam?' repliği hangi oyuncuya aittir?",
+    "options": ["Kemal Sunal", "Şener Şen", "İlyas Salman", "Erdal Özyağcılar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir boksörün 'Adrian!' diye bağırdığı finaliyle dünya sinema tarihine geçmiştir?",
+    "options": ["Rocky", "Raging Bull", "Million Dollar Baby", "The Fighter"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Animasyon dünyasının usta ismi Hayao Miyazaki'nin 'En İyi Animasyon' Oscar'ı kazanan filmi hangisidir?",
+    "options": ["Spirited Away (Ruhların Kaçışı)", "Princess Mononoke", "Howl's Moving Castle", "My Neighbor Totoro"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın 'Gülşen Bubikoğlu' ve 'Tarık Akan'ın başrol oynadığı ünlü filmi hangisidir?",
+    "options": ["Ah Nerede", "Mavi Boncuk", "Canım Kardeşim", "Salak Milyoner"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisi distopik bir gelecekte insanların hayatta kalma oyununu (Katniss Everdeen liderliğinde) konu alır?",
+    "options": ["Açlık Oyunları (Hunger Games)", "Divergent", "Maze Runner", "Matrix"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya tarihinin en çok Oscar kazanan (11 ödül) üç filminden biri hangisidir?",
+    "options": ["Titanic", "Baba 2", "Cesur Yürek", "Gladyatör"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya sinema tarihinde 'Kamera Arkası'nın dâhisi olarak bilinen ve 'Vertigo' filminin yönetmeni olan isim kimdir?",
+    "options": ["Alfred Hitchcock", "Orson Welles", "Billy Wilder", "John Ford"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk sinemasında 'Güdük Necmi' karakteriyle efsaneleşen oyuncu kimdir?",
+    "options": ["Halit Akçatepe", "Kemal Sunal", "Münir Özkul", "Tarık Akan"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisi efsanevi 'Middle-earth' (Orta Dünya) evreninde geçer?",
+    "options": ["Yüzüklerin Efendisi", "Star Wars", "Harry Potter", "Narnia Günlükleri"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Büyük ödül 'Altın Ayı' (Golden Bear) hangi film festivalinde verilir?",
+    "options": ["Berlin Film Festivali", "Cannes Film Festivali", "Venedik Film Festivali", "Akademi Ödülleri"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi ünlü oyuncu 'Forrest Gump' ve 'Cast Away' filmlerinde başrol oynamıştır?",
+    "options": ["Tom Hanks", "Leonardo DiCaprio", "Johnny Depp", "Denzel Washington"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Mavi Boncuk' filminde kaçırılan ünlü sanatçı karakterini kim canlandırmıştır?",
+    "options": ["Emel Sayın", "Fatma Girik", "Filiz Akın", "Türkan Şoray"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir yapay zekanın (HAL 9000) kontrolden çıkmasını konu alan bir Stanley Kubrick başyapıtıdır?",
+    "options": ["2001: A Space Odyssey", "A Clockwork Orange", "The Shining", "Dr. Strangelove"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya genelinde 'Animasyon' denilince akla gelen 'Totoro' karakterini yaratan Japon yönetmen kimdir?",
+    "options": ["Hayao Miyazaki", "Isao Takahata", "Makoto Shinkai", "Mamoru Hosoda"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "2023 yılında vizyona giren ve atom bombasının babasını konu alan film hangisidir?",
+    "options": ["Oppenheimer", "Barbie", "Napoleon", "Dune: Part Two"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türk sinemasında 'Komiser Şekip' karakteriyle tanınan ve seslendirme sanatçılığıyla da bilinen oyuncu kimdir?",
+    "options": ["Sadri Alışık", "Cüneyt Arkın", "Kadir İnanır", "Ayhan Işık"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisinde 'The Ring' (Yüzük) teması etrafında bir macera anlatılır?",
+    "options": ["The Lord of the Rings", "The Hobbit", "Game of Thrones", "Witcher"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'En İyi Film' Oscar'ını kazanan ilk animasyon yapımıdır?",
+    "options": ["Güzel ve Çirkin (Aday olan ilk)", "Shrek (Ilk kazanan animasyon kategorisinde)", "Toy Story", "Lion King"],
+    "correctAnswerIndex": 1,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi kült film 'Rule number one: You do not talk about...' repliğiyle başlar?",
+    "options": ["Fight Club (Dövüş Kulübü)", "Seven", "The Game", "Zodiac"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın usta oyuncusu Şener Şen'in 'Masumiyet' ve 'Kader' filmlerinin yönetmeni olan isim kimdir?",
+    "options": ["Zeki Demirkubuz", "Nuri Bilge Ceylan", "Semih Kaplanoğlu", "Yavuz Turgul"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Disney'in 'Aslan Kral' filmindeki ana karakterin adı nedir?",
+    "options": ["Simba", "Mufasa", "Scar", "Timon"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'Batı Cephesinde Yeni Bir Şey Yok' romanından uyarlanmıştır?",
+    "options": ["All Quiet on the Western Front", "Saving Private Ryan", "1917", "Full Metal Jacket"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Domates Güzeli' lakabıyla tanınan efsanevi kadın komedi oyuncusu kimdir?",
+    "options": ["Ayşen Gruda", "Adile Naşit", "Perran Kutman", "Suna Pekuysal"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisi bir arkeoloğun kamçısıyla maceralara atılmasını anlatır?",
+    "options": ["Indiana Jones", "Lara Croft", "Uncharted", "The Mummy"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi ülke sineması 'Bollywood' olarak adlandırılır?",
+    "options": ["Hindistan", "Nijerya", "Güney Kore", "İspanya"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Quentin Tarantino'nun 'En İyi Özgün Senaryo' Oscar'ını kazandığı ilk film hangisidir?",
+    "options": ["Pulp Fiction", "Reservoir Dogs", "Kill Bill", "Jackie Brown"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın unutulmaz filmi 'Çiçek Abbas'ın senaristi kimdir?",
+    "options": ["Yavuz Turgul", "Sinan Çetin", "Ertem Eğilmez", "Münir Özkul"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film bir 'Kurtadam' saldırısından kurtulan bir genci konu alan gerilim klasiğidir?",
+    "options": ["Londra'da Bir Amerikan Kurtadamı", "The Wolfman", "Van Helsing", "Underworld"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi ünlü oyuncu 'Gladyatör' filminde Maximus karakterini canlandırmıştır?",
+    "options": ["Russell Crowe", "Joaquin Phoenix", "Brad Pitt", "Mel Gibson"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Malkoçoğlu' ve 'Kara Murat' karakterleriyle özdeşleşen oyuncu kimdir?",
+    "options": ["Cüneyt Arkın", "Kartal Tibet", "Engin Çağlar", "Tarih Akan"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisi efsanevi 'Hogwarts' okulunda geçer?",
+    "options": ["Harry Potter", "Percy Jackson", "Narnia", "Twilight"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünya tarihinin en çok hasılat yapan animasyon filmi hangisidir (2024 itibarıyla)?",
+    "options": ["Inside Out 2 (Ters Yüz 2)", "Frozen 2", "The Lion King (CGI)", "Toy Story 4"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın klasiği 'Tosun Paşa' filmindeki Tellioğulları ve Seferoğulları mücadelesi hangi vaha içindir?",
+    "options": ["Yeşil Vadi", "Mavi Vadi", "Huzur Vadisi", "Cennet Vadisi"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi yönetmen 'Joker' (2019) filminin yönetmenidir?",
+    "options": ["Todd Phillips", "Christopher Nolan", "Martin Scorsese", "Zack Snyder"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film 'I'm the king of the world!' repliğiyle akıllara kazınmıştır?",
+    "options": ["Titanic", "The Lion King", "Troy", "Gladiator"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Cannes Film Festivali'nde 'Altın Palmiye' alan (2024 yapımı) ve yönetmenliğini Sean Baker'ın yaptığı film hangisidir?",
+    "options": ["Anora", "All We Imagine as Light", "The Seed of the Sacred Fig", "Emilia Perez"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Yeşilçam'ın 'Baraj' filminde başrolü paylaşan efsanevi isimler kimlerdir?",
+    "options": ["Türkan Şoray - Tarık Akan", "Türkan Şoray - Kadir İnanır", "Hülya Koçyiğit - Tarık Akan", "Filiz Akın - Cüneyt Arkın"],
+    "correctAnswerIndex": 1,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film serisinde 'Wolverine' karakteri Hugh Jackman tarafından canlandırılır?",
+    "options": ["X-Men", "Avengers", "Justice League", "Fantastic Four"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünya sinemasında 'Technicolor' teknolojisinin kullanıldığı ilk büyük başarı ve Oz Büyücüsü ile aynı yıl çıkan film hangisidir?",
+    "options": ["Gone with the Wind (Rüzgar Gibi Geçti)", "Ben-Hur", "Casablanca", "Spartacus"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film bir akıl hastanesindeki düzeni sorgulayan Jack Nicholson filmidir?",
+    "options": ["One Flew Over the Cuckoo's Nest (Guguk Kuşu)", "Shining", "Chinatown", "The Departed"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın 'Köylü Güzeli' olarak anılan oyuncusu kimdir?",
+    "options": ["Fatma Girik", "Gülşen Bubikoğlu", "Hülya Koçyiğit", "Türkan Şoray"],
+    "correctAnswerIndex": 2,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi film serisi bir grup cücenin ve bir Hobbit'in Ejderha Smaug'a karşı mücadelesini anlatır?",
+    "options": ["The Hobbit", "Lord of the Rings", "Dragonheart", "Eragon"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Oscar tarihinde en çok heykelcik kazanan film (11 adet) hangisidir?",
+    "options": ["Ben-Hur / Titanic / Lord of the Rings: Return of the King", "Godfather", "Schindler's List", "Braveheart"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Yeşilçam'ın usta ismi Kemal Sunal'ın 'Şabanoğlu Şaban' filmindeki kumandanının adı nedir?",
+    "options": ["Hüsamettin", "Hulusi Kentmen", "Mahmut Hoca", "Paşa Baba"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'Life is like a box of chocolates' repliğiyle tanınır?",
+    "options": ["Forrest Gump", "Chocolate", "Big", "The Green Mile"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yönetmenliğini Greta Gerwig'in yaptığı ve 2023'ün en çok konuşulan filmlerinden olan yapım hangisidir?",
+    "options": ["Barbie", "Little Women", "Lady Bird", "Poor Things"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'ın klasiği 'Selvi Boylum Al Yazmalım' filminin uyarlandığı eser hangi yazara aittir?",
+    "options": ["Cengiz Aytmatov", "Yaşar Kemal", "Orhan Pamuk", "Sabahattin Ali"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film bir pandomim sanatçısının (Buster Keaton tarzı) sessiz film dönemine saygı duruşu niteliğindedir (ve 2011'de Oscar almıştır)?",
+    "options": ["The Artist", "Hugo", "Midnight in Paris", "The Help"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Dünya tarihinin en çok hasılat yapan Marvel filmi hangisidir?",
+    "options": ["Avengers: Endgame", "Infinity War", "Spider-Man: No Way Home", "Black Panther"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Münir Özkul' ve 'Adile Naşit'in turşucu rolünde olduğu film hangisidir?",
+    "options": ["Neşeli Günler", "Gülen Gözler", "Bizim Aile", "Aile Şerefi"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film serisi bir grup hırsızın 'Profesör' liderliğindeki soygunlarını anlatır (Aslında bir dizidir ama film formatında sorulara da konu olabilir - kurgu bazında)?",
+    "options": ["La Casa de Papel (Dizi olsa da cevap listesinde film gibi kurgulanabilir)", "Ocean's Eleven", "Italyan İşi", "Hızlı ve Öfkeli"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi film 'Bond, James Bond' repliğiyle özdeşleşmiştir?",
+    "options": ["007 Serisi", "Bourne", "Kingsman", "Spy"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Yeşilçam'da 'Vizontele' filminin yönetmeni ve başrol oyuncusu kimdir?",
+    "options": ["Yılmaz Erdoğan", "Cem Yılmaz", "Şener Şen", "Zeki Alasya"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi film 'O Capitain, My Capitain!' şiiriyle hatırlanır?",
+    "options": ["Ölü Ozanlar Derneği (Dead Poets Society)", "Can Dostum", "Patch Adams", "İyi Yolculuklar"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Christopher Nolan'ın 'Zamanın izafiyetini' uzayda geçen bir hikayeyle işlediği filmi hangisidir?",
+    "options": ["Interstellar (Yıldızlararası)", "Inception", "The Prestige", "Dunkirk"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya sinema tarihinde ilk 'En İyi Film' Oscar'ını kazanan (1927/28) film hangisidir?",
+    "options": ["Wings (Kanatlar)", "Sunrise", "Seventh Heaven", "The Broadway Melody"],
+    "correctAnswerIndex": 0,
+    "category": "SINEMA",
+    "difficulty": "ZOR"
+  }
 ]
+
+
+
+

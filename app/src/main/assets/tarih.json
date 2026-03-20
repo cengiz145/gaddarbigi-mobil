@@ -1,3032 +1,1730 @@
 [
     {
-        "text": "Hasan Tahsin kimdir?",
-        "options": [
-            "İzmir'de ilk kurşunu sıkan gazeteci",
-            "Komutan",
-            "Bakan",
-            "Öğretmen"
-        ],
+        "text": "İslamiyet öncesi Türk devletlerinde devlet meselelerinin görüşüldüğü meclise ne ad verilirdi?",
+        "options": ["Kurultay", "Tigit", "Şad", "Yargudaat"],
         "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "TBMM'nin ilk başkanı?",
-        "options": [
-            "Mustafa Kemal Atatürk",
-            "İsmet İnönü",
-            "Kazım Karabekir",
-            "Fevzi Çakmak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Tarihin babası kimdir?",
-        "options": [
-            "Herodot",
-            "Thukydides",
-            "Homer",
-            "Sokrates"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İlk Osmanlı Anayasası?",
-        "options": [
-            "Kanun-i Esasi",
-            "Teşkilat-ı Esasiye",
-            "1921 Anayasası",
-            "1924 Anayasası"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İzmir'in işgali tarihi?",
-        "options": [
-            "15 Mayıs 1919",
-            "19 Mayıs 1919",
-            "23 Nisan 1920",
-            "9 Eylül 1922"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İlk Osmanlı veziri kimdir?",
-        "options": [
-            "Alaeddin Paşa",
-            "Çandarlı Halil",
-            "Sokullu Mehmet",
-            "Pargalı İbrahim"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Nizamülmülk'ün eseri nedir?",
-        "options": [
-            "Siyasetname",
-            "Kutadgu Bilig",
-            "Divan-ı Hikmet",
-            "Şehname"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Osman Bey'in babası kimdir?",
-        "options": [
-            "Ertuğrul Gazi",
-            "Süleyman Şah",
-            "Gündüz Alp",
-            "Savcı Bey"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Amasya Genelgesi'nin önemi?",
-        "options": [
-            "Kurtuluş Savaşı'nın gerekçesi ve yöntemi belirlendi",
-            "Cumhuriyet ilan edildi",
-            "Meclis açıldı",
-            "Savaş başladı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "I. İnönü Savaşı'nın sonucu?",
-        "options": [
-            "Londra Konferansı toplandı",
-            "Sevr kabul edildi",
-            "Ordu dağıtıldı",
-            "Padişah değişti"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İlk Türk kadın pilot kimdir?",
-        "options": [
-            "Sabiha Gökçen",
-            "Afet İnan",
-            "Keriman Halis",
-            "Halide Edip"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Sivas Kongresi'nin özelliği?",
-        "options": [
-            "Her yönüyle ulusal olması",
-            "Bölgesel olması",
-            "Padişahın katılması",
-            "Gizli yapılması"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Lozan Antlaşması'nın tarihi?",
-        "options": [
-            "24 Temmuz 1923",
-            "23 Nisan 1920",
-            "29 Ekim 1923",
-            "19 Mayıs 1919"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Saltanat ne zaman kaldırıldı?",
-        "options": [
-            "1 Kasım 1922",
-            "29 Ekim 1923",
-            "20 Ocak 1921",
-            "3 Mart 1924"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İstanbul'un en eski adı nedir?",
-        "options": [
-            "Byzantion",
-            "Konstantinopolis",
-            "Dersaadet",
-            "Asitane"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Saltanat hangi yıl kaldırıldı?",
-        "options": [
-            "1922",
-            "1923",
-            "1924",
-            "1920"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hititlerin başkenti neresidir?",
-        "options": [
-            "Hattuşaş",
-            "Gordion",
-            "Sard",
-            "Tuşpa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Emevilerin başkenti neresidir?",
-        "options": [
-            "Şam",
-            "Bağdat",
-            "Mekke",
-            "Medine"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Halifelik ne zaman kaldırıldı?",
-        "options": [
-            "3 Mart 1924",
-            "1 Kasım 1922",
-            "29 Ekim 1923",
-            "1928"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 11,
-        "text": "Türkiye'nin başkenti neresidir?",
-        "options": [
-            "İstanbul",
-            "İzmir",
-            "Ankara",
-            "Bursa"
-        ],
-        "correctAnswerIndex": 2,
         "category": "TARIH",
         "difficulty": "KOLAY"
     },
     {
-        "text": "Gazneli Mahmut'un unvanı nedir?",
-        "options": [
-            "Sultan",
-            "Han",
-            "Hakan",
-            "Kağan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Tanzimat Fermanı'nın diğer adı?",
-        "options": [
-            "Gülhane Hatt-ı Hümayunu",
-            "Islahat Fermanı",
-            "Kanun-i Esasi",
-            "Teşkilat-ı Esasiye"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Karahanlılar nerede kurulmuştur?",
-        "options": [
-            "Orta Asya",
-            "Anadolu",
-            "Mısır",
-            "İran"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Montrö Boğazlar Sözleşmesi yılı?",
-        "options": [
-            "1936",
-            "1923",
-            "1939",
-            "1945"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Halkevleri ne amaçla kurulmuştur?",
-        "options": [
-            "Kültür ve eğitim",
-            "Askeri eğitim",
-            "Dini eğitim",
-            "Ticaret"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Parayı bulan uygarlık hangisidir?",
-        "options": [
-            "Lidyalılar",
-            "Frigler",
-            "İyonlar",
-            "Urartular"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Osmanlı Devleti'nin kuruluş yılı?",
-        "options": [
-            "1299",
-            "1071",
-            "1453",
-            "1923"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 18,
-        "text": "İstiklal Marşı'mızın şairi kimdir?",
-        "options": [
-            "Namık Kemal",
-            "Ziya Gökalp",
-            "Mehmet Akif Ersoy",
-            "Tevfik Fikret"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Çanakkale Zaferi'nin tarihi nedir?",
-        "options": [
-            "18 Mart 1915",
-            "19 Mayıs 1919",
-            "23 Nisan 1920",
-            "29 Ekim 1923"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İlk Türk matbaasını kim kurmuştur?",
-        "options": [
-            "İbrahim Müteferrika",
-            "Katip Çelebi",
-            "Evliya Çelebi",
-            "Lagari Hasan Çelebi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hatay'ın Türkiye'ye katıldığı yıl?",
-        "options": [
-            "1939",
-            "1938",
-            "1936",
-            "1940"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Fetret Devri'ne son veren padişah?",
-        "options": [
-            "I. Mehmet (Çelebi)",
-            "II. Murat",
-            "Fatih Sultan Mehmet",
-            "Yavuz Sultan Selim"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Sevr Antlaşması neden geçersizdir?",
-        "options": [
-            "Mebusan Meclisi onaylamadığı için",
-            "Padişah imzalamadığı için",
-            "Süre bittiği için",
-            "Kaybolduğu için"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hatay'ın ilk ve tek Cumhurbaşkanı?",
-        "options": [
-            "Tayfur Sökmen",
-            "Abdurrahman Melek",
-            "Şükrü Saraçoğlu",
-            "Rauf Orbay"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin NATO'ya üye olduğu yıl?",
-        "options": [
-            "1952",
-            "1945",
-            "1960",
-            "1955"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kavimler Göçü'nü başlatan topluluk?",
-        "options": [
-            "Hunlar",
-            "Gotlar",
-            "Vandallar",
-            "Franklar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Dört Halife döneminin son halifesi?",
-        "options": [
-            "Hz. Ali",
-            "Hz. Osman",
-            "Hz. Ömer",
-            "Hz. Ebubekir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Topkapı Sarayı'nı kim yaptırmıştır?",
-        "options": [
-            "Fatih Sultan Mehmet",
-            "Kanuni Sultan Süleyman",
-            "Yavuz Sultan Selim",
-            "III. Selim"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "93 Harbi hangi ülkeyle yapılmıştır?",
-        "options": [
-            "Rusya",
-            "İngiltere",
-            "Fransa",
-            "Avusturya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 7,
-        "text": "Osmanlı Devleti'nin kurucusu kimdir?",
-        "options": [
-            "Orhan Bey",
-            "Osman Bey",
-            "Ertuğrul Gazi",
-            "I. Murat"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin ilk kadın pilotu kimdir?",
-        "options": [
-            "Bedriye Tahir Gökmen",
-            "Sabiha Gökçen",
-            "Afife Jale",
-            "Halet Çambel"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "İstiklal Marşı'nın bestecisi kimdir?",
-        "options": [
-            "Osman Zeki Üngör",
-            "Mehmet Akif Ersoy",
-            "Zeki Müren",
-            "Cemal Reşit Rey"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Berlin Duvarı hangi yıl yıkılmıştır?",
-        "options": [
-            "1989",
-            "1991",
-            "1980",
-            "1975"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Büyük Selçuklu Devleti'nin kurucusu?",
-        "options": [
-            "Tuğrul Bey",
-            "Alparslan",
-            "Melikşah",
-            "Çağrı Bey"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Lale Devri hangi yıllar arasındadır?",
-        "options": [
-            "1718-1730",
-            "1700-1750",
-            "1600-1650",
-            "1800-1839"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 42,
-        "text": "Sivas Kongresi'nin tarihi hangisidir?",
-        "options": [
-            "19 Mayıs 1919",
-            "4-11 Eylül 1919",
-            "23 Temmuz 1919",
-            "27 Aralık 1919"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hicret olayı hangi şehre yapılmıştır?",
-        "options": [
-            "Medine",
-            "Mekke",
-            "Taif",
-            "Şam"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kut'ül Amare Zaferi hangi cephededir?",
-        "options": [
-            "Irak",
-            "Kanal",
-            "Kafkas",
-            "Suriye"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Sakarya Meydan Muharebesi'nin unvanı?",
-        "options": [
-            "Subaylar Savaşı",
-            "Melhame-i Kübra",
-            "Büyük Taarruz",
-            "Başkomutanlık"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Osmanlı'da ilk matbaayı kim kurmuştur?",
-        "options": [
-            "İbrahim Müteferrika",
-            "Katip Çelebi",
-            "Evliya Çelebi",
-            "Lagari Hasan Çelebi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Lozan Antlaşması nerede imzalanmıştır?",
-        "options": [
-            "İsviçre",
-            "Fransa",
-            "İtalya",
-            "İngiltere"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Misak-ı Milli nerede kabul edilmiştir?",
-        "options": [
-            "Son Osmanlı Mebusan Meclisi",
-            "TBMM",
-            "Sivas Kongresi",
-            "Amasya Genelgesi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kösedağ Savaşı kime karşı yapılmıştır?",
-        "options": [
-            "Moğollar (İlhanlılar)",
-            "Bizans",
-            "Haçlılar",
-            "Memlükler"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Vaka-i Vakvakiye (Çınar Vakası) nedir?",
-        "options": [
-            "Askeri isyan",
-            "Yangın",
-            "Deprem",
-            "Sel"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Sened-i İttifak kiminle imzalanmıştır?",
-        "options": [
-            "Ayanlar",
-            "Yeniçeriler",
-            "Ulema",
-            "Azınlıklar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Cumhuriyet kaç yılında ilan edilmiştir?",
-        "options": [
-            "1919",
-            "1920",
-            "1922",
-            "1923"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye NATO'ya hangi yıl üye olmuştur?",
-        "options": [
-            "1950",
-            "1952",
-            "1960",
-            "1945"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Lale Devri hangi isyanla sona ermiştir?",
-        "options": [
-            "Patrona Halil",
-            "Kabakçı Mustafa",
-            "31 Mart",
-            "Şeyh Bedrettin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Magna Carta hangi ülkede imzalanmıştır?",
-        "options": [
-            "İngiltere",
-            "Fransa",
-            "Almanya",
-            "İtalya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Edirne hangi antlaşma öncesi başkentti?",
-        "options": [
-            "İstanbul'un fethine kadar",
-            "Ankara Savaşı'na kadar",
-            "Lozan'a kadar",
-            "Bilinmiyor"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Gümrü Antlaşması kiminle imzalanmıştır?",
-        "options": [
-            "Ermenistan",
-            "Yunanistan",
-            "Fransa",
-            "İtalya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Sivas Kongresi'nin toplanma amacı nedir?",
-        "options": [
-            "Saltanatı kaldırmak",
-            "Milli cemiyetleri birleştirmek",
-            "Cumhuriyeti ilan etmek",
-            "Padişahı değiştirmek"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türkiye'nin ikinci Cumhurbaşkanı kimdir?",
-        "options": [
-            "İsmet İnönü",
-            "Celal Bayar",
-            "Cemal Gürsel",
-            "Cevdet Sunay"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Hangi ilimize 'Gazi' unvanı verilmiştir?",
-        "options": [
-            "Antep",
-            "Maraş",
-            "Urfa",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Sümerlerin bulduğu yazı türü hangisidir?",
-        "options": [
-            "Çivi yazısı",
-            "Hiyeroglif",
-            "Fenike alfabesi",
-            "Latin alfabesi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "II. Abdülhamid kaç yıl tahtta kalmıştır?",
-        "options": [
-            "33",
-            "30",
-            "40",
-            "25"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Menemen Olayı'nda şehit edilen asteğmen?",
-        "options": [
-            "Mustafa Fehmi Kubilay",
-            "Hasan Tahsin",
-            "Şahin Bey",
-            "Yahya Çavuş"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 30,
-        "text": "Rönesans dönemi hangi ülkede başlamıştır?",
-        "options": [
-            "Fransa",
-            "İtalya",
-            "Almanya",
-            "İngiltere"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 34,
-        "text": "Napoleon Bonaparte hangi adada doğmuştur?",
-        "options": [
-            "Elba",
-            "Korsika",
-            "Aziz Helena",
-            "Sicilya"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "I. Dünya Savaşı'nın başlama tarihi nedir?",
-        "options": [
-            "1914",
-            "1918",
-            "1939",
-            "1923"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Preveze Deniz Zaferi'nin komutanı kimdir?",
-        "options": [
-            "Piri Reis",
-            "Barbaros Hayrettin Paşa",
-            "Turgut Reis",
-            "Seydi Ali Reis"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Osmanlı'da 'Deli' lakaplı padişah kimdir?",
-        "options": [
-            "İbrahim",
-            "Mustafa",
-            "Murat",
-            "Selim"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
-        "options": [
-            "1934",
-            "1928",
-            "1930",
-            "1923"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Avrupa Hun Devleti'nin en ünlü hükümdarı?",
-        "options": [
-            "Attila",
-            "Balamir",
-            "Uldız",
-            "Rua"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türklerin İslamiyet'i kabul ettiği savaş?",
-        "options": [
-            "Talas Savaşı",
-            "Malazgirt Savaşı",
-            "Dandanakan Savaşı",
-            "Pasinler Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kanuni Sultan Süleyman'ın en ünlü mimarı?",
-        "options": [
-            "Mimar Sinan",
-            "Mimar Hayrettin",
-            "Sedefkar Mehmet Ağa",
-            "Sarkis Balyan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 44,
-        "text": "II. Dünya Savaşı hangi olayla başlamıştır?",
-        "options": [
-            "Pearl Harbor Saldırısı",
-            "Almanya'nın Polonya'yı işgali",
-            "Fransa'nın düşüşü",
-            "Stalingrad Kuşatması"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Mısır Piramitleri hangi medeniyete aittir?",
-        "options": [
-            "Sümer",
-            "Mısır",
-            "Babil",
-            "Maya"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Divan-ı Hümayun'u kaldıran padişah kimdir?",
-        "options": [
-            "II. Mahmut",
-            "III. Selim",
-            "Abdülmecid",
-            "II. Abdülhamid"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Erzurum Kongresi'nin toplanma amacı nedir?",
-        "options": [
-            "Doğu Anadolu'yu Ermeni tehlikesine karşı korumak",
-            "Cumhuriyeti ilan etmek",
-            "Padişahı devirmek",
-            "Saltanatı kaldırmak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Tevhid-i Tedrisat Kanunu ne ile ilgilidir?",
-        "options": [
-            "Eğitim öğretim birliği",
-            "Kılık kıyafet",
-            "Tekke ve zaviyeler",
-            "Ölçü birimleri"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "id": 16,
-        "text": "Türklerin kullandığı ilk takvim hangisidir?",
-        "options": [
-            "Hicri Takvim",
-            "Miladi Takvim",
-            "Rumi Takvim",
-            "12 Hayvanlı Türk Takvimi"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "TARIH",
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Osmanlı Devleti'nin ilk başkenti neresidir?",
-        "options": [
-            "Bursa",
-            "Edirne",
-            "Söğüt (Merkez)",
-            "İstanbul"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Mısır Piramitleri hangi amaçla yapılmıştır?",
-        "options": [
-            "Firavun Mezarı",
-            "Tapınak",
-            "Saray",
-            "Gözlemevi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Fransız İhtilali hangi yıl gerçekleşmiştir?",
-        "options": [
-            "1789",
-            "1889",
-            "1453",
-            "1914"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Mısır piramitleri hangi amaçla yapılmıştır?",
-        "options": [
-            "Firavun mezarı olarak",
-            "Tapınak olarak",
-            "Gözlemevi olarak",
-            "Saray olarak"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Mudanya Ateşkes Antlaşması'nı kim imzaladı?",
-        "options": [
-            "İsmet İnönü",
-            "Rauf Orbay",
-            "Refet Bele",
-            "Kazım Karabekir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Kıbrıs Barış Harekatı hangi yıl yapılmıştır?",
-        "options": [
-            "1970",
-            "1974",
-            "1980",
-            "1960"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "KOLAY"
-    },
-    {
-        "text": "Türk adının geçtiği ilk antlaşma hangisidir?",
-        "options": [
-            "Kuzey Şansi",
-            "Margos",
-            "Anatolius",
-            "Zitvatorok"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye'nin ilk yerli uçağını kim yapmıştır?",
-        "options": [
-            "Vecihi Hürkuş",
-            "Nuri Demirağ",
-            "Şakir Zümre",
-            "Sabiha Gökçen"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Roma İmparatorluğu'nu ikiye bölen imparator?",
-        "options": [
-            "Theodosius",
-            "Sezar",
-            "Neron",
-            "Konstantin"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 12,
-        "text": "Fransız İhtilali hangi yılda gerçekleşmiştir?",
-        "options": [
-            "1453",
-            "1789",
-            "1881",
-            "1914"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 22,
-        "text": "\"Yurtta sulh, cihanda sulh\" sözü kime aittir?",
-        "options": [
-            "Mustafa Kemal Atatürk",
-            "İsmet İnönü",
-            "Fevzi Çakmak",
-            "Kazım Karabekir"
-        ],
+        "text": "Osmanlı Devleti'nin kurucusu Osman Bey'in babası kimdir?",
+        "options": ["Ertuğrul Gazi", "Gündüz Alp", "Süleyman Şah", "Hayme Ana"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 37,
-        "text": "Mezopotamya'nın iki büyük nehri hangileridir?",
-        "options": [
-            "Nil ve Ganj",
-            "Fırat ve Dicle",
-            "Sarı Irmak ve Gök Irmak",
-            "Tuna ve Ren"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Fransız İhtilali kaç yılında gerçekleşmiştir?",
-        "options": [
-            "1789",
-            "1881",
-            "1919",
-            "1453"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı'da yeniçeri ocağını kim kaldırmıştır?",
-        "options": [
-            "II. Mahmut",
-            "I. Mahmut",
-            "III. Selim",
-            "II. Osman"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Mustafa Kemal'in Samsun'a çıkışı hangi tarih?",
-        "options": [
-            "19 Mayıs 1919",
-            "23 Nisan 1920",
-            "29 Ekim 1923",
-            "30 Ağustos 1922"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "II. Mehmet'e 'Fatih' unvanı ne zaman verildi?",
-        "options": [
-            "İstanbul'un fethinden sonra",
-            "Trabzon'un fethinden sonra",
-            "Amasra'nın fethinden sonra",
-            "Tahta çıkınca"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Trablusgarp Savaşı hangi ülkeyle yapılmıştır?",
-        "options": [
-            "İtalya",
-            "İngiltere",
-            "Fransa",
-            "Yunanistan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Cumhuriyetin ilanı ile ilk Başbakan kim oldu?",
-        "options": [
-            "İsmet İnönü",
-            "Fethi Okyar",
-            "Celal Bayar",
-            "Recep Peker"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 59,
-        "text": "Atatürk'ün Şam'da kurduğu cemiyetin adı nedir?",
-        "options": [
-            "Vatan ve Hürriyet",
-            "İrade-i Milliye",
-            "Müdafaa-i Hukuk",
-            "Karakol Cemiyeti"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Çanakkale Zaferi hangi tarihte kutlanmaktadır?",
-        "options": [
-            "23 Nisan",
-            "19 Mayıs",
-            "18 Mart",
-            "30 Ağustos"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi padişah döneminde Kıbrıs fethedilmiştir?",
-        "options": [
-            "Fatih Sultan Mehmet",
-            "Kanuni Sultan Süleyman",
-            "II. Selim",
-            "III. Murat"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Ayasofya'yı yaptıran Bizans imparatoru kimdir?",
-        "options": [
-            "I. Justinianus",
-            "Konstantin",
-            "Teodosyus",
-            "Herakleios"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Malabadi Köprüsü hangi beylik dönemine aittir?",
-        "options": [
-            "Artuklular",
-            "Saltuklular",
-            "Mengücekliler",
-            "Danişmentliler"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangisi Atatürk'ün yazdığı eserlerden biridir?",
-        "options": [
-            "Geometri",
-            "Çalıkuşu",
-            "Yaban",
-            "Ateşten Gömlek"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı'da ilk denk bütçeyi kim hazırlamıştır?",
-        "options": [
-            "Tarhuncu Ahmet Paşa",
-            "Köprülü Fazıl Ahmet",
-            "Merzifonlu Kara Mustafa",
-            "Sokullu Mehmet"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı Devleti'nde ilk bütçeyi kim yapmıştır?",
-        "options": [
-            "Tarhuncu Ahmet Paşa",
-            "Köprülü Mehmet Paşa",
-            "Merzifonlu Kara Mustafa Paşa",
-            "Sokullu Mehmet Paşa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Peygamber Efendimiz (sav) hangi yıl doğmuştur?",
-        "options": [
-            "571",
-            "622",
-            "632",
-            "610"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Yıldırım Bayezid hangi savaşta esir düşmüştür?",
-        "options": [
-            "Ankara Savaşı",
-            "Niğbolu Savaşı",
-            "Varna Savaşı",
-            "Kosova Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 50,
-        "text": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
-        "options": [
-            "Saltuklular",
-            "Mengücekliler",
-            "Danişmentliler",
-            "Artuklular"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Kurtuluş Savaşı'nı bitiren antlaşma hangisidir?",
-        "options": [
-            "Sevr Antlaşması",
-            "Lozan Antlaşması",
-            "Mondros Ateşkesi",
-            "Mudanya Ateşkesi"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Plevne Kahramanı olarak bilinen komutan kimdir?",
-        "options": [
-            "Gazi Osman Paşa",
-            "Enver Paşa",
-            "Cemal Paşa",
-            "Talat Paşa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Menemen Olayı'nda şehit edilen asteğmen kimdir?",
-        "options": [
-            "Mustafa Fehmi Kubilay",
-            "Hasan Tahsin",
-            "Şahin Bey",
-            "Yörük Ali Efe"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Mecelle'yi hazırlayan komisyonun başkanı kimdir?",
-        "options": [
-            "Ahmet Cevdet Paşa",
-            "Mithat Paşa",
-            "Namık Kemal",
-            "Ziya Paşa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Tarihte bilinen ilk yazılı kanunlar kime aittir?",
-        "options": [
-            "Urgakina (Sümer)",
-            "Hammurabi (Babil)",
-            "Solon (Yunan)",
-            "Cengiz Han (Moğol)"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangisi Atatürk dönemi dış politika başarısıdır?",
-        "options": [
-            "Montrö Boğazlar Sözleşmesi",
-            "Kıbrıs Barış Harekatı",
-            "Kore Savaşı",
-            "Kardak Krizi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
+        "difficulty": "KOLAY"
     },
     {
         "text": "Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı kimdir?",
-        "options": [
-            "İsmet İnönü",
-            "Celal Bayar",
-            "Mustafa Kemal Atatürk",
-            "Adnan Menderes"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Tarihteki ilk yazılı hukuk kuralları kime aittir?",
-        "options": [
-            "Sümerler",
-            "Hititler",
-            "Babiller (Hammurabi)",
-            "Mısırlılar"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İlk Türk devletlerinde hükümdara ne ad verilirdi?",
-        "options": [
-            "Kağan",
-            "Sultan",
-            "Padişah",
-            "Halife"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi savaş 'Yurtkurtaran Savaşı' olarak bilinir?",
-        "options": [
-            "Büyük Taarruz",
-            "Sakarya",
-            "I. İnönü",
-            "Başkomutanlık"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Topkapı Sarayı'nın ana giriş kapısının adı nedir?",
-        "options": [
-            "Bab-ı Hümayun",
-            "Bab-ı Ali",
-            "Bab-ı Selam",
-            "Bab-ı Saade"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Cumhuriyetin ilanı hangi tarihte gerçekleşmiştir?",
-        "options": [
-            "29 Ekim 1923",
-            "23 Nisan 1920",
-            "19 Mayıs 1919",
-            "30 Ağustos 1922"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Mustafa Kemal Atatürk'ün doğduğu şehir hangisidir?",
-        "options": [
-            "Manastır",
-            "İstanbul",
-            "Selanik",
-            "Şam"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Saltanatın kaldırılması hangi yıl gerçekleşmiştir?",
-        "options": [
-            "1920",
-            "1922",
-            "1923",
-            "1924"
-        ],
+        "options": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Fevzi Çakmak", "Celal Bayar"],
         "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
+        "category": "TARIH",
+        "difficulty": "KOLAY"
     },
     {
-        "text": "Yerleşik hayata geçen ilk Türk devleti hangisidir?",
-        "options": [
-            "Hunlar",
-            "Göktürkler",
-            "Uygurlar",
-            "Kırgızlar"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı Devleti'nde ilk bütçeyi kim hazırlamıştır?",
-        "options": [
-            "Tarhuncu Ahmet Paşa",
-            "Köprülü Mehmet Paşa",
-            "Sokullu Mehmet Paşa",
-            "Lütfi Paşa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye hangi uluslararası kuruluşa kurucu üyedir?",
-        "options": [
-            "Birleşmiş Milletler",
-            "Avrupa Birliği",
-            "NATO",
-            "Varşova Paktı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı'da 'Tanzimat Fermanı'nı kim ilan etmiştir?",
-        "options": [
-            "Abdülmecid",
-            "II. Mahmut",
-            "Abdülaziz",
-            "III. Selim"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Türkiye Cumhuriyeti'nin ilk kadın başbakanı kimdir?",
-        "options": [
-            "Tansu Çiller",
-            "Meral Akşener",
-            "Rahşan Ecevit",
-            "Behice Boran"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Tarihte '93 Harbi' olarak bilinen savaş hangisidir?",
-        "options": [
-            "1877-1878 Osmanlı-Rus Savaşı",
-            "Kırım Savaşı",
-            "Balkan Savaşı",
-            "Trablusgarp Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "I. Balkan Savaşı'nda kaybettiğimiz en büyük toprak?",
-        "options": [
-            "Rumeli",
-            "Anadolu",
-            "Kafkasya",
-            "Orta Doğu"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 28,
-        "text": "1917 Bolşevik İhtilali hangi ülkede gerçekleşmiştir?",
-        "options": [
-            "Almanya",
-            "Fransa",
-            "Rusya",
-            "Çin"
-        ],
+        "text": "İstanbul'un fethi hangi yıl gerçekleşmiştir?",
+        "options": ["1071", "1299", "1453", "1923"],
         "correctAnswerIndex": 2,
         "category": "TARIH",
-        "difficulty": "ORTA"
+        "difficulty": "KOLAY"
     },
     {
-        "id": 35,
-        "text": "Mısır hiyeroglif yazısını çözen bilim insanı kimdir?",
-        "options": [
-            "Champollion",
-            "Howard Carter",
-            "Heinrich Schliemann",
-            "Arthur Evans"
-        ],
+        "text": "Malazgirt Meydan Muharebesi hangi hükümdar döneminde kazanılmıştır?",
+        "options": ["Alparslan", "Melikşah", "Tuğrul Bey", "Çağrı Bey"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ORTA"
+        "difficulty": "KOLAY"
     },
     {
-        "text": "Kavimler Göçü'nü başlatan Türk topluluğu hangisidir?",
-        "options": [
-            "Avrupa Hunları",
-            "Göktürkler",
-            "Uygurlar",
-            "Selçuklular"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hatay, Türkiye Cumhuriyeti'ne hangi yıl katılmıştır?",
-        "options": [
-            "1938",
-            "1939",
-            "1940",
-            "1936"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi savaş sonucunda İstanbul'un fethi gecikmiştir?",
-        "options": [
-            "Ankara Savaşı",
-            "Niğbolu Savaşı",
-            "Varna Savaşı",
-            "Kosov Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Abbasilerin en parlak dönemi hangi halife zamanıdır?",
-        "options": [
-            "Harun Reşit",
-            "Memun",
-            "Mutasım",
-            "Cafer"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 39,
-        "text": "Truva Savaşı'nı anlatan 'İlyada' destanı kime aittir?",
-        "options": [
-            "Sokrates",
-            "Platon",
-            "Homeros",
-            "Aristoteles"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı Devleti'nde Lale Devri'nin ünlü şairi kimdir?",
-        "options": [
-            "Nedim",
-            "Baki",
-            "Fuzuli",
-            "Nefi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi antlaşma ile Boğazlar Komisyonu kaldırılmıştır?",
-        "options": [
-            "Montrö",
-            "Lozan",
-            "Sevr",
-            "Londra"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İstiklal Mahkemeleri hangi olaydan sonra kurulmuştur?",
-        "options": [
-            "TBMM'ye karşı ayaklanmalar",
-            "Menemen Olayı",
-            "Şeyh Sait İsyanı",
-            "İzmir Suikastı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 29,
-        "text": "Magna Carta (Büyük Şart) hangi ülkede ilan edilmiştir?",
-        "options": [
-            "İngiltere",
-            "Fransa",
-            "İtalya",
-            "İspanya"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Malazgirt Meydan Muharebesi hangi yıl gerçekleşmiştir?",
-        "options": [
-            "1071",
-            "1299",
-            "1453",
-            "1923"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı'da 'Vaka-i Hayriye' olarak bilinen olay nedir?",
-        "options": [
-            "Tanzimat Fermanı",
-            "Yeniçeri Ocağı'nın Kaldırılması",
-            "Cumhuriyetin İlanı",
-            "Lale Devri"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hatay Cumhuriyeti'nin ilk ve tek cumhurbaşkanı kimdir?",
-        "options": [
-            "Tayfur Sökmen",
-            "Abdurrahman Melek",
-            "Şükrü Saraçoğlu",
-            "Rauf Orbay"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi padişah döneminde Yeniçeri Ocağı kaldırılmıştır?",
-        "options": [
-            "II. Mahmut",
-            "III. Selim",
-            "I. Abdülhamid",
-            "IV. Murat"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 61,
-        "text": "Antik Yunanistan'da şehir devletlerine ne ad verilirdi?",
-        "options": [
-            "Satraplık",
-            "Nom",
-            "Polis",
-            "Pankuş"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Mimar Sinan'ın 'Ustalık Eserim' dediği cami hangisidir?",
-        "options": [
-            "Selimiye",
-            "Süleymaniye",
-            "Şehzadebaşı",
-            "Mihrimah Sultan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı Devleti'nde 'İltizam' sistemi ne ile ilgilidir?",
-        "options": [
-            "Vergi toplama",
-            "Asker alma",
-            "Toprak dağıtma",
-            "Yargılama"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İlk Osmanlı parası hangi padişah döneminde basılmıştır?",
-        "options": [
-            "Osman Bey",
-            "Orhan Bey",
-            "I. Murat",
-            "Fatih Sultan Mehmet"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 40,
-        "text": "İpek Yolu hangi ülkeden başlayıp Avrupa'ya kadar uzanır?",
-        "options": [
-            "Hindistan",
-            "İran",
-            "Çin",
-            "Mısır"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 46,
-        "text": "Tarihte ilk tek tanrılı dine inanan topluluk hangisidir?",
-        "options": [
-            "Romalılar",
-            "İbraniler",
-            "Fenikeliler",
-            "Asurlular"
-        ],
+        "text": "Kurtuluş Savaşında Batı Cephesi Komutanı kimdir?",
+        "options": ["Kazım Karabekir", "İsmet İnönü", "Ali Fuat Cebesoy", "Rauf Orbay"],
         "correctAnswerIndex": 1,
         "category": "TARIH",
         "difficulty": "ORTA"
     },
     {
-        "text": "Osmanlı Devleti hangi antlaşma ile fiilen sona ermiştir?",
-        "options": [
-            "Mondros",
-            "Sevr",
-            "Lozan",
-            "Mudanya"
-        ],
+        "text": "Osmanlı Devleti'nde ilk anayasa olan Kanun-ı Esasi hangi padişah döneminde ilan edilmiştir?",
+        "options": ["II. Abdülhamid", "Abdülmecid", "Abdülaziz", "V. Mehmed Reşad"],
         "correctAnswerIndex": 0,
+        "category": "TARIH",
         "difficulty": "ORTA"
     },
     {
-        "text": "İstanbul'un Fethi için dökülen büyük topların adı nedir?",
-        "options": [
-            "Şahi",
-            "Fatih",
-            "Balyemez",
-            "Humbara"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Atatürk'ün Nutuk adlı eseri hangi yılları kapsamaktadır?",
-        "options": [
-            "1919-1927",
-            "1919-1923",
-            "1923-1938",
-            "1915-1923"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangi Osmanlı padişahı savaş meydanında şehit düşmüştür?",
-        "options": [
-            "I. Murat",
-            "Yıldırım Bayezid",
-            "Fatih Sultan Mehmet",
-            "Kanuni Sultan Süleyman"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Hangisi I. Dünya Savaşı'nın genel nedenlerinden biridir?",
-        "options": [
-            "Milliyetçilik Akımı",
-            "Alsas-Loren Sorunu",
-            "Panslavizm",
-            "Balkan Hakimiyeti"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "II. Dünya Savaşı'nda Türkiye'nin izlediği politika nedir?",
-        "options": [
-            "Mihver Devletlere Katılmak",
-            "Müttefiklere Katılmak",
-            "Denge Politikası (Tarafsızlık)",
-            "Savaş İlan Etmek"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "İstiklal Mahkemeleri en son hangi olayda görev yapmıştır?",
-        "options": [
-            "İzmir Suikastı",
-            "Şeyh Sait İsyanı",
-            "Menemen Olayı",
-            "Çerkez Ethem İsyanı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı'da divan toplantılarının yapıldığı yer neresidir?",
-        "options": [
-            "Kubbealtı",
-            "Harem",
-            "Enderun",
-            "Şehzade Odası"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı tarihinde 'Duraklama Dönemi' hangi olayla başlar?",
-        "options": [
-            "Sokullu'nun ölümü",
-            "Kanuni'nin ölümü",
-            "Karlowitz Antlaşması",
-            "Viyana Kuşatması"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 32,
-        "text": "Atatürk'ün 'Nutuk' adlı eseri hangi yılları kapsamaktadır?",
-        "options": [
-            "1919 - 1923",
-            "1919 - 1927",
-            "1923 - 1938",
-            "1881 - 1938"
-        ],
+        "text": "Lale Devri'nin en ünlü şairi kimdir?",
+        "options": ["Nabi", "Nedim", "Baki", "Fuzuli"],
         "correctAnswerIndex": 1,
         "category": "TARIH",
         "difficulty": "ORTA"
     },
     {
-        "id": 43,
-        "text": "Lozan Barış Antlaşması'na Türkiye adına kim imza atmıştır?",
-        "options": [
-            "Mustafa Kemal Atatürk",
-            "İsmet İnönü",
-            "Rauf Orbay",
-            "Ali Fuat Cebesoy"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 8,
-        "text": "Birinci Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
-        "options": [
-            "1914 - 1918",
-            "1939 - 1945",
-            "1919 - 1923",
-            "1877 - 1878"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 15,
-        "text": "Tarihin babası olarak bilinen Antik Yunan tarihçisi kimdir?",
-        "options": [
-            "Homeros",
-            "Sokrates",
-            "Herodot",
-            "Arşimet"
-        ],
+        "text": "Milli Mücadele'nin başlangıcı kabul edilen olay nedir?",
+        "options": ["Amasya Genelgesi", "Sivas Kongresi", "Atatürk'ün Samsun'a çıkışı", "Erzurum Kongresi"],
         "correctAnswerIndex": 2,
         "category": "TARIH",
-        "difficulty": "ORTA"
+        "difficulty": "KOLAY"
     },
     {
-        "id": 69,
-        "text": "Fransız İhtilali sırasında idam edilen Fransa kralı kimdir?",
-        "options": [
-            "XIV. Louis",
-            "XV. Louis",
-            "XVI. Louis",
-            "Napolyon"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Osmanlı'nın Kuzey Afrika'daki son toprak parçası neresidir?",
-        "options": [
-            "Mısır",
-            "Cezayir",
-            "Trablusgarp",
-            "Tunus"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Haçlı Seferleri'ne karşı en çok mücadele eden Türk devleti?",
-        "options": [
-            "Türkiye Selçukluları",
-            "Osmanlılar",
-            "Gazneliler",
-            "Karahanlılar"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 41,
-        "text": "Osmanlı Devleti'nde ilk matbaa kimin tarafından kurulmuştur?",
-        "options": [
-            "İbrahim Müteferrika",
-            "Katip Çelebi",
-            "Hezarfen Ahmed Çelebi",
-            "Lagari Hasan Çelebi"
-        ],
+        "text": "Osmanlı'da 'Ordunun Başkomutanı' unvanını taşıyan ve sefere çıkan padişahlara ne denirdi?",
+        "options": ["Serdar-ı Ekrem", "Kaptan-ı Derya", "Sadrazam", "Şeyhülislam"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ORTA"
     },
     {
-        "text": "Osmanlı'da 'Lale Devri' hangi padişah zamanında yaşanmıştır?",
-        "options": [
-            "III. Ahmet",
-            "I. Mahmut",
-            "III. Selim",
-            "IV. Murat"
-        ],
+        "text": "Hun Devleti'nin en parlak dönemini yaşatan hükümdar kimdir?",
+        "options": ["Mete Han", "Teoman", "Bumin Kağan", "Attila"],
         "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
+        "category": "TARIH",
+        "difficulty": "KOLAY"
     },
     {
-        "text": "Lozan Antlaşması'nı imzalayan Türk heyetinin başkanı kimdir?",
-        "options": [
-            "Rauf Orbay",
-            "Kazım Karabekir",
-            "İsmet İnönü",
-            "Fevzi Çakmak"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ORTA"
-    },
-    {
-        "text": "Malazgirt Savaşı hangi Türk hükümdarı döneminde yapılmıştır?",
-        "options": [
-            "Sultan Alparslan",
-            "Tuğrul Bey",
-            "Melikşah",
-            "Süleyman Şah"
-        ],
+        "text": "Preveze Deniz Zaferi'ni kazanan Osmanlı kaptanı kimdir?",
+        "options": ["Barbaros Hayrettin Paşa", "Piri Reis", "Kılıç Ali Paşa", "Turgut Reis"],
         "correctAnswerIndex": 0,
-        "difficulty": "ORTA"
-    },
-    {
-        "id": 2,
-        "text": "Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı kimdir?",
-        "options": [
-            "İsmet İnönü",
-            "Mustafa Kemal Atatürk",
-            "Kazım Karabekir",
-            "Celal Bayar"
-        ],
-        "correctAnswerIndex": 1,
         "category": "TARIH",
         "difficulty": "ORTA"
     },
     {
-        "id": 14,
-        "text": "Osmanlı Devleti'nde lale devri hangi isyan ile sona ermiştir?",
-        "options": [
-            "Celali İsyanları",
-            "Patrona Halil İsyanı",
-            "Kabakçı Mustafa İsyanı",
-            "31 Mart Vakası"
-        ],
-        "correctAnswerIndex": 1,
+        "text": "Ankara Savaşı (1402) hangi iki hükümdar arasında yapılmıştır?",
+        "options": ["Yıldırım Bayezid - Timur", "I. Murad - Cengiz Han", "Fatih Sultan Mehmet - Uzun Hasan", "II. Murat - Şah İsmail"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Tanzimat Fermanı (1839) nerede okunmuştur?",
+        "options": ["Gülhane Parkı", "Dolmabahçe Sarayı", "Yıldız Sarayı", "Topkapı Sarayı"],
+        "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ORTA"
     },
     {
-        "id": 20,
+        "text": "Cumhuriyetin ilanından sonra kurulan ilk muhalefet partisi hangisidir?",
+        "options": ["Terakkiperver Cumhuriyet Fırkası", "Serbest Cumhuriyet Fırkası", "Demokrat Parti", "Millet Partisi"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Selçuklularda hükümdar çocuklarını eğiten kişilere ne ad verilirdi?",
+        "options": ["Atabey", "Lala", "Şaman", "Vezir"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Mudanya Ateşkes Antlaşması'nda TBMM'yi kim temsil etmiştir?",
+        "options": ["İsmet İnönü", "Rauf Orbay", "Yusuf Kemal Tengirşenk", "Bekir Sami Bey"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Orhun Abideleri hangi devlet dönemine aittir?",
+        "options": ["II. Kök Türk Devleti", "Uygur Devleti", "Asya Hun Devleti", "Avarlar"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dünyanın bilinen ilk yazılı antlaşması hangisidir?",
+        "options": ["Kadeş Antlaşması", "Versay Antlaşması", "Lozan Antlaşması", "Mondros"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Lozan Barış Antlaşması hangi tarihte imzalanmıştır?",
+        "options": ["24 Temmuz 1923", "29 Ekim 1923", "30 Ağustos 1922", "1 Kasım 1922"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Osmanlı Devleti'nde 'Padişahın Mutlak Vekili' kimdir?",
+        "options": ["Sadrazam", "Şeyhülislam", "Kazasker", "Nişancı"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Fransız İhtilali hangi yıl gerçekleşmiştir?",
+        "options": ["1789", "1889", "1689", "1914"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "I. Dünya Savaşı'nda Osmanlı Devleti'nin kazandığı tek cephe hangisidir?",
+        "options": ["Çanakkale Cephesi", "Kafkas Cephesi", "Kanal Cephesi", "Hicaz-Yemen Cephesi"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Kuvâ-yı Milliye ruhunu başlatan ilk direniş hangi şehirde olmuştur?",
+        "options": ["Hatay (Dörtyol)", "İzmir", "Aydın", "Maraş"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Türk tarihinin ilk düzenli yazılı kaynağı nedir?",
+        "options": ["Orhun Yazıtları", "Manas Destanı", "Dede Korkut Hikayeleri", "Divan-ı Lügati't-Türk"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Osmanlı Devleti'nin ilk başkenti hangisidir?",
+        "options": ["Söğüt", "Bursa", "Edirne", "İstanbul"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
         "text": "Türkiye Büyük Millet Meclisi (TBMM) hangi tarihte açılmıştır?",
-        "options": [
-            "19 Mayıs 1919",
-            "23 Nisan 1920",
-            "29 Ekim 1923",
-            "30 Ağustos 1922"
-        ],
-        "correctAnswerIndex": 1,
+        "options": ["23 Nisan 1920", "29 Ekim 1923", "19 Mayıs 1919", "30 Ağustos 1922"],
+        "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "KOLAY"
     },
     {
-        "text": "Osmanlı Devleti'nin Rumeli'deki ilk toprak parçası neresidir?",
-        "options": [
-            "Çimpe Kalesi",
-            "Gelibolu",
-            "Edirne",
-            "Dimetoka"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Orhun Abideleri günümüzde hangi ülke sınırları içerisindedir?",
-        "options": [
-            "Moğolistan",
-            "Çin",
-            "Kazakistan",
-            "Türkmenistan"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Mondros Ateşkes Antlaşması'nı Osmanlı adına kim imzalamıştır?",
-        "options": [
-            "Rauf Orbay",
-            "Damat Ferit",
-            "Ali Rıza Paşa",
-            "Salih Paşa"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Mustafa Kemal Atatürk'ün nüfusa kayıtlı olduğu il hangisidir?",
-        "options": [
-            "Gaziantep",
-            "Selanik",
-            "Ankara",
-            "İstanbul"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 23,
-        "text": "Asma Bahçeleri ile ünlü olan Mezopotamya uygarlığı hangisidir?",
-        "options": [
-            "Sümerler",
-            "Babiller",
-            "Elamlar",
-            "Akadlar"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Osmanlı Devleti'nde ilk anayasa hangi isimle kabul edilmiştir?",
-        "options": [
-            "Teşkilat-ı Esasiye",
-            "Kanun-i Esasi",
-            "Sened-i İttifak",
-            "Tanzimat Fermanı"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 62,
-        "text": "Aztek ve İnka uygarlıklarını yıkan Avrupalı fatihlere ne denir?",
-        "options": [
-            "Konkistador",
-            "Süvari",
-            "Yeniçeri",
-            "Tapınak Şövalyesi"
-        ],
+        "text": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ilk büyük savaş hangisidir?",
+        "options": ["Pasinler Savaşı", "Malazgirt Savaşı", "Katvan Savaşı", "Miryokefalon"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ZOR"
     },
     {
-        "id": 56,
-        "text": "Anadolu'da kurulan ve başkenti Gordion olan uygarlık hangisidir?",
-        "options": [
-            "Lidyalılar",
-            "Frigler",
-            "Hititler",
-            "Urartular"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 64,
-        "text": "Hititlerin devlet işlerini görüştükleri meclise ne ad verilirdi?",
-        "options": [
-            "Divan",
-            "Kurultay",
-            "Pankuş",
-            "Senato"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de çok partili hayata kesintiz geçiş hangi yıl olmuştur?",
-        "options": [
-            "1946",
-            "1950",
-            "1923",
-            "1930"
-        ],
+        "text": "Atatürk’ün 'Geldikleri gibi giderler' sözünü nerede söylemiştir?",
+        "options": ["İstanbul", "Samsun", "Ankara", "Sivas"],
         "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kendi adına para bastıran ilk Türk hükümdarı kimdir?",
+        "options": ["Bagatarkan", "Bumin Kağan", "Mete Han", "Kül Tigin"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
         "difficulty": "ZOR"
+    },
+    {
+        "text": "Osmanlı'da eğitim ve yargı işlerinden sorumlu divan üyesi kimdir?",
+        "options": ["Kazasker", "Defterdar", "Sadrazam", "Şeyhülislam"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "I. Balkan Savaşı'nda Osmanlı Devletinden ayrılan son Balkan devleti hangisidir?",
+        "options": ["Arnavutluk", "Bulgaristan", "Sırbistan", "Karadağ"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Mustafa Kemal Atatürk'ün nüfusuna kayıtlı olduğu il hangisidir?",
+        "options": ["Gaziantep", "Selanik", "Ankara", "İstanbul"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Tarihteki ilk Türk devletlerinin dini inancı nedir?",
+        "options": ["Gök Tanrı", "İslamiyet", "Hıristiyanlık", "Musevilik"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Uygurlar döneminde hangi dine geçilmiştir?",
+        "options": ["Maniheizm", "Budizm", "Şintoizm", "Yahudilik"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dünyanın en uzun destanı hangisidir?",
+        "options": ["Manas Destanı", "Oğuz Kağan Destanı", "Ergenekon Destanı", "Gılgamış"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "İstiklal Marşı hangi yıl kabul edilmiştir?",
+        "options": ["12 Mart 1921", "23 Nisan 1920", "29 Ekim 1923", "30 Ağustos 1922"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Moğolları tarihte ilk kez durduran Türk devleti hangisidir?",
+        "options": ["Memlükler", "Selçuklular", "Osmanlılar", "Ayyubiler"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
+        "options": ["Saltuklular", "Mengücekliler", "Danişmentliler", "Artuklular"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Osmanlı Devleti'nde ilk gümüş akçe hangi padişah döneminde bastırılmıştır?",
+        "options": ["Orhan Bey", "Osman Bey", "I. Murad", "Yıldırım Bayezid"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kapitülasyonlar hangi antlaşma ile tamamen kaldırılmıştır?",
+        "options": ["Lozan Antlaşması", "Paris Antlaşması", "Sevr Antlaşması", "Ankara Antlaşması"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Atatürk’ün 'Ordular, ilk hedefiniz Akdeniz’dir. İleri!' emrini verdiği savaş hangisidir?",
+        "options": ["Büyük Taarruz", "Sakarya Meydan Muharebesi", "I. İnönü Savaşı", "II. İnönü Savaşı"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
     },
     {
         "text": "Mısır'ı fethederek halifeliği Osmanlı'ya getiren padişah kimdir?",
-        "options": [
-            "Yavuz Sultan Selim",
-            "Kanuni Sultan Süleyman",
-            "Fatih Sultan Mehmet",
-            "II. Bayezid"
-        ],
+        "options": ["Yavuz Sultan Selim", "Fatih Sultan Mehmet", "Kanuni Sultan Süleyman", "II. Selim"],
         "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
+        "category": "TARIH",
+        "difficulty": "KOLAY"
     },
     {
-        "id": 63,
-        "text": "1815 Viyana Kongresi ile Avrupa'da başlayan döneme ne ad verilir?",
-        "options": [
-            "Restorasyon Dönemi",
-            "Rönesans Dönemi",
-            "Aydınlanma Dönemi",
-            "Reform Dönemi"
-        ],
+        "text": "Osmanlı Devleti'nde devşirme sisteminin temelini atan padişah hangisidir?",
+        "options": ["I. Murad", "Orhan Bey", "Çelebi Mehmed", "II. Murad"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Rusya ile yapılan Ayastefanos Antlaşması yerine hangi antlaşma imzalanmıştır?",
+        "options": ["Berlin Antlaşması", "Uşi Antlaşması", "Paris Antlaşması", "Londra Antlaşması"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ZOR"
     },
     {
-        "text": "II. Meşrutiyet'in ilanı ile yönetime hakim olan parti hangisidir?",
-        "options": [
-            "İttihat ve Terakki",
-            "Hürriyet ve İtilaf",
-            "Ahrar Fırkası",
-            "Halk Fırkası"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan yerler?",
-        "options": [
-            "Doğu Trakya, İstanbul, Boğazlar",
-            "İzmir, Aydın",
-            "Kars, Ardahan",
-            "Hatay, İskenderun"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 19,
-        "text": "Tarihte parayı bularak takas usulüne son veren uygarlık hangisidir?",
-        "options": [
-            "Lidyalılar",
-            "İyonyalılar",
-            "Frigler",
-            "Urartular"
-        ],
+        "text": "İstiklal Madalyası alan ilk şehir hangisidir?",
+        "options": ["İnebolu (Kastamonu)", "Maraş", "Antep", "Urfa"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ZOR"
     },
     {
-        "id": 60,
-        "text": "Rusya'da Çarlık rejimine son veren 'Ekim Devrimi'nin lideri kimdir?",
-        "options": [
-            "Stalin",
-            "Troçki",
-            "Lenin",
-            "Kruşçev"
-        ],
+        "text": "İltizam sisteminin kaldırılarak maaşlı sisteme geçilmesi hangi dönemdedir?",
+        "options": ["II. Mahmut", "Abdülmecid", "III. Selim", "Abdülaziz"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Babür Şah tarafından Hindistan'da kurulan devletin adı nedir?",
+        "options": ["Babür İmparatorluğu", "Gazneliler", "Delhi Türk Sultanlığı", "Timurlular"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Cem Sultan Olayı hangi padişah döneminde bir iç sorun iken dış sorun haline gelmiştir?",
+        "options": ["II. Bayezid", "Fatih Sultan Mehmet", "Yavuz Sultan Selim", "Kanuni Sultan Süleyman"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kıbrıs hangi yıl Osmanlı tarafından fethedilmiştir?",
+        "options": ["1571", "1471", "1671", "1553"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Halifeliğin kaldırıldığı tarih hangisidir?",
+        "options": ["3 Mart 1924", "1 Kasım 1922", "29 Ekim 1923", "23 Nisan 1920"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türklerin kullandığı ilk takvim hangisidir?",
+        "options": ["On İki Hayvanlı Türk Takvimi", "Celali Takvimi", "Hicri Takvim", "Rumi Takvim"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Amasya Genelgesi'ni hazırlayan ya da onaylayan isimler arasında hangisi yoktur?",
+        "options": ["İsmet İnönü", "Rauf Orbay", "Ali Fuat Cebesoy", "Refet Bele"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Osmanlı'nın 'Eğri Fatihi' olarak anılan padişahı hangisidir?",
+        "options": ["III. Mehmed", "II. Selim", "IV. Murad", "I. Ahmed"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Viyana'yı ilk kez kuşatan Osmanlı padişahı kimdir?",
+        "options": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmet", "IV. Murad", "II. Mehmed"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Sened-i İttifak (1808) hangi padişah ile ayanlar arasında imzalanmıştır?",
+        "options": ["II. Mahmut", "III. Selim", "IV. Mustafa", "Abdülmecid"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Gaziantep'e 'Gazi' unvanı hangi yıl verilmiştir?",
+        "options": ["1921", "1923", "1973", "2008"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Atatürk’ün şahsi meselem dediği şehir hangisidir?",
+        "options": ["Hatay", "İstanbul", "Ankara", "İzmir"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Balkan Antantı'na katılmayan Balkan devleti hangisidir?",
+        "options": ["Bulgaristan", "Yunanistan", "Yugoslavya", "Romanya"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Sadabat Paktı (1937) hangi devletlere karşı bir savunma birliği sağlamıştır?",
+        "options": ["İtalya - Almanya", "Rusya", "İngiltere", "Fransa"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Osmanlı Devleti'nde kağıt para (Kaime) ilk hangi padişah döneminde basılmıştır?",
+        "options": ["Abdülmecid", "II. Mahmut", "Abdülaziz", "II. Abdülhamid"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Cumhuriyet tarihinin ilk demiryolu hattı neresidir?",
+        "options": ["Ankara - Yerköy", "İzmir - Aydın", "İstanbul - Edirne", "Samsun - Sivas"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Millet Mektepleri'nin açılış amacı nedir?",
+        "options": ["Yeni harfleri halka öğretmek", "Yabancı dil eğitimi", "Askeri eğitim", "Sanat eğitimi"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Nutuk hangi yılları kapsayan bir eserdir?",
+        "options": ["1919 - 1927", "1923 - 1938", "1914 - 1923", "1919 - 1938"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Menemen Olayı hangi yıl gerçekleşmiştir?",
+        "options": ["1930", "1925", "1934", "1923"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
+        "options": ["1934", "1923", "1928", "1932"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türkiye'nin Birleşmiş Milletler'e (BM) kurucu üye olması hangi yıl olmuştur?",
+        "options": ["1945", "1923", "1932", "1952"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Dünyanın yedi harikasından biri olan Halikarnas Mozolesi hangi ilimizdedir?",
+        "options": ["Muğla (Bodrum)", "Aydın", "Antalya", "İzmir"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) hangi yıl ilan edilmiştir?",
+        "options": ["1983", "1974", "1960", "1950"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Osmanlı Devleti'nde orduya asker yetiştiren sistem hangisidir?",
+        "options": ["Pençik / Devşirme", "İltizam", "Tımar", "Malikane"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Milli Egemenlik ilkesi ilk kez hangi belgede yer almıştır?",
+        "options": ["Amasya Genelgesi", "Sivas Kongresi", "Erzurum Kongresi", "Teşkilat-ı Esasiye"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Atatürk'ün cenaze namazı nerede kılınmıştır?",
+        "options": ["Dolmabahçe Sarayı", "Anıtkabir", "Etnografya Müzesi", "Sultanahmet Camii"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Osmanlı'nın 'Cihan Hükümdarı' unvanlı en uzun süre tahtta kalan padişahı kimdir?",
+        "options": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmet", "IV. Murad", "II. Abdülhamid"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
+        "options": ["İsmet İnönü", "Fevzi Çakmak", "Celal Bayar", "Ali Fethi Okyar"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Osmanlı'da donanma komutanına verilen unvan hangisidir?",
+        "options": ["Kaptan-ı Derya", "Reis-ül Küttab", "Nişancı", "Defterdar"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Türklerin Anadolu'yu kesin olarak yurt edindiği savaş hangisidir?",
+        "options": ["Miryokefalon", "Malazgirt", "Pasinler", "Dandanakan"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Ankara hangi tarihte başkent ilan edilmiştir?",
+        "options": ["13 Ekim 1923", "29 Ekim 1923", "23 Nisan 1920", "19 Mayıs 1919"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "İngiltere'den alınan ancak teslim edilmeyen 'Sultan Osman' ve 'Reşadiye' gemileri yerine hangi gemiler alınmıştır?",
+        "options": ["Goben ve Breslau", "Hamidiye", "Yavuz ve Midilli", "Peyk-i Şevket"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Lozan'da çözülemeyen tek sorun hangisidir?",
+        "options": ["Musul Sorunu", "Boğazlar", "Kapitülasyonlar", "Azınlıklar"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Türkiye'nin ilk kadın pilotu kimdir?",
+        "options": ["Sabiha Gökçen", "Bedriye Tahir Gökmen", "Leman Bozkurt Altınçekiç", "Selma Rıza"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Mustafa Kemal'e 'Gazi' unvanı ve 'Mareşal' rütbesi hangi savaştan sonra verilmiştir?",
+        "options": ["Sakarya Meydan Muharebesi", "Büyük Taarruz", "I. İnönü", "II. İnönü"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Karadeniz'in Türk gölü haline gelmesi hangi padişah dönemindedir?",
+        "options": ["Fatih Sultan Mehmet", "II. Bayezid", "Yavuz Sultan Selim", "Kanuni"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ORTA"
+    },
+    {
+        "text": "Osmanlı Devleti'nde 'Sokağa çıkma yasağı' uygulayan ve kahvehaneleri kapatan padişah kimdir?",
+        "options": ["IV. Murad", "I. Ahmed", "II. Osman", "I. Ibrahim"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Cumhuriyet döneminde kurulan ilk banka hangisidir?",
+        "options": ["İş Bankası", "Ziraat Bankası", "Merkez Bankası", "Etibank"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "KOLAY"
+    },
+    {
+        "text": "Büyük Selçuklu Devleti'nin resmi dili nedir?",
+        "options": ["Farsça", "Türkçe", "Arapça", "Latince"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "Kendi döneminde 'Matrakçı Nasuh' gibi bir dehayı barındıran padişah kimdir?",
+        "options": ["Kanuni Sultan Süleyman", "Yavuz Sultan Selim", "II. Selim", "III. Murad"],
+        "correctAnswerIndex": 0,
+        "category": "TARIH",
+        "difficulty": "ZOR"
+    },
+    {
+        "text": "İncil'in Türkçeye ilk çevirisi hangi devlet döneminde yapılmıştır?",
+        "options": ["Avarlar", "Hazarlar", "Kumanlar (Kıpçaklar)", "Peçenekler"],
         "correctAnswerIndex": 2,
         "category": "TARIH",
         "difficulty": "ZOR"
     },
     {
-        "text": "Hangi savaş sonucunda Anadolu'nun Türk yurdu olduğu kesinleşmiştir?",
-        "options": [
-            "Malazgirt",
-            "Miryokefalon",
-            "Pasinler",
-            "Kösedağ"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "II. Abdülhamid döneminde kurulan istihbarat teşkilatının adı nedir?",
-        "options": [
-            "Yıldız İstihbarat Teşkilatı",
-            "Teşkilat-ı Mahsusa",
-            "MİT",
-            "Karakol Cemiyeti"
-        ],
+        "text": "Türk adının geçtiği ilk yazılı metin nedir?",
+        "options": ["Orhun Yazıtları", "Yenisey Yazıtları", "Çin Yıllıkları", "İskit Destanları"],
         "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Hangi padişah döneminde ilk kez dış borç alınmıştır (Kırım Savaşı)?",
-        "options": [
-            "Abdülmecid",
-            "II. Mahmut",
-            "Abdülaziz",
-            "V. Murat"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "İstanbul'un fethi sırasında kullanılan büyük toplara ne ad verilir?",
-        "options": [
-            "Şahi",
-            "Havan",
-            "Mancınık",
-            "Gülle"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Balkan Savaşları sonunda Osmanlı Devleti hangi adayı kaybetmemiştir?",
-        "options": [
-            "Gökçeada",
-            "Midilli",
-            "Sakız",
-            "Rodos"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 26,
-        "text": "Amerika Birleşik Devletleri hangi yılda bağımsızlığını ilan etmiştir?",
-        "options": [
-            "1492",
-            "1776",
-            "1789",
-            "1861"
-        ],
-        "correctAnswerIndex": 1,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "ORTA"
     },
     {
-        "id": 27,
-        "text": "Kendi adıyla anılan kanunları ile ünlü olan antik Babil kralı kimdir?",
-        "options": [
-            "Nabukadnezar",
-            "Hammurabi",
-            "Gılgamış",
-            "Sargon"
-        ],
-        "correctAnswerIndex": 1,
+        "text": "Atatürk'ün naaşı Anıtkabir'e hangi yıl nakledilmiştir?",
+        "options": ["1953", "1938", "1943", "1960"],
+        "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "ORTA"
     },
     {
-        "text": "Çanakkale Savaşı'nda 'Seyit Onbaşı' kaç kiloluk mermiyi kaldırmıştır?",
-        "options": [
-            "215 kg (Okka hesabı değişebilir)",
-            "100 kg",
-            "300 kg",
-            "50 kg"
-        ],
+        "text": "Milli Mücadele'de doğu cephesini kapatan antlaşma hangisidir?",
+        "options": ["Gümrü Antlaşması", "Kars Antlaşması", "Moskova Antlaşması", "Ankara Antlaşması"],
         "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Osmanlı'da şeyhülislamın yetkilerine sahip makam günümüzde hangisidir?",
-        "options": [
-            "Adalet Bakanlığı",
-            "Milli Eğitim Bakanlığı",
-            "Diyanet İşleri Başkanlığı",
-            "İçişleri Bakanlığı"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Cumhuriyetin ilanından sonra ilk kurulan muhalefet partisi hangisidir?",
-        "options": [
-            "Terakkiperver Cumhuriyet Fırkası",
-            "Serbest Cumhuriyet Fırkası",
-            "Demokrat Parti",
-            "Millet Partisi"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Mustafa Kemal'in 'Geldikleri gibi giderler' sözünü nerede söylemiştir?",
-        "options": [
-            "İstanbul",
-            "Çanakkale",
-            "Samsun",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Osmanlı'da 'Beşik Ulemalığı' sistemi neyin bozulmasına neden olmuştur?",
-        "options": [
-            "Eğitim",
-            "Askeriye",
-            "Maliye",
-            "Tarım"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Osmanlı Devleti'nde ilk kağıt para hangi padişah döneminde basılmıştır?",
-        "options": [
-            "Abdülmecid",
-            "II. Mahmut",
-            "III. Selim",
-            "II. Abdülhamid"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Osmanlı'da 'Kapıkulu' askerlerinin 3 ayda bir aldıkları maaşa ne denir?",
-        "options": [
-            "Ulufe",
-            "Cülus",
-            "İaşelik",
-            "Dirlik"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "İstanbul'u fethederek Orta Çağ'ı kapatıp Yeni Çağ'ı açan padişah kimdir?",
-        "options": [
-            "Kanuni Sultan Süleyman",
-            "Fatih Sultan Mehmet",
-            "Yavuz Sultan Selim",
-            "II. Abdülhamid"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Sultan Alparslan hangi savaşla Anadolu'nun kapılarını Türklere açmıştır?",
-        "options": [
-            "Dandanakan",
-            "Pasinler",
-            "Malazgirt",
-            "Kösedağ"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Osmanlı Devleti'nde şeyhülislamın yetkilerine sahip olan padişah kimdir?",
-        "options": [
-            "Yavuz Sultan Selim",
-            "II. Mahmut",
-            "Kanuni Sultan Süleyman",
-            "Fatih Sultan Mehmet"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 21,
-        "text": "Aşağıdakilerden hangisi İstanbul'un fethinin sonuçlarından biri değildir?",
-        "options": [
-            "Bizans İmparatorluğu yıkıldı",
-            "Orta Çağ kapandı, Yeni Çağ başladı",
-            "Osmanlı Devleti yükselme dönemine girdi",
-            "Matbaa icat edildi"
-        ],
-        "correctAnswerIndex": 3,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "ORTA"
     },
     {
-        "id": 33,
-        "text": "Soğuk Savaş döneminin sembolü olan Berlin Duvarı hangi yılda yıkılmıştır?",
-        "options": [
-            "1985",
-            "1989",
-            "1991",
-            "1995"
-        ],
-        "correctAnswerIndex": 1,
+        "text": "Osmanlı Devleti'nde ilk matbaa kimin döneminde açılmıştır?",
+        "options": ["III. Ahmed (Lale Devri)", "III. Selim", "II. Mahmut", "I. Mahmud"],
+        "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "KOLAY"
     },
     {
-        "id": 49,
-        "text": "Dünyanın çevresini dolaşarak yuvarlak olduğunu kanıtlayan denizci kimdir?",
-        "options": [
-            "Kristof Kolomb",
-            "Vasco da Gama",
-            "Macellan",
-            "Bartolomeu Dias"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 72,
-        "text": "Antik Mezopotamya'da 'Ay Tanrısı' için yapılan Ziggurat hangi şehirdedir?",
-        "options": [
-            "Uruk",
-            "Ur",
-            "Babil",
-            "Ninova"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 75,
-        "text": "I. Dünya Savaşı'nı bitiren Versay Antlaşması hangi salonda imzalanmıştır?",
-        "options": [
-            "Aynalı Salon",
-            "Oval Ofis",
-            "Westminster Kilisesi",
-            "Elysée Sarayı"
-        ],
+        "text": "Dünya tarihinin ilk üniversitesi olarak kabul edilen kurum hangisidir?",
+        "options": ["Nizamiye Medreseleri", "Sahn-ı Seman", "Oxford", "Bologna"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ZOR"
     },
     {
-        "text": "Milli Mücadele'nin kadın kahramanlarından 'Kara Fatma'nın asıl adı nedir?",
-        "options": [
-            "Halide Edip",
-            "Fatma Seher Erden",
-            "Nene Hatun",
-            "Şerife Bacı"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 25,
-        "text": "Saltanatın kaldırılmasıyla son bulan Osmanlı padişahlığı kiminle bitmiştir?",
-        "options": [
-            "V. Murat",
-            "II. Abdülhamid",
-            "Sultan Vahdettin",
-            "Abdülmecid Efendi"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Anadolu Selçuklu Devleti'nin başkenti İznik'ten Konya'ya neden taşınmıştır?",
-        "options": [
-            "I. Haçlı Seferi",
-            "Bizans Saldırısı",
-            "Moğol İstilası",
-            "İç İsyanlar"
-        ],
+        "text": "Osmanlı'nın 'Muhteşem' olarak tanıdığı padişah kimdir?",
+        "options": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmet", "Yavuz Sultan Selim", "I. Süleyman"],
         "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 3,
-        "text": "Yazıyı bularak tarih çağlarını başlatan uygarlık aşağıdakilerden hangisidir?",
-        "options": [
-            "Mısırlılar",
-            "Romalılar",
-            "Sümerler",
-            "Hititler"
-        ],
-        "correctAnswerIndex": 2,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "KOLAY"
     },
     {
-        "id": 55,
-        "text": "Roma İmparatorluğu'nu ikiye bölen 'Kavimler Göçü' hangi tarihte başlamıştır?",
-        "options": [
-            "375",
-            "395",
-            "476",
-            "1453"
-        ],
+        "text": "Türkiye'nin üye olduğu ilk uluslararası kuruluş hangisidir?",
+        "options": ["Milletler Cemiyeti", "BM", "NATO", "Avrupa Konseyi"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
         "difficulty": "ZOR"
     },
     {
-        "text": "Lozan Antlaşması'na göre Türkiye-Yunanistan sınırı hangi nehir kabul edildi?",
-        "options": [
-            "Meriç",
-            "Tuna",
-            "Arda",
-            "Sakarya"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Kurtuluş Savaşı'nın kadın kahramanlarından 'Şerife Bacı' hangi ilimizdendir?",
-        "options": [
-            "Kastamonu",
-            "Erzurum",
-            "Antep",
-            "İzmir"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Yavuz Sultan Selim '8 yıla 80 yıllık iş sığdıran padişah' olarak bilinir mi?",
-        "options": [
-            "Evet",
-            "Hayır",
-            "Kısmen",
-            "Belki"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Avrupa Hun Devleti'nin en parlak dönemi hangi hükümdar zamanında yaşanmıştır?",
-        "options": [
-            "Attila",
-            "Balamir",
-            "Uldız",
-            "Rua"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 4,
-        "text": "1071 yılında yapılan ve Anadolu'nun kapılarını Türklere açan savaş hangisidir?",
-        "options": [
-            "Malazgirt Savaşı",
-            "Miryokefalon Savaşı",
-            "Dandanakan Savaşı",
-            "Pasinler Savaşı"
-        ],
+        "text": "Anadolu'da kurulan ilk Türk devleti hangisidir?",
+        "options": ["Anadolu Selçuklu Devleti", "Büyük Selçuklu", "Osmanlı", "Harzemşahlar"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "ORTA"
     },
     {
-        "id": 54,
-        "text": "Tarihin ilk yazılı kanunları olan 'Urkagina Kanunları' hangi uygarlığa aittir?",
-        "options": [
-            "Babiller",
-            "Sümerler",
-            "Asurlular",
-            "Mısırlılar"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Milli Mücadele'yi destekleyen 'İrade-i Milliye' gazetesi nerede çıkarılmıştır?",
-        "options": [
-            "Sivas",
-            "Ankara",
-            "Erzurum",
-            "İstanbul"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 52,
-        "text": "Osmanlı Devleti'nde Batılı anlamda ilk askeri ıslahatları yapan padişah kimdir?",
-        "options": [
-            "III. Selim",
-            "II. Mahmut",
-            "I. Mahmut",
-            "III. Ahmet"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 66,
-        "text": "Hindistan'da barışçıl direnişin sembolü olan ve 'Mahatma' lakaplı lider kimdir?",
-        "options": [
-            "Jawaharlal Nehru",
-            "Mahatma Gandhi",
-            "Indira Gandhi",
-            "Subhas Chandra Bose"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 67,
-        "text": "Dünyanın en eski kütüphanesi sayılan Ninova Kütüphanesi hangi uygarlığa aittir?",
-        "options": [
-            "Asurlular",
-            "Babiller",
-            "Sümerler",
-            "Mısırlılar"
-        ],
+        "text": "Kaşgarlı Mahmut tarafından yazılan ilk Türkçe sözlük hangisidir?",
+        "options": ["Divan-ı Lügati't-Türk", "Atabetü'l Hakayık", "Kutadgu Bilig", "Divan-ı Hikmet"],
         "correctAnswerIndex": 0,
         "category": "TARIH",
-        "difficulty": "ZOR"
+        "difficulty": "KOLAY"
     },
-    {
-        "text": "Çivi yazısını Anadolu'ya getirerek tarihi çağları başlatan uygarlık hangisidir?",
-        "options": [
-            "Asurlar",
-            "Hititler",
-            "Lidyalılar",
-            "Urartular"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'nin Kore Savaşı'na asker göndermesi hangi örgüte girmesini sağlamıştır?",
-        "options": [
-            "NATO",
-            "BM",
-            "AB",
-            "Varşova Paktı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 45,
-        "text": "Barut, Pusula, Kağıt ve Matbaa gibi buluşlar Avrupa'ya hangi olayla taşınmıştır?",
-        "options": [
-            "Haçlı Seferleri",
-            "Coğrafi Keşifler",
-            "Rönesans",
-            "Reform"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Uygurların yerleşik hayata geçmesiyle aşağıdaki sanatlardan hangisi gelişmiştir?",
-        "options": [
-            "Minyatür ve Fresk",
-            "Dokumacılık",
-            "Madencilik",
-            "Oymacılık"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türkiye'de kadınlara seçme ve seçilme hakkı ne zaman verilmiştir (Milletvekili)?",
-        "options": [
-            "1934",
-            "1930",
-            "1923",
-            "1926"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 48,
-        "text": "Karadeniz'in bir 'Türk Gölü' haline gelmesi hangi padişah döneminde tamamlanmıştır?",
-        "options": [
-            "Fatih Sultan Mehmet",
-            "Yavuz Sultan Selim",
-            "Kanuni Sultan Süleyman",
-            "II. Bayezid"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Çanakkale Savaşı'nda 276 kiloluk top mermisini tek başına kaldıran kahraman kimdir?",
-        "options": [
-            "Seyit Onbaşı",
-            "Yahya Çavuş",
-            "Nezahat Onbaşı",
-            "Sütçü İmam"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 38,
-        "text": "Antik Mısır'da ölülerin ruhunun öteki dünyada yaşaması için yapılan işleme ne denir?",
-        "options": [
-            "Mumyalama",
-            "Kremasyon",
-            "Defin",
-            "Sarkofaj"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 1,
-        "text": "İstanbul’u fethederek Orta Çağ’ı kapatıp Yeni Çağ’ı başlatan Osmanlı padişahı kimdir?",
-        "options": [
-            "Yavuz Sultan Selim",
-            "Kanuni Sultan Süleyman",
-            "Fatih Sultan Mehmet",
-            "II. Abdülhamid"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 51,
-        "text": "1648 yılında imzalanan ve Avrupa'da mezhep savaşlarına son veren antlaşma hangisidir?",
-        "options": [
-            "Versay",
-            "Westphalia",
-            "Utrecht",
-            "Aix-la-Chapelle"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 53,
-        "text": "Mısır'daki İngiliz işgaline son veren ve Süveyş Kanalı'nı millileştiren lider kimdir?",
-        "options": [
-            "Enver Sedat",
-            "Cemal Abdülnasır",
-            "Hüsnü Mübarek",
-            "Muhammed Necib"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Türk tarihinin ilk yazılı anıtları olan Orhun Abideleri hangi alfabe ile yazılmıştır?",
-        "options": [
-            "Uygur",
-            "Göktürk",
-            "Arap",
-            "Kiril"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Kıbrıs aşağıdaki antlaşmalardan hangisi ile geçici olarak İngiltere'ye bırakılmıştır?",
-        "options": [
-            "Berlin Antlaşması",
-            "Ayastefanos Antlaşması",
-            "Uşi Antlaşması",
-            "Paris Antlaşması"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 65,
-        "text": "Osmanlı Devleti'nde orduya asker yetiştiren ve devlet adamı sağlayan sistem hangisidir?",
-        "options": [
-            "Tımar Sistemi",
-            "Devşirme Sistemi",
-            "İltizam Sistemi",
-            "Salyaneli Sistem"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 68,
-        "text": "Atatürk’ün 'Gazi' unvanını ve 'Müşirlik' (Mareşallik) rütbesini aldığı savaş hangisidir?",
-        "options": [
-            "Sakarya Meydan Muharebesi",
-            "Büyük Taarruz",
-            "I. İnönü Savaşı",
-            "Çanakkale Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 31,
-        "text": "I. Dünya Savaşı'nın çıkış nedeni olarak gösterilen suikast hangi şehirde gerçekleşmiştir?",
-        "options": [
-            "Viyana",
-            "Berlin",
-            "Saraybosna",
-            "Belgrad"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 36,
-        "text": "Sümerlerin tapınaklarına ve aynı zamanda rasathane olarak kullandıkları yapılara ne denir?",
-        "options": [
-            "Piramit",
-            "Ziggurat",
-            "Panteon",
-            "Akropol"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 58,
-        "text": "Osmanlı Devleti'nde 'Kanun-i Esasi' (İlk Anayasa) hangi padişah döneminde ilan edilmiştir?",
-        "options": [
-            "Abdülmecid",
-            "Abdülaziz",
-            "II. Abdülhamid",
-            "V. Mehmed Reşad"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Atatürk'ün 'Benim naçiz vücudum elbet bir gün toprak olacaktır' sözünü nerede söylemiştir?",
-        "options": [
-            "İzmir Suikastı Girişimi Sonrası",
-            "Bursa Nutku",
-            "Onuncu Yıl Nutku",
-            "Meclis Açılışı"
-        ],
-        "correctAnswerIndex": 0,
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Mustafa Kemal'e 'Gazilik' unvanı ve 'Mareşallik' rütbesi hangi savaştan sonra verilmiştir?",
-        "options": [
-            "I. İnönü",
-            "II. İnönü",
-            "Sakarya Meydan Muharebesi",
-            "Büyük Taarruz"
-        ],
-        "correctAnswerIndex": 2,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 57,
-        "text": "Fatih Sultan Mehmet'in fethettiği ve Bizans'ın son kırıntısı olarak görülen yer hangisidir?",
-        "options": [
-            "Mora Yarımadası",
-            "Trabzon Rum İmparatorluğu",
-            "İstanbul",
-            "Sırbistan"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 24,
-        "text": "Osmanlı Devleti'nin I. Dünya Savaşı'ndan çekilmesini sağlayan ateşkes antlaşması hangisidir?",
-        "options": [
-            "Mondros Ateşkes Antlaşması",
-            "Mudanya Ateşkes Antlaşması",
-            "Sevr Antlaşması",
-            "Lozan Antlaşması"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "text": "Aşağıdakilerden hangisi I. Dünya Savaşı'nda Osmanlı'nın savaştığı cephelerden biri değildir?",
-        "options": [
-            "Galiçya",
-            "Kanal",
-            "Kafkas",
-            "Mora"
-        ],
-        "correctAnswerIndex": 3,
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 17,
-        "text": "Osmanlı Devleti'nde \"Muhteşem\" lakabıyla tanınan ve en uzun süre tahtta kalan padişah kimdir?",
-        "options": [
-            "Fatih Sultan Mehmet",
-            "Yavuz Sultan Selim",
-            "Kanuni Sultan Süleyman",
-            "II. Mahmut"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 73,
-        "text": "İsrail Devleti'nin 1948'de kuruluşundan sonra Arap ülkeleriyle yaptığı ilk büyük savaş hangisidir?",
-        "options": [
-            "Altı Gün Savaşı",
-            "Yom Kippur Savaşı",
-            "Süveyş Krizi",
-            "1948 Arap-İsrail Savaşı"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 5,
-        "text": "Mısır’da bulunan ve dünyanın yedi harikasından biri sayılan devasa anıt mezarların genel adı nedir?",
-        "options": [
-            "Ziggurat",
-            "Kolezyum",
-            "Piramit",
-            "Obelisk"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 13,
-        "text": "Çanakkale Savaşı sırasında 215 kiloluk top mermisini sırtlayarak namluya süren kahramanımız kimdir?",
-        "options": [
-            "Seyit Onbaşı",
-            "Nene Hatun",
-            "Sütçü İmam",
-            "Şahin Bey"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 71,
-        "text": "Güney Amerika'nın büyük bir kısmını İspanyol egemenliğinden kurtaran 'Kurtarıcı' lakaplı lider kimdir?",
-        "options": [
-            "Napolyon",
-            "Simon Bolivar",
-            "Che Guevara",
-            "Fidel Castro"
-        ],
-        "correctAnswerIndex": 1,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 6,
-        "text": "Kurtuluş Savaşı'nın başlangıcı kabul edilen ve Mustafa Kemal Atatürk'ün Samsun'a çıktığı tarih hangisidir?",
-        "options": [
-            "23 Nisan 1920",
-            "29 Ekim 1923",
-            "30 Ağustos 1922",
-            "19 Mayıs 1919"
-        ],
-        "correctAnswerIndex": 3,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 70,
-        "text": "Moğol İmparatorluğu'nu durduran tek İslam devleti olan Memlükler, hangi savaşla bu başarıyı elde etmiştir?",
-        "options": [
-            "Ayn Calut Savaşı",
-            "Kösedağ Savaşı",
-            "Hıttin Savaşı",
-            "Nidab Savaşı"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 74,
-        "text": "Osmanlı Devleti'nde 'Kanunname-i Ali Osman'ı hazırlayarak devlet teşkilatını yasallaştıran padişah kimdir?",
-        "options": [
-            "Fatih Sultan Mehmet",
-            "Yavuz Sultan Selim",
-            "Kanuni Sultan Süleyman",
-            "II. Mahmut"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 47,
-        "text": "Fatih Sultan Mehmet'in hocası olarak bilinen ve aynı zamanda mikrobiyolojinin öncülerinden olan kişi kimdir?",
-        "options": [
-            "Akşemseddin",
-            "Ali Kuşçu",
-            "Molla Gürani",
-            "Uluğ Bey"
-        ],
-        "correctAnswerIndex": 0,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    },
-    {
-        "id": 10,
-        "text": "Tarihte bilinen ilk yazılı antlaşma olan Kadeş Antlaşması, Mısırlılar ile hangi uygarlık arasında yapılmıştır?",
-        "options": [
-            "Sümerler",
-            "Asurlular",
-            "Hititler",
-            "Babiller"
-        ],
-        "correctAnswerIndex": 2,
-        "category": "TARIH",
-        "difficulty": "ZOR"
-    }
+  {
+    "text": "Osmanlı Devleti'nde 'Lale Devri' hangi padişah döneminde yaşanmıştır?",
+    "options": ["III. Ahmed", "IV. Murad", "II. Mahmud", "III. Selim"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Lozan Antlaşması hangi tarihte imzalanmıştır?",
+    "options": ["24 Temmuz 1923", "29 Ekim 1923", "30 Ağustos 1922", "13 Ekim 1923"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye Büyük Millet Meclisi'nin (TBMM) ilk başkanı kimdir?",
+    "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Fevzi Çakmak", "Kazım Karabekir"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Orhun Abideleri (Yazıtları) günümüzde hangi ülke sınırlarındadır?",
+    "options": ["Moğolistan", "Kazakistan", "Özbekistan", "Rusya"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde ilk kağıt para 'Kaime' hangi dönemde basılmıştır?",
+    "options": ["Sultan Abdülmecid", "Sultan Abdülaziz", "II. Abdülhamid", "V. Mehmed Reşad"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "İstiklal Marşı'mızın bestecisi kimdir?",
+    "options": ["Osman Zeki Üngör", "Mehmet Akif Ersoy", "Zeki Müren", "Münir Nurettin Selçuk"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı'nın '93 Harbi' olarak bilinen savaşı hangi devletle yapılmıştır?",
+    "options": ["Rusya", "İngiltere", "Fransa", "Avusturya-Macaristan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Anadolu Selçuklu Devleti'nin kurucusu kimdir?",
+    "options": ["Süleyman Şah", "Melikşah", "Alparslan", "Kılıçarslan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Cumhuriyetin ilanı ile 'Yeni Türk Devleti'nin başkenti neresi olmuştur?",
+    "options": ["Ankara", "İstanbul", "Sivas", "Erzurum"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türklere Anadolu'nun kapılarını açan 1071 Malazgirt Savaşı hangi Bizans imparatoruna karşı kazanılmıştır?",
+    "options": ["Romen Diyojen", "Jüstinyen", "Konstantin", "Herakleios"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün 'Geldikleri gibi giderler' sözünü hangi olay üzerine söylemiştir?",
+    "options": ["İstanbul'un işgali ve İtilaf donanmasının gelişi", "Çanakkale Savaşı", "İzmir'in işgali", "Sakarya Meydan Muharebesi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde Tanzimat Fermanı hangi saray bahçesinde okunmuştur?",
+    "options": ["Gülhane", "Topkapı", "Dolmabahçe", "Yıldız"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Kıbrıs Barış Harekatı hangi yıl düzenlenmiştir?",
+    "options": ["1974", "1963", "1980", "1959"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Uşi Antlaşması ile İtalya'ya bırakılan toprak parçası hangisidir?",
+    "options": ["Trablusgarp", "On İki Ada", "Mısır", "Cezayir"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Vakayı Hayriye' olarak bilinen Yeniçeri Ocağı'nın kaldırılması hangi padişah dönemindedir?",
+    "options": ["II. Mahmud", "III. Selim", "III. Mustafa", "II. Osman"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Balkan Savaşları sonucunda Osmanlı Devleti'nden ayrılarak bağımsızlığını kazanan son Balkan ülkesi hangisidir?",
+    "options": ["Arnavutluk", "Sırbistan", "Bulgaristan", "Yunanistan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Mustafa Kemal Atatürk'ün askeri idadiyi (liseyi) okuduğu şehir hangisidir?",
+    "options": ["Manastır", "Selanik", "İstanbul", "Sofya"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nin kurucusu Osman Bey'in babası kimdir?",
+    "options": ["Ertuğrul Gazi", "Gündüz Alp", "Süleyman Şah", "Hayme Ana"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türklerin kullandığı ilk takvim hangisidir?",
+    "options": ["12 Hayvanlı Türk Takvimi", "Hicri Takvim", "Rumi Takvim", "Celali Takvim"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Kanun-ı Esasi' hangi yıl ilan edilmiştir?",
+    "options": ["1876", "1839", "1856", "1908"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Sakarya Meydan Muharebesi'nden sonra Mustafa Kemal Atatürk'e hangi ünvan verilmiştir?",
+    "options": ["Mareşal ve Gazi", "Başkomutan", "Paşa", "Cumhurbaşkanı"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde ilk matbaa kim tarafından kurulmuştur?",
+    "options": ["İbrahim Müteferrika", "Lale Devri Sadrazamı", "Ebuseyid Efendi", "Lagari Hasan Çelebi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
+    "options": ["Saltuklular", "Danimendliler", "Mengücekliler", "Artuklular"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye Cumhuriyeti'nin ikinci cumhurbaşkanı kimdir?",
+    "options": ["İsmet İnönü", "Celal Bayar", "Cevdet Sunay", "Fevzi Çakmak"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde donanmanın ilk kez yakıldığı olay hangisidir?",
+    "options": ["İnebahtı Baskını", "Çeşme Baskını", "Navarin Baskını", "Sinop Baskını"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Atatürk'ün Nutuk adlı eseri hangi yılları kapsamaktadır?",
+    "options": ["1919 - 1927", "1914 - 1923", "1923 - 1938", "1919 - 1938"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Avni' mahlasıyla şiirler yazan padişah kimdir?",
+    "options": ["Fatih Sultan Mehmed", "Kanuni Sultan Süleyman", "Yavuz Sultan Selim", "II. Mahmud"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Malazgirt Savaşı sırasında Bizans ordusunda paralı askerlik yaparken Türk tarafına geçen boy hangisidir?",
+    "options": ["Peçenekler", "Kıpçaklar", "Oğuzlar", "Hazarlar"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Amasya Genelgesi'nde 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesi neyi ifade eder?",
+    "options": ["Kurtuluş Savaşı'nın amacı, yöntemi ve gerekçesi", "Başkentin değişeceğini", "Padişahın yetkilerini", "Ordunun terhis edileceğini"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye Cumhuriyeti'nin ilk başbakanı kimdir?",
+    "options": ["İsmet İnönü", "Fethi Okyar", "Celal Bayar", "Adnan Menderes"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde padişahın yetkilerini ilk kez kısıtlayan belge hangisidir?",
+    "options": ["Sened-i İttifak", "Tanzimat Fermanı", "Islahat Fermanı", "Kanun-ı Esasi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Büyük Taarruz emri 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' ne zaman verilmiştir?",
+    "options": ["1 Eylül 1922", "30 Ağustos 1922", "26 Ağustos 1922", "9 Eylül 1922"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Kutalmışoğlu Süleyman Şah tarafından kurulan ve başkenti İznik olan devlet hangisidir?",
+    "options": ["Türkiye Selçuklu Devleti", "Büyük Selçuklu Devleti", "Memlükler", "Danişmendliler"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Milli Mücadele döneminde Batı Cephesi Komutanlığına kim atanmıştır?",
+    "options": ["İsmet İnönü", "Rafet Bele", "Ali Fuat Cebesoy", "Kazım Karabekir"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Muhibbi' mahlasıyla bilinen ve en uzun süre tahtta kalan padişah kimdir?",
+    "options": ["Kanuni Sultan Süleyman", "Yavuz Sultan Selim", "II. Abdülhamid", "IV. Mehmed"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Erzurum Kongresi'nde alınan 'Manda ve himaye kabul olunamaz' kararı neyi amaçlar?",
+    "options": ["Tam bağımsızlığı", "Padişahın korunmasını", "Yabancı sermayeyi", "Meclisin açılmasını"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nin 'Duraklama Devri'ne girmesine neden olan ve padişah genç yaşta vefat eden olay hangisidir?",
+    "options": ["II. Osman (Genç Osman) olayı", "Çınar Vakası", "Patrona Halil İsyanı", "Kuleli Vakası"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türki Cumhuriyetler arasında yer alan ve Hazar Denizi'ne kıyısı olan 'Ata Vatan' hangisidir?",
+    "options": ["Azerbaycan / Türkmenistan / Kazakistan", "Kırgızistan", "Özbekistan", "Tacikistan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Mustafa Kemal'in 'Siz orada yalnız düşmanı değil, milletin makus talihini de yendiniz' telgrafı hangi zafer üzerine çekilmiştir?",
+    "options": ["II. İnönü Zaferi", "I. İnönü Zaferi", "Sakarya Zaferi", "Büyük Taarruz"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde eğitim alanında modernleşmenin başladığı 'Hendesehane' hangi padişah döneminde açılmıştır?",
+    "options": ["I. Mahmud", "III. Selim", "II. Mahmud", "III. Mustafa"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Karadağ, Sırbistan ve Romanya hangi antlaşma ile bağımsızlıklarını kazanmıştır?",
+    "options": ["Berlin Antlaşması", "Ayastefanos Antlaşması", "Paris Antlaşması", "Londra Antlaşması"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türk sinema tarihinin ilk siyah beyaz filmi sayılan 'Ayastefanos'taki Rus Abidesinin Yıkılışı' kime aittir?",
+    "options": ["Fuat Uzkınay", "Muhsin Ertuğrul", "Manaki Kardeşler", "Baha Şakir"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hatay'ın ana vatana katılması hangi yıl gerçekleşmiştir?",
+    "options": ["1939", "1938", "1923", "1932"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Misak-ı Milli kararları nerede alınmıştır?",
+    "options": ["Son Osmanlı Mebusan Meclisi (İstanbul)", "TBMM (Ankara)", "Sivas Kongresi", "Erzurum Kongresi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Fetret Devri'ne neden olan savaş hangisidir?",
+    "options": ["Ankara Savaşı", "Niğbolu Savaşı", "Varna Savaşı", "Kosova Savaşı"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk İlkelerinden 'Cumhuriyetçilik' neyi esas alır?",
+    "options": ["Milli egemenlik ve seçim", "Eşitlik", "Akıl ve bilim", "Devlet ekonomisi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "İstiklal Yolu olarak bilinen güzergah hangi şehirler arasındadır?",
+    "options": ["İnebolu - Ankara", "Samsun - Erzurum", "İzmir - Afyon", "İstanbul - İzmit"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'İkinci Kurucu' olarak kabul edilen padişah kimdir?",
+    "options": ["Çelebi Mehmed", "II. Murad", "I. Bayezid", "II. Mehmed"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Divan-ı Lügati't-Türk adlı eserin yazarı kimdir?",
+    "options": ["Kaşgarlı Mahmud", "Yusuf Has Hacib", "Edip Ahmed Yükneki", "Ahmet Yesevi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde tımar sisteminin bozulmasıyla ortaya çıkan isyanlara ne ad verilir?",
+    "options": ["Celali İsyanları", "İstanbul İsyanları", "Azınlık İsyanları", "Yeniçeri İsyanları"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Lale Devri' hangi padişah döneminde yaşanmıştır?",
+    "options": ["III. Ahmed", "IV. Murad", "II. Selim", "III. Selim"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Dünya tarihinin en büyük deniz savaşı olarak kabul edilen ve Osmanlı donanmasının Haçlı ittifakına yenildiği savaş hangisidir?",
+    "options": ["Lepanto (İnebahtı)", "Preveze", "Çeşme", "Navarin"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Amerika Birleşik Devletleri'nin ilk başkanı kimdir?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Benjamin Franklin"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Fransız İhtilali hangi yılda başlamıştır?",
+    "options": ["1789", "1776", "1815", "1792"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde ilk kez Batılı tarzda askeri ıslahatlar yapan padişah hangisidir?",
+    "options": ["I. Mahmud", "III. Selim", "II. Mahmud", "III. Ahmed"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Magna Carta (Büyük Şart) hangi ülkede imzalanmıştır?",
+    "options": ["İngiltere", "Fransa", "İtalya", "Almanya"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sultan Alparslan'ın Bizans İmparatoru Romen Diyojen'i mağlup ettiği Malazgirt Meydan Muharebesi hangi yıldadır?",
+    "options": ["1071", "1040", "1176", "1243"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Rönesans'ın başladığı Avrupa ülkesi hangisidir?",
+    "options": ["İtalya", "Hollanda", "Fransa", "İspanya"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Kutsal Yerler Sorunu' nedeniyle Rusya ile yapılan ve Kırım Savaşı'na yol açan süreç hangi padişah dönemindedir?",
+    "options": ["Abdülmecid", "Abdülaziz", "V. Murad", "II. Abdülhamid"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Moğol İmparatorluğu'nun kurucusu kimdir?",
+    "options": ["Cengiz Han", "Hülagü Han", "Kubilay Han", "Timur"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk tarihinin ilk yazılı belgeleri kabul edilen Orhun Abideleri (Yazıtları) hangi devlete aittir?",
+    "options": ["II. Kök Türk", "Asya Hun", "Uygur", "Avar"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Sanayi İnkılabı ilk olarak hangi ülkede başlamıştır?",
+    "options": ["İngiltere", "Fransa", "Almanya", "ABD"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nin 'Duraklama Dönemi'ne girdiği kabul edilen, Avusturya ile imzalanan ve diplomatik üstünlüğün sona erdiği antlaşma hangisidir?",
+    "options": ["Zitvatorok", "Ferhat Paşa", "Karlofça", "İstanbul Antlaşması (1533)"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "'Uluslararası Af Örgütü'nün temelini atan tarihsel belge hangisidir (veya benzeri)?",
+    "options": ["İnsan ve Yurttaş Hakları Bildirisi", "Magna Carta", "Habeas Corpus", "Bill of Rights"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "I. Dünya Savaşı'ndan sonra imzalanan ve Polonya'ya denize çıkış imkanı sağlayan koridorun adı nedir?",
+    "options": ["Danzig (Polonya) Koridoru", "Süveyş", "Panama", "İskenderun"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş hangisidir?",
+    "options": ["Büyük Taarruz", "Sakarya", "I. İnönü", "Çanakkale"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Bizans İmparatorluğu'nun (Doğu Roma) tarihten silindiği olay hangisidir?",
+    "options": ["İstanbul'un Fethi (1453)", "Malazgirt Savaşı", "Haçlı Seferleri", "Kavimler Göçü"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Antik Mısır'da hiyeroglif yazısını çözen Fransız dil bilimci kimdir?",
+    "options": ["Jean-François Champollion", "Auguste Mariette", "Howard Carter", "Gaston Maspero"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Sokağa çıkma ve içki yasağı' gibi sert önlemleriyle tanınan padişah hangisidir?",
+    "options": ["IV. Murad", "I. Ahmed", "II. Osman", "IV. Mehmed"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Soğuk Savaş dönemini resmen sona erdirdiğine inanılan, Berlin Duvarı'nın yıkıldığı yıl hangisidir?",
+    "options": ["1989", "1991", "1985", "1990"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Emevi devletinin başkenti neresidir?",
+    "options": ["Şam", "Bağdat", "Mekke", "Medine"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Ankara Savaşı'nda (1402) Osmanlı padişahı Yıldırım Bayezid'i mağlup eden ve Osmanlı'yı Fetret Devri'ne sokan lider kimdir?",
+    "options": ["Timur", "Cengiz Han", "Batu Han", "Hülagü"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
+    "options": ["İsmet İnönü", "Celal Bayar", "Fevzi Çakmak", "Adnan Menderes"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Viyana'yı kuşatan ancak alamayan ve 'Viyana Kapıları' tabirinin doğmasına neden olan ilk padişah hangisidir?",
+    "options": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmet", "Yavuz Sultan Selim", "IV. Mehmed"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Babür İmparatorluğu'nun en ünlü eseri kabul edilen Taç Mahal, hangi şehirde bulunmaktadır?",
+    "options": ["Agra (Hindistan)", "Delhi", "Lahor", "Kabil"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türkiye'de 'Çok Partili Hayata' resmen ve kalıcı olarak geçilen seçim yılı hangisidir?",
+    "options": ["1946", "1950", "1923", "1930"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Rus Devrimi'nin (Bolşevik İhtilali) lideri kimdir?",
+    "options": ["Vladimir Lenin", "Josef Stalin", "Leon Troçki", "Mihail Gorbaçov"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün doğum yeri olan Selanik, günümüzde hangi ülkenin sınırlarındadır?",
+    "options": ["Yunanistan", "Bulgaristan", "Makedonya", "Arnavutluk"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde ilk bütçeyi hazırlayan devlet adamı hangisidir?",
+    "options": ["Tarhuncu Ahmed Paşa", "Köprülü Mehmed Paşa", "Merzifonlu Kara Mustafa Paşa", "Naima Efendi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Tarihteki ilk demokrasi denemeleri hangi uygarlıkta görülmüştür?",
+    "options": ["Antik Yunan (Atina)", "Roma", "Lidya", "Sümer"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "'Demir Perde' tabirini ilk kez kullanan siyasetçi kimdir?",
+    "options": ["Winston Churchill", "Harry Truman", "John F. Kennedy", "Margaret Thatcher"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "İstiklal Marşı'mızın ilk bestecisi kimdir?",
+    "options": ["Ali Rıfat Çağatay", "Osman Zeki Üngör", "Zeki Müren", "Hamdullah Suphi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nin 'Hasta Adam' olarak adlandırılmasına neden olan diplomatik süreç hangi savaştan sonradır?",
+    "options": ["Kırım Savaşı", "93 Harbi", "Balkan Savaşları", "I. Dünya Savaşı"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "19. yüzyılda İtalya'nın siyasi birliğini kuran 'Milli Kahraman' kimdir?",
+    "options": ["Giuseppe Garibaldi", "Mazzini", "Cavour", "Mussolini"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin ilk kadın pilotu kimdir (Savaş pilotu değil, genel sivil havacılıkta)?",
+    "options": ["Bedriye Tahir Gökmen", "Sabiha Gökçen", "Leyla Işıman", "Yıldız Eruçan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Kuzey Kıbrıs Türk Cumhuriyeti'nin ilk Cumhurbaşkanı kimdir?",
+    "options": ["Rauf Denktaş", "Dr. Fazıl Küçük", "Mehmet Ali Talat", "Derviş Eroğlu"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "II. Dünya Savaşı sırasında Japonya'ya atom bombası atılması emrini veren ABD Başkanı kimdir?",
+    "options": ["Harry Truman", "Franklin Roosevelt", "Dwight Eisenhower", "John F. Kennedy"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Mısır'daki ünlü Giza Piramitleri'nden en büyüğü hangisidir?",
+    "options": ["Keops", "Kefren", "Mikerinos", "Zoser"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye Cumhuriyeti'nin BM'ye üye olduğu yıl hangisidir?",
+    "options": ["1945", "1950", "1932", "1923"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Ortaçağ'da derebeylik sistemine (feodalizm) son veren en önemli teknolojik gelişme hangisidir?",
+    "options": ["Barutun ateşli silahlarda kullanılması (Top)", "Matbaanın icadı", "Pusula", "Buharlı makine"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün Şam'da kurduğu gizli cemiyetin adı nedir?",
+    "options": ["Vatan ve Hürriyet", "İttihat ve Terakki", "Müdafaa-i Hukuk", "Teşkilat-ı Mahsusa"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hangi Osmanlı padişahı 'Avni' mahlasıyla şiirler yazmıştır?",
+    "options": ["Fatih Sultan Mehmed", "Kanuni Sultan Süleyman", "II. Mahmud", "I. Ahmed"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Piri Reis'in ünlü dünya haritasını sunduğu padişah hangisidir?",
+    "options": ["Yavuz Sultan Selim", "Kanuni Sultan Süleyman", "Fatih Sultan Mehmed", "II. Bayezid"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Vakayı Hayriye' (Hayırlı Olay) olarak bilinen olay nedir?",
+    "options": ["Yeniçeri Ocağı'nın kaldırılması", "Tanzimat Fermanı", "Meşrutiyet'in ilanı", "Sarayın taşınması"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Antik Roma'da 'Brütüs sen de mi?' sözüyle ünlü suikasta kurban giden lider kimdir?",
+    "options": ["Julius Caesar", "Augustus", "Neron", "Marcus Aurelius"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Çanakkale Savaşları'nda 215 kiloluk mermiyi sırtlayarak İngiliz gemisini vuran kahraman kimdir?",
+    "options": ["Seyit Onbaşı", "Yahya Çavuş", "Sütçü İmam", "Gördesli Makbule"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "I. Dünya Savaşı'nda 'Kut'ül Amare' zaferini kazanan Türk komutan kimdir?",
+    "options": ["Halil Kut Paşa", "Enver Paşa", "Kazım Karabekir", "Şevket Turgut Paşa"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "İnsanlık tarihinin ilk tapınağı kabul edilen Göbeklitepe hangi ilimizdedir?",
+    "options": ["Şanlıurfa", "Gaziantep", "Mardin", "Diyarbakır"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nin ilk anayasası olan Kanun-i Esasi hangi yıl yürürlüğe girmiştir?",
+    "options": ["1876", "1839", "1856", "1908"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Erzurum Kongresi'nin başkanı kimdir?",
+    "options": ["Mustafa Kemal Atatürk", "Kazım Karabekir", "Rauf Orbay", "Ali Fuat Cebesoy"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Dünya Savaşı'nda Osmanlı Devleti'nin Kafkas Cephesi'ndeki en büyük kaybını verdiği harekat hangisidir?",
+    "options": ["Sarıkamış Harekatı", "Kanal Harekatı", "Çanakkale", "Galiçya"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Fransa'da 'Güneş Kral' lakabıyla bilinen ve saltanatı 72 yıl süren hükümdar kimdir?",
+    "options": ["XIV. Louis", "XVI. Louis", "Napolyon Bonapart", "I. Fransuva"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün 'Benim şahsi meselem' dediği ve Türkiye sınırlarına dahil edilmesi için yoğun çaba sarf ettiği yer neresidir?",
+    "options": ["Hatay", "Musul", "Batum", "Kerkük"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Amerika İç Savaşı hangi iki taraf arasında gerçekleşmiştir?",
+    "options": ["Kuzey (Birlik) - Güney (Konfederasyon)", "Doğu - Batı", "İngiltere - ABD", "ABD - Meksika"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde matbaayı kuran ve ilk teknik kitapları basan kişi kimdir?",
+    "options": ["İbrahim Müteferrika", "Sait Efendi", "Lagari Hasan Çelebi", "Hezarfen Ahmed Çelebi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Antik Yunanistan'da 'Bilimin Babası' ve 'İlk Filozof' kabul edilen isim kimdir?",
+    "options": ["Thales", "Sokrates", "Platon", "Aristo"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türklerin İslamiyet'i kitleler halinde kabul etmeye başladığı savaş hangisidir?",
+    "options": ["Talas Savaşı", "Yermük Savaşı", "Nihavend Savaşı", "Kadisiye"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Vasco da Gama'nın Ümit Burnu'nu geçerek ulaştığı ülke hangisidir?",
+    "options": ["Hindistan", "Brezilya", "Çin", "Avustralya"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Şehzadelerin sancağa çıkma' usulünü kaldıran padişah hangisidir?",
+    "options": ["III. Mehmed", "I. Ahmed", "IV. Murad", "II. Osman"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "I. Dünya Savaşı'nın fitilini ateşleyen olay; Avusturya-Macaristan Veliahdı Franz Ferdinand'a yapılan suikast hangi şehirde gerçekleşmiştir?",
+    "options": ["Saraybosna", "Viyana", "Belgrad", "Prag"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Türkiye Cumhuriyeti'nin ilk kadın Bakanı ve aynı zamanda Türkan Saylan'dan önce tıp dünyasında önemli olan ama siyasi kimliğiyle öne çıkan isim (veya genel bilgi) kimdir?",
+    "options": ["Türkan Akyol", "Fatma Aliye", "Halide Edib", "Behice Boran"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Büyük Selçuklu Devleti'nin en parlak dönemini yaşatan padişah hangisidir?",
+    "options": ["Melikşah", "Alparslan", "Tuğrul Bey", "Sencer"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nin 'Son büyük zaferi' olarak kabul edilen, İzmir'in kurtuluşuna giden yolun açıldığı Mudanya Ateşkes Antlaşması hangi savaştan sonradır?",
+    "options": ["Büyük Taarruz", "Sakarya Meydan Muharebesi", "Çanakkale", "Dumlupınar"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Roma İmparatorluğu'nun ikiye bölünmesinden sonra Batı Roma hangi yıl yıkılmıştır?",
+    "options": ["476", "395", "1453", "1071"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Atatürk'ün Nutuk adlı eserinde anlattığı dönem hangi yılları kapsar?",
+    "options": ["1919 - 1927", "1923 - 1938", "1914 - 1923", "1920 - 1930"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "İngiltere ve Fransa arasında süren ve 'Yüzyıl Savaşları' olarak bilinen mücadelenin süresi aslında tam olarak kaç yıldır?",
+    "options": ["116 yıl", "100 yıl", "99 yıl", "110 yıl"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Karadeniz'in Türk gölü haline gelmesi hangi padişahın Kırım'ı fethiyle gerçekleşmiştir?",
+    "options": ["Fatih Sultan Mehmed", "Yavuz Sultan Selim", "Kanuni Sultan Süleyman", "II. Bayezid"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün 'Geldikleri gibi giderler' sözünü İstanbul'da hangi gemilere bakarak söylediği bilinir?",
+    "options": ["İtilaf Devletleri Donanması", "Osmanlı Donanması", "Alman Denizaltıları", "Rus Gemileri"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Hangi uygarlık parayı ilk kez kullanarak ticarette devrim yapmıştır?",
+    "options": ["Lidyalılar", "Sümerler", "Hititler", "Fenikeliler"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Duyun-ı Umumiye' (Genel Borçlar İdaresi) hangi padişah döneminde kurulmuştur?",
+    "options": ["II. Abdülhamid", "Abdülaziz", "Abdülmecid", "V. Murad"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Fatih Sultan Mehmed'in İstanbul'u fethederken kullandığı devasa topların adı nedir?",
+    "options": ["Şahi", "Gülle", "Balyemez", "Havan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Birleşmiş Milletler Cemiyeti (Milletler Cemiyeti) hangi savaştan sonra kurulmuştur?",
+    "options": ["I. Dünya Savaşı", "II. Dünya Savaşı", "Viyana Kuşatması", "30 Yıl Savaşları"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türk tarihinde 'Sultan' ünvanını kullanan ilk hükümdar kimdir?",
+    "options": ["Gazneli Mahmud", "Tuğrul Bey", "Alparslan", "Orhan Bey"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Haçlı Seferleri sırasında Kudüs'ü Haçlılardan geri alan ünlü komutan kimdir?",
+    "options": ["Selahaddin Eyyubi", "Kılıç Arslan", "Nureddin Zengi", "Baybars"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde ilk altın parayı bastıran padişah hangisidir?",
+    "options": ["Fatih Sultan Mehmed", "Orhan Bey", "Kanuni", "II. Mahmud"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Hangi Osmanlı padişahı Batı müziği eğitimi almış ve besteler yapmıştır?",
+    "options": ["Sultan Abdülaziz", "III. Selim", "II. Mahmud", "II. Abdülhamid"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Kavalalı Mehmed Ali Paşa isyanı hangi padişahın döneminde yaşanmış büyük bir iç sorundur?",
+    "options": ["II. Mahmud", "III. Selim", "I. Abdülhamid", "Abdülmecid"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Türklerin Balkanlardaki ilerleyişini engelleyen son büyük Haçlı ittifakı olan ve 'Balkanların tapusunun alındığı' savaş hangisidir?",
+    "options": ["II. Kosova", "Niğbolu", "Varna", "Sırpsındığı"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Lozan Barış Antlaşması'na Türkiye adına başdelege olarak kim katılmıştır?",
+    "options": ["İsmet İnönü", "Rauf Orbay", "Fevzi Çakmak", "Kazım Karabekir"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Sümerlerin insanlığa en büyük katkısı kabul edilen buluş hangisidir?",
+    "options": ["Yazı (Çivi Yazısı)", "Tekerlek", "Para", "Pusula"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Napolyon Bonapart'ın nihai yenilgisini aldığı savaş hangisidir?",
+    "options": ["Waterloo", "Austerlitz", "Leipzig", "Borodino"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Hititler ile Mısırlılar arasında yapılan tarihteki ilk yazılı antlaşma hangisidir?",
+    "options": ["Kadeş Antlaşması", "İstanbul Antlaşması", "Lozan", "Paris"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Fatih Sultan Mehmed'in hocası kabul edilen ve tıp alanında çalışmaları olan bilim insanı kimdir?",
+    "options": ["Akşemseddin", "Ali Kuşçu", "Molla Gürani", "Uluğ Bey"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün 'Vatanın bağrına düşman dayamış hançerini / Yok mudur kurtaracak bahtı kara maderini' şiirine 'Vatanın bağrına düşman dayasın hançerini / Bulunur kurtaracak bahtı kara maderini' diyerek cevap verdiği yer neresidir?",
+    "options": ["TBMM Kürsüsü", "Dumlupınar", "Samsun", "Cumhuriyet Bayramı"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nde ilk Türk matbaasında basılan ilk kitap hangisidir?",
+    "options": ["Vankulu Lügati", "Leyla ile Mecnun", "Müntahabat-ı Eş'ar", "Sefaretname"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Asya Hun Devleti'nin en meşhur hükümdarı olan ve 'Onluk Sistem'i kuran lider kimdir?",
+    "options": ["Mete Han", "Teoman", "Atilla", "Bumin Kağan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "text": "Fransız İhtilali'nin 'Eşitlik, Özgürlük, Kardeşlik' sloganlarını dünyaya yayan lider kimdir?",
+    "options": ["Napolyon Bonapart", "Maximillien Robespierre", "Lafayette", "Louis Philippe"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Saka (İskit) Türklerinin ünlü kadın hükümdarı kimdir?",
+    "options": ["Tomris Hatun", "Altun Can Hatun", "Terken Hatun", "Begüm Sultan"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Dönemin en uzun süre tahtta kalan padişahı' unvanı kime aittir?",
+    "options": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmed", "IV. Mehmed", "II. Abdülhamid"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "II. Meşrutiyet'in ilanı (1908) sırasında Avusturya-Macaristan tarafından ilhak edilen toprak parçası neresidir?",
+    "options": ["Bosna-Hersek", "Girit", "Doğu Rumeli", "Trablusgarp"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Antik Roma'da 'Paks Romana' (Roma Barışı) döneminin ilk imparatoru kimdir?",
+    "options": ["Augustus", "Marcus Aurelius", "Constantine", "Neron"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Tarihteki ilk kağıt parayı hangi uygarlık üretmiştir?",
+    "options": ["Çinliler", "Sümerler", "Mısırlılar", "Lidyalılar"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Büyük Selçuklu Devleti'nin yıkılışında etkili olan ve 'Hasan Sabbah' tarafından kurulan tarikat hangisidir?",
+    "options": ["Batiniler (Haşhaşiler)", "Yeseviler", "Mevleviler", "Nakşibendiler"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün 'Nutuk' adlı eseri hangi dil kurumunun kurulması ve dil devriminden önce mi sonra mı basılmıştır?",
+    "options": ["Harf Devrimi'nden önce (Eski harflerle basılmıştır)", "Harf Devrimi'nden sonra", "Soyadı Kanunu'ndan sonra", "Vefatından sonra"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Osmanlı Devleti'nde 'Engizisyon' zulmünden kaçan Yahudi ve Müslümanları kurtararak gemilerle getiren denizci kimdir?",
+    "options": ["Kemal Reis", "Piri Reis", "Barbaros Hayreddin", "Seydi Ali Reis"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Türkiye'nin 'Milli Ant'ı olan Misak-ı Milli hangi mecliste kabul edilmiştir?",
+    "options": ["Son Osmanlı Mebusan Meclisi", "I. TBMM", "Sivas Kongresi", "Amasya Genelgesi"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Kuzey Amerika kıtasına Christopher Columbus'tan önce ulaştığına inanılan Viking reisi kimdir?",
+    "options": ["Leif Erikson", "Ragnar Lodbrok", "Eric the Red", "Olaf"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ZOR"
+  },
+  {
+    "text": "Rusya'yı büyük bir imparatorluk haline getiren ve 'Deli Petro' lakabıyla anılan çar hangisidir?",
+    "options": ["I. Petro (Büyük Petro)", "II. Katerina", "Korkunç İvan", "Nikolay"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Antik Mısır'ın son kraliçesi olarak bilinen ve Romalı Marcus Antonius ile olan aşkıyla ünlü isim kimdir?",
+    "options": ["Kleopatra", "Nefertiti", "Hatşepsut", "İsis"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "ORTA"
+  },
+  {
+    "text": "Atatürk'ün vefat ettiği yıl olan 1938'de Türkiye'nin Cumhurbaşkanı kim olarak devam etmiştir (Seçilmiştir)?",
+    "options": ["İsmet İnönü", "Celal Bayar", "Fevzi Çakmak", "Süreyya İlmen"],
+    "correctAnswerIndex": 0,
+    "category": "TARIH",
+    "difficulty": "KOLAY"
+  }
 ]
+
+
+
+
+
+
