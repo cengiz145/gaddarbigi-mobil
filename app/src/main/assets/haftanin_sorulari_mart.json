@@ -1,0 +1,402 @@
+[
+  {
+    "id": "wk_mart_01",
+    "text": "2026 Mart ayı itibarıyla Türkiye'nin ilk milli sondaj gemisinin adı nedir?",
+    "options": ["Fatih", "Yavuz", "Kanuni", "Abdülhamid Han"],
+    "correctAnswerIndex": 0,
+    "category": "GÜNCEL",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_02",
+    "text": "Hangi gezegen 'Akşam Yıldızı' veya 'Çoban Yıldızı' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "correctAnswerIndex": 1,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_03",
+    "text": "İstiklal Marşı hangi yıl kabul edilmiştir?",
+    "options": ["1919", "1920", "1921", "1923"],
+    "correctAnswerIndex": 2,
+    "category": "TARİH",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_04",
+    "text": "Modern atom teorisinin babası sayılan bilim insanı kimdir?",
+    "options": ["Einstein", "Newton", "John Dalton", "Marie Curie"],
+    "correctAnswerIndex": 2,
+    "category": "BİLİM",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_05",
+    "text": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanustadır?",
+    "options": ["Hint Okyanusu", "Atlas Okyanusu", "Büyük Okyanus (Pasifik)", "Arktik Okyanusu"],
+    "correctAnswerIndex": 2,
+    "category": "COĞRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_06",
+    "text": "Türk Dil Kurumu (TDK) hangi yıl kurulmuştur?",
+    "options": ["1923", "1932", "1938", "1950"],
+    "correctAnswerIndex": 1,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_07",
+    "text": "Pusulada 'E' harfi hangi yönü temsil eder?",
+    "options": ["Doğu", "Batı", "Kuzey", "Güney"],
+    "correctAnswerIndex": 0,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_08",
+    "text": "Dünyanın en kalabalık ülkesi (2025 verilerine göre) hangisidir?",
+    "options": ["Çin", "Hindistan", "ABD", "Endonezya"],
+    "correctAnswerIndex": 1,
+    "category": "GÜNCEL",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_09",
+    "text": "Mustafa Kemal Atatürk'ün nüfusa kayıtlı olduğu il hangisidir?",
+    "options": ["Selanik", "Ankara", "Gaziantep", "İstanbul"],
+    "correctAnswerIndex": 2,
+    "category": "TARİH",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_10",
+    "text": "Hangisi bir işletim sistemi değildir?",
+    "options": ["Linux", "Windows", "Kotlin", "Android"],
+    "correctAnswerIndex": 2,
+    "category": "TEKNOLOJİ",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_11",
+    "text": "Hangi ülkenin üç tane başkenti vardır?",
+    "options": ["Güney Afrika", "İsviçre", "Avustralya", "Brezilya"],
+    "correctAnswerIndex": 0,
+    "category": "COĞRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_12",
+    "text": "Aspirin'in hammaddesi olan ağaç hangisidir?",
+    "options": ["Çam", "Söğüt", "Meşe", "Gürgen"],
+    "correctAnswerIndex": 1,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_13",
+    "text": "Osmanlı Devleti'nin ilk padişahı kimdir?",
+    "options": ["Osman Bey", "Orhan Bey", "1. Murat", "Fatih Sultan Mehmet"],
+    "correctAnswerIndex": 0,
+    "category": "TARİH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_14",
+    "text": "Güneş sistemindeki en büyük gezegen hangisidir?",
+    "options": ["Satürn", "Neptün", "Uranüs", "Jüpiter"],
+    "correctAnswerIndex": 3,
+    "category": "BİLİM",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_15",
+    "text": "Nobel Edebiyat Ödülü'nü alan ilk Türk yazar kimdir?",
+    "options": ["Yaşar Kemal", "Aziz Nesin", "Orhan Pamuk", "Nâzım Hikmet"],
+    "correctAnswerIndex": 2,
+    "category": "EDEBİYAT",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_16",
+    "text": "İnsan vücudundaki en sert madde hangisidir?",
+    "options": ["Kemik", "Kıkırdak", "Diş Minesi", "Tırnak"],
+    "correctAnswerIndex": 2,
+    "category": "BİYOLOJİ",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_17",
+    "text": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": ["Erciyes Dağı", "Ağrı Dağı", "Süphan Dağı", "Kaçkar Dağı"],
+    "correctAnswerIndex": 1,
+    "category": "COĞRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_18",
+    "text": "UNESCO Dünya Mirası listesinde yer alan Göbeklitepe hangi ilimizdedir?",
+    "options": ["Gaziantep", "Mardin", "Şanlıurfa", "Adıyaman"],
+    "correctAnswerIndex": 2,
+    "category": "TARİH",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_19",
+    "text": "Telefonun mucidi kimdir?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+    "correctAnswerIndex": 2,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_20",
+    "text": "Yüz ölçümü bakımından dünyanın en büyük ülkesi hangisidir?",
+    "options": ["Kanada", "Çin", "ABD", "Rusya"],
+    "correctAnswerIndex": 3,
+    "category": "COĞRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_21",
+    "text": "Mona Lisa tablosu hangi ressama aittir?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Salvador Dalí"],
+    "correctAnswerIndex": 2,
+    "category": "SANAT",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_22",
+    "text": "Hangi ülkenin bayrağı dikdörtgen değildir?",
+    "options": ["İsviçre", "Nepal", "Belçika", "Vatikan"],
+    "correctAnswerIndex": 1,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_23",
+    "text": "İlk Türk kadın pilot kimdir?",
+    "options": ["Sabiha Gökçen", "Bedriye Tahir Gökmen", "Selma Rıza", "Halide Edip Adıvar"],
+    "correctAnswerIndex": 1,
+    "category": "TARİH",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_24",
+    "text": "Dünyanın en uzun nehri hangisidir?",
+    "options": ["Amazon", "Nil", "Fırat", "Ganj"],
+    "correctAnswerIndex": 1,
+    "category": "COĞRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_25",
+    "text": "Satrançta 'L' şeklinde hareket eden taş hangisidir?",
+    "options": ["Fil", "Kale", "At", "Piyon"],
+    "correctAnswerIndex": 2,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_26",
+    "text": "Kıbrıs Barış Harekatı hangi yıl gerçekleşmiştir?",
+    "options": ["1963", "1971", "1974", "1980"],
+    "correctAnswerIndex": 2,
+    "category": "TARİH",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_27",
+    "text": "Kutup yıldızının bir diğer adı nedir?",
+    "options": ["Sirius", "Polaris", "Antares", "Vega"],
+    "correctAnswerIndex": 1,
+    "category": "BİLİM",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_28",
+    "text": "Türkiye'nin ilk yerli otomobilinin adı nedir?",
+    "options": ["Anadol", "Devrim", "Togg", "Murat 124"],
+    "correctAnswerIndex": 1,
+    "category": "TARİH",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_29",
+    "text": "Hangi elementin simgesi 'Au'dur?",
+    "options": ["Gümüş", "Altın", "Bakır", "Platin"],
+    "correctAnswerIndex": 1,
+    "category": "BİLİM",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_30",
+    "text": "Eyfel Kulesi hangi şehirdedir?",
+    "options": ["Londra", "Roma", "Paris", "Berlin"],
+    "correctAnswerIndex": 2,
+    "category": "COĞRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_31",
+    "text": "Kuvayi Milliye tabiri ilk kez nerede kullanılmıştır?",
+    "options": ["Amasya Tamimi", "Erzurum Kongresi", "Sivas Kongresi", "Doktor Esat Işık Raporu"],
+    "correctAnswerIndex": 3,
+    "category": "TARİH",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_32",
+    "text": "Kanda oksijen taşıyan protein hangisidir?",
+    "options": ["İnsülin", "Fibrinojen", "Hemoglobin", "Albumin"],
+    "correctAnswerIndex": 2,
+    "category": "BİYOLOJİ",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_33",
+    "text": "Kılıç Ali Paşa Camii hangi mimar tarafından yapılmıştır?",
+    "options": ["Mimar Hayrettin", "Mimar Kemalettin", "Mimar Sinan", "Sedefkar Mehmet Ağa"],
+    "correctAnswerIndex": 2,
+    "category": "SANAT",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_34",
+    "text": "DNA'nın çift sarmal yapısını keşfeden bilim insanları kimlerdir?",
+    "options": ["Watson ve Crick", "Tesla ve Edison", "Curie ve Becquerel", "Darwin ve Lamarck"],
+    "correctAnswerIndex": 0,
+    "category": "BİLİM",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_35",
+    "text": "Hangisi dünyanın yedi harikasından biri değildir?",
+    "options": ["Keops Piramidi", "Çin Seddi", "Efes Artemis Tapınağı", "İskenderiye Feneri"],
+    "correctAnswerIndex": 1,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_36",
+    "text": "Türkiye'nin en çok yağış alan ili hangisidir?",
+    "options": ["Artvin", "Trabzon", "Rize", "Giresun"],
+    "correctAnswerIndex": 2,
+    "category": "COĞRAFYA",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_37",
+    "text": "Suç ve Ceza kitabının yazarı kimdir?",
+    "options": ["Tolstoy", "Dostoyevski", "Gorki", "Çehov"],
+    "correctAnswerIndex": 1,
+    "category": "EDEBİYAT",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_38",
+    "text": "Eczacılığın sembolü olan hayvan hangisidir?",
+    "options": ["Kuş", "At", "Yılan", "Arslan"],
+    "correctAnswerIndex": 2,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_39",
+    "text": "'Don Kişot' kitabının yazarı kimdir?",
+    "options": ["Machiavelli", "Cervantes", "Dante", "Boccaccio"],
+    "correctAnswerIndex": 1,
+    "category": "EDEBİYAT",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_40",
+    "text": "Birleşmiş Milletler'in merkezi hangi şehirdedir?",
+    "options": ["Cenevre", "Viyana", "New York", "Paris"],
+    "correctAnswerIndex": 2,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_41",
+    "text": "Hangi vitamin güneş ışığı yardımıyla sentezlenir?",
+    "options": ["A Vitamini", "B Vitamini", "C Vitamini", "D Vitamini"],
+    "correctAnswerIndex": 3,
+    "category": "BİLİM",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_42",
+    "text": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": ["Tuz Gölü", "Beyşehir Gölü", "Eğirdir Gölü", "Van Gölü"],
+    "correctAnswerIndex": 3,
+    "category": "COĞRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_43",
+    "text": "Osmanlı'da Lale Devri hangi padişah dönemidir?",
+    "options": ["2. Ahmet", "3. Ahmet", "1. Mahmut", "4. Murat"],
+    "correctAnswerIndex": 1,
+    "category": "TARİH",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_44",
+    "text": "Kendi etrafında en hızlı dönen gezegen hangisidir?",
+    "options": ["Güneş", "Merkür", "Mars", "Jüpiter"],
+    "correctAnswerIndex": 3,
+    "category": "BİLİM",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_45",
+    "text": "Dede Korkut Hikayeleri hangi dildedir?",
+    "options": ["Arapça", "Farsça", "Oğuz Türkçesi", "Çağatayca"],
+    "correctAnswerIndex": 2,
+    "category": "EDEBİYAT",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_46",
+    "text": "Normal bir insanda kaç adet kaburga kemiği bulunur?",
+    "options": ["12", "18", "24", "32"],
+    "correctAnswerIndex": 2,
+    "category": "BİYOLOJİ",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_47",
+    "text": "Nobel ödülleri hangi ülkede dağıtılır?",
+    "options": ["Norveç - İsveç", "Danimarka", "Finlandiya", "İzlanda"],
+    "correctAnswerIndex": 0,
+    "category": "GENEL KÜLTÜR",
+    "difficulty": "ORTA"
+  },
+  {
+    "id": "wk_mart_48",
+    "text": "Hangi ülke en çok adaya sahiptir?",
+    "options": ["İndonezya", "Filipinler", "İsveç", "Yunanistan"],
+    "correctAnswerIndex": 2,
+    "category": "COĞRAFYA",
+    "difficulty": "ZOR"
+  },
+  {
+    "id": "wk_mart_49",
+    "text": "Dünyanın en küçük ülkesi hangisidir?",
+    "options": ["Monako", "Andorra", "Vatikan", "San Marino"],
+    "correctAnswerIndex": 2,
+    "category": "COĞRAFYA",
+    "difficulty": "KOLAY"
+  },
+  {
+    "id": "wk_mart_50",
+    "text": "İnsan kalbi dakikada ortalama kaç kez atar?",
+    "options": ["40-60", "70-80", "100-120", "140-150"],
+    "correctAnswerIndex": 1,
+    "category": "BİYOLOJİ",
+    "difficulty": "KOLAY"
+  }
+]
